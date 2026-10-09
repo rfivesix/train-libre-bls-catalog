@@ -1310,6 +1310,132 @@
       "model": "GPT-6 Luna",
       "reasoning_effort": "medium",
       "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 101,
+      "code_start": "W415082",
+      "code_end": "W870400",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 36,
+        "prepared_dishes": 14
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "W415082",
+        "W423000",
+        "W424000",
+        "W424032",
+        "W424082",
+        "W440000",
+        "W441032",
+        "W441082",
+        "W442000",
+        "W443000",
+        "W510000",
+        "W510062",
+        "W510082",
+        "W511000",
+        "W512000",
+        "W514032",
+        "W515072",
+        "W530042",
+        "W530052",
+        "W531000",
+        "W531082",
+        "W540000",
+        "W561000",
+        "W610000",
+        "W620000",
+        "W641100",
+        "W811000",
+        "W812000",
+        "W841000",
+        "W844200",
+        "W845000",
+        "W850200",
+        "W850300",
+        "W850400",
+        "W850500",
+        "W851000",
+        "W854000",
+        "W855000",
+        "W858000",
+        "W862000",
+        "W863000",
+        "W864000",
+        "W865000",
+        "W866000",
+        "W870200",
+        "W870400"
+      ]
+    },
+    {
+      "batch": 102,
+      "code_start": "W870500",
+      "code_end": "X061610",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 25,
+        "prepared_dishes": 23,
+        "bread_baked_goods": 2
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "W981300",
+        "W985000",
+        "W880100"
+      ]
+    },
+    {
+      "batch": 103,
+      "code_start": "X070060",
+      "code_end": "X191202",
+      "count": 50,
+      "category_counts": {
+        "prepared_dishes": 5,
+        "bread_baked_goods": 5,
+        "grains_cereals": 24,
+        "vegetables": 15,
+        "legumes_soy": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 104,
+      "code_start": "X191302",
+      "code_end": "X201160",
+      "count": 50,
+      "category_counts": {
+        "prepared_dishes": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "X1A1080"
+      ]
+    },
+    {
+      "batch": 105,
+      "code_start": "X201200",
+      "code_end": "X270440",
+      "count": 50,
+      "category_counts": {
+        "prepared_dishes": 49,
+        "fruit": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
     }
   ]
 }
