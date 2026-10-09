@@ -47,8 +47,8 @@
       "legacy_name_en": "Banana",
       "legacy_category_id": "obst",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "F503100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -58,8 +58,8 @@
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no abalone/sea-ear food entry, cooked or otherwise."
     },
     {
       "legacy_product_id": "base_food_abalone_raw",
@@ -68,8 +68,8 @@
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no abalone/sea-ear food entry, raw or otherwise."
     },
     {
       "legacy_product_id": "base_food_aioli",
@@ -85,8 +85,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "X344260",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -102,8 +102,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T213100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -112,8 +112,8 @@
       "legacy_name_en": "Almonds",
       "legacy_category_id": "nuesse_samen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "H210100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -123,8 +123,8 @@
       "legacy_category_id": "kartoffelgerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS entry for the prepared Indian cauliflower-and-potato dish."
     },
     {
       "legacy_product_id": "base_food_altbier",
@@ -139,8 +139,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "P153000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -150,8 +150,8 @@
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no unsweetened Americano/black coffee entry; sweetener status and preparation cannot be represented by the candidates."
     },
     {
       "legacy_product_id": "base_food_anchovy_fillets_in_oil",
@@ -159,8 +159,8 @@
       "legacy_name_en": "Anchovy Fillets in Oil",
       "legacy_category_id": "antipasti",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T104702",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -169,8 +169,8 @@
       "legacy_name_en": "Apple",
       "legacy_category_id": "obst",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "F110100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -180,8 +180,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no apple-banana smoothie; apple-banana-pear sauces are a different product form."
     },
     {
       "legacy_product_id": "base_food_apple_butter",
@@ -190,8 +190,8 @@
       "legacy_category_id": "suesser_brotaufstrich",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS entries are Apfelkraut; the German source name denotes a distinct concentrated apple spread."
     },
     {
       "legacy_product_id": "base_food_apple_cake",
@@ -201,7 +201,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS apple cake entries specify dough styles; the legacy name does not identify which style applies."
     },
     {
       "legacy_product_id": "base_food_apple_cinnamon_oat_smoothie",
@@ -210,8 +210,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no apple-cinnamon-oat smoothie; cinnamon apple sauce is a different product form."
     },
     {
       "legacy_product_id": "base_food_apple_crumble",
@@ -220,8 +220,8 @@
       "legacy_category_id": "dessert",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no apple crumble dessert; apple crumble cake is a distinct baked product."
     },
     {
       "legacy_product_id": "base_food_apple_jelly",
@@ -237,8 +237,8 @@
         }
       ],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no apple jelly preserve; Apfelgrütze and compote are different products."
     },
     {
       "legacy_product_id": "base_food_apple_juice",
@@ -254,8 +254,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "F110600",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -264,8 +264,8 @@
       "legacy_name_en": "Apple Spritzer",
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "N256000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -274,8 +274,8 @@
       "legacy_name_en": "Apple Strudel",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "D540200",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -284,8 +284,8 @@
       "legacy_name_en": "Apple Turnover",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "D7A7800",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -294,8 +294,8 @@
       "legacy_name_en": "Apricot",
       "legacy_category_id": "obst",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "F201100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -305,8 +305,8 @@
       "legacy_category_id": "suesser_brotaufstrich",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has only generic jam and citrus marmalade entries, with no apricot preserve identity."
     },
     {
       "legacy_product_id": "base_food_arctic_char_raw",
@@ -315,8 +315,8 @@
       "legacy_category_id": "fisch",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has raw brook char and raw trout entries, but neither identifies Arctic char; species substitution is unsafe."
     },
     {
       "legacy_product_id": "base_food_artichoke",
@@ -324,8 +324,8 @@
       "legacy_name_en": "Artichoke",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G410100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -334,8 +334,8 @@
       "legacy_name_en": "Arugula",
       "legacy_category_id": "blattsalate",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G130100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -344,8 +344,8 @@
       "legacy_name_en": "Asparagus",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G450100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -354,8 +354,8 @@
       "legacy_name_en": "Atlantic cod, raw",
       "legacy_category_id": "fisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T204100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -364,8 +364,8 @@
       "legacy_name_en": "Atlantic halibut, raw",
       "legacy_category_id": "fisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T306100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -374,8 +374,8 @@
       "legacy_name_en": "Atlantic herring, raw",
       "legacy_category_id": "fisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T102100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -384,8 +384,8 @@
       "legacy_name_en": "Atlantic mackerel, raw",
       "legacy_category_id": "fisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T107100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -394,8 +394,8 @@
       "legacy_name_en": "Atlantic salmon, raw",
       "legacy_category_id": "fisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T410100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -404,8 +404,8 @@
       "legacy_name_en": "Avocado",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "F502100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -415,8 +415,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS food combines avocado and banana as a smoothie."
     },
     {
       "legacy_product_id": "base_food_baby_kale",
@@ -425,8 +425,8 @@
       "legacy_category_id": "blattsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has ordinary kale but no baby kale form."
     },
     {
       "legacy_product_id": "base_food_baby_spinach",
@@ -434,8 +434,8 @@
       "legacy_name_en": "Baby spinach",
       "legacy_category_id": "blattsalate",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G211100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -444,8 +444,8 @@
       "legacy_name_en": "Bacon (raw)",
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "W412000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -454,8 +454,8 @@
       "legacy_name_en": "Baguette",
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B781200",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -464,8 +464,8 @@
       "legacy_name_en": "Baked Beans (canned)",
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "H900900",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -476,7 +476,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS distinguishes cheesecake dough types; legacy name does not identify the type."
     },
     {
       "legacy_product_id": "base_food_baked_potato",
@@ -485,8 +485,8 @@
       "legacy_category_id": "kartoffelgerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS baked-potato dishes add onion or herb quark; no plain baked potato."
     },
     {
       "legacy_product_id": "base_food_baklava",
@@ -501,8 +501,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "D702000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -512,8 +512,8 @@
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No balsamic dressing; listed BLS dressings are different recipes."
     },
     {
       "legacy_product_id": "base_food_banana",
@@ -521,8 +521,8 @@
       "legacy_name_en": "Banana",
       "legacy_category_id": "obst",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "F503100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -532,8 +532,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No banana ice cream entry in the BLS catalog."
     },
     {
       "legacy_product_id": "base_food_banana_milk_smoothie",
@@ -541,8 +541,8 @@
       "legacy_name_en": "Banana Milk Smoothie",
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "X936410",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -552,8 +552,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS food combines banana and oats as a smoothie."
     },
     {
       "legacy_product_id": "base_food_banana_pudding",
@@ -562,8 +562,8 @@
       "legacy_category_id": "dessert",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has banana quark and plain quark pudding, but no banana pudding."
     },
     {
       "legacy_product_id": "base_food_barbecue_sauce",
@@ -578,8 +578,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "X384143",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -595,8 +595,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C143000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -606,8 +606,8 @@
       "legacy_category_id": "blattsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no Batavia lettuce entry; looseleaf, butterhead, and iceberg lettuce are different types."
     },
     {
       "legacy_product_id": "base_food_bavarian_cream",
@@ -623,8 +623,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "Y870163",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -633,8 +633,8 @@
       "legacy_name_en": "Bean Chili Ready Meal",
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "X4A8000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -644,8 +644,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS bean salad candidate includes sheep cheese and does not match a plain vinegar-and-oil bean salad."
     },
     {
       "legacy_product_id": "base_food_beans_black_cooked",
@@ -654,8 +654,8 @@
       "legacy_category_id": "nudeln_getreide",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No black bean food is present in the BLS catalog; available bean varieties are not equivalent."
     },
     {
       "legacy_product_id": "base_food_beech_mushroom_raw",
@@ -664,8 +664,8 @@
       "legacy_category_id": "pilze",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No beech mushroom entry exists; oyster or shiitake mushrooms are different species."
     },
     {
       "legacy_product_id": "base_food_beef_brisket_raw",
@@ -673,8 +673,8 @@
       "legacy_name_en": "Beef brisket, raw",
       "legacy_category_id": "fleisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "U255100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -683,8 +683,8 @@
       "legacy_name_en": "Beef Burrito",
       "legacy_category_id": "fastfood",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "X9A4000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -694,8 +694,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No ready meal combining beef goulash and noodles is listed; generic beef goulash omits the noodles."
     },
     {
       "legacy_product_id": "base_food_beef_ground_10_percent_fat_raw",
@@ -704,8 +704,8 @@
       "legacy_category_id": "fleisch",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has raw beef mince but no 10% fat specification, so the defining fat level cannot be matched."
     },
     {
       "legacy_product_id": "base_food_beef_ground_20_percent_fat_raw",
@@ -714,8 +714,8 @@
       "legacy_category_id": "fleisch",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has raw beef mince but no 20% fat specification, so the defining fat level cannot be matched."
     },
     {
       "legacy_product_id": "base_food_beef_kidney_raw",
@@ -730,8 +730,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V571100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -741,8 +741,8 @@
       "legacy_category_id": "fleisch",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "The closest lean raw beef entry is specifically minced beef (Tatar), not generic lean beef."
     },
     {
       "legacy_product_id": "base_food_beef_liver_raw",
@@ -757,8 +757,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V531100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -768,8 +768,8 @@
       "legacy_category_id": "fleisch",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No raw ribeye entry is listed; other beef cuts such as rump or tenderloin are materially different."
     },
     {
       "legacy_product_id": "base_food_beef_salami",
@@ -785,8 +785,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "W145000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -795,8 +795,8 @@
       "legacy_name_en": "Beef sirloin, raw",
       "legacy_category_id": "fleisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "U284100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -813,8 +813,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "Y135432",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -824,8 +824,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "Listed beef stews also include other defining ingredients (such as savoy cabbage and carrots), so none matches the potato beef stew."
     },
     {
       "legacy_product_id": "base_food_beef_taco",
@@ -834,8 +834,8 @@
       "legacy_category_id": "fastfood",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No beef taco entry is listed; burrito and plain beef dishes are different products."
     },
     {
       "legacy_product_id": "base_food_beef_tenderloin_raw",
@@ -843,8 +843,8 @@
       "legacy_name_en": "Beef tenderloin, raw",
       "legacy_category_id": "fleisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "U211100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -853,8 +853,8 @@
       "legacy_name_en": "Beer",
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "P163000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -870,8 +870,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "W271000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -880,8 +880,8 @@
       "legacy_name_en": "Beer no alcohol",
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "P163100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -891,8 +891,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "The apple salad candidate includes celeriac and yogurt marinade; the vinegar salad lacks apple, so neither matches."
     },
     {
       "legacy_product_id": "base_food_beetroot_berry_smoothie",
@@ -901,8 +901,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no beetroot and berry smoothie; beetroot juice or raw beetroot is not the prepared drink."
     },
     {
       "legacy_product_id": "base_food_beetroot_juice",
@@ -917,8 +917,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G613600",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -927,8 +927,8 @@
       "legacy_name_en": "Belgian endive",
       "legacy_category_id": "blattsalate",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G101100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -939,7 +939,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS distinguishes raw sweet pepper by color; legacy entry does not specify color."
     },
     {
       "legacy_product_id": "base_food_berries_mixed",
@@ -948,8 +948,8 @@
       "legacy_category_id": "obst",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "Available berry mixture specifically includes sour cherries; no equivalent generic mixed-berry record found."
     },
     {
       "legacy_product_id": "base_food_berry_yogurt_smoothie",
@@ -958,8 +958,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS berry-yogurt smoothie record found; yogurt with fruit is not the same prepared drink."
     },
     {
       "legacy_product_id": "base_food_bircher_muesli_dry_mix",
@@ -969,7 +969,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "Bircher-style BLS mix includes dried fruit and nuts; dry-mix recipe details are not specified."
     },
     {
       "legacy_product_id": "base_food_bitter_lemon",
@@ -978,8 +978,8 @@
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS Bitter Lemon soft drink record found; bitter liqueur is a different product."
     },
     {
       "legacy_product_id": "base_food_black_coffee_unsweetened",
@@ -987,8 +987,8 @@
       "legacy_name_en": "Black Coffee, Unsweetened",
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "N410100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -997,8 +997,8 @@
       "legacy_name_en": "Black licorice",
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S410000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1007,8 +1007,8 @@
       "legacy_name_en": "Black Tea, Unsweetened",
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "N630000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1018,8 +1018,8 @@
       "legacy_category_id": "suesser_brotaufstrich",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has generic jam but no blackberry-specific preserve; fruit identity cannot be preserved."
     },
     {
       "legacy_product_id": "base_food_blackcurrant_jam",
@@ -1028,8 +1028,8 @@
       "legacy_category_id": "suesser_brotaufstrich",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has blackcurrant fruit products but no blackcurrant jam; fruit identity and preparation differ."
     },
     {
       "legacy_product_id": "base_food_blancmange",
@@ -1038,8 +1038,8 @@
       "legacy_category_id": "dessert",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS blancmange record found; generic pudding is not a specific equivalent."
     },
     {
       "legacy_product_id": "base_food_blondie",
@@ -1048,8 +1048,8 @@
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS blondie record found; brownie or generic cake would be a different product."
     },
     {
       "legacy_product_id": "base_food_blood_sausage",
@@ -1057,8 +1057,8 @@
       "legacy_name_en": "Blood Sausage",
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "W343400",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1069,7 +1069,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS blue-cheese records specify fat-in-dry-matter levels or named varieties; legacy entry gives neither."
     },
     {
       "legacy_product_id": "base_food_blue_crab_cooked",
@@ -1078,8 +1078,8 @@
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS cooked blue crab record found; other crab species are not interchangeable."
     },
     {
       "legacy_product_id": "base_food_blueberry_banana_smoothie",
@@ -1088,8 +1088,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS blueberry-banana smoothie record found; separate fruit or yogurt entries are not the prepared drink."
     },
     {
       "legacy_product_id": "base_food_blueberry_jam",
@@ -1098,8 +1098,8 @@
       "legacy_category_id": "suesser_brotaufstrich",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has blueberry fruit products but no blueberry jam; fruit identity and preparation differ."
     },
     {
       "legacy_product_id": "base_food_blueberry_muffin",
@@ -1108,8 +1108,8 @@
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS blueberry muffin record describes cake batter, not a prepared muffin."
     },
     {
       "legacy_product_id": "base_food_boar_raw",
@@ -1117,8 +1117,8 @@
       "legacy_name_en": "Wild boar, raw",
       "legacy_category_id": "fleisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V250100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1134,8 +1134,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "P172000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1146,7 +1146,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS distinguishes boiled eggs by bird species; legacy entry does not specify the species."
     },
     {
       "legacy_product_id": "base_food_boiled_potatoes",
@@ -1156,7 +1156,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "Available BLS records specify potatoes boiled with peel or with salt; legacy entry specifies neither."
     },
     {
       "legacy_product_id": "base_food_bologna_sausage",
@@ -1164,8 +1164,8 @@
       "legacy_name_en": "Bologna Sausage",
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "W234000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1174,8 +1174,8 @@
       "legacy_name_en": "Bolognese sauce",
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "Y038213",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1185,8 +1185,8 @@
       "legacy_category_id": "kartoffelgerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS contains no Bombay-style potato dish."
     },
     {
       "legacy_product_id": "base_food_bran_flakes",
@@ -1195,8 +1195,8 @@
       "legacy_category_id": "muesli_flakes",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists bran and bran flakes as ingredients, but no bran cereal flakes product."
     },
     {
       "legacy_product_id": "base_food_bread_pudding",
@@ -1205,8 +1205,8 @@
       "legacy_category_id": "dessert",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no bread pudding dessert entry."
     },
     {
       "legacy_product_id": "base_food_bread_wheat",
@@ -1214,8 +1214,8 @@
       "legacy_name_en": "Wheat Bread",
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B311000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1231,8 +1231,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B101000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1242,8 +1242,8 @@
       "legacy_category_id": "fastfood",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no breakfast sandwich product entry."
     },
     {
       "legacy_product_id": "base_food_brie",
@@ -1253,7 +1253,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS Brie entries require a fat-in-dry-matter level; the legacy name does not specify one."
     },
     {
       "legacy_product_id": "base_food_brined_black_olives",
@@ -1261,8 +1261,8 @@
       "legacy_name_en": "Brined Black Olives",
       "legacy_category_id": "antipasti",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "H520800",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1271,8 +1271,8 @@
       "legacy_name_en": "Brined Green Olives",
       "legacy_category_id": "antipasti",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "H510802",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1281,8 +1281,8 @@
       "legacy_name_en": "Broccoli",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G312100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1291,8 +1291,8 @@
       "legacy_name_en": "Brownie",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "D4A2000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1301,8 +1301,8 @@
       "legacy_name_en": "Brussels Sprouts",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G332100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1312,8 +1312,8 @@
       "legacy_category_id": "muesli_flakes",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has buckwheat grain, groats, semolina, meal, and flour, but no buckwheat flakes."
     },
     {
       "legacy_product_id": "base_food_bulgur_cooked",
@@ -1321,8 +1321,8 @@
       "legacy_name_en": "Bulgur (cooked)",
       "legacy_category_id": "nudeln_getreide",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C119132",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1332,8 +1332,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has cooked bulgur but no bulgur salad product."
     },
     {
       "legacy_product_id": "base_food_butter",
@@ -1341,8 +1341,8 @@
       "legacy_name_en": "Butter",
       "legacy_category_id": "fette_oele",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "Q611000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1351,8 +1351,8 @@
       "legacy_name_en": "Butter Cookie",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "D630400",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1361,8 +1361,8 @@
       "legacy_name_en": "Butter Croissant",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "D771600",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1371,8 +1371,8 @@
       "legacy_name_en": "Butterhead lettuce",
       "legacy_category_id": "blattsalate",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G105100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1382,8 +1382,8 @@
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has red wine by sweetness level but no Cabernet Sauvignon grape variety."
     },
     {
       "legacy_product_id": "base_food_caesar_dressing",
@@ -1399,8 +1399,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "X354040",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1411,7 +1411,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS Camembert entries require a fat-in-dry-matter level; the legacy name does not specify one."
     },
     {
       "legacy_product_id": "base_food_candied_almonds",
@@ -1419,8 +1419,8 @@
       "legacy_name_en": "Candied almonds",
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S465000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1430,8 +1430,8 @@
       "legacy_category_id": "pilze",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has canned drained mixed mushrooms, but the legacy name does not specify a mixed-mushroom product."
     },
     {
       "legacy_product_id": "base_food_canned_tuna_in_water",
@@ -1439,8 +1439,8 @@
       "legacy_name_en": "Canned Tuna in Water",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T121902",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1450,8 +1450,8 @@
       "legacy_category_id": "antipasti",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists pickled caper buds, not caperberries; these are distinct products."
     },
     {
       "legacy_product_id": "base_food_caramel_candies",
@@ -1460,8 +1460,8 @@
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "Available caramel candies are specified as soft, hard, or sugar-free; the legacy item gives no form to choose safely."
     },
     {
       "legacy_product_id": "base_food_caramel_ice_cream",
@@ -1477,8 +1477,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S242200",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1494,8 +1494,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "Y862612",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1505,8 +1505,8 @@
       "legacy_category_id": "nuesse_samen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No standalone caraway seed entry exists; BLS names caraway only as an ingredient in other foods."
     },
     {
       "legacy_product_id": "base_food_carp_raw",
@@ -1522,8 +1522,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T501100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1532,8 +1532,8 @@
       "legacy_name_en": "Carrot",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G620100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1543,8 +1543,8 @@
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No carrot cake entry exists in BLS; other cake types are not equivalent."
     },
     {
       "legacy_product_id": "base_food_carrot_juice",
@@ -1559,8 +1559,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G620600",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1570,8 +1570,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has only broad fruit or green smoothies, with no carrot-orange-ginger combination."
     },
     {
       "legacy_product_id": "base_food_cashew",
@@ -1579,8 +1579,8 @@
       "legacy_name_en": "Cashews",
       "legacy_category_id": "nuesse_samen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "H170100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1590,8 +1590,8 @@
       "legacy_category_id": "antipasti",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has only generic green pickled olives; no Castelvetrano cultivar entry exists."
     },
     {
       "legacy_product_id": "base_food_cauliflower",
@@ -1599,8 +1599,8 @@
       "legacy_name_en": "Cauliflower",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G311100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1609,8 +1609,8 @@
       "legacy_name_en": "Celery",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G660100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1620,8 +1620,8 @@
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No Cervelat sausage entry exists in BLS; generic sausage would lose the named sausage identity."
     },
     {
       "legacy_product_id": "base_food_cervelat_sausage_slices",
@@ -1630,8 +1630,8 @@
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No Cervelat cold-cut entry exists in BLS; generic cold cuts would lose the named sausage identity."
     },
     {
       "legacy_product_id": "base_food_chamomile_tea_unsweetened",
@@ -1640,8 +1640,8 @@
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has generic herbal infusion but no chamomile-specific tea entry."
     },
     {
       "legacy_product_id": "base_food_channel_catfish_raw",
@@ -1650,8 +1650,8 @@
       "legacy_category_id": "fisch",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS Wels is European catfish, not North American channel catfish; no matching species entry exists."
     },
     {
       "legacy_product_id": "base_food_chanterelle_mushroom_raw",
@@ -1666,8 +1666,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "K713100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1677,8 +1677,8 @@
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no Chardonnay varietal wine entry; generic wine would lose the specified grape variety."
     },
     {
       "legacy_product_id": "base_food_cheddar",
@@ -1687,8 +1687,8 @@
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has only Chester (Cheddar) variants with specified minimum fat levels (45% or 50% fat in dry matter), with no generic Cheddar entry."
     },
     {
       "legacy_product_id": "base_food_cheddar_cheese",
@@ -1697,8 +1697,8 @@
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has only Chester (Cheddar) variants with specified minimum fat levels (45% or 50% fat in dry matter), with no generic Cheddar entry."
     },
     {
       "legacy_product_id": "base_food_cheese_quesadilla",
@@ -1707,8 +1707,8 @@
       "legacy_category_id": "fastfood",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No cheese quesadilla entry exists in BLS; no equivalent assembled product is available."
     },
     {
       "legacy_product_id": "base_food_cheese_straw",
@@ -1716,8 +1716,8 @@
       "legacy_name_en": "Cheese Straw",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "Y780743",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1734,8 +1734,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "Y911160",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1746,7 +1746,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS has cheesecake entries only for specific dough styles; legacy name does not specify which."
     },
     {
       "legacy_product_id": "base_food_cherry",
@@ -1756,7 +1756,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS distinguishes raw sweet and sour cherries; legacy name does not identify the type."
     },
     {
       "legacy_product_id": "base_food_cherry_banana_smoothie",
@@ -1765,8 +1765,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS cherry-banana smoothie food is available; fruit or generic smoothie entries are not equivalent."
     },
     {
       "legacy_product_id": "base_food_cherry_jam",
@@ -1775,8 +1775,8 @@
       "legacy_category_id": "suesser_brotaufstrich",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no cherry jam entry; generic jam or cherry compote would misstate the product."
     },
     {
       "legacy_product_id": "base_food_cherry_juice",
@@ -1786,7 +1786,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS distinguishes sweet-cherry and sour-cherry juice; legacy name does not identify the type."
     },
     {
       "legacy_product_id": "base_food_chestnut_cream",
@@ -1794,8 +1794,8 @@
       "legacy_name_en": "Chestnut Cream",
       "legacy_category_id": "suesser_brotaufstrich",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S143000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1811,8 +1811,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "H480100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1822,8 +1822,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS chicken biryani ready meal is available; individual ingredients are not equivalent."
     },
     {
       "legacy_product_id": "base_food_chicken_breast_cold_cuts",
@@ -1832,8 +1832,8 @@
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No chicken-breast cold-cut entry is available; turkey cold cuts and poultry sausages differ in species or product form."
     },
     {
       "legacy_product_id": "base_food_chicken_breast_cooked",
@@ -1843,7 +1843,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "Legacy combines boiled and fried chicken breast; BLS records these as distinct preparations."
     },
     {
       "legacy_product_id": "base_food_chicken_breast_raw",
@@ -1851,8 +1851,8 @@
       "legacy_name_en": "Chicken breast (raw)",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V416100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1861,8 +1861,8 @@
       "legacy_name_en": "Chicken breast, skinless, raw",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V4A6100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1871,8 +1871,8 @@
       "legacy_name_en": "Chicken breast, skinless, roasted",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V4A6182",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1889,8 +1889,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "Y9A1000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1900,8 +1900,8 @@
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS raw chicken drumstick entry includes skin; no skinless raw counterpart is available."
     },
     {
       "legacy_product_id": "base_food_chicken_drumstick_skinless_roasted",
@@ -1910,8 +1910,8 @@
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS cooked chicken drumstick entries include skin; no skinless counterpart is available."
     },
     {
       "legacy_product_id": "base_food_chicken_drumstick_with_skin_roasted",
@@ -1919,8 +1919,8 @@
       "legacy_name_en": "Chicken drumstick with skin, roasted",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V4B5162",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1936,8 +1936,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "E111132",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1954,8 +1954,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "E111100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1965,8 +1965,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS fricassee entries specify different accompaniments or sauces; no chicken fricassee with rice entry is available."
     },
     {
       "legacy_product_id": "base_food_chicken_gizzard_raw",
@@ -1974,8 +1974,8 @@
       "legacy_name_en": "Chicken gizzard, raw",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V654100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -1991,8 +1991,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V614100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2003,7 +2003,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS chicken liver entry is fried; legacy says cooked without specifying whether boiled or fried."
     },
     {
       "legacy_product_id": "base_food_chicken_liver_raw",
@@ -2018,8 +2018,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V634100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2029,8 +2029,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no chicken noodle casserole ready-meal entry; chicken soups or pasta dishes with chicken are not the same product."
     },
     {
       "legacy_product_id": "base_food_chicken_nuggets",
@@ -2039,8 +2039,8 @@
       "legacy_category_id": "fastfood",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no chicken nugget entry; breaded chicken breast and chicken patties are different products."
     },
     {
       "legacy_product_id": "base_food_chicken_salad_with_mayonnaise",
@@ -2048,8 +2048,8 @@
       "legacy_name_en": "Chicken Salad with Mayonnaise",
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "X1A4010",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2059,8 +2059,8 @@
       "legacy_category_id": "fastfood",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no chicken shawarma wrap entry; other chicken wraps lack the shawarma preparation."
     },
     {
       "legacy_product_id": "base_food_chicken_taco",
@@ -2069,8 +2069,8 @@
       "legacy_category_id": "fastfood",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no chicken taco entry."
     },
     {
       "legacy_product_id": "base_food_chicken_thigh_skinless_raw",
@@ -2079,8 +2079,8 @@
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS chicken thigh entries are skin-on; skinless chicken breast is a different cut."
     },
     {
       "legacy_product_id": "base_food_chicken_thigh_skinless_roasted",
@@ -2089,8 +2089,8 @@
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS cooked chicken thigh entries are skin-on; skinless chicken breast is a different cut."
     },
     {
       "legacy_product_id": "base_food_chicken_thigh_with_skin_roasted",
@@ -2098,8 +2098,8 @@
       "legacy_name_en": "Chicken thigh with skin, roasted",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V4A5162",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2109,8 +2109,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no chicken tikka masala with rice ready-meal entry; a component or different curry dish would be misleading."
     },
     {
       "legacy_product_id": "base_food_chicken_wing_with_skin_roasted",
@@ -2119,8 +2119,8 @@
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has skin-on grilled chicken wings, but no roasted chicken wing entry; the cooking method differs."
     },
     {
       "legacy_product_id": "base_food_chickpea_salad_with_vegetables",
@@ -2129,8 +2129,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS chickpea salad is cooked with warm vinegar marinade and does not specify vegetables; no equivalent vegetable chickpea salad entry was found."
     },
     {
       "legacy_product_id": "base_food_chickpeas_cooked",
@@ -2138,8 +2138,8 @@
       "legacy_name_en": "Chickpeas (cooked)",
       "legacy_category_id": "nudeln_getreide",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G770432",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2149,8 +2149,8 @@
       "legacy_category_id": "blattsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has raw witloof chicory and sugar-loaf chicory heads, but no distinct chicory leaves/greens entry."
     },
     {
       "legacy_product_id": "base_food_chili_con_carne_with_rice_ready_meal",
@@ -2159,8 +2159,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS chili con carne entries do not include rice; no matching chili-with-rice ready meal entry was found."
     },
     {
       "legacy_product_id": "base_food_chinese_cabbage",
@@ -2168,8 +2168,8 @@
       "legacy_name_en": "Chinese Cabbage",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G321100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2178,8 +2178,8 @@
       "legacy_name_en": "Chocolate Chip Cookie",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "D7A2000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2189,8 +2189,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS chocolate ice cream entries do not specify chocolate chips; plain chocolate ice cream is a different product."
     },
     {
       "legacy_product_id": "base_food_chocolate_covered_marshmallows",
@@ -2199,8 +2199,8 @@
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no chocolate-covered marshmallow (Schokokuss) entry."
     },
     {
       "legacy_product_id": "base_food_chocolate_covered_raisins",
@@ -2209,8 +2209,8 @@
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no chocolate-coated raisin entry."
     },
     {
       "legacy_product_id": "base_food_chocolate_croissant",
@@ -2219,8 +2219,8 @@
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no chocolate croissant entry; chocolate pastry components are not a finished croissant."
     },
     {
       "legacy_product_id": "base_food_chocolate_frozen_yogurt",
@@ -2229,8 +2229,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no chocolate frozen-yogurt entry; chocolate ice cream is a different dairy product."
     },
     {
       "legacy_product_id": "base_food_chocolate_gelato",
@@ -2239,8 +2239,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no chocolate gelato entry; cream ice cream is a different product form."
     },
     {
       "legacy_product_id": "base_food_chocolate_hazelnut_spread",
@@ -2255,8 +2255,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S145000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2273,8 +2273,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S242000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2284,8 +2284,8 @@
       "legacy_category_id": "dessert",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no chocolate lava cake or comparable filled, molten-center cake; generic chocolate cake would lose the defining preparation."
     },
     {
       "legacy_product_id": "base_food_chocolate_mousse",
@@ -2293,8 +2293,8 @@
       "legacy_name_en": "Chocolate Mousse",
       "legacy_category_id": "dessert",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "M861000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2303,8 +2303,8 @@
       "legacy_name_en": "Chocolate Muesli",
       "legacy_category_id": "muesli_flakes",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C513300",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2313,8 +2313,8 @@
       "legacy_name_en": "Chocolate Muffin",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "D400400",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2323,8 +2323,8 @@
       "legacy_name_en": "Chocolate pralines",
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S610000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2340,8 +2340,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "Y8A4090",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2351,8 +2351,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists chocolate ice cream but no soft-serve form; mapping to conventional ice cream would lose the defining texture and serving form."
     },
     {
       "legacy_product_id": "base_food_chocolate_truffles",
@@ -2360,8 +2360,8 @@
       "legacy_name_en": "Chocolate truffles",
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S625000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2371,8 +2371,8 @@
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No ciabatta entry is present; generic white bread would not preserve this distinct Italian bread type."
     },
     {
       "legacy_product_id": "base_food_cinnamon_roll",
@@ -2380,8 +2380,8 @@
       "legacy_name_en": "Cinnamon Roll",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "D7A5300",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2390,8 +2390,8 @@
       "legacy_name_en": "Cooked Clams",
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T797132",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2400,8 +2400,8 @@
       "legacy_name_en": "Raw Clams",
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T797100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2411,8 +2411,8 @@
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no cockle/Herzmuschel entry; other shellfish such as Venus clams and mussels are different species."
     },
     {
       "legacy_product_id": "base_food_cockles_raw",
@@ -2421,8 +2421,8 @@
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no raw cockle/Herzmuschel entry; other raw shellfish are different species."
     },
     {
       "legacy_product_id": "base_food_cocktail_sauce",
@@ -2431,8 +2431,8 @@
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has cocktail dressing but no cocktail sauce; a dressing is a different product form."
     },
     {
       "legacy_product_id": "base_food_cocoa_banana_smoothie",
@@ -2441,8 +2441,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists only broad fruit/color smoothie types, with no cocoa-banana combination; those names do not establish matching ingredients."
     },
     {
       "legacy_product_id": "base_food_coconut_ice_cream",
@@ -2451,8 +2451,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no coconut-flavored ice cream; generic fruit or cream ice cream would not preserve the flavor."
     },
     {
       "legacy_product_id": "base_food_coconut_mango_smoothie",
@@ -2461,8 +2461,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists only broad fruit/color smoothie types, with no coconut-mango combination; those names do not establish matching ingredients."
     },
     {
       "legacy_product_id": "base_food_coconut_oil",
@@ -2478,8 +2478,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "Q550000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2488,8 +2488,8 @@
       "legacy_name_en": "Coconut Water",
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "H151000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2505,8 +2505,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T204100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2515,8 +2515,8 @@
       "legacy_name_en": "Coffee (black, unsweetened)",
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "N410100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2533,8 +2533,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S220200",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2545,7 +2545,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS distinguishes caffeinated and caffeine-free cola, while the legacy name specifies neither."
     },
     {
       "legacy_product_id": "base_food_cold_brew_coffee_unsweetened",
@@ -2554,8 +2554,8 @@
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has plain coffee infusion but no cold-brew entry; it does not preserve the distinct brewing method."
     },
     {
       "legacy_product_id": "base_food_conch_cooked",
@@ -2564,8 +2564,8 @@
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no conch; the snail dishes are land snails, not Fechterschnecke."
     },
     {
       "legacy_product_id": "base_food_cooked_beef_steak",
@@ -2575,7 +2575,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS steak entries specify grilled or fried preparation; legacy only says cooked, so the method cannot be chosen safely."
     },
     {
       "legacy_product_id": "base_food_cooked_black_beans",
@@ -2584,8 +2584,8 @@
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No cooked black bean entry; other mature beans are a different legume variety."
     },
     {
       "legacy_product_id": "base_food_cooked_brown_rice",
@@ -2593,8 +2593,8 @@
       "legacy_name_en": "Cooked Brown Rice",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C351032",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2603,8 +2603,8 @@
       "legacy_name_en": "Cooked Bulgur",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C119132",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2613,8 +2613,8 @@
       "legacy_name_en": "Cooked Chicken Breast",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V416132",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2623,8 +2623,8 @@
       "legacy_name_en": "Cooked Chickpeas",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G770432",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2633,8 +2633,8 @@
       "legacy_name_en": "Cooked Couscous",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C119232",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2643,8 +2643,8 @@
       "legacy_name_en": "Cooked Ham",
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "W424000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2653,8 +2653,8 @@
       "legacy_name_en": "Cooked Kidney Beans",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "H742132",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2663,8 +2663,8 @@
       "legacy_name_en": "Cooked Lentils",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "H730132",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2674,8 +2674,8 @@
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS cooked pasta entries specify egg or egg-free; this legacy item does not, so neither is a safe identity match."
     },
     {
       "legacy_product_id": "base_food_cooked_quinoa",
@@ -2683,8 +2683,8 @@
       "legacy_name_en": "Cooked Quinoa",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C118032",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2694,8 +2694,8 @@
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS salmon entries specify a cooking method; no generic cooked salmon entry is available."
     },
     {
       "legacy_product_id": "base_food_cooked_white_rice",
@@ -2703,8 +2703,8 @@
       "legacy_name_en": "Cooked White Rice",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C352032",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2715,7 +2715,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS wholemeal cooked pasta is split into egg and egg-free forms; the legacy name does not specify which."
     },
     {
       "legacy_product_id": "base_food_cookies_and_cream_ice_cream",
@@ -2724,8 +2724,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS cookies-and-cream ice cream entry was found."
     },
     {
       "legacy_product_id": "base_food_cookingoil",
@@ -2734,8 +2734,8 @@
       "legacy_category_id": "fette_oele",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "Legacy item combines soy, sunflower, sesame, and rapeseed oils; no single BLS oil represents that mixture."
     },
     {
       "legacy_product_id": "base_food_corn_canned",
@@ -2743,8 +2743,8 @@
       "legacy_name_en": "Corn (canned)",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G570902",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2754,8 +2754,8 @@
       "legacy_category_id": "fastfood",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No corn dog entry; a hot dog is a different prepared food."
     },
     {
       "legacy_product_id": "base_food_corned_beef_cold_cuts",
@@ -2763,8 +2763,8 @@
       "legacy_name_en": "Corned Beef Cold Cuts",
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "W520000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -2775,7 +2775,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS distinguishes unsweetened and sweetened cornflakes; the legacy name does not specify sweetening."
     },
     {
       "legacy_product_id": "base_food_cottage_cheese",
@@ -2785,7 +2785,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS cottage cheese entries differ by fat level; the legacy name does not specify one."
     },
     {
       "legacy_product_id": "base_food_cottage_pie_ready_meal",
@@ -2794,8 +2794,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No cottage pie entry was found; shepherd’s pie is a distinct dish."
     },
     {
       "legacy_product_id": "base_food_couscous_cooked",
@@ -2803,8 +2803,8 @@
       "legacy_name_en": "Couscous (cooked)",
       "legacy_category_id": "nudeln_getreide",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C119232",
+      "status": "mapped",
       "review_note": null
     },
     {

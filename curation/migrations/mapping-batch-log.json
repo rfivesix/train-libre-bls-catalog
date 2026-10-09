@@ -1,0 +1,272 @@
+{
+  "mapping_version": 1,
+  "target_catalog": "bls:4.0",
+  "batches": [
+    {
+      "batch": 1,
+      "legacy_product_id_start": "2980922012010",
+      "legacy_product_id_end": "base_food_artichoke",
+      "reviewed_count": 25,
+      "mapped_count": 13,
+      "no_equivalent_count": 11,
+      "pending_count": 1,
+      "unresolved_count": 1,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [
+        {
+          "bls_code": "S142200",
+          "decision": "Used German Apfelkraut identity; English says Apple butter, so not treated as the same legacy Apfelbutter product."
+        },
+        {
+          "bls_code": "S142100",
+          "decision": "Used German Apfelkraut identity; English says Apple butter, so not treated as the same legacy Apfelbutter product."
+        }
+      ],
+      "review_adjustments": [
+        "base_food_apple_cake left pending because BLS records specify dough style while the legacy name does not."
+      ]
+    },
+    {
+      "batch": 2,
+      "legacy_product_id_start": "base_food_arugula",
+      "legacy_product_id_end": "base_food_barley_flakes",
+      "reviewed_count": 25,
+      "mapped_count": 17,
+      "no_equivalent_count": 7,
+      "pending_count": 1,
+      "unresolved_count": 1,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": []
+    },
+    {
+      "batch": 3,
+      "legacy_product_id_start": "base_food_batavia_lettuce",
+      "legacy_product_id_end": "base_food_beetroot_and_apple_salad",
+      "reviewed_count": 25,
+      "mapped_count": 13,
+      "no_equivalent_count": 12,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "review_adjustments": [
+        "base_food_batavia_lettuce marked no_equivalent because BLS has no Batavia type and looseleaf lettuce is not the same type."
+      ]
+    },
+    {
+      "batch": 4,
+      "legacy_product_id_start": "base_food_beetroot_berry_smoothie",
+      "legacy_product_id_end": "base_food_boiled_potatoes",
+      "reviewed_count": 25,
+      "mapped_count": 8,
+      "no_equivalent_count": 12,
+      "pending_count": 5,
+      "unresolved_count": 5,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "german_authoritative_decisions": [
+        {
+          "bls_code": "G101100",
+          "decision": "Belgian endive maps to Chicoree/Witloof chicory, whose German and English labels agree; not a source-language conflict."
+        }
+      ]
+    },
+    {
+      "batch": 5,
+      "legacy_product_id_start": "base_food_bologna_sausage",
+      "legacy_product_id_end": "base_food_candied_almonds",
+      "reviewed_count": 25,
+      "mapped_count": 16,
+      "no_equivalent_count": 7,
+      "pending_count": 2,
+      "unresolved_count": 2,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "german_authoritative_decisions": [
+        {
+          "bls_code": "S465000",
+          "decision": "German “Mandeln gebrannt, dragiert” and English “Almond roasted, sugar-coated” support the same candied-almond identity; mapped accordingly."
+        }
+      ]
+    },
+    {
+      "batch": 6,
+      "legacy_product_id_start": "base_food_canned_mushrooms_drained",
+      "legacy_product_id_end": "base_food_cheese_quesadilla",
+      "reviewed_count": 25,
+      "mapped_count": 10,
+      "no_equivalent_count": 15,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "german_authoritative_decisions": [
+        {
+          "bls_code": "G660100",
+          "decision": "Sellerie mapped to Knollensellerie/celeriac using legacy German name and translated display names; English label is compatible but less specific."
+        }
+      ],
+      "review_adjustments": [
+        "base_food_castelvetrano_olives_in_brine left no_equivalent because BLS has no cultivar-specific entry; generic green olives would be overbroad."
+      ]
+    },
+    {
+      "batch": 7,
+      "legacy_product_id_start": "base_food_cheese_straw",
+      "legacy_product_id_end": "base_food_chicken_liver_cooked",
+      "reviewed_count": 25,
+      "mapped_count": 13,
+      "no_equivalent_count": 7,
+      "pending_count": 5,
+      "unresolved_count": 5,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Spawn requested GPT-6 Luna with medium reasoning; worker runtime did not expose actual model/effort metadata."
+    },
+    {
+      "batch": 8,
+      "legacy_product_id_start": "base_food_chicken_liver_raw",
+      "legacy_product_id_end": "base_food_chocolate_ice_cream",
+      "reviewed_count": 25,
+      "mapped_count": 8,
+      "no_equivalent_count": 17,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning.",
+      "review_adjustments": [
+        "base_food_chickpeas_cooked mapped to G770432 plain boiled mature chickpeas instead of X574212 with added fat and salt."
+      ]
+    },
+    {
+      "batch": 9,
+      "legacy_product_id_start": "base_food_chocolate_lava_cake",
+      "legacy_product_id_end": "base_food_cold_brew_coffee_unsweetened",
+      "reviewed_count": 25,
+      "mapped_count": 15,
+      "no_equivalent_count": 9,
+      "pending_count": 1,
+      "unresolved_count": 1,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 9,
+      "legacy_product_id_start": "base_food_chocolate_lava_cake",
+      "legacy_product_id_end": "base_food_cold_brew_coffee_unsweetened",
+      "reviewed_count": 25,
+      "mapped_count": 14,
+      "no_equivalent_count": 10,
+      "pending_count": 1,
+      "unresolved_count": 1,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [
+        {
+          "bls_code": "D7A5300",
+          "decision": "Used German Zimtschnecken (yeast cinnamon roll) identity, despite English “Danish swirl”; mapped to the matching German-defined roll."
+        }
+      ],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning.",
+      "review_adjustments": [
+        "base_food_chocolate_pudding targets generic Y8A4090 rather than a specific sweetened powder preparation.",
+        "base_food_cocktail_sauce left no_equivalent because the only cocktail match is a dressing, not a sauce."
+      ]
+    },
+    {
+      "batch": 10,
+      "legacy_product_id_start": "base_food_conch_cooked",
+      "legacy_product_id_end": "base_food_couscous_cooked",
+      "reviewed_count": 25,
+      "mapped_count": 14,
+      "no_equivalent_count": 8,
+      "pending_count": 3,
+      "unresolved_count": 3,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 10,
+      "legacy_product_id_start": "base_food_conch_cooked",
+      "legacy_product_id_end": "base_food_couscous_cooked",
+      "reviewed_count": 25,
+      "mapped_count": 13,
+      "no_equivalent_count": 8,
+      "pending_count": 4,
+      "unresolved_count": 4,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    }
+  ],
+  "duplicate_target_reviews": [
+    {
+      "target_bls_code": "C119132",
+      "legacy_product_ids": [
+        "base_food_bulgur_cooked",
+        "base_food_cooked_bulgur"
+      ],
+      "assessment": "Legitimate duplicate mapping: legacy IDs refer to the same food identity."
+    },
+    {
+      "target_bls_code": "C119232",
+      "legacy_product_ids": [
+        "base_food_cooked_couscous",
+        "base_food_couscous_cooked"
+      ],
+      "assessment": "Legitimate duplicate mapping: legacy IDs refer to the same food identity."
+    },
+    {
+      "target_bls_code": "F503100",
+      "legacy_product_ids": [
+        "2980922012010",
+        "base_food_banana"
+      ],
+      "assessment": "Legitimate duplicate mapping: legacy IDs refer to the same food identity."
+    },
+    {
+      "target_bls_code": "G770432",
+      "legacy_product_ids": [
+        "base_food_chickpeas_cooked",
+        "base_food_cooked_chickpeas"
+      ],
+      "assessment": "Legitimate duplicate mapping: legacy IDs refer to the same food identity."
+    },
+    {
+      "target_bls_code": "N410100",
+      "legacy_product_ids": [
+        "base_food_black_coffee_unsweetened",
+        "base_food_coffee_black"
+      ],
+      "assessment": "Legitimate duplicate mapping: legacy IDs refer to the same food identity."
+    },
+    {
+      "target_bls_code": "T204100",
+      "legacy_product_ids": [
+        "base_food_atlantic_cod_raw",
+        "base_food_cod_raw"
+      ],
+      "assessment": "Legitimate duplicate mapping: legacy IDs refer to the same food identity."
+    }
+  ],
+  "checkpoint_reviewed_count": 250,
+  "checkpoint_outcomes": {
+    "mapped": 125,
+    "no_equivalent": 106,
+    "pending": 19
+  }
+}
