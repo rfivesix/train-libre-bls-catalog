@@ -1993,6 +1993,59 @@
       "model": "GPT-6 Luna",
       "reasoning_effort": "medium",
       "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 141,
+      "code_start": "Y882150",
+      "code_end": "Y8A5020",
+      "count": 50,
+      "category_counts": {
+        "dairy": 9,
+        "prepared_dishes": 17,
+        "snacks_sweets": 20,
+        "fruit": 3,
+        "sauces_condiments": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 142,
+      "code_start": "Y8A5030",
+      "code_end": "Y945062",
+      "count": 50,
+      "category_counts": {
+        "prepared_dishes": 34,
+        "snacks_sweets": 10,
+        "bread_baked_goods": 5,
+        "pasta_dough": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "Y910030",
+        "Y910060"
+      ]
+    },
+    {
+      "batch": 143,
+      "code_start": "Y945132",
+      "code_end": "Y9A2050",
+      "count": 40,
+      "category_counts": {
+        "prepared_dishes": 13,
+        "snacks_sweets": 26,
+        "beverages": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "Y946162"
+      ]
     }
   ]
 }
