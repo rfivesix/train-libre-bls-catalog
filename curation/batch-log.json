@@ -1436,6 +1436,80 @@
       "model": "GPT-6 Luna",
       "reasoning_effort": "medium",
       "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 106,
+      "code_start": "X270810",
+      "code_end": "X324263",
+      "count": 50,
+      "category_counts": {
+        "fruit": 3,
+        "prepared_dishes": 26,
+        "sauces_condiments": 20,
+        "soups_stews": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "X2A1140",
+        "X321242"
+      ]
+    },
+    {
+      "batch": 107,
+      "code_start": "X325053",
+      "code_end": "X346150",
+      "count": 50,
+      "category_counts": {
+        "sauces_condiments": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 108,
+      "code_start": "X346250",
+      "code_end": "X372012",
+      "count": 50,
+      "category_counts": {
+        "sauces_condiments": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 109,
+      "code_start": "X378243",
+      "code_end": "X412513",
+      "count": 50,
+      "category_counts": {
+        "sauces_condiments": 38,
+        "soups_stews": 12
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 110,
+      "code_start": "X412613",
+      "code_end": "X436343",
+      "count": 50,
+      "category_counts": {
+        "soups_stews": 48,
+        "pasta_dough": 1,
+        "bread_baked_goods": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
     }
   ]
 }
