@@ -394,9 +394,9 @@
       "legacy_name_en": "Atlantic salmon, raw",
       "legacy_category_id": "fisch",
       "suggested_matches": [],
-      "target_bls_code": "T410100",
-      "status": "mapped",
-      "review_note": null
+      "target_bls_code": null,
+      "status": "no_equivalent",
+      "review_note": "BLS has generic raw salmon but does not identify Atlantic salmon specifically."
     },
     {
       "legacy_product_id": "base_food_avocado",
@@ -1439,9 +1439,9 @@
       "legacy_name_en": "Canned Tuna in Water",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": "T121902",
-      "status": "mapped",
-      "review_note": null
+      "target_bls_code": null,
+      "status": "no_equivalent",
+      "review_note": "BLS T121902 German name specifies tuna in its own juice; it does not match the legacy water-packed tuna identity."
     },
     {
       "legacy_product_id": "base_food_caperberries_in_brine",
@@ -2988,9 +2988,9 @@
       "legacy_name_en": "Crispbread",
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
-      "target_bls_code": "B6A2000",
-      "status": "mapped",
-      "review_note": null
+      "target_bls_code": null,
+      "status": "no_equivalent",
+      "review_note": "The available BLS crispbread record is rye-specific; the legacy entry does not specify a grain."
     },
     {
       "legacy_product_id": "base_food_crispy_chicken_burger",
@@ -3974,9 +3974,9 @@
       "legacy_name_en": "Firm Tofu",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": "H861000",
-      "status": "mapped",
-      "review_note": null
+      "target_bls_code": null,
+      "status": "no_equivalent",
+      "review_note": "BLS has only unspecified tofu and does not identify the firm texture stated by the legacy product."
     },
     {
       "legacy_product_id": "base_food_fish_and_chips",
@@ -8166,8 +8166,8 @@
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS has braised pork loin with sauce or vegetables, but no plain roasted pork loin; preparation cannot be safely matched."
+      "status": "no_equivalent",
+      "review_note": "BLS has braised pork loin variants but no plain roasted pork loin; the available preparation is not equivalent."
     },
     {
       "legacy_product_id": "base_food_roasted_potatoes",
@@ -8256,8 +8256,8 @@
       "legacy_category_id": "suesser_brotaufstrich",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has raw rose hips and a prepared sauce, but no rosehip jam."
     },
     {
       "legacy_product_id": "base_food_rosehip_tea_unsweetened",
@@ -8266,8 +8266,8 @@
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no rosehip tea infusion; other herbal teas are different ingredients."
     },
     {
       "legacy_product_id": "base_food_rutabaga",
@@ -8275,8 +8275,8 @@
       "legacy_name_en": "Rutabaga",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G611100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8293,8 +8293,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B221000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8311,8 +8311,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B6A2000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8328,8 +8328,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C123000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8346,8 +8346,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B521000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8357,8 +8357,8 @@
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no sage tea infusion; generic tea or another herbal infusion would be misleading."
     },
     {
       "legacy_product_id": "base_food_salami",
@@ -8374,8 +8374,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "W140000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8385,8 +8385,8 @@
       "legacy_category_id": "fastfood",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has salami pizzas but no matching single salami pizza slice product."
     },
     {
       "legacy_product_id": "base_food_salmon_raw",
@@ -8402,8 +8402,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T410100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8413,8 +8413,8 @@
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists only specific salsa sauces (verde or Spanish style), not generic salsa."
     },
     {
       "legacy_product_id": "base_food_salsify",
@@ -8422,8 +8422,8 @@
       "legacy_name_en": "Salsify",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G650100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8432,8 +8432,8 @@
       "legacy_name_en": "Table Salt",
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "R111000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8443,8 +8443,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has caramel ice cream but no salted-caramel variety."
     },
     {
       "legacy_product_id": "base_food_salted_licorice",
@@ -8453,8 +8453,8 @@
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has generic licorice, but no salted-licorice variety."
     },
     {
       "legacy_product_id": "base_food_sausage_and_bean_casserole_ready_meal",
@@ -8463,8 +8463,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has bean stews, but none matching this sausage-and-bean ready meal."
     },
     {
       "legacy_product_id": "base_food_sausage_salad_with_vinegar_and_oil",
@@ -8473,8 +8473,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS sausage salads specify different recipes; none matches vinegar-and-oil dressing."
     },
     {
       "legacy_product_id": "base_food_sauvignon_blanc_wine",
@@ -8483,8 +8483,8 @@
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has generic white wines but no Sauvignon Blanc varietal."
     },
     {
       "legacy_product_id": "base_food_scallops_cooked",
@@ -8493,8 +8493,8 @@
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has raw scallops and specific fried/grilled preparations, but no plain cooked scallops."
     },
     {
       "legacy_product_id": "base_food_scallops_raw",
@@ -8502,8 +8502,8 @@
       "legacy_name_en": "Raw Scallops",
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T793100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8519,8 +8519,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "P167000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8530,8 +8530,8 @@
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has other fish roe, but no sea urchin roe."
     },
     {
       "legacy_product_id": "base_food_seafood_salad_with_mayonnaise",
@@ -8540,8 +8540,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has specific seafood salads, but none matching a generic mayonnaise seafood salad."
     },
     {
       "legacy_product_id": "base_food_seeded_bread",
@@ -8550,8 +8550,8 @@
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists specific seeded and multigrain breads, but no generic seeded bread equivalent."
     },
     {
       "legacy_product_id": "base_food_semi_dried_tomatoes_in_oil",
@@ -8560,8 +8560,8 @@
       "legacy_category_id": "antipasti",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has dried, canned, and cooked tomatoes, but no semi-dried tomatoes preserved in oil."
     },
     {
       "legacy_product_id": "base_food_semi_skimmed_milk_1_5_percent_fat",
@@ -8571,7 +8571,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS splits 1.5% milk into fresh pasteurised and UHT products; the legacy entry does not specify processing."
     },
     {
       "legacy_product_id": "base_food_semolina_pudding",
@@ -8581,7 +8581,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS pudding records distinguish egg and cream preparations; the legacy entry does not specify its recipe."
     },
     {
       "legacy_product_id": "base_food_serrano_ham",
@@ -8590,8 +8590,8 @@
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "Serrano is a specific dry-cured Spanish ham; BLS has no matching Serrano product."
     },
     {
       "legacy_product_id": "base_food_sesame_seed_roll",
@@ -8601,7 +8601,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS sesame rolls are split by wheat, rye, or mixed grain; the legacy bread base is unspecified."
     },
     {
       "legacy_product_id": "base_food_shiitake_mushroom_cooked",
@@ -8610,8 +8610,8 @@
       "legacy_category_id": "pilze",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists shiitake raw, stewed, or fried, but no generic cooked preparation."
     },
     {
       "legacy_product_id": "base_food_shiitake_mushroom_dried",
@@ -8626,8 +8626,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "K724400",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8643,8 +8643,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "K724100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8653,8 +8653,8 @@
       "legacy_name_en": "Shiitake Mushroom, Stir-Fried",
       "legacy_category_id": "pilze",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "K724182",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8664,8 +8664,8 @@
       "legacy_category_id": "pilze",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no Shimeji mushroom record; other mushroom species are not equivalent."
     },
     {
       "legacy_product_id": "base_food_shortbread_cookie",
@@ -8674,8 +8674,8 @@
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS D630400 German name identifies butter biscuits/shortcrust cookies; its English “shortbread” gloss conflicts, and German is authoritative. No BLS shortbread-specific identity is established."
     },
     {
       "legacy_product_id": "base_food_shrimp_cooked",
@@ -8683,8 +8683,8 @@
       "legacy_name_en": "Cooked Shrimp",
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T753132",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8693,8 +8693,8 @@
       "legacy_name_en": "Shrimp (raw)",
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T753100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8704,8 +8704,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no shrimp salad with dill dressing; the available dill cream shrimp is a different preserved product."
     },
     {
       "legacy_product_id": "base_food_skimmed_milk",
@@ -8715,7 +8715,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS splits skimmed milk into fresh pasteurised and UHT products; the legacy entry does not specify processing."
     },
     {
       "legacy_product_id": "base_food_skyr_natural",
@@ -8723,8 +8723,8 @@
       "legacy_name_en": "Skyr Natural",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "M710100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8735,7 +8735,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS smoked ham records specify raw-cured pork and fat level; the legacy entry leaves these product details unspecified."
     },
     {
       "legacy_product_id": "base_food_smoked_mettwurst",
@@ -8744,8 +8744,8 @@
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS Mettwurst records do not specify smoked preparation; air-dried or cooked sausage is not an equivalent."
     },
     {
       "legacy_product_id": "base_food_snow_crab_cooked",
@@ -8754,8 +8754,8 @@
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no snow crab record; other crab species are not equivalent."
     },
     {
       "legacy_product_id": "base_food_soft_caramels",
@@ -8770,8 +8770,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S330000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8780,8 +8780,8 @@
       "legacy_name_en": "Sorrel",
       "legacy_category_id": "blattsalate",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G263100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8790,8 +8790,8 @@
       "legacy_name_en": "Sour cream, 10% fat",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "M172500",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8801,8 +8801,8 @@
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has sour-cream salad dressing but no sour-cream dip; the prepared products are distinct."
     },
     {
       "legacy_product_id": "base_food_sour_gummies",
@@ -8811,8 +8811,8 @@
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists fruit gum without a sour variety; the defining sour flavor is not represented."
     },
     {
       "legacy_product_id": "base_food_sourdough_bread",
@@ -8821,8 +8821,8 @@
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists sourdough only in gluten-free variants; the legacy entry does not specify gluten-free bread."
     },
     {
       "legacy_product_id": "base_food_soy_sauce",
@@ -8830,8 +8830,8 @@
       "legacy_name_en": "Soy sauce",
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "R143000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8841,8 +8841,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has Bolognese sauce and pasta dishes, but no matching ready meal; those differ in product form and composition."
     },
     {
       "legacy_product_id": "base_food_spanish_potato_tortilla",
@@ -8851,8 +8851,8 @@
       "legacy_category_id": "kartoffelgerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No Spanish potato tortilla (tortilla española) entry; Spanish dishes with potatoes are not equivalent."
     },
     {
       "legacy_product_id": "base_food_sparkling_lemonade",
@@ -8860,8 +8860,8 @@
       "legacy_name_en": "Sparkling Lemonade",
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "N310400",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8870,8 +8870,8 @@
       "legacy_name_en": "Sparkling Water",
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "N127000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8888,8 +8888,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B710500",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8905,8 +8905,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C236100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8917,7 +8917,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "Legacy name does not specify raw or cooked spinach; BLS separates these forms, so the intended form is unclear."
     },
     {
       "legacy_product_id": "base_food_spinach_banana_smoothie",
@@ -8926,8 +8926,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No matching spinach-banana smoothie; the generic green smoothie has unspecified fruit and vegetable ingredients."
     },
     {
       "legacy_product_id": "base_food_spinach_ricotta_cannelloni_ready_meal",
@@ -8936,8 +8936,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No spinach-ricotta cannelloni ready meal; spinach-ricotta tortelloni is a different pasta shape and product."
     },
     {
       "legacy_product_id": "base_food_spiny_lobster_cooked",
@@ -8945,8 +8945,8 @@
       "legacy_name_en": "Cooked Spiny Lobster",
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T720132",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -8956,8 +8956,8 @@
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has sponge-cake bases and filled or flavored cakes, but no generic finished sponge cake matching this product."
     },
     {
       "legacy_product_id": "base_food_squid_raw",
@@ -8967,7 +8967,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "German BLS Tintenfisch roh (T020100) is translated as common cuttlefish; German does not resolve whether this legacy squid means cuttlefish or another squid species."
     },
     {
       "legacy_product_id": "base_food_steamed_potatoes",
@@ -8976,8 +8976,8 @@
       "legacy_category_id": "kartoffelgerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS provides boiled potatoes but no steamed preparation; the cooking methods are distinct."
     },
     {
       "legacy_product_id": "base_food_sticky_toffee_pudding",
@@ -8986,8 +8986,8 @@
       "legacy_category_id": "dessert",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No sticky-toffee pudding entry; generic cream or vanilla puddings do not represent this specific dessert."
     },
     {
       "legacy_product_id": "base_food_still_water",
@@ -8997,7 +8997,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS has tap/drinking water and still natural mineral water, but the legacy name does not identify the source."
     },
     {
       "legacy_product_id": "base_food_stout_beer",
@@ -9005,8 +9005,8 @@
       "legacy_name_en": "Stout Beer",
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "P177000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9016,8 +9016,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No stracciatella ice cream entry; the stracciatella cake is a different product."
     },
     {
       "legacy_product_id": "base_food_straw_mushroom_canned_drained",
@@ -9026,8 +9026,8 @@
       "legacy_category_id": "pilze",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No canned drained straw mushroom entry; other canned mushroom species are not equivalent."
     },
     {
       "legacy_product_id": "base_food_strawberry_banana_smoothie",
@@ -9036,8 +9036,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No matching strawberry-banana smoothie; generic fruit or green smoothies have different or unspecified ingredients."
     },
     {
       "legacy_product_id": "base_food_strawberry_frozen_yogurt",
@@ -9046,8 +9046,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No strawberry frozen-yogurt entry; strawberry ice cream is a different frozen dairy product."
     },
     {
       "legacy_product_id": "base_food_strawberry_gelato",
@@ -9056,8 +9056,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No strawberry gelato entry; BLS strawberry ice-cream variants do not identify gelato."
     },
     {
       "legacy_product_id": "base_food_strawberry_ice_cream",
@@ -9073,8 +9073,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "Y996510",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9084,8 +9084,8 @@
       "legacy_category_id": "suesser_brotaufstrich",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS jam entries are flavor-unspecified; no strawberry jam is listed, so a generic jam would lose the fruit identity."
     },
     {
       "legacy_product_id": "base_food_strawberry_yogurt_smoothie",
@@ -9094,8 +9094,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No matching strawberry-yogurt smoothie; strawberry yogurt or generic smoothies are different products."
     },
     {
       "legacy_product_id": "base_food_sturgeon_raw",
@@ -9104,8 +9104,8 @@
       "legacy_category_id": "fisch",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has sturgeon caviar, but no raw sturgeon flesh."
     },
     {
       "legacy_product_id": "base_food_sugar_coated_chocolate_lentils",
@@ -9113,8 +9113,8 @@
       "legacy_name_en": "Sugar-coated chocolate lentils",
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S464000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9124,8 +9124,8 @@
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has marshmallow and other sweets, but no cotton candy."
     },
     {
       "legacy_product_id": "base_food_sugar_free_cola",
@@ -9134,8 +9134,8 @@
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has sweetener-sweetened soft drinks, but no cola-specific entry."
     },
     {
       "legacy_product_id": "base_food_sugar_free_energy_drink",
@@ -9144,8 +9144,8 @@
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no sugar-free energy drink entry."
     },
     {
       "legacy_product_id": "base_food_sugar_granulated",
@@ -9153,8 +9153,8 @@
       "legacy_name_en": "Granulated Sugar",
       "legacy_category_id": "suesser_brotaufstrich",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S111000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9163,8 +9163,8 @@
       "legacy_name_en": "Sugarloaf chicory",
       "legacy_category_id": "blattsalate",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G109100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9173,8 +9173,8 @@
       "legacy_name_en": "Sultanas",
       "legacy_category_id": "trockenfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "F840100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9183,8 +9183,8 @@
       "legacy_name_en": "Sun-Dried Tomatoes in Oil",
       "legacy_category_id": "antipasti",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G567702",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9194,8 +9194,8 @@
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS entries specify a particular bread type; the legacy name does not identify one."
     },
     {
       "legacy_product_id": "base_food_surimi_salad_with_mayonnaise",
@@ -9204,8 +9204,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has surimi itself, but no surimi salad with mayonnaise."
     },
     {
       "legacy_product_id": "base_food_sweet_and_sour_chicken_with_rice_ready_meal",
@@ -9214,8 +9214,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No BLS ready meal matches this chicken, rice, and sweet-and-sour preparation."
     },
     {
       "legacy_product_id": "base_food_sweet_chili_sauce",
@@ -9224,8 +9224,8 @@
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no sweet chili sauce; other chili sauces are not equivalent."
     },
     {
       "legacy_product_id": "base_food_sweet_potato_cooked",
@@ -9233,8 +9233,8 @@
       "legacy_name_en": "Sweet Potato (cooked)",
       "legacy_category_id": "kartoffelgerichte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "K420132",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9244,8 +9244,8 @@
       "legacy_category_id": "fastfood",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has potato fries, but no sweet potato fries."
     },
     {
       "legacy_product_id": "base_food_sweet_red_wine",
@@ -9253,8 +9253,8 @@
       "legacy_name_en": "Sweet Red Wine",
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "P2A1000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9263,8 +9263,8 @@
       "legacy_name_en": "Sweet Rose Wine",
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "P2B1000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9273,8 +9273,8 @@
       "legacy_name_en": "Sweet Sparkling Wine",
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "P2A7000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9283,8 +9283,8 @@
       "legacy_name_en": "Sweet White Wine",
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "P231000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9293,8 +9293,8 @@
       "legacy_name_en": "Swiss chard leaves",
       "legacy_category_id": "blattsalate",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G230100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9311,8 +9311,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T612100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9322,8 +9322,8 @@
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no Syrah varietal entry; generic red wine would lose the grape identity."
     },
     {
       "legacy_product_id": "base_food_tahini_sauce",
@@ -9332,8 +9332,8 @@
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has tahini sesame paste, but no prepared tahini sauce."
     },
     {
       "legacy_product_id": "base_food_tapioca_pudding",
@@ -9342,8 +9342,8 @@
       "legacy_category_id": "dessert",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS includes tapioca starch, but no tapioca pudding."
     },
     {
       "legacy_product_id": "base_food_tatsoi",
@@ -9352,8 +9352,8 @@
       "legacy_category_id": "blattsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no Tatsoi entry; generic leafy greens would lose the species identity."
     },
     {
       "legacy_product_id": "base_food_tea_black",
@@ -9361,8 +9361,8 @@
       "legacy_name_en": "Black Tea (unsweetened)",
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "N630000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9371,8 +9371,8 @@
       "legacy_name_en": "Herbal Tea (unsweetened)",
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "N720100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9381,8 +9381,8 @@
       "legacy_name_en": "Tea Sausage",
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "W121100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9392,8 +9392,8 @@
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No corresponding tempeh food is present in the BLS catalog."
     },
     {
       "legacy_product_id": "base_food_teriyaki_chicken_with_rice_ready_meal",
@@ -9402,8 +9402,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "The BLS catalog has no teriyaki chicken-and-rice ready meal; separate chicken and rice foods would not represent the prepared dish."
     },
     {
       "legacy_product_id": "base_food_teriyaki_sauce",
@@ -9412,8 +9412,8 @@
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No teriyaki sauce food is present in the BLS catalog."
     },
     {
       "legacy_product_id": "base_food_thai_red_curry_with_rice_ready_meal",
@@ -9422,8 +9422,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "The BLS catalog has no Thai red curry with rice ready meal; separate ingredients would not represent this prepared dish."
     },
     {
       "legacy_product_id": "base_food_tilapia_raw",
@@ -9432,8 +9432,8 @@
       "legacy_category_id": "fisch",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No tilapia food is present in the BLS catalog."
     },
     {
       "legacy_product_id": "base_food_tiramisu",
@@ -9442,8 +9442,8 @@
       "legacy_category_id": "dessert",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "The BLS entries are specific liqueur-containing tiramisu variants, so none represents unspecified tiramisu."
     },
     {
       "legacy_product_id": "base_food_toast_bread",
@@ -9451,8 +9451,8 @@
       "legacy_name_en": "Toast Bread (white)",
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B314000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9461,8 +9461,8 @@
       "legacy_name_en": "Toffee",
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S331000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9471,8 +9471,8 @@
       "legacy_name_en": "Tofu (Natural)",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "H861000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9481,8 +9481,8 @@
       "legacy_name_en": "Tomato",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G561100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9492,8 +9492,8 @@
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "The BLS catalog has tomato foods but no cherry-tomato entry; generic tomato would lose the cultivar distinction."
     },
     {
       "legacy_product_id": "base_food_tomato_juice",
@@ -9502,8 +9502,8 @@
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "The BLS tomato-juice entry is salted, while this item does not specify salt; no suitable unsalted juice entry is available."
     },
     {
       "legacy_product_id": "base_food_tomato_ketchup",
@@ -9519,8 +9519,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "R141100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9530,8 +9530,8 @@
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS tomato sauces are recipe-specific (for example, made from paste or fresh tomatoes); the unspecified legacy sauce has no safe single match."
     },
     {
       "legacy_product_id": "base_food_tomato_soup_canned",
@@ -9540,8 +9540,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS tomato-soup entries are recipe-specific and do not identify a matching canned generic soup."
     },
     {
       "legacy_product_id": "base_food_tonic_water",
@@ -9550,8 +9550,8 @@
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No tonic-water food is present in the BLS catalog."
     },
     {
       "legacy_product_id": "base_food_tortellini_in_tomato_sauce_ready_meal",
@@ -9560,8 +9560,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "The BLS catalog has dried tortellini pasta and other tomato-sauce dishes, but no matching prepared tortellini-in-tomato-sauce meal."
     },
     {
       "legacy_product_id": "base_food_trifle",
@@ -9570,8 +9570,8 @@
       "legacy_category_id": "dessert",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No trifle food is present in the BLS catalog."
     },
     {
       "legacy_product_id": "base_food_tropical_fruit_smoothie",
@@ -9580,8 +9580,8 @@
       "legacy_category_id": "smoothies",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No tropical-fruit smoothie food is present in the BLS catalog."
     },
     {
       "legacy_product_id": "base_food_tuna_canned_oil",
@@ -9589,8 +9589,8 @@
       "legacy_name_en": "Tuna (canned, oil)",
       "legacy_category_id": "fisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T121702",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9599,8 +9599,8 @@
       "legacy_name_en": "Tuna (canned, water)",
       "legacy_category_id": "fisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T121902",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9610,8 +9610,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "The only tuna-salad entry is diluted with yogurt; it does not match the specified mayonnaise preparation."
     },
     {
       "legacy_product_id": "base_food_turbot_raw",
@@ -9627,8 +9627,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T302100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9638,8 +9638,8 @@
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has smoked cooked-cured turkey breast cold cuts, but no equivalent plain turkey-breast cold cut matching this generic product."
     },
     {
       "legacy_product_id": "base_food_turkey_breast_raw",
@@ -9649,7 +9649,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS raw turkey breast is specified without skin; the legacy entry does not specify skin status, so that distinction cannot be resolved safely."
     },
     {
       "legacy_product_id": "base_food_turkey_breast_skinless_raw",
@@ -9657,8 +9657,8 @@
       "legacy_name_en": "Turkey breast, skinless, raw",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V486100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9669,7 +9669,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS distinguishes oven-fried and pan-fried skinless turkey breast; the legacy entry specifies roasting without a method."
     },
     {
       "legacy_product_id": "base_food_turkey_leg_meat_and_skin_roasted",
@@ -9678,8 +9678,8 @@
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS roasted turkey with skin does not specify leg meat; no matching cut-specific target is listed."
     },
     {
       "legacy_product_id": "base_food_turkey_salami",
@@ -9688,8 +9688,8 @@
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No turkey salami product is listed in BLS; turkey cold cuts are not the same product."
     },
     {
       "legacy_product_id": "base_food_turkey_thigh_skinless_raw",
@@ -9698,8 +9698,8 @@
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "The BLS raw skinless turkey record specifies leg, not the upper-thigh cut stated by the legacy entry."
     },
     {
       "legacy_product_id": "base_food_turkey_thigh_skinless_roasted",
@@ -9708,8 +9708,8 @@
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS roasted skinless turkey records specify leg but not the upper-thigh cut stated by the legacy entry."
     },
     {
       "legacy_product_id": "base_food_turkey_wing_meat_and_skin_roasted",
@@ -9717,8 +9717,8 @@
       "legacy_name_en": "Turkey wing, meat and skin, roasted",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V487162",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9728,8 +9728,8 @@
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS does not list Turkish-style coffee; unsweetened ordinary coffee does not preserve the preparation identity."
     },
     {
       "legacy_product_id": "base_food_turkish_delight",
@@ -9738,8 +9738,8 @@
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no Turkish delight (lokum) entry."
     },
     {
       "legacy_product_id": "base_food_tzatziki",
@@ -9748,8 +9748,8 @@
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no tzatziki entry; other yogurt sauces or dips are not equivalent."
     },
     {
       "legacy_product_id": "base_food_unsalted_butter",
@@ -9758,8 +9758,8 @@
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS does not distinguish unsalted butter from generic butter, so the stated salt distinction cannot be represented."
     },
     {
       "legacy_product_id": "base_food_vanilla_gelato",
@@ -9768,8 +9768,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists vanilla ice cream but no gelato; the product form is distinct."
     },
     {
       "legacy_product_id": "base_food_vanilla_ice_cream",
@@ -9785,8 +9785,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S241000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9796,8 +9796,8 @@
       "legacy_category_id": "dessert",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no vanilla mousse entry; chocolate or fruit mousse is not equivalent."
     },
     {
       "legacy_product_id": "base_food_vanilla_pudding",
@@ -9807,7 +9807,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS lists several vanilla puddings with differing milk fat, egg, and preparation; the generic legacy item does not identify which one."
     },
     {
       "legacy_product_id": "base_food_vanilla_soft_serve_ice_cream",
@@ -9816,8 +9816,8 @@
       "legacy_category_id": "eis",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has vanilla ice cream but no soft-serve form."
     },
     {
       "legacy_product_id": "base_food_veal_cutlet_raw",
@@ -9825,8 +9825,8 @@
       "legacy_name_en": "Veal cutlet, raw",
       "legacy_category_id": "fleisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "U342100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9842,8 +9842,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V532100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9859,8 +9859,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "U471100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9870,8 +9870,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has couscous fried with vegetables, not a couscous salad; preparation and product form differ."
     },
     {
       "legacy_product_id": "base_food_vegetable_curry_with_rice_ready_meal",
@@ -9880,8 +9880,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No vegetable curry with rice ready meal is listed; curry rice alone or meals with meat are not equivalent."
     },
     {
       "legacy_product_id": "base_food_vegetable_fried_rice_ready_meal",
@@ -9890,8 +9890,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS fried rice with vegetables is listed as Nasi Goreng with pork; no meat-free vegetable fried-rice meal matches."
     },
     {
       "legacy_product_id": "base_food_vegetable_lasagna_ready_meal",
@@ -9900,8 +9900,8 @@
       "legacy_category_id": "fertiggerichte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has meat lasagna but no vegetable lasagna ready meal."
     },
     {
       "legacy_product_id": "base_food_vegetable_rice_salad",
@@ -9910,8 +9910,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS rice salads add ham, chicken, egg, mayonnaise, or fruit/curry; none is plain vegetable rice salad."
     },
     {
       "legacy_product_id": "base_food_veggie_burger",
@@ -9920,8 +9920,8 @@
       "legacy_category_id": "fastfood",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has tofu/soy patties and millet-vegetable patties, but no generic veggie burger with a matching formulation."
     },
     {
       "legacy_product_id": "base_food_venison_raw",
@@ -9929,8 +9929,8 @@
       "legacy_name_en": "Venison, raw",
       "legacy_category_id": "fleisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V212100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9939,8 +9939,8 @@
       "legacy_name_en": "Vinegar and Oil Coleslaw",
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "X238310",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9950,8 +9950,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS potato salads use vegetable-stock marinade, mayonnaise, cucumber, or bacon; no vinegar-and-oil version is listed."
     },
     {
       "legacy_product_id": "base_food_waldorf_salad",
@@ -9959,8 +9959,8 @@
       "legacy_name_en": "Waldorf Salad",
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "X203140",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9969,8 +9969,8 @@
       "legacy_name_en": "Walnuts",
       "legacy_category_id": "nuesse_samen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "H120100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9979,8 +9979,8 @@
       "legacy_name_en": "Tap Water",
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "N110000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -9990,8 +9990,8 @@
       "legacy_category_id": "blattsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists garden cress, a different cress; no watercress food is present."
     },
     {
       "legacy_product_id": "base_food_wheat_beer",
@@ -10001,7 +10001,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "Weißbier does not specify filtered vs naturally cloudy; BLS separates these wheat-beer forms."
     },
     {
       "legacy_product_id": "base_food_wheat_bran",
@@ -10016,8 +10016,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C217000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10034,8 +10034,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B782100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10051,8 +10051,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B783012",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10062,8 +10062,8 @@
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has raw generic edible snails but no cooked whelk entry."
     },
     {
       "legacy_product_id": "base_food_white_bread",
@@ -10071,8 +10071,8 @@
       "legacy_name_en": "White Bread",
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B311000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10088,8 +10088,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B511000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10105,8 +10105,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "K701132",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10116,8 +10116,8 @@
       "legacy_category_id": "pilze",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has plain boiled button mushrooms but no salted cooked entry."
     },
     {
       "legacy_product_id": "base_food_white_button_mushroom_microwaved",
@@ -10126,8 +10126,8 @@
       "legacy_category_id": "pilze",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no microwave-prepared button mushrooms; other cooking methods are distinct."
     },
     {
       "legacy_product_id": "base_food_white_button_mushroom_raw",
@@ -10142,8 +10142,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "K701100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10153,8 +10153,8 @@
       "legacy_category_id": "pilze",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS lists pan-fried mushrooms without fat, not stir-fried mushrooms."
     },
     {
       "legacy_product_id": "base_food_white_button_mushroom_uv_raw",
@@ -10163,8 +10163,8 @@
       "legacy_category_id": "pilze",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has raw button mushrooms but no UV-treated form."
     },
     {
       "legacy_product_id": "base_food_white_chocolate",
@@ -10172,8 +10172,8 @@
       "legacy_name_en": "White chocolate",
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S580000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10182,8 +10182,8 @@
       "legacy_name_en": "White marshmallows",
       "legacy_category_id": "zum_naschen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "S372000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10193,8 +10193,8 @@
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no white tea infusion entry; green and rooibos tea are different teas."
     },
     {
       "legacy_product_id": "base_food_whiting_raw",
@@ -10209,8 +10209,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T208100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10219,8 +10219,8 @@
       "legacy_name_en": "Whole chicken, meat and skin, roasted",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "V414162",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10229,8 +10229,8 @@
       "legacy_name_en": "Whole flaxseeds",
       "legacy_category_id": "nuesse_samen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "H410100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10246,8 +10246,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B101000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10258,7 +10258,7 @@
       "suggested_matches": [],
       "target_bls_code": null,
       "status": "pending",
-      "review_note": null
+      "review_note": "BLS separates fresh pasteurized and UHT milk; legacy name does not specify which form."
     },
     {
       "legacy_product_id": "base_food_whole_wheat_bread",
@@ -10266,8 +10266,8 @@
       "legacy_name_en": "Whole Wheat Bread",
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B111000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10276,8 +10276,8 @@
       "legacy_name_en": "Whole Wheat Flakes",
       "legacy_category_id": "muesli_flakes",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "C113000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10287,8 +10287,8 @@
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has a generic wheat roll, not a whole-wheat roll; the whole-grain form is not represented."
     },
     {
       "legacy_product_id": "base_food_wholegrain_muesli",
@@ -10297,8 +10297,8 @@
       "legacy_category_id": "muesli_flakes",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "Generic wholegrain muesli does not specify the mix; BLS muesli entries have distinct ingredient and sweetening profiles."
     },
     {
       "legacy_product_id": "base_food_wholemeal_toast_bread",
@@ -10306,8 +10306,8 @@
       "legacy_name_en": "Wholemeal Toast Bread",
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "B111200",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10317,8 +10317,8 @@
       "legacy_category_id": "pilze",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No wood ear/Mu-Err mushroom entry exists in BLS; other mushroom species are not equivalent."
     },
     {
       "legacy_product_id": "base_food_yellow_perch_raw",
@@ -10327,8 +10327,8 @@
       "legacy_category_id": "fisch",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has European perch, a different species; no yellow perch entry exists."
     },
     {
       "legacy_product_id": "base_food_yellowfin_tuna_raw",
@@ -10343,8 +10343,8 @@
           ]
         }
       ],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "T124100",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10353,8 +10353,8 @@
       "legacy_name_en": "Yerba Mate Tea, Unsweetened",
       "legacy_category_id": "kaffee_tee",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "N611000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10363,8 +10363,8 @@
       "legacy_name_en": "Natural Yogurt 3.5%",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "M141300",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10374,8 +10374,8 @@
       "legacy_category_id": "feinkostsalate",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "BLS has no yogurt-dressed pasta salad entry; the available pasta salad has a different recipe."
     },
     {
       "legacy_product_id": "base_food_yogurt_herb_dip",
@@ -10384,8 +10384,8 @@
       "legacy_category_id": "sossen_dips",
       "suggested_matches": [],
       "target_bls_code": null,
-      "status": "pending",
-      "review_note": null
+      "status": "no_equivalent",
+      "review_note": "No yogurt-herb dip entry exists in BLS; yogurt dressing is a different prepared product."
     },
     {
       "legacy_product_id": "base_food_zabaglione",
@@ -10393,8 +10393,8 @@
       "legacy_name_en": "Zabaglione",
       "legacy_category_id": "dessert",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "Y8A1000",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10403,8 +10403,8 @@
       "legacy_name_en": "Zante Currants",
       "legacy_category_id": "trockenfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "F840300",
+      "status": "mapped",
       "review_note": null
     },
     {
@@ -10413,8 +10413,8 @@
       "legacy_name_en": "Zucchini",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
+      "target_bls_code": "G582100",
+      "status": "mapped",
       "review_note": null
     }
   ]

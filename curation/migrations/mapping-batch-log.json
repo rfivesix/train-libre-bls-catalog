@@ -32,8 +32,8 @@
       "legacy_product_id_start": "base_food_arugula",
       "legacy_product_id_end": "base_food_barley_flakes",
       "reviewed_count": 25,
-      "mapped_count": 17,
-      "no_equivalent_count": 7,
+      "mapped_count": 16,
+      "no_equivalent_count": 8,
       "pending_count": 1,
       "unresolved_count": 1,
       "model": "GPT-6 Luna",
@@ -99,8 +99,8 @@
       "legacy_product_id_start": "base_food_canned_mushrooms_drained",
       "legacy_product_id_end": "base_food_cheese_quesadilla",
       "reviewed_count": 25,
-      "mapped_count": 10,
-      "no_equivalent_count": 15,
+      "mapped_count": 9,
+      "no_equivalent_count": 16,
       "pending_count": 0,
       "unresolved_count": 0,
       "model": "GPT-6 Luna",
@@ -180,8 +180,8 @@
       "legacy_product_id_start": "base_food_couscous_with_vegetables_ready_meal",
       "legacy_product_id_end": "base_food_curry_sauce",
       "reviewed_count": 25,
-      "mapped_count": 12,
-      "no_equivalent_count": 13,
+      "mapped_count": 11,
+      "no_equivalent_count": 14,
       "pending_count": 0,
       "unresolved_count": 0,
       "model": "GPT-6 Luna",
@@ -245,8 +245,8 @@
       "legacy_product_id_start": "base_food_enoki_mushroom_raw",
       "legacy_product_id_end": "base_food_fruit_chews",
       "reviewed_count": 25,
-      "mapped_count": 10,
-      "no_equivalent_count": 14,
+      "mapped_count": 9,
+      "no_equivalent_count": 15,
       "pending_count": 1,
       "unresolved_count": 1,
       "model": "GPT-6 Luna",
@@ -466,7 +466,134 @@
       "legacy_product_id_end": "base_food_rooibos_tea_unsweetened",
       "reviewed_count": 25,
       "mapped_count": 11,
+      "no_equivalent_count": 14,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 31,
+      "legacy_product_id_start": "base_food_rosehip_jam",
+      "legacy_product_id_end": "base_food_seeded_bread",
+      "reviewed_count": 25,
+      "mapped_count": 11,
+      "no_equivalent_count": 14,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 32,
+      "legacy_product_id_start": "base_food_semi_dried_tomatoes_in_oil",
+      "legacy_product_id_end": "base_food_sourdough_bread",
+      "reviewed_count": 25,
+      "mapped_count": 9,
+      "no_equivalent_count": 11,
+      "pending_count": 5,
+      "unresolved_count": 5,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [
+        {
+          "bls_code": "D630400",
+          "decision": "German name identifies Butterkekse/Butterplätzchen (shortcrust), while English says shortbread biscuits. Followed German identity; the legacy shortbread-cookie entry is no_equivalent."
+        }
+      ],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 33,
+      "legacy_product_id_start": "base_food_soy_sauce",
+      "legacy_product_id_end": "base_food_strawberry_yogurt_smoothie",
+      "reviewed_count": 25,
+      "mapped_count": 8,
+      "no_equivalent_count": 14,
+      "pending_count": 3,
+      "unresolved_count": 3,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [
+        {
+          "bls_code": "T020100",
+          "decision": "German is Tintenfisch roh while English says Common cuttlefish raw; German does not resolve whether legacy raw squid is this cuttlefish or another squid species, so the mapping remains pending."
+        }
+      ],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 34,
+      "legacy_product_id_start": "base_food_sturgeon_raw",
+      "legacy_product_id_end": "base_food_tatsoi",
+      "reviewed_count": 25,
+      "mapped_count": 12,
       "no_equivalent_count": 13,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 35,
+      "legacy_product_id_start": "base_food_tea_black",
+      "legacy_product_id_end": "base_food_tuna_salad_with_mayonnaise",
+      "reviewed_count": 25,
+      "mapped_count": 10,
+      "no_equivalent_count": 15,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [
+        {
+          "bls_code": "T121902",
+          "decision": "German name specifies tuna in its own juice while English only says tuna canned/drained. Followed German identity; the water-packed legacy tuna entry is no_equivalent."
+        }
+      ],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 36,
+      "legacy_product_id_start": "base_food_turbot_raw",
+      "legacy_product_id_end": "base_food_vegetable_fried_rice_ready_meal",
+      "reviewed_count": 25,
+      "mapped_count": 7,
+      "no_equivalent_count": 15,
+      "pending_count": 3,
+      "unresolved_count": 3,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 37,
+      "legacy_product_id_start": "base_food_vegetable_lasagna_ready_meal",
+      "legacy_product_id_end": "base_food_white_marshmallows",
+      "reviewed_count": 25,
+      "mapped_count": 14,
+      "no_equivalent_count": 10,
+      "pending_count": 1,
+      "unresolved_count": 1,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 38,
+      "legacy_product_id_start": "base_food_white_tea_unsweetened",
+      "legacy_product_id_end": "base_food_zucchini",
+      "reviewed_count": 21,
+      "mapped_count": 13,
+      "no_equivalent_count": 7,
       "pending_count": 1,
       "unresolved_count": 1,
       "model": "GPT-6 Luna",
@@ -476,6 +603,30 @@
     }
   ],
   "duplicate_target_reviews": [
+    {
+      "target_bls_code": "B101000",
+      "legacy_product_ids": [
+        "base_food_bread_whole_wheat",
+        "base_food_whole_grain_bread"
+      ],
+      "assessment": "Legitimate duplicate mapping: both legacy entries have German name Vollkornbrot; BLS German name identifies the same wholegrain bread."
+    },
+    {
+      "target_bls_code": "B311000",
+      "legacy_product_ids": [
+        "base_food_bread_wheat",
+        "base_food_white_bread"
+      ],
+      "assessment": "Legitimate duplicate mapping: BLS German-authoritative name combines Weizenbrot/Weißbrot, representing these legacy wheat/white bread names."
+    },
+    {
+      "target_bls_code": "B782100",
+      "legacy_product_ids": [
+        "base_food_pita_bread",
+        "base_food_wheat_flatbread"
+      ],
+      "assessment": "Legitimate duplicate mapping: pita bread is a wheat flatbread; BLS names the broader wheat-flatbread form."
+    },
     {
       "target_bls_code": "C119132",
       "legacy_product_ids": [
@@ -538,7 +689,7 @@
         "base_food_butter_croissant",
         "base_food_croissant"
       ],
-      "assessment": "Legitimate duplicate mapping: BLS croissant record covers the legacy croissant variants and has no separate butter distinction."
+      "assessment": "Legitimate duplicate mapping: German BLS identifies the common croissant pastry form; separate butter-croissant and generic croissant IDs refer to that form."
     },
     {
       "target_bls_code": "F503100",
@@ -549,6 +700,14 @@
       "assessment": "Legitimate duplicate mapping: both legacy IDs refer to banana."
     },
     {
+      "target_bls_code": "F840100",
+      "legacy_product_ids": [
+        "base_food_raisins",
+        "base_food_sultanas"
+      ],
+      "assessment": "Legitimate duplicate mapping: BLS German explicitly combines Rosine/Sultanine; these legacy entries are raisins/sultanas."
+    },
+    {
       "target_bls_code": "G770432",
       "legacy_product_ids": [
         "base_food_chickpeas_cooked",
@@ -557,12 +716,20 @@
       "assessment": "Legitimate duplicate mapping: both legacy IDs refer to cooked chickpeas."
     },
     {
+      "target_bls_code": "H120100",
+      "legacy_product_ids": [
+        "base_food_raw_walnuts",
+        "base_food_walnut"
+      ],
+      "assessment": "Legitimate duplicate mapping: the BLS unqualified walnut entry represents plain raw walnuts."
+    },
+    {
       "target_bls_code": "H130100",
       "legacy_product_ids": [
         "base_food_hazelnut",
         "base_food_raw_hazelnuts"
       ],
-      "assessment": "Legitimate duplicate mapping: BLS unqualified hazelnut entry represents plain raw hazelnut."
+      "assessment": "Legitimate duplicate mapping: the BLS unqualified hazelnut entry represents plain raw hazelnuts."
     },
     {
       "target_bls_code": "H170100",
@@ -570,7 +737,7 @@
         "base_food_cashew",
         "base_food_raw_cashews"
       ],
-      "assessment": "Legitimate duplicate mapping: BLS unqualified cashew entry represents plain raw cashew."
+      "assessment": "Legitimate duplicate mapping: the BLS unqualified cashew entry represents plain raw cashews."
     },
     {
       "target_bls_code": "H210100",
@@ -578,7 +745,7 @@
         "base_food_almond",
         "base_food_raw_almonds"
       ],
-      "assessment": "Legitimate duplicate mapping: BLS sweet almond entry represents plain raw almond."
+      "assessment": "Legitimate duplicate mapping: the BLS sweet-almond entry represents plain raw almonds."
     },
     {
       "target_bls_code": "H310100",
@@ -613,6 +780,30 @@
       "assessment": "Legitimate duplicate mapping: both legacy IDs refer to cooked lentils."
     },
     {
+      "target_bls_code": "K701100",
+      "legacy_product_ids": [
+        "base_food_mushroom_button",
+        "base_food_white_button_mushroom_raw"
+      ],
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to raw button mushrooms; “white” is the ordinary button mushroom form."
+    },
+    {
+      "target_bls_code": "M141300",
+      "legacy_product_ids": [
+        "base_food_plain_whole_milk_yogurt",
+        "base_food_yoghurt_natural_3_5"
+      ],
+      "assessment": "Legitimate duplicate mapping: both legacy entries are plain whole-milk/natural yogurt at 3.5% fat."
+    },
+    {
+      "target_bls_code": "M710100",
+      "legacy_product_ids": [
+        "base_food_plain_skyr",
+        "base_food_skyr_natural"
+      ],
+      "assessment": "Legitimate duplicate mapping: both legacy entries are plain/natural Skyr."
+    },
+    {
       "target_bls_code": "M713100",
       "legacy_product_ids": [
         "base_food_low_fat_quark",
@@ -629,12 +820,28 @@
       "assessment": "Legitimate duplicate mapping: both legacy IDs refer to plain black coffee infusion."
     },
     {
+      "target_bls_code": "N630000",
+      "legacy_product_ids": [
+        "base_food_black_tea_unsweetened",
+        "base_food_tea_black"
+      ],
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to unsweetened black tea infusion."
+    },
+    {
       "target_bls_code": "S361000",
       "legacy_product_ids": [
         "base_food_fruit_gummies",
         "base_food_gummy_bears"
       ],
-      "assessment": "Legitimate duplicate mapping: BLS generic fruit gummy entry represents fruit gummies and gummy bears."
+      "assessment": "Legitimate duplicate mapping: BLS generic fruit-gummy entry represents fruit gummies and gummy bears."
+    },
+    {
+      "target_bls_code": "S372000",
+      "legacy_product_ids": [
+        "base_food_marshmallows",
+        "base_food_white_marshmallows"
+      ],
+      "assessment": "Legitimate duplicate mapping: plain marshmallows are the white marshmallow form represented by BLS."
     },
     {
       "target_bls_code": "T204100",
@@ -651,7 +858,7 @@
         "base_food_pork_loin_raw",
         "base_food_pork_tenderloin_raw"
       ],
-      "assessment": "Legitimate duplicate mapping: BLS combines pork tenderloin/filet and loin in one German-authoritative raw entry."
+      "assessment": "Legitimate duplicate mapping: BLS German combines pork Filet/Lende in one raw record, covering these overlapping legacy cut names."
     },
     {
       "target_bls_code": "W327000",
@@ -680,8 +887,8 @@
   ],
   "checkpoint_reviewed_count": 750,
   "checkpoint_outcomes": {
-    "mapped": 352,
-    "no_equivalent": 347,
-    "pending": 51
+    "mapped": 348,
+    "no_equivalent": 352,
+    "pending": 50
   }
 }
