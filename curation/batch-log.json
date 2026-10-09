@@ -1755,6 +1755,87 @@
       "model": "GPT-6 Luna",
       "reasoning_effort": "medium",
       "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 126,
+      "code_start": "X9A6030",
+      "code_end": "Y114012",
+      "count": 50,
+      "category_counts": {
+        "pasta_dough": 4,
+        "prepared_dishes": 18,
+        "meat_poultry": 27,
+        "sauces_condiments": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 127,
+      "code_start": "Y114022",
+      "code_end": "Y180012",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 41,
+        "soups_stews": 9
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "Y144512"
+      ]
+    },
+    {
+      "batch": 128,
+      "code_start": "Y180033",
+      "code_end": "Y263123",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 49,
+        "soups_stews": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "Y253133"
+      ]
+    },
+    {
+      "batch": 129,
+      "code_start": "Y271013",
+      "code_end": "Y335012",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 46,
+        "prepared_dishes": 4
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 130,
+      "code_start": "Y336022",
+      "code_end": "Y422032",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 48,
+        "prepared_dishes": 2
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "Y346013",
+        "Y351013",
+        "Y351023",
+        "Y351032"
+      ]
     }
   ]
 }
