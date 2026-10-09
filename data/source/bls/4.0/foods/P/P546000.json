@@ -1,0 +1,699 @@
+{
+  "bls_code": "P546000",
+  "source_group": "P",
+  "name_de": "Eierlikör",
+  "name_en": "Egg liqueur",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 1229,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 294,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 45.6,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PROT625": {
+      "value": 4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Wirths W.; Kleine Nährwerttabelle der Deutschen Gesellschaft für Ernährung e.V.; Umschau Verlag, Frankfurt am Main; 1992"
+    },
+    "FAT": {
+      "value": 7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Wirths W.; Kleine Nährwerttabelle der Deutschen Gesellschaft für Ernährung e.V.; Umschau Verlag, Frankfurt am Main; 1992"
+    },
+    "CHO": {
+      "value": 27.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 15.22,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Lachenmeier DW, Sviridov O, Frank W, Athanasakis C, Schnellbestimmung des Alkoholgehaltes in Emulsionslikören und anderen Spirituosen mittels Wasserdampfdestillation und Biegeschwinger, 2003#Converted value from: Lachenmeier DW, Frank W, Athanasakis C, Schnellbestimmung des Alkohol- und Extraktgehaltes in Likören mittels Wasserdampfdestillation und Biegeschwinger, 2005"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.373,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITA": {
+      "value": 137,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 137,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 136,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 6,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": 0.2,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1.032,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 1.032,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": 0.001,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0.001,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0.001,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": 0.03,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 11,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 10,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.034,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "RIBF": {
+      "value": 0.19,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "NIAEQ": {
+      "value": 0.972,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.105,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PANTAC": {
+      "value": 0.417,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITB6": {
+      "value": 50,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "BIOT": {
+      "value": 13.1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0.45,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITC": {
+      "value": 1.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "NACL": {
+      "value": 0.135,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 54,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CLD": {
+      "value": 45,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "K": {
+      "value": 165,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CA": {
+      "value": 130,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "MG": {
+      "value": 19,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "P": {
+      "value": 109,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "S": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ZN": {
+      "value": 0.46,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ID": {
+      "value": 20,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "MN": {
+      "value": 5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "FD": {
+      "value": 6,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.073,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.073,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 27,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 27,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 27.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 2.5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0.129,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F6:0": {
+      "value": 0.076,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F8:0": {
+      "value": 0.044,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F10:0": {
+      "value": 0.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F12:0": {
+      "value": 0.112,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F14:0": {
+      "value": 0.401,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F15:0": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 1.13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F17:0": {
+      "value": 0.011,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.511,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F20:0": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 2.37,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.15,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": 0.11,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 2.11,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F22:1CN9": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.91,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.03,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.03,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F22:5CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "FAPUN6": {
+      "value": 0.877,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.782,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": 0.006,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": 0.006,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0.089,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.127,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 59,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "AAE9": {
+      "value": 1.788,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.218,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.264,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 0.392,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.066,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 0.433,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.131,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.218,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 0.347,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0.31,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.113,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.185,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.156,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.323,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.192,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.052,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.173,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.271,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 0.64,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Wirths W.; Kleine Nährwerttabelle der Deutschen Gesellschaft für Ernährung e.V.; Umschau Verlag, Frankfurt am Main; 1992"
+    }
+  }
+}

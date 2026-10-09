@@ -1,0 +1,699 @@
+{
+  "bls_code": "T305100",
+  "source_group": "T",
+  "name_de": "Goldbutt/Scholle, roh",
+  "name_en": "Plaice raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 322,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 76,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 81.7,
+      "data_origin": "Literatur",
+      "reference": "Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "PROT625": {
+      "value": 17.2,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FAT": {
+      "value": 0.8,
+      "data_origin": "Literatur",
+      "reference": "Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "CHO": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.9,
+      "data_origin": "Literatur",
+      "reference": "Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "VITA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "CARTB": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 5,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.85,
+      "data_origin": "Übernommener Wert",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "TOCPHA": {
+      "value": 0.85,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 1.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.02,
+      "data_origin": "Aggregation",
+      "reference": "Schurgers,L.J. and Vermeer, C.; Determination of Phylloquinone and Menaquinones in Food. Effect of food matrix on circulating vitamin K concentrations; Haemostasis; 2000; 30#Ostermeyer, U. and Schmidt, T.; Determination of vitamin K in the edible part of fish by high-performance liquid chromatography; Eur Food Res Technol; 2001; 212"
+    },
+    "VITK2": {
+      "value": 1.1,
+      "data_origin": "Aggregation",
+      "reference": "Ostermeyer, U. and Schmidt, T.; Determination of vitamin K in the edible part of fish by high-performance liquid chromatography; Eur Food Res Technol; 2001; 212#Converted value from: Schurgers,L.J. and Vermeer, C.; Determination of Phylloquinone and Menaquinones in Food. Effect of food matrix on circulating vitamin K concentrations; Haemostasis; 2000; 30"
+    },
+    "THIA": {
+      "value": 0.21,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.22,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 6.933,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 0.77,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "VITB6": {
+      "value": 220,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "BIOT": {
+      "value": 35.5,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "FOL": {
+      "value": 11,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 11,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 1.45,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITC": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "NACL": {
+      "value": 0.153,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 61.2,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "CLD": {
+      "value": 180,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "K": {
+      "value": 317,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "CA": {
+      "value": 26,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#The Swedish Food Agency; The Swedish Food Agency food database; 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Norwegian Food Safety Authority, Norwegian Food Composition Database 2023"
+    },
+    "MG": {
+      "value": 16.8,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "P": {
+      "value": 157,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.275,
+      "data_origin": "Literatur",
+      "reference": "Alves, R. N., A. L. Maulvault, V. L. Barbosa, M. Fernandez-Tejedor, A. Tediosi, M. Kotterman, F. H. M. van den Heuvel, J. Robbens, J. O. Fernandes, R. Romme Rasmussen, J. J. Sloth and A. Marques; Oral bioaccessibility of toxic and essential elements in raw and cooked commercial seafood species available in European markets.; Food Chemistry; 2018; 267"
+    },
+    "ZN": {
+      "value": 0.5,
+      "data_origin": "Aggregation",
+      "reference": "Alves, R. N., A. L. Maulvault, V. L. Barbosa, M. Fernandez-Tejedor, A. Tediosi, M. Kotterman, F. H. M. van den Heuvel, J. Robbens, J. O. Fernandes, R. Romme Rasmussen, J. J. Sloth and A. Marques; Oral bioaccessibility of toxic and essential elements in raw and cooked commercial seafood species available in European markets.; Food Chemistry; 2018; 267#Converted value from: BVL / BfR; Lebensmittel-Monitoring; 2001"
+    },
+    "ID": {
+      "value": 28.2,
+      "data_origin": "Literatur",
+      "reference": "Alves, R. N., A. L. Maulvault, V. L. Barbosa, M. Fernandez-Tejedor, A. Tediosi, M. Kotterman, F. H. M. van den Heuvel, J. Robbens, J. O. Fernandes, R. Romme Rasmussen, J. J. Sloth and A. Marques; Oral bioaccessibility of toxic and essential elements in raw and cooked commercial seafood species available in European markets.; Food Chemistry; 2018; 267"
+    },
+    "CU": {
+      "value": 14.2,
+      "data_origin": "Literatur",
+      "reference": "Alves, R. N., A. L. Maulvault, V. L. Barbosa, M. Fernandez-Tejedor, A. Tediosi, M. Kotterman, F. H. M. van den Heuvel, J. Robbens, J. O. Fernandes, R. Romme Rasmussen, J. J. Sloth and A. Marques; Oral bioaccessibility of toxic and essential elements in raw and cooked commercial seafood species available in European markets.; Food Chemistry; 2018; 267"
+    },
+    "MN": {
+      "value": 14,
+      "data_origin": "Literatur",
+      "reference": "Alves, R. N., A. L. Maulvault, V. L. Barbosa, M. Fernandez-Tejedor, A. Tediosi, M. Kotterman, F. H. M. van den Heuvel, J. Robbens, J. O. Fernandes, R. Romme Rasmussen, J. J. Sloth and A. Marques; Oral bioaccessibility of toxic and essential elements in raw and cooked commercial seafood species available in European markets.; Food Chemistry; 2018; 267"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 20,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.14,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.02,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F15:0": {
+      "value": 0.006,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F16:0": {
+      "value": 0.08,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F17:0": {
+      "value": 0.004,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F18:0": {
+      "value": 0.03,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0.13,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.07,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F18:1CN7": {
+      "value": 0.02,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F18:1CN9": {
+      "value": 0.03,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F20:1CN9": {
+      "value": 0.007,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.001,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0.1,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0.1,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "FAPUN6": {
+      "value": 0.04,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.004,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0.0006,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0.04,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "FAX": {
+      "value": 0.007,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    },
+    "CHORL": {
+      "value": 63,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "AAE9": {
+      "value": 7.76,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 1.405,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ARG": {
+      "value": 1.135,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ASP": {
+      "value": 1.825,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CYSTE": {
+      "value": 0.179,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLU": {
+      "value": 2.605,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "GLY": {
+      "value": 1.25,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "HIS": {
+      "value": 0.386,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 0.976,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LEU": {
+      "value": 1.445,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LYS": {
+      "value": 1.695,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.531,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 0.687,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PRO": {
+      "value": 0.738,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "SER": {
+      "value": 1.039,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "THR": {
+      "value": 0.833,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TRP": {
+      "value": 0.176,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TYR": {
+      "value": 0.589,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VAL": {
+      "value": 1.031,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NT": {
+      "value": 2.7,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Karl, Horst; Manthey-Karl, Monika; Ostermeyer, Ute; Lehmann, Ines; Wagner, Hubertus; Nutritional composition and sensory attributes of Alaskan flatfishes compared to plaice (Pleuronectes platessa); International Journal of Food Science & Technology; 2013; 48; 5"
+    }
+  }
+}

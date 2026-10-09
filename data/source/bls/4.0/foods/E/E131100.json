@@ -1,0 +1,699 @@
+{
+  "bls_code": "E131100",
+  "source_group": "E",
+  "name_de": "Entenei roh",
+  "name_en": "Duck egg raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 756,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 182,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 70.9,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PROT625": {
+      "value": 12.8,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "FAT": {
+      "value": 14.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 0.34,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITA": {
+      "value": 544,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 542,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 540,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CARTB": {
+      "value": 14,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "USDA (US Department of Agriculture ), Composition of Foods: Raw, Processed, Prepared USDA National Nutrient Database for Standard Reference, Legacy (2018), 2018"
+    },
+    "CAROTPAXB": {
+      "value": 18.1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ERGCAL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1.23,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 1.23,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": 0.05,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0.72,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0.005,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": 0.04,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 8,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.6,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 7,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.16,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.53,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 4.46,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 1.76,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 236,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 19.5,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 76,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 76,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 5.1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.25,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 100,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CLD": {
+      "value": 180,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "K": {
+      "value": 150,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CA": {
+      "value": 63,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MG": {
+      "value": 16,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "P": {
+      "value": 178,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 2.7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ZN": {
+      "value": 1.33,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ID": {
+      "value": 43.5,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 62,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MN": {
+      "value": 38,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FD": {
+      "value": 4.7,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 0.5,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.34,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.34,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0.34,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 3.852,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.052,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 3.14,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.66,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 6.82,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.46,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 6.36,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 1.025,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.105,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.105,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.92,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.585,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0.335,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 852,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 6.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.631,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ARG": {
+      "value": 0.765,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ASP": {
+      "value": 0.777,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CYSTE": {
+      "value": 0.285,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "GLU": {
+      "value": 1.79,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "GLY": {
+      "value": 0.422,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "HIS": {
+      "value": 0.32,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ILE": {
+      "value": 0.598,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "LEU": {
+      "value": 1.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "LYS": {
+      "value": 0.951,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "MET": {
+      "value": 0.576,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PHE": {
+      "value": 0.84,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PRO": {
+      "value": 0.48,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "SER": {
+      "value": 0.963,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "THR": {
+      "value": 0.736,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TRP": {
+      "value": 0.26,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TYR": {
+      "value": 0.613,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VAL": {
+      "value": 0.885,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "NT": {
+      "value": 2,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    }
+  }
+}

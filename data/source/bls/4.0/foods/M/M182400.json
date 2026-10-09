@@ -1,0 +1,699 @@
+{
+  "bls_code": "M182400",
+  "source_group": "M",
+  "name_de": "Kondensmilch mind. 7,5 % Fett",
+  "name_en": "Evaporated milk min. 7.5 % fat",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 552,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 132,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 74.7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PROT625": {
+      "value": 6.358,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FAT": {
+      "value": 7.57,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 9.32,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.398,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.52,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITA": {
+      "value": 54,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 51,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 48,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CARTB": {
+      "value": 34,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.17,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TOCPHA": {
+      "value": 0.17,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0.005,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 10.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.4,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 9.71,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.067,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.37,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 1.667,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 0.64,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITB6": {
+      "value": 59,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "BIOT": {
+      "value": 6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FOL": {
+      "value": 6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0.41,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITC": {
+      "value": 2.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.245,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 98,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CLD": {
+      "value": 209,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "K": {
+      "value": 322,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CA": {
+      "value": 242,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MG": {
+      "value": 27,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "P": {
+      "value": 189,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": 106,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.094,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ZN": {
+      "value": 0.78,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ID": {
+      "value": 6.7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CU": {
+      "value": 21,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MN": {
+      "value": 5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FD": {
+      "value": 35,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CR": {
+      "value": 0.6,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 9.8,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.381,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0.017,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 9.32,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 9.32,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "SUGAR": {
+      "value": 9.32,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 4.127,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F6:0": {
+      "value": 0.13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F8:0": {
+      "value": 0.05,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F10:0": {
+      "value": 0.11,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F12:0": {
+      "value": 0.241,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F14:0": {
+      "value": 0.794,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 1.77,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.832,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 2.007,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.172,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 1.835,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.205,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.043,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.043,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.162,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.162,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 20.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "AAE9": {
+      "value": 3.268,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.27,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ARG": {
+      "value": 0.23,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ASP": {
+      "value": 0.55,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CYSTE": {
+      "value": 0.066,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLU": {
+      "value": 1.499,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLY": {
+      "value": 0.18,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "HIS": {
+      "value": 0.17,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 0.45,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LEU": {
+      "value": 0.72,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LYS": {
+      "value": 0.52,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.17,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 0.34,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PRO": {
+      "value": 0.72,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "SER": {
+      "value": 0.41,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "THR": {
+      "value": 0.33,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TRP": {
+      "value": 0.088,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TYR": {
+      "value": 0.32,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VAL": {
+      "value": 0.48,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NT": {
+      "value": 1.017,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    }
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "bls_code": "H520800",
+  "source_group": "H",
+  "name_de": "Oliven geschwärzt, in Salzlake, abgetropft",
+  "name_en": "Olives blackened, in brine, drained",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 576,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 140,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 80,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PROT625": {
+      "value": 0.84,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "FAT": {
+      "value": 14.84,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "CHO": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "OA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 2.23,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITA": {
+      "value": 33,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 16,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 198,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1.65,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 1.65,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TOCPHG": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TOCTRA": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITK": {
+      "value": 1.4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 1.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITK2": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.003,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "RIBF": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "NIAEQ": {
+      "value": 0.037,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.037,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PANTAC": {
+      "value": 0.015,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITB6": {
+      "value": 9,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "BIOT": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITC": {
+      "value": 0.9,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "NACL": {
+      "value": 1.838,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 735,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CLD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "K": {
+      "value": 8,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CA": {
+      "value": 88,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "MG": {
+      "value": 4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "P": {
+      "value": 3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 6.28,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ZN": {
+      "value": 0.22,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ID": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 251,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "MN": {
+      "value": 20,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 1.4,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.2,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 2.62,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.0016,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F15:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F16:0": {
+      "value": 2.16,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F17:0": {
+      "value": 0.022,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F18:0": {
+      "value": 0.338,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F20:0": {
+      "value": 0.072,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F22:0": {
+      "value": 0.022,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F24:0": {
+      "value": 0.008,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "FAMS": {
+      "value": 10.48,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.127,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 10.31,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F20:1CN9": {
+      "value": 0.045,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.86,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.127,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.127,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.73,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.73,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0.0001,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.23,
+      "data_origin": "Literatur",
+      "reference": "Lopez, A., et al.; Fatty acid profile of table olives and its multivariate characterization using unsupervised (PCA) and supervised (DA) chemometrics.; Journal of Agricultural and Food Chemistry; 2006; 54; 18"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "AAE9": {
+      "value": 0.24,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.043,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ARG": {
+      "value": 0.067,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ASP": {
+      "value": 0.092,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CYSTE": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 0.093,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "GLY": {
+      "value": 0.049,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "HIS": {
+      "value": 0.023,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ILE": {
+      "value": 0.031,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "LEU": {
+      "value": 0.05,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "LYS": {
+      "value": 0.032,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "MET": {
+      "value": 0.012,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PHE": {
+      "value": 0.029,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PRO": {
+      "value": 0.04,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "SER": {
+      "value": 0.031,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "THR": {
+      "value": 0.026,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TRP": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.023,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VAL": {
+      "value": 0.038,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "NT": {
+      "value": 0.13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    }
+  }
+}

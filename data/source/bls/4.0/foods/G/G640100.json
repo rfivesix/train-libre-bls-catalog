@@ -1,0 +1,699 @@
+{
+  "bls_code": "G640100",
+  "source_group": "G",
+  "name_de": "Pastinake roh",
+  "name_en": "Parsnip raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 250,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 59,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 80.2,
+      "data_origin": "Literatur",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "PROT625": {
+      "value": 2.6875,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "FAT": {
+      "value": 0.43,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 9.7,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 2.13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.48,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.3,
+      "data_origin": "Literatur",
+      "reference": "Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "VITA": {
+      "value": 3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 20,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.88,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TOCPHA": {
+      "value": 0.88,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TOCPHB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.08,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 1.173,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.94,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 0.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITB6": {
+      "value": 110,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "BIOT": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "FOL": {
+      "value": 59,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 59,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 18,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.02,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 8,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CLD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "K": {
+      "value": 594,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "CA": {
+      "value": 46,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "MG": {
+      "value": 32,
+      "data_origin": "Aggregation",
+      "reference": "Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "P": {
+      "value": 82.333,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.65,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "ZN": {
+      "value": 0.635,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "ID": {
+      "value": 1.9,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CU": {
+      "value": 120,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "MN": {
+      "value": 300,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "FD": {
+      "value": 10,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CR": {
+      "value": 1,
+      "data_origin": "Literatur",
+      "reference": "Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.13,
+      "data_origin": "Literatur",
+      "reference": "Senser F., Scherz H.; Fleisch+ -prod., Fisch+ -prod., Gemüse+ -prod., Früchte+ -prod., Süßw., alkoholh; Brief vom 19.08.93 Deut. Forschungsanst. f. Lebensmittelchem; 1993; 0"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.35,
+      "data_origin": "Literatur",
+      "reference": "Senser F., Scherz H.; Fleisch+ -prod., Fisch+ -prod., Gemüse+ -prod., Früchte+ -prod., Süßw., alkoholh; Brief vom 19.08.93 Deut. Forschungsanst. f. Lebensmittelchem; 1993; 0"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.501,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.245,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FRUS": {
+      "value": 0.256,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 2.56,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 2.56,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 3.061,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 6.6,
+      "data_origin": "Aggregation",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM), Nederlands Voedingsstoffenbestand (NEVO) 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Norwegian Food Safety Authority, Norwegian Food Composition Database 2023"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 2.13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FIBINS": {
+      "value": 1.51,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FIBSOL": {
+      "value": 0.62,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.065,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.062,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.0028,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0.024,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.024,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.255,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.021,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.021,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.234,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.234,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.415,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.067,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ARG": {
+      "value": 0.139,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ASP": {
+      "value": 0.131,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CYSTE": {
+      "value": 0.004,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLU": {
+      "value": 0.123,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLY": {
+      "value": 0.042,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "HIS": {
+      "value": 0.021,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 0.052,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LEU": {
+      "value": 0.07,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LYS": {
+      "value": 0.078,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.016,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 0.045,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PRO": {
+      "value": 0.044,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "SER": {
+      "value": 0.048,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "THR": {
+      "value": 0.049,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TRP": {
+      "value": 0.014,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TYR": {
+      "value": 0.026,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VAL": {
+      "value": 0.07,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NT": {
+      "value": 0.43,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    }
+  }
+}

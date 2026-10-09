@@ -1,0 +1,699 @@
+{
+  "bls_code": "P165000",
+  "source_group": "P",
+  "name_de": "Lagerbier dunkel",
+  "name_en": "Dark beer",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 111,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 27,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 91.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PROT625": {
+      "value": 0.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "FAT": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CHO": {
+      "value": 0.172,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 3.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "OA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.179,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITA": {
+      "value": 0.9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 0.4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 5.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CAROTPAXB": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.01484,
+      "data_origin": "Literatur",
+      "reference": "Hucker B, Wakeling L, Vriesekoop F; The quantitative analysis of thiamin and riboflavin and their respective vitamers in fermented alcoholic beverages; Journal of Agricultural and Food Chemistry; 2011; 59"
+    },
+    "RIBF": {
+      "value": 0.03307,
+      "data_origin": "Literatur",
+      "reference": "Hucker B, Wakeling L, Vriesekoop F; The quantitative analysis of thiamin and riboflavin and their respective vitamers in fermented alcoholic beverages; Journal of Agricultural and Food Chemistry; 2011; 59"
+    },
+    "NIAEQ": {
+      "value": 0.963,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.88,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 0.08,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITB6": {
+      "value": 50,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "BIOT": {
+      "value": 1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FOL": {
+      "value": 6.4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 6.4,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0.008,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CLD": {
+      "value": 15.2,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "K": {
+      "value": 50,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CA": {
+      "value": 3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MG": {
+      "value": 10,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "P": {
+      "value": 25,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": 12.65,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.0061,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ZN": {
+      "value": 0.0017,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ID": {
+      "value": 0.26249,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 5.4,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MN": {
+      "value": 11.7,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.072,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.056,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0.016,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0.013,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0.087,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0.172,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F17:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.131,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.022,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ARG": {
+      "value": 0.015,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ASP": {
+      "value": 0.027,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "CYSTE": {
+      "value": 0.01,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "GLU": {
+      "value": 0.084,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "GLY": {
+      "value": 0.023,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "HIS": {
+      "value": 0.011,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ILE": {
+      "value": 0.018,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "LEU": {
+      "value": 0.018,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "LYS": {
+      "value": 0.015,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "MET": {
+      "value": 0.007,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "PHE": {
+      "value": 0.024,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "PRO": {
+      "value": 0.069,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "SER": {
+      "value": 0.016,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "THR": {
+      "value": 0.013,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "TRP": {
+      "value": 0.005,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "TYR": {
+      "value": 0.012,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "VAL": {
+      "value": 0.02,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "NT": {
+      "value": 0.1,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    }
+  }
+}

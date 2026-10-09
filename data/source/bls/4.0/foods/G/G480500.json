@@ -1,0 +1,699 @@
+{
+  "bls_code": "G480500",
+  "source_group": "G",
+  "name_de": "Speisezwiebel Pulver",
+  "name_en": "Onion powder",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 1410,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 334,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 5.39,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "PROT625": {
+      "value": 11.489,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "FAT": {
+      "value": 1.491,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "CHO": {
+      "value": 59.76,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 13.9,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 2.524,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 4.622,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "VITA": {
+      "value": 3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 20,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.398,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 0.398,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": 1.193,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 4,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.417,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "RIBF": {
+      "value": 0.179,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "NIAEQ": {
+      "value": 5.601,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 2.684,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "PANTAC": {
+      "value": 0.36,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 605.6,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 9,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 75,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 75,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 14.71,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0.222,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 89,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "CLD": {
+      "value": 193.61,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "K": {
+      "value": 1729,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "CA": {
+      "value": 248,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "MG": {
+      "value": 99,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "P": {
+      "value": 331.284,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 6.808,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "ZN": {
+      "value": 2.09,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "ID": {
+      "value": 20,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 487,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "MN": {
+      "value": 1290,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "FD": {
+      "value": 417,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 10,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 20,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.661,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 1.672,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 44.83,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 26.84,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 17.99,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 14.928,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 14.68,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0.248,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 59.76,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 13.9,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 7,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 7,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.249,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": 0.006,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": 0.008,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.2127,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "F17:0": {
+      "value": 0.00368,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.00467,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": 0.0139,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0.1499,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.1401,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": 0.00427,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": 0.00557,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.5158,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.0268,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.0268,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.489,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.489,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.1176,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 2.168,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 1.47,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.119,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.175,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 0.303,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0.524,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.11,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.321,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SER": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.184,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.175,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.377,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.257,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 1.699,
+      "data_origin": "Reskalierung",
+      "reference": "-"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://train-libre.org/schemas/bls-source-food.schema.json",
+  "title": "Normalized BLS 4.0 food record",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["bls_code", "source_group", "name_de", "name_en", "note", "nutrients"],
+  "properties": {
+    "bls_code": {"type": "string", "pattern": "^[A-Z][A-Z0-9]{6}$"},
+    "source_group": {"type": "string", "pattern": "^[A-Z]$"},
+    "name_de": {"type": "string", "minLength": 1},
+    "name_en": {"type": "string", "minLength": 1},
+    "note": {"type": ["string", "null"]},
+    "nutrients": {
+      "type": "object",
+      "propertyNames": {"pattern": "^[A-Z0-9:]+$"},
+      "additionalProperties": {"$ref": "#/$defs/nutrientFact"}
+    }
+  },
+  "$defs": {
+    "nutrientFact": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value", "data_origin", "reference"],
+      "properties": {
+        "value": {"type": ["number", "string", "null"]},
+        "data_origin": {"type": ["string", "null"]},
+        "reference": {"type": ["string", "null"]}
+      }
+    }
+  }
+}

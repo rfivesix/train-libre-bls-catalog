@@ -1,0 +1,699 @@
+{
+  "bls_code": "T507100",
+  "source_group": "T",
+  "name_de": "Pangasius/Schlankwels, roh",
+  "name_en": "Striped catfish raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 321,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 76,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 84.6,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PROT625": {
+      "value": 14.91,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FAT": {
+      "value": 1.82,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CHO": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.99,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.317,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 0.317,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 0.26,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.19,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0.07,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "RIBF": {
+      "value": 0.17,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NIAEQ": {
+      "value": 4.793,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 1.96,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PANTAC": {
+      "value": 0.66,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "VITB6": {
+      "value": 130,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 37.9,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "FOL": {
+      "value": 60.9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 60.9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0.71,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0.585,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 234,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CLD": {
+      "value": 182,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "K": {
+      "value": 240,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CA": {
+      "value": 10,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "MG": {
+      "value": 18.3,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "P": {
+      "value": 151,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "S": {
+      "value": 160,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.12,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ZN": {
+      "value": 0.3,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013#Converted value from: BVL; Lebensmittel Monitoring 2011; 2011#Converted value from: BVL; Lebensmittel Monitoring 2017; 2017"
+    },
+    "ID": {
+      "value": 3,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "CU": {
+      "value": 20,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013#Converted value from: BVL; Lebensmittel Monitoring 2011; 2011#Converted value from: BVL; Lebensmittel Monitoring 2017; 2017"
+    },
+    "MN": {
+      "value": 10,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "FD": {
+      "value": 100,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.7893,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": 0.0018,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.0686,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": 0.0031,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.5478,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F17:0": {
+      "value": 0.0035,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.1583,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F20:0": {
+      "value": 0.0036,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": 0.0015,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": 0.0011,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0.7576,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0.0007,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.0184,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": 0.0095,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F18:1CN9": {
+      "value": 0.7069,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": 0.0212,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": 0.0009,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.2467,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.0422,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.0075,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F20:5CN3": {
+      "value": 0.0111,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": 0.0049,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0.0187,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.2034,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.1512,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": 0.0011,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0.0069,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0.0073,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": 0.0173,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0.0207,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.0325,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 42.8,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 6.68,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.86,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.94,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 1.61,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.18,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 2.53,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.6,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.35,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.77,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 1.31,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 1.5,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.45,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.62,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.48,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.61,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.72,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.17,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.54,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.79,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 2.386,
+      "data_origin": "Analyse",
+      "reference": "-"
+    }
+  }
+}

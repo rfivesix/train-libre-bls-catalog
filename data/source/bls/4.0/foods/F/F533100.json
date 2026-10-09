@@ -1,0 +1,699 @@
+{
+  "bls_code": "F533100",
+  "source_group": "F",
+  "name_de": "Honigmelone roh",
+  "name_en": "Honeydew melon raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 194,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 46,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 91,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "PROT625": {
+      "value": 0.505,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Eitenmiller, R. R.; Johnson, C. D.; Bryan, W. D.; Warren, D. B.; Gebhardt, S. E.; NUTRIENT COMPOSITION OF CANTALOUPE AND HONEYDEW MELONS; Journal of Food Science; 1985; 50#Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FAT": {
+      "value": 0.1,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "CHO": {
+      "value": 10.09,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.13,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Lee, Y., et al. ; Analytical dietary fiber database for the National Health and Nutrition Survey in Korea.; Journal of Food Composition and Analysis; 2008; 21"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.075,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.7,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "VITA": {
+      "value": 20,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 10,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 114.8,
+      "data_origin": "Literatur",
+      "reference": "Laur, L. M. and L. Tian; Provitamin A and vitamin C contents in selected California-grown cantaloupe and honeydew melons and imported melons.; Journal of Food Composition and Analysis; 2011; 24"
+    },
+    "CAROTPAXB": {
+      "value": 7,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.03,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHA": {
+      "value": 0.03,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHB": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHG": {
+      "value": 0.03,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHD": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCTRA": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "VITK": {
+      "value": 3.7,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 3.7,
+      "data_origin": "Literatur",
+      "reference": "Dismore M.L., Haytowitz D.B., Gebhardt S.E.,Peterson J.W., Booth S.L.); Vitamin K content of nuts and fruits in the US diet; Journal of the american dietetic association; 2003; 103; 12"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.07,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "RIBF": {
+      "value": 0.015,
+      "data_origin": "Aggregation",
+      "reference": "Eitenmiller, R. R.; Johnson, C. D.; Bryan, W. D.; Warren, D. B.; Gebhardt, S. E.; NUTRIENT COMPOSITION OF CANTALOUPE AND HONEYDEW MELONS; Journal of Food Science; 1985; 50#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "NIAEQ": {
+      "value": 0.422,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.405,
+      "data_origin": "Aggregation",
+      "reference": "Eitenmiller, R. R.; Johnson, C. D.; Bryan, W. D.; Warren, D. B.; Gebhardt, S. E.; NUTRIENT COMPOSITION OF CANTALOUPE AND HONEYDEW MELONS; Journal of Food Science; 1985; 50#Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "PANTAC": {
+      "value": 0.24,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "VITB6": {
+      "value": 47.41,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "BIOT": {
+      "value": 2.6,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FOL": {
+      "value": 13,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 13,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 24.079,
+      "data_origin": "Aggregation",
+      "reference": "Salandanan, K.; Comparative Analysis of Antioxidant Properties and Fruit Quality Attributes of Organically and Conventionally Grown Melons (Cucumis melo L.).; HortScience; 2009; 7#Laur, L. M. and L. Tian; Provitamin A and vitamin C contents in selected California-grown cantaloupe and honeydew melons and imported melons.; Journal of Food Composition and Analysis; 2011; 24"
+    },
+    "NACL": {
+      "value": 0.035,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 14,
+      "data_origin": "Aggregation",
+      "reference": "Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Eitenmiller, R. R.; Johnson, C. D.; Bryan, W. D.; Warren, D. B.; Gebhardt, S. E.; NUTRIENT COMPOSITION OF CANTALOUPE AND HONEYDEW MELONS; Journal of Food Science; 1985; 50#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "CLD": {
+      "value": 35,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "K": {
+      "value": 238,
+      "data_origin": "Aggregation",
+      "reference": "Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Eitenmiller, R. R.; Johnson, C. D.; Bryan, W. D.; Warren, D. B.; Gebhardt, S. E.; NUTRIENT COMPOSITION OF CANTALOUPE AND HONEYDEW MELONS; Journal of Food Science; 1985; 50#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "CA": {
+      "value": 6,
+      "data_origin": "Aggregation",
+      "reference": "Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Eitenmiller, R. R.; Johnson, C. D.; Bryan, W. D.; Warren, D. B.; Gebhardt, S. E.; NUTRIENT COMPOSITION OF CANTALOUPE AND HONEYDEW MELONS; Journal of Food Science; 1985; 50"
+    },
+    "MG": {
+      "value": 9,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Eitenmiller, R. R.; Johnson, C. D.; Bryan, W. D.; Warren, D. B.; Gebhardt, S. E.; NUTRIENT COMPOSITION OF CANTALOUPE AND HONEYDEW MELONS; Journal of Food Science; 1985; 50#Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "P": {
+      "value": 17,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.186,
+      "data_origin": "Aggregation",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Eitenmiller, R. R.; Johnson, C. D.; Bryan, W. D.; Warren, D. B.; Gebhardt, S. E.; NUTRIENT COMPOSITION OF CANTALOUPE AND HONEYDEW MELONS; Journal of Food Science; 1985; 50"
+    },
+    "ZN": {
+      "value": 0.1,
+      "data_origin": "Aggregation",
+      "reference": "Eitenmiller, R. R.; Johnson, C. D.; Bryan, W. D.; Warren, D. B.; Gebhardt, S. E.; NUTRIENT COMPOSITION OF CANTALOUPE AND HONEYDEW MELONS; Journal of Food Science; 1985; 50#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: Nho, E. Y., et al.; Determination of Metals in Fruits of Cucurbitaceae Species from South Korea, to Characterize Potential Effects on Human Health.; Analytical Letters; 2018; 51; 5#Radwan, M. A., Salama, A. K.; Market basket survey for some heavy metals in Egyptian fruits and vegetables; Food and Chemical Toxicology; 2006; 8; 44"
+    },
+    "ID": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "CU": {
+      "value": 40,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Nho, E. Y., et al.; Determination of Metals in Fruits of Cucurbitaceae Species from South Korea, to Characterize Potential Effects on Human Health.; Analytical Letters; 2018; 51; 5#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "MN": {
+      "value": 50,
+      "data_origin": "Aggregation",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Converted value from: Nho, E. Y., et al.; Determination of Metals in Fruits of Cucurbitaceae Species from South Korea, to Characterize Potential Effects on Human Health.; Analytical Letters; 2018; 51; 5#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FD": {
+      "value": 1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 1.3,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Nho, E. Y., et al.; Determination of Metals in Fruits of Cucurbitaceae Species from South Korea, to Characterize Potential Effects on Human Health.; Analytical Letters; 2018; 51; 5"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.075,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "SORTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 3.98,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 1.92,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Villanueva, M. J.; Tenorio, M. D.; Esteban, M. A.; Mendoza, M. C.; Compositional changes during ripening of two cultivars of muskmelon fruits; Food Chemistry; 2004; 87#Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "FRUS": {
+      "value": 2,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Villanueva, M. J.; Tenorio, M. D.; Esteban, M. A.; Mendoza, M. C.; Compositional changes during ripening of two cultivars of muskmelon fruits; Food Chemistry; 2004; 87"
+    },
+    "GALS": {
+      "value": 0.06,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 6.088,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 6.038,
+      "data_origin": "Aggregation",
+      "reference": "Villanueva, M. J.; Tenorio, M. D.; Esteban, M. A.; Mendoza, M. C.; Compositional changes during ripening of two cultivars of muskmelon fruits; Food Chemistry; 2004; 87#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "MALS": {
+      "value": 0.05,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "LACS": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "SUGAR": {
+      "value": 10.07,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0.02,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 1.13,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Lee, Y., et al. ; Analytical dietary fiber database for the National Health and Nutrition Survey in Korea.; Journal of Food Composition and Analysis; 2008; 21"
+    },
+    "FIBINS": {
+      "value": 0.8,
+      "data_origin": "Literatur",
+      "reference": "Lee, Y., et al. ; Analytical dietary fiber database for the National Health and Nutrition Survey in Korea.; Journal of Food Composition and Analysis; 2008; 21"
+    },
+    "FIBSOL": {
+      "value": 0.33,
+      "data_origin": "Literatur",
+      "reference": "Lee, Y., et al. ; Analytical dietary fiber database for the National Health and Nutrition Survey in Korea.; Journal of Food Composition and Analysis; 2008; 21"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.00932,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.00017,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.00769,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F17:0": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:0": {
+      "value": 0.00098,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F20:0": {
+      "value": 0.00022,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F22:0": {
+      "value": 1e-05,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F24:0": {
+      "value": 0.00025,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "FAMS": {
+      "value": 0.00288,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.00058,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:1CN7": {
+      "value": 0.00092,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:1CN9": {
+      "value": 0.00134,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F20:1CN9": {
+      "value": 4e-05,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.01345,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.00574,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.00571,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 3e-05,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "FAPUN6": {
+      "value": 0.00771,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.00738,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0.00033,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.109,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.057,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.017,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 0.082,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.001,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 0.126,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.016,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.009,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.013,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 0.017,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0.018,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.007,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.014,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.011,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.025,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.01,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.001,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.008,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.02,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 0.081,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: Eitenmiller, R. R.; Johnson, C. D.; Bryan, W. D.; Warren, D. B.; Gebhardt, S. E.; NUTRIENT COMPOSITION OF CANTALOUPE AND HONEYDEW MELONS; Journal of Food Science; 1985; 50"
+    }
+  }
+}

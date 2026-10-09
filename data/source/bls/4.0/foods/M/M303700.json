@@ -1,0 +1,699 @@
+{
+  "bls_code": "M303700",
+  "source_group": "M",
+  "name_de": "Chester (Cheddar) mind. 50 % Fett i. Tr.",
+  "name_en": "Chester (Cheddar) cheese min. 50 % fat in dry matter",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 1603,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 387,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 36.408,
+      "data_origin": "Aggregation",
+      "reference": "Hickey, D. K., et al.; Lipolysis in Cheddar cheese made from raw, thermized, and pasteurized milks.; Journal of Dairy Science; 2007; 90; 1#Smit, L. E., et al.; The influence of factory and region on the composition of South African cheddar and gouda cheese.; Journal of Food Composition and Analysis; 2001; 14; 2#McMahon, D. J., et al.; Effect of sodium, potassium, magnesium, and calcium salt cations on pH, proteolysis, organic acids, and microbial populations during storage of full-fat Cheddar cheese.; Journal of Dairy Science; 2014; 97; 8#Yee, J. L., et al.; Effect of variety and maturation of cheese on supercritical fluid extraction efficiency.; Journal of Agricultural and Food Chemistry; 2008; 56; 13#Or-Rashid, M. M., et al.; Fatty acid composition of yak (Bos grunniens) cheese including conjugated linoleic acid and trans-18 : 1 fatty acids.; Journal of Agricultural and Food Chemistry; 2008; 56; 5#Møller, K. K., et al.; Physicochemical and sensory characterization of Cheddar cheese with variable NaCl levels and equal moisture content.; Journal of Dairy Science; 2013; 96; 4#Kahraman, O. and Z. Ustunol; Effect of zinc fortification on Cheddar cheese quality.; Journal of Dairy Science; 2012; 95; 6#Fang, X., et al.; Disintegration and nutrients release from cheese with different textural properties during in vitro digestion.; Food Research International; 2016; 88"
+    },
+    "PROT625": {
+      "value": 22.984,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Fang, X., et al.; Disintegration and nutrients release from cheese with different textural properties during in vitro digestion.; Food Research International; 2016; 88#Converted value from: Yee, J. L., et al.; Effect of variety and maturation of cheese on supercritical fluid extraction efficiency.; Journal of Agricultural and Food Chemistry; 2008; 56; 13"
+    },
+    "FAT": {
+      "value": 32.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 0.206,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 1.33,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 3.638,
+      "data_origin": "Aggregation",
+      "reference": "Or-Rashid, M. M., et al.; Fatty acid composition of yak (Bos grunniens) cheese including conjugated linoleic acid and trans-18 : 1 fatty acids.; Journal of Agricultural and Food Chemistry; 2008; 56; 5#Smit, L. E., et al.; The influence of factory and region on the composition of South African cheddar and gouda cheese.; Journal of Food Composition and Analysis; 2001; 14; 2#Kahraman, O. and Z. Ustunol; Effect of zinc fortification on Cheddar cheese quality.; Journal of Dairy Science; 2012; 95; 6#Fang, X., et al.; Disintegration and nutrients release from cheese with different textural properties during in vitro digestion.; Food Research International; 2016; 88#Yee, J. L., et al.; Effect of variety and maturation of cheese on supercritical fluid extraction efficiency.; Journal of Agricultural and Food Chemistry; 2008; 56; 13"
+    },
+    "VITA": {
+      "value": 385.47,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 362.38,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 339.29,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Smit, L. E., et al.; The influence of factory and region on the composition of South African cheddar and gouda cheese.; Journal of Food Composition and Analysis; 2001; 14; 2"
+    },
+    "CARTB": {
+      "value": 277.05,
+      "data_origin": "Literatur",
+      "reference": "Smit, L. E., et al.; The influence of factory and region on the composition of South African cheddar and gouda cheese.; Journal of Food Composition and Analysis; 2001; 14; 2"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0.5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0.5,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TOCPHA": {
+      "value": 1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0.0155,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 20,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 2,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 18.5,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.0398,
+      "data_origin": "Literatur",
+      "reference": "Smit, L. E., et al.; The influence of factory and region on the composition of South African cheddar and gouda cheese.; Journal of Food Composition and Analysis; 2001; 14; 2"
+    },
+    "RIBF": {
+      "value": 0.37,
+      "data_origin": "Literatur",
+      "reference": "Smit, L. E., et al.; The influence of factory and region on the composition of South African cheddar and gouda cheese.; Journal of Food Composition and Analysis; 2001; 14; 2"
+    },
+    "NIAEQ": {
+      "value": 5.388,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.105,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "PANTAC": {
+      "value": 0.36,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "VITB6": {
+      "value": 78,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "BIOT": {
+      "value": 3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "FOL": {
+      "value": 26,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 26,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 1,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "VITC": {
+      "value": 0.875,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 1.45025,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 580.1,
+      "data_origin": "Aggregation",
+      "reference": "Smit, L. E., et al.; The influence of factory and region on the composition of South African cheddar and gouda cheese.; Journal of Food Composition and Analysis; 2001; 14; 2#Møller, K. K., et al.; Physicochemical and sensory characterization of Cheddar cheese with variable NaCl levels and equal moisture content.; Journal of Dairy Science; 2013; 96; 4"
+    },
+    "CLD": {
+      "value": 990.13,
+      "data_origin": "Literatur",
+      "reference": "Smit, L. E., et al.; The influence of factory and region on the composition of South African cheddar and gouda cheese.; Journal of Food Composition and Analysis; 2001; 14; 2"
+    },
+    "K": {
+      "value": 78,
+      "data_origin": "Aggregation",
+      "reference": "Smit, L. E., et al.; The influence of factory and region on the composition of South African cheddar and gouda cheese.; Journal of Food Composition and Analysis; 2001; 14; 2#Møller, K. K., et al.; Physicochemical and sensory characterization of Cheddar cheese with variable NaCl levels and equal moisture content.; Journal of Dairy Science; 2013; 96; 4"
+    },
+    "CA": {
+      "value": 804.9,
+      "data_origin": "Aggregation",
+      "reference": "Møller, K. K., et al.; Physicochemical and sensory characterization of Cheddar cheese with variable NaCl levels and equal moisture content.; Journal of Dairy Science; 2013; 96; 4#Kahraman, O. and Z. Ustunol; Effect of zinc fortification on Cheddar cheese quality.; Journal of Dairy Science; 2012; 95; 6#Smit, L. E., et al.; The influence of factory and region on the composition of South African cheddar and gouda cheese.; Journal of Food Composition and Analysis; 2001; 14; 2"
+    },
+    "MG": {
+      "value": 28.3,
+      "data_origin": "Aggregation",
+      "reference": "Smit, L. E., et al.; The influence of factory and region on the composition of South African cheddar and gouda cheese.; Journal of Food Composition and Analysis; 2001; 14; 2#Møller, K. K., et al.; Physicochemical and sensory characterization of Cheddar cheese with variable NaCl levels and equal moisture content.; Journal of Dairy Science; 2013; 96; 4"
+    },
+    "P": {
+      "value": 500,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "S": {
+      "value": 206,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.495,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "ZN": {
+      "value": 4.163,
+      "data_origin": "Aggregation",
+      "reference": "Smit, L. E., et al.; The influence of factory and region on the composition of South African cheddar and gouda cheese.; Journal of Food Composition and Analysis; 2001; 14; 2#Kahraman, O. and Z. Ustunol; Effect of zinc fortification on Cheddar cheese quality.; Journal of Dairy Science; 2012; 95; 6"
+    },
+    "ID": {
+      "value": 44,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "CU": {
+      "value": 50,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "MN": {
+      "value": 40,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "FD": {
+      "value": 140,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "CR": {
+      "value": 3.5,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 7.6,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 1.33,
+      "data_origin": "Literatur",
+      "reference": "Scherz H.; Milch, Milchprodukte, Käse, Eier, Fette, Öle (Manuskript für SFK-Tabellen 5. Auf; Brief vom 13.07.93 Deut. Forschungsanst. F. Lebensmittelchem; 1993; 0"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.059,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.004,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0.055,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "DISAC": {
+      "value": 0.14719,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0.14719,
+      "data_origin": "Literatur",
+      "reference": "Møller, K. K., et al.; Physicochemical and sensory characterization of Cheddar cheese with variable NaCl levels and equal moisture content.; Journal of Dairy Science; 2013; 96; 4"
+    },
+    "SUGAR": {
+      "value": 0.206,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 19.345,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 1.05,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F6:0": {
+      "value": 0.49,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F8:0": {
+      "value": 0.27,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F10:0": {
+      "value": 0.58,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F12:0": {
+      "value": 0.96,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F14:0": {
+      "value": 3.64,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 9.07,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 3.285,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 7.44,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.85,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 6.59,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.744,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.251,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.251,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.493,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.493,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 81,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "AAE9": {
+      "value": 11.035,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.706,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.848,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 1.758,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.113,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 5.463,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.46,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.747,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 1.227,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 2.363,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 2.004,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.623,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 1.299,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 2.597,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 1.331,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.901,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.317,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 1.411,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 1.554,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 3.677,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Yee, J. L., et al.; Effect of variety and maturation of cheese on supercritical fluid extraction efficiency.; Journal of Agricultural and Food Chemistry; 2008; 56; 13#Converted value from: Fang, X., et al.; Disintegration and nutrients release from cheese with different textural properties during in vitro digestion.; Food Research International; 2016; 88"
+    }
+  }
+}

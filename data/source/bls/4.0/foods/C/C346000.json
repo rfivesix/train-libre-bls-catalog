@@ -1,0 +1,699 @@
+{
+  "bls_code": "C346000",
+  "source_group": "C",
+  "name_de": "Mais Grieß",
+  "name_en": "Maize semolina",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 1395,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 330,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 12,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "PROT625": {
+      "value": 8.663,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FAT": {
+      "value": 2.82,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CHO": {
+      "value": 62.84,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 9.42,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.16,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITA": {
+      "value": 33,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 16,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 198,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1.5,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 1.5,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 0.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.3,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.44,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "RIBF": {
+      "value": 0.13,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "NIAEQ": {
+      "value": 3.047,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 1.93,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "PANTAC": {
+      "value": 0.55,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 60,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 7,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 10.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 10.1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0.002,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CLD": {
+      "value": 12,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "K": {
+      "value": 120,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CA": {
+      "value": 18,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MG": {
+      "value": 47,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "P": {
+      "value": 256,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 2.4,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ZN": {
+      "value": 0.68,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ID": {
+      "value": 2.6,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 82,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MN": {
+      "value": 170,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FD": {
+      "value": 43,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.19,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0.09,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 1.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 1.2,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 1.39,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 61.45,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 7.31,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 2.11,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.36,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.28,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.07,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:0": {
+      "value": 0.01,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0.88,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.01,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.87,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 1.435,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.025,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.025,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 1.41,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 1.41,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 3.407,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.7,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.373,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 0.581,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.191,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 1.762,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.36,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.234,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.359,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 1.083,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0.282,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.173,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.41,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.93,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.52,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.351,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.067,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.36,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.448,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 1.386,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    }
+  }
+}

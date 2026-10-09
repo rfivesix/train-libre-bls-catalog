@@ -1,0 +1,699 @@
+{
+  "bls_code": "U853100",
+  "source_group": "U",
+  "name_de": "Schaf Brust, fett, roh",
+  "name_en": "Sheep breast, fat, raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 1573,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 381,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 48,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "PROT625": {
+      "value": 12,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "FAT": {
+      "value": 37,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "CHO": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITA": {
+      "value": 45,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 45,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 45,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CARTB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0.4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ERGCAL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "TOCPHA": {
+      "value": 0.7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "TOCPHB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.171,
+      "data_origin": "Aggregation",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#Converted value from: National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "RIBF": {
+      "value": 0.245,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "NIAEQ": {
+      "value": 6.9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 4.4,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "PANTAC": {
+      "value": 0.9,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 200,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "BIOT": {
+      "value": 2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "FOL": {
+      "value": 2.6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 2.6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 1.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "VITC": {
+      "value": 1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "NACL": {
+      "value": 0.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 80,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "CLD": {
+      "value": 90,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "K": {
+      "value": 256,
+      "data_origin": "Aggregation",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CA": {
+      "value": 11,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "MG": {
+      "value": 17,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "P": {
+      "value": 146,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 1.9,
+      "data_origin": "Aggregation",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ZN": {
+      "value": 3.42,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ID": {
+      "value": 0.7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CU": {
+      "value": 122,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "MN": {
+      "value": 10,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 8.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "MO": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 16.874,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": 0.212,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "F14:0": {
+      "value": 1.804,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 8.522,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 6.336,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 14.5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 1.026,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 13.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 1.318,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.458,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.458,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.86,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.86,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 76,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 5.924,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.878,
+      "data_origin": "Aggregation",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ARG": {
+      "value": 0.912,
+      "data_origin": "Aggregation",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ASP": {
+      "value": 1.295,
+      "data_origin": "Aggregation",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CYSTE": {
+      "value": 0.146,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "GLU": {
+      "value": 2.335,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "GLY": {
+      "value": 0.803,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "HIS": {
+      "value": 0.394,
+      "data_origin": "Aggregation",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ILE": {
+      "value": 0.72,
+      "data_origin": "Aggregation",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "LEU": {
+      "value": 1.125,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "LYS": {
+      "value": 1.25,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "MET": {
+      "value": 0.35,
+      "data_origin": "Aggregation",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "PHE": {
+      "value": 0.56,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "PRO": {
+      "value": 0.636,
+      "data_origin": "Aggregation",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "SER": {
+      "value": 0.595,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "THR": {
+      "value": 0.633,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "TRP": {
+      "value": 0.152,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "TYR": {
+      "value": 0.52,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "VAL": {
+      "value": 0.74,
+      "data_origin": "Aggregation",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "NT": {
+      "value": 1.9,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    }
+  }
+}

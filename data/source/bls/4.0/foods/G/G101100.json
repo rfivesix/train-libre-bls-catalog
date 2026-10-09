@@ -1,0 +1,699 @@
+{
+  "bls_code": "G101100",
+  "source_group": "G",
+  "name_de": "Chicoree roh",
+  "name_en": "Witloof chicory raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 84,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 20,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 90.58,
+      "data_origin": "Aggregation",
+      "reference": "Jančić, D., et al.; Chemical composition and nutritive potential of Cichorium intybus L. leaves from Montenegro.; Journal of the Serbian Chemical Society; 2016; 10#Colonna, E., et al.; Nutritional quality of ten leafy vegetables harvested at two light intensities.; Food Chemistry; 2016; 199#Renna, M., et al.; Elemental characterization of wild edible plants from countryside and urban areas.; Food Chemistry; 2015; 177#Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5#Garcia-Herrera, P., et al.; Nutrient composition of six wild edible Mediterranean Asteraceae plants of dietary interest.; Journal of Food Composition and Analysis; 2014"
+    },
+    "PROT625": {
+      "value": 2.39,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Garcia-Herrera, P., et al.; Nutrient composition of six wild edible Mediterranean Asteraceae plants of dietary interest.; Journal of Food Composition and Analysis; 2014#Converted value from: Colonna, E., et al.; Nutritional quality of ten leafy vegetables harvested at two light intensities.; Food Chemistry; 2016; 199#Converted value from: Jančić, D., et al.; Chemical composition and nutritive potential of Cichorium intybus L. leaves from Montenegro.; Journal of the Serbian Chemical Society; 2016; 10"
+    },
+    "FAT": {
+      "value": 0.18,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 1.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.3,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.253,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.47,
+      "data_origin": "Aggregation",
+      "reference": "Garcia-Herrera, P., et al.; Nutrient composition of six wild edible Mediterranean Asteraceae plants of dietary interest.; Journal of Food Composition and Analysis; 2014#Jančić, D., et al.; Chemical composition and nutritive potential of Cichorium intybus L. leaves from Montenegro.; Journal of the Serbian Chemical Society; 2016; 10"
+    },
+    "VITA": {
+      "value": 627,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 313,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 3565,
+      "data_origin": "Aggregation",
+      "reference": "Kobori, C. N. and D. B. Rodriguez Amaya; Uncultivated Brazilian green leaves are richer sources of carotenoids than are commercially produced leafy vegetables.; Food and Nutrition Bulletin; 2008; 29; 4#Niizu PY, Rodriguez-Amaya DB; New data on the carotenoid composition of raw salad vegetables.; Journal of Food Composition and Analysis; 2005; 18; 8"
+    },
+    "CAROTPAXB": {
+      "value": 388,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.237,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 0.237,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0.419,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 116,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 116,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.058,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.036,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 0.573,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.24,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 0.15,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Agence nationale de sécurité sanitaire (Anses), Ciqual French food composition table 2020"
+    },
+    "VITB6": {
+      "value": 48,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "BIOT": {
+      "value": 5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FOL": {
+      "value": 36,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 36,
+      "data_origin": "Aggregation",
+      "reference": "Konings, E. J. M., et al.; Folate intake of the Dutch population according to newly established liquid chromatography data for foods; American Journal of Clinical Nutrition; 2001; 73#Müller H.; Bestimmung der Folsäure-Gehalte von Gemüse und Obst mit Hilfe der Hochleistungsflüssigchromatographie (HPLC); Z Lebensm Unters Forsch; 1993; 196"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 8.689,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.115,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 46,
+      "data_origin": "Aggregation",
+      "reference": "Renna, M., et al.; Elemental characterization of wild edible plants from countryside and urban areas.; Food Chemistry; 2015; 177#Jančić, D., et al.; Chemical composition and nutritive potential of Cichorium intybus L. leaves from Montenegro.; Journal of the Serbian Chemical Society; 2016; 10#Garcia-Herrera, P., et al.; Nutrient composition of six wild edible Mediterranean Asteraceae plants of dietary interest.; Journal of Food Composition and Analysis; 2014#Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5"
+    },
+    "CLD": {
+      "value": 25,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "K": {
+      "value": 470,
+      "data_origin": "Aggregation",
+      "reference": "Colonna, E., et al.; Nutritional quality of ten leafy vegetables harvested at two light intensities.; Food Chemistry; 2016; 199#Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5#Garcia-Herrera, P., et al.; Nutrient composition of six wild edible Mediterranean Asteraceae plants of dietary interest.; Journal of Food Composition and Analysis; 2014#Jančić, D., et al.; Chemical composition and nutritive potential of Cichorium intybus L. leaves from Montenegro.; Journal of the Serbian Chemical Society; 2016; 10#Renna, M., et al.; Elemental characterization of wild edible plants from countryside and urban areas.; Food Chemistry; 2015; 177"
+    },
+    "CA": {
+      "value": 80,
+      "data_origin": "Aggregation",
+      "reference": "Colonna, E., et al.; Nutritional quality of ten leafy vegetables harvested at two light intensities.; Food Chemistry; 2016; 199#Garcia-Herrera, P., et al.; Nutrient composition of six wild edible Mediterranean Asteraceae plants of dietary interest.; Journal of Food Composition and Analysis; 2014#Renna, M., et al.; Elemental characterization of wild edible plants from countryside and urban areas.; Food Chemistry; 2015; 177#Jančić, D., et al.; Chemical composition and nutritive potential of Cichorium intybus L. leaves from Montenegro.; Journal of the Serbian Chemical Society; 2016; 10#Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5"
+    },
+    "MG": {
+      "value": 22,
+      "data_origin": "Aggregation",
+      "reference": "Renna, M., et al.; Elemental characterization of wild edible plants from countryside and urban areas.; Food Chemistry; 2015; 177#Colonna, E., et al.; Nutritional quality of ten leafy vegetables harvested at two light intensities.; Food Chemistry; 2016; 199#Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5#Garcia-Herrera, P., et al.; Nutrient composition of six wild edible Mediterranean Asteraceae plants of dietary interest.; Journal of Food Composition and Analysis; 2014#Jančić, D., et al.; Chemical composition and nutritive potential of Cichorium intybus L. leaves from Montenegro.; Journal of the Serbian Chemical Society; 2016; 10"
+    },
+    "P": {
+      "value": 26,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 1.123,
+      "data_origin": "Aggregation",
+      "reference": "Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5#Garcia-Herrera, P., et al.; Nutrient composition of six wild edible Mediterranean Asteraceae plants of dietary interest.; Journal of Food Composition and Analysis; 2014#Jančić, D., et al.; Chemical composition and nutritive potential of Cichorium intybus L. leaves from Montenegro.; Journal of the Serbian Chemical Society; 2016; 10"
+    },
+    "ZN": {
+      "value": 0.291,
+      "data_origin": "Aggregation",
+      "reference": "Renna, M., et al.; Elemental characterization of wild edible plants from countryside and urban areas.; Food Chemistry; 2015; 177#Jančić, D., et al.; Chemical composition and nutritive potential of Cichorium intybus L. leaves from Montenegro.; Journal of the Serbian Chemical Society; 2016; 10#Garcia-Herrera, P., et al.; Nutrient composition of six wild edible Mediterranean Asteraceae plants of dietary interest.; Journal of Food Composition and Analysis; 2014#Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5"
+    },
+    "ID": {
+      "value": 1.817,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 101,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MN": {
+      "value": 300,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FD": {
+      "value": 23,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "MO": {
+      "value": 3.295,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.022,
+      "data_origin": "Literatur",
+      "reference": "Herrmann K.; Die Säuren der Gemüsearten; Ernährungs-Umschau; 1989; 36; 6"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.222,
+      "data_origin": "Literatur",
+      "reference": "Herrmann K.; Die Säuren der Gemüsearten; Ernährungs-Umschau; 1989; 36; 6"
+    },
+    "TARAC": {
+      "value": 0.009,
+      "data_origin": "Literatur",
+      "reference": "Herrmann K.; Die Säuren der Gemüsearten; Ernährungs-Umschau; 1989; 36; 6"
+    },
+    "POLYL": {
+      "value": 0.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0.1,
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "SORTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.47,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.32,
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "FRUS": {
+      "value": 0.15,
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0.448,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0.448,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0.92,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": 0.25,
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "STARCH": {
+      "value": 0.028,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 1.3,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0.9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.03,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.029,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.0015,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0.0045,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.0045,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.102,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.029,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.029,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.073,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.073,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.737,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.119,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.119,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 0.249,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.005,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLU": {
+      "value": 0.317,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.111,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.02,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 0.138,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 0.187,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0.042,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.013,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 0.101,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.113,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.094,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.096,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.02,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TYR": {
+      "value": 0.033,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VAL": {
+      "value": 0.12,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 0.382,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Jančić, D., et al.; Chemical composition and nutritive potential of Cichorium intybus L. leaves from Montenegro.; Journal of the Serbian Chemical Society; 2016; 10#Converted value from: Colonna, E., et al.; Nutritional quality of ten leafy vegetables harvested at two light intensities.; Food Chemistry; 2016; 199#Converted value from: Garcia-Herrera, P., et al.; Nutrient composition of six wild edible Mediterranean Asteraceae plants of dietary interest.; Journal of Food Composition and Analysis; 2014"
+    }
+  }
+}

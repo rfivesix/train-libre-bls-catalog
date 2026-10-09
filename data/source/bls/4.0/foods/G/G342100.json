@@ -1,0 +1,699 @@
+{
+  "bls_code": "G342100",
+  "source_group": "G",
+  "name_de": "Weißkohl roh",
+  "name_en": "White cabbage raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 133,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 32,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 92,
+      "data_origin": "Aggregation",
+      "reference": "Martínez, S., et al.; Quality parameters of Brassica spp. grown in northwest Spain.; International Journal of Food Science & Technology; 2010; 45; 4#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Vahteristo L., Lehikoinen K., Ollilainen V. and Varo P.; Application of an HPLC assay for the determination of folate derivatives in some vegetables, fruits and berries consumed in Finland; Food Chemistry; 1997; 59; 4#Wang, G., et al. ; Dietary fiber composition of selected foods in the People's Republic of China.;  Journal of Food Composition and Analysis; 1991; 4#Iwatani, Y., et al.; Determination of folate contents in some Australian vegetables.; Journal of Food Composition and Analysis; 2003; 16; 1#Podsedek, A., et al; Antioxidant capacity and content of Brassica oleracea dietary antioxidants.; International Journal of Food Science and Technology; 2006; 41#Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15#Wold, A. B.; The effect of CA and conventional storage on antioxidant activity and vitamin C in red and white cabbage (Brassica oleracea var. capitata L.) and Savoy (Brassica oleracea var. sabauda L.).; European Journal of Horticultural Science; 2006; 71#Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5#Shohag, M. J. I., et al.; Folate Content and Composition of Vegetables Commonly Consumed in China.; Journal of Food Science; 2012; 77; 11"
+    },
+    "PROT625": {
+      "value": 1.382,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "FAT": {
+      "value": 0.19,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 4.54,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 3,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.197,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.74,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "VITA": {
+      "value": 8,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 42,
+      "data_origin": "Aggregation",
+      "reference": "Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204#Kaulmann, A., et al.; Carotenoids, polyphenols and micronutrient profiles of Brassica oleraceae and plum varieties and their contribution to measures of total antioxidant capacity.; Food Chemistry; 2014; 155#Hart DJ, Scott KJ; Development and evaluationof an HPLC method for the analysis of carotenoids in foods, and the measurement of the carotenoid content of vegetables and fruits commonly consumed in the UK; Food Chemistry; 1995; 54#Kurilich, A. C.; Carotene, tocopherol, and ascorbate contents in subspecies of Brassica oleracea.; Journal of Agricultural and Food Chemistry; 1999; 47#Heinonen MI, Ollilainen V, Linkola EK, Varo PT, Koivistoinen; Carotenoids in Finnish Foods: Vegetables, Fruits, and Berries; Journal of Agricultural and Food Chemistry; 1989; 37#Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24"
+    },
+    "CAROTPAXB": {
+      "value": 9,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Hart DJ, Scott KJ; Development and evaluationof an HPLC method for the analysis of carotenoids in foods, and the measurement of the carotenoid content of vegetables and fruits commonly consumed in the UK; Food Chemistry; 1995; 54#Converted value from: Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24#Converted value from: Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.293,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Kurilich, A. C.; Carotene, tocopherol, and ascorbate contents in subspecies of Brassica oleracea.; Journal of Agricultural and Food Chemistry; 1999; 47#Converted value from: Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24#Converted value from: Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHA": {
+      "value": 0.293,
+      "data_origin": "Aggregation",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3#Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24#Kurilich, A. C.; Carotene, tocopherol, and ascorbate contents in subspecies of Brassica oleracea.; Journal of Agricultural and Food Chemistry; 1999; 47"
+    },
+    "TOCPHB": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHG": {
+      "value": 0.002,
+      "data_origin": "Aggregation",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3#Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24#Kurilich, A. C.; Carotene, tocopherol, and ascorbate contents in subspecies of Brassica oleracea.; Journal of Agricultural and Food Chemistry; 1999; 47"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3#Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24"
+    },
+    "TOCTRA": {
+      "value": 0.04,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "VITK": {
+      "value": 90,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 90,
+      "data_origin": "Aggregation",
+      "reference": "Koivu,T.J.; Piironen, V.I.; Henttonen, S.K.; Mattila; P.H.); Determination of Phylloquinone in Vegetables, Fruits, and Berries by High-Performance Liquid Chromatography with Electrochemical Detection; J. Agric. Food Chem.; 1997; 45; 12#Bolton-Smith C;Price RJG;Fenton ST;Harrington DJ;Shearer MJ; Compilation of a provisional UK database for the phylloquinone (vitamin K1) content of foods; British Journal of Nutrition; 2000; 4"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.23,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "RIBF": {
+      "value": 0.02,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "NIAEQ": {
+      "value": 0.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.3,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "PANTAC": {
+      "value": 0.21,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "VITB6": {
+      "value": 81.28,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "BIOT": {
+      "value": 0.1,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FOL": {
+      "value": 49,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 49,
+      "data_origin": "Aggregation",
+      "reference": "Müller H.; Bestimmung der Folsäure-Gehalte von Gemüse und Obst mit Hilfe der Hochleistungsflüssigchromatographie (HPLC); Z Lebensm Unters Forsch; 1993; 196#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Vahteristo L., Lehikoinen K., Ollilainen V. and Varo P.; Application of an HPLC assay for the determination of folate derivatives in some vegetables, fruits and berries consumed in Finland; Food Chemistry; 1997; 59; 4#Iwatani, Y., et al.; Determination of folate contents in some Australian vegetables.; Journal of Food Composition and Analysis; 2003; 16; 1#Shohag, M. J. I., et al.; Folate Content and Composition of Vegetables Commonly Consumed in China.; Journal of Food Science; 2012; 77; 11"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 47.455,
+      "data_origin": "Aggregation",
+      "reference": "Podsedek, A., et al; Antioxidant capacity and content of Brassica oleracea dietary antioxidants.; International Journal of Food Science and Technology; 2006; 41#Kurilich, A. C.; Carotene, tocopherol, and ascorbate contents in subspecies of Brassica oleracea.; Journal of Agricultural and Food Chemistry; 1999; 47#Chebrolu, K. K., et al. ; An improved sample preparation method for quantification of ascorbic acid and dehydroascorbic acid by HPLC.; LWT - Food Science and Technology; 2012; 47"
+    },
+    "NACL": {
+      "value": 0.012,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 5,
+      "data_origin": "Aggregation",
+      "reference": "Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "CLD": {
+      "value": 37,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "K": {
+      "value": 254,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "CA": {
+      "value": 44,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5"
+    },
+    "MG": {
+      "value": 12,
+      "data_origin": "Aggregation",
+      "reference": "Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "P": {
+      "value": 35.542,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.312,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "ZN": {
+      "value": 0.16,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2007; 2007#Converted value from: BVL; Lebensmittel Monitoring 2010; 2010#Converted value from: BVL; Lebensmittel Monitoring 2003; 2003#Converted value from: BVL; Lebensmittel Monitoring 2013; 2013#Kawashima, L. M. and L. M. Valente Soares; Mineral profile of raw and cooked leafy vegetables consumed in Southern Brazil.; Journal of Food Composition and Analysis; 2003; 16; 5#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "ID": {
+      "value": 2,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "CU": {
+      "value": 23,
+      "data_origin": "Aggregation",
+      "reference": "Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Converted value from: BVL; Lebensmittel Monitoring 2013; 2013#Converted value from: BVL; Lebensmittel Monitoring 2007; 2007#Converted value from: BVL; Lebensmittel Monitoring 2010; 2010#Converted value from: BVL; Lebensmittel Monitoring 2003; 2003#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "MN": {
+      "value": 190,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML: ; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland. ; Journal of Food Composition and Analysis; 2007; 20; 6#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Converted value from: BVL; Lebensmittel Monitoring 2013; 2013#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: BVL; Lebensmittel Monitoring 2016; 2016"
+    },
+    "FD": {
+      "value": 12,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CR": {
+      "value": 0.5,
+      "data_origin": "Literatur",
+      "reference": "Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "MO": {
+      "value": 4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Ministry of Education, Culture, Sports, Science and Technology; STANDARD TABLES OF FOOD COMPOSITION IN JAPAN; 2015"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.101,
+      "data_origin": "Literatur",
+      "reference": "Herrmann K.; Die Säuren der Gemüsearten; Ernährungs-Umschau; 1989; 36; 6"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.096,
+      "data_origin": "Literatur",
+      "reference": "Herrmann K.; Die Säuren der Gemüsearten; Ernährungs-Umschau; 1989; 36; 6"
+    },
+    "TARAC": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Herrmann K.; Die Säuren der Gemüsearten; Ernährungs-Umschau; 1989; 36; 6"
+    },
+    "POLYL": {
+      "value": 0.14,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "SORTL": {
+      "value": 0.14,
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 4.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 2.33,
+      "data_origin": "Aggregation",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FRUS": {
+      "value": 1.87,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0.198,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0.198,
+      "data_origin": "Aggregation",
+      "reference": "Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15"
+    },
+    "LACS": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "SUGAR": {
+      "value": 4.4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 3,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 2.2,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.8,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.0334,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.0005,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.0295,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.0029,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:0": {
+      "value": 0.0005,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0.0048,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.0027,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.0021,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.114,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.087,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.087,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.0265,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.0265,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.308,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ASP": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.027,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLU": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.025,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 0.039,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LEU": {
+      "value": 0.056,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LYS": {
+      "value": 0.065,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.013,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 0.03,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PRO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SER": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.038,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TRP": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.042,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NT": {
+      "value": 0.221,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    }
+  }
+}

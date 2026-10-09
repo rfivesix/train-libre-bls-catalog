@@ -1,0 +1,699 @@
+{
+  "bls_code": "T093100",
+  "source_group": "T",
+  "name_de": "Kabeljaurogen roh",
+  "name_en": "Cod roe raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 477,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 113,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 72.7,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "PROT625": {
+      "value": 22.4,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Converted value from: Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "FAT": {
+      "value": 2.6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CHO": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "VITA": {
+      "value": 24,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 24,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 24,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Converted value from: Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "CARTB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 5.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 5.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ERGCAL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 8.2,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Converted value from: Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "TOCPHA": {
+      "value": 8.2,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "TOCPHG": {
+      "value": 0.01,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.82,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Converted value from: Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "RIBF": {
+      "value": 0.57,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "NIAEQ": {
+      "value": 3.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 1.1,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "PANTAC": {
+      "value": 3.72,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "VITB6": {
+      "value": 290,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "BIOT": {
+      "value": 14,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "FOL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 14.8,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "VITC": {
+      "value": 19.3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "NACL": {
+      "value": 0.265,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 106,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CLD": {
+      "value": 220,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "K": {
+      "value": 221,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "CA": {
+      "value": 10,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "MG": {
+      "value": 11,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "P": {
+      "value": 362,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.96,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "ZN": {
+      "value": 4,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "ID": {
+      "value": 195,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CU": {
+      "value": 180,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "MN": {
+      "value": 110,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 0.159,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.362,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F10:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F12:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F14:0": {
+      "value": 0.023,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F15:0": {
+      "value": 0.007,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F16:0": {
+      "value": 0.294,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.038,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F20:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F22:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F24:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "FAMS": {
+      "value": 0.303,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.055,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F18:1CN7": {
+      "value": 0.058,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F18:1CN9": {
+      "value": 0.172,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F20:1CN9": {
+      "value": 0.018,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F22:1CN9": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "FAPU": {
+      "value": 0.769,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.7,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.006,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F18:4CN3": {
+      "value": 0.002,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F20:5CN3": {
+      "value": 0.221,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F22:5CN3": {
+      "value": 0.019,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F22:6CN3": {
+      "value": 0.452,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "FAPUN6": {
+      "value": 0.069,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.016,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F20:3CN6": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F20:4CN6": {
+      "value": 0.053,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "FAX": {
+      "value": 0.087,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CHORL": {
+      "value": 326,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "AAE9": {
+      "value": 9.463,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 1.53,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ARG": {
+      "value": 1.19,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ASP": {
+      "value": 1.79,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CYSTE": {
+      "value": 0.193,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "GLU": {
+      "value": 2.57,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "GLY": {
+      "value": 0.781,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "HIS": {
+      "value": 0.483,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ILE": {
+      "value": 1.3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "LEU": {
+      "value": 1.97,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "LYS": {
+      "value": 1.82,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "MET": {
+      "value": 0.558,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "PHE": {
+      "value": 0.855,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "PRO": {
+      "value": 1.23,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "SER": {
+      "value": 1.41,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "THR": {
+      "value": 0.855,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "TRP": {
+      "value": 0.132,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "TYR": {
+      "value": 0.93,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "VAL": {
+      "value": 1.49,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "NT": {
+      "value": 3.59,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    }
+  }
+}

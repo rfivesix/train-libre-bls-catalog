@@ -1,0 +1,699 @@
+{
+  "bls_code": "G103100",
+  "source_group": "G",
+  "name_de": "Eisbergsalat roh",
+  "name_en": "Iceberg lettuce raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 63,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 15,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 96.03,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PROT625": {
+      "value": 0.8,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "FAT": {
+      "value": 0.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "CHO": {
+      "value": 1.62,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.8,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.45,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITA": {
+      "value": 37,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 19,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 202,
+      "data_origin": "Aggregation",
+      "reference": "Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204#Hart DJ, Scott KJ; Development and evaluationof an HPLC method for the analysis of carotenoids in foods, and the measurement of the carotenoid content of vegetables and fruits commonly consumed in the UK; Food Chemistry; 1995; 54"
+    },
+    "CAROTPAXB": {
+      "value": 43,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Hart DJ, Scott KJ; Development and evaluationof an HPLC method for the analysis of carotenoids in foods, and the measurement of the carotenoid content of vegetables and fruits commonly consumed in the UK; Food Chemistry; 1995; 54#Converted value from: Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.22,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHA": {
+      "value": 0.22,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHB": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHG": {
+      "value": 0.11,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHD": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCTRA": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "VITK": {
+      "value": 33,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 33,
+      "data_origin": "Aggregation",
+      "reference": "Vinas P., Bravo-Bravo M., Lopez-Garcia I.and Hernandez-Cordoba M.; Dispersive liquid-liquid microextraction for the determination of vitamins D and K in foods by liquid chromatography with diode-array and atmospheric pressure chemical ionization-mass spectrometry detection; Talanta; 2013; 115#Damon M., Zhang N.Z., Haytowitz D.B., Booth S.L.; Phylloquinone (vitamin K1) content of vegetables; Journal of Food Composition and Analysis; 2005; 18#Koivu,T.J.; Piironen, V.I.; Henttonen, S.K.; Mattila; P.H.); Determination of Phylloquinone in Vegetables, Fruits, and Berries by High-Performance Liquid Chromatography with Electrochemical Detection; J. Agric. Food Chem.; 1997; 45; 12"
+    },
+    "VITK2": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Vinas P., Bravo-Bravo M., Lopez-Garcia I.and Hernandez-Cordoba M.; Dispersive liquid-liquid microextraction for the determination of vitamins D and K in foods by liquid chromatography with diode-array and atmospheric pressure chemical ionization-mass spectrometry detection; Talanta; 2013; 115"
+    },
+    "THIA": {
+      "value": 0.05,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "RIBF": {
+      "value": 0.015,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NIAEQ": {
+      "value": 0.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.3,
+      "data_origin": "Aggregation",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021#The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "PANTAC": {
+      "value": 0.109,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 58,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 2.46,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 38,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 38,
+      "data_origin": "Aggregation",
+      "reference": "Konings, E. J. M., et al.; Folate intake of the Dutch population according to newly established liquid chromatography data for foods; American Journal of Clinical Nutrition; 2001; 73#Johansson M., Jägerstad M.,Frolich W.; Folates in lettuce: a pilot study; Scandinavian Journal of Food and Nutrition; 2007; 51; 1#Fajardo, V., et al.; Folate content in fresh-cut vegetable packed products by 96-well microtiter plate microbiological assay.; Food Chemistry; 2015; 169"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 4.3,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0.022,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 9,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995"
+    },
+    "CLD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "K": {
+      "value": 175,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CA": {
+      "value": 19,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "MG": {
+      "value": 7,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "P": {
+      "value": 26,
+      "data_origin": "Aggregation",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022#Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.35,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "ZN": {
+      "value": 0.16,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2004; 2004#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "ID": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995"
+    },
+    "CU": {
+      "value": 32,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2004; 2004#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995"
+    },
+    "MN": {
+      "value": 129,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 1.06,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 1.58,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.67,
+      "data_origin": "Literatur",
+      "reference": "Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15"
+    },
+    "FRUS": {
+      "value": 0.91,
+      "data_origin": "Literatur",
+      "reference": "Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "DISAC": {
+      "value": 0.04,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0.02,
+      "data_origin": "Literatur",
+      "reference": "Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15"
+    },
+    "MALS": {
+      "value": 0.02,
+      "data_origin": "Literatur",
+      "reference": "Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 1.62,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 1.8,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 1.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.05,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F6:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F8:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F10:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F12:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F14:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F15:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F16:0": {
+      "value": 0.04,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F17:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F18:0": {
+      "value": 0.01,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F20:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F22:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F24:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "FAMS": {
+      "value": 0.03,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F16:1CN7": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.03,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F20:1CN9": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F22:1CN9": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "FAPU": {
+      "value": 0.07,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.03,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.03,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.04,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.04,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F20:2CN6": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F20:3CN6": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "F20:4CN6": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021"
+    },
+    "FAX": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM); Nederlands Voedingsstoffenbestand (NEVO); 2021 "
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 0.1,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 0.1,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 0.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    }
+  }
+}

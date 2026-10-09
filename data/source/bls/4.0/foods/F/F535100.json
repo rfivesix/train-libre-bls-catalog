@@ -1,0 +1,699 @@
+{
+  "bls_code": "F535100",
+  "source_group": "F",
+  "name_de": "Wassermelone roh",
+  "name_en": "Watermelon raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 148,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 35,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 92.55,
+      "data_origin": "Aggregation",
+      "reference": "Olmedilla B, Granado F, Blanco I, Rojas-Hidalgo E:; Quantitation of provitamin-A and non-provitamin-A carotenoids in the fruits most commonly consumed in Spain; Royal Society of Chemistry (RSC); 1993#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995"
+    },
+    "PROT625": {
+      "value": 0.6,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FAT": {
+      "value": 0.4,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "CHO": {
+      "value": 6.96,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0.2,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITA": {
+      "value": 50,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 25,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 287,
+      "data_origin": "Aggregation",
+      "reference": "Olmedilla B, Granado F, Blanco I, Rojas-Hidalgo E:; Quantitation of provitamin-A and non-provitamin-A carotenoids in the fruits most commonly consumed in Spain; Royal Society of Chemistry (RSC); 1993#Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24#Kim, Y.,Giraud, D. W.,Driskell, J. A.; Tocopherol and carotenoid contents of selected Korean fruits and vegetables; Journal of Food Composition and Analysis; 2007; 20#Heinonen MI, Ollilainen V, Linkola EK, Varo PT, Koivistoinen; Carotenoids in Finnish Foods: Vegetables, Fruits, and Berries; Journal of Agricultural and Food Chemistry; 1989; 37#Lako J, Trenerry VC, Wahlqvist M, Wattanapenpaiboon N, Sotheeswaran S, Premier R; Phytochemical flavonols, carotenoids and the antioxidant properties of a wide selection of Fijian fruit, vegetables and other readily available foods; Food Chemistry; 2007; 101#Charoensiri, R., Kongkachuichai, R., Suknicom, S., Sungpuag, P.; Beta-carotene, lycopene, and alpha-tocopherol contents of selected Thai fruits; Food Chemistry; 2009; 113"
+    },
+    "CAROTPAXB": {
+      "value": 31.12,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Olmedilla B, Granado F, Blanco I, Rojas-Hidalgo E:; Quantitation of provitamin-A and non-provitamin-A carotenoids in the fruits most commonly consumed in Spain; Royal Society of Chemistry (RSC); 1993#Converted value from: Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.038,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3#Converted value from: Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24#Converted value from: Kim, Y.,Giraud, D. W.,Driskell, J. A.; Tocopherol and carotenoid contents of selected Korean fruits and vegetables; Journal of Food Composition and Analysis; 2007; 20#Converted value from: Charoensiri, R., Kongkachuichai, R., Suknicom, S., Sungpuag, P.; Beta-carotene, lycopene, and alpha-tocopherol contents of selected Thai fruits; Food Chemistry; 2009; 113"
+    },
+    "TOCPHA": {
+      "value": 0.038,
+      "data_origin": "Aggregation",
+      "reference": "Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24#Charoensiri, R., Kongkachuichai, R., Suknicom, S., Sungpuag, P.; Beta-carotene, lycopene, and alpha-tocopherol contents of selected Thai fruits; Food Chemistry; 2009; 113#Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3#Kim, Y.,Giraud, D. W.,Driskell, J. A.; Tocopherol and carotenoid contents of selected Korean fruits and vegetables; Journal of Food Composition and Analysis; 2007; 20"
+    },
+    "TOCPHB": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHG": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24#Kim, Y.,Giraud, D. W.,Driskell, J. A.; Tocopherol and carotenoid contents of selected Korean fruits and vegetables; Journal of Food Composition and Analysis; 2007; 20#Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "Kim, Y.,Giraud, D. W.,Driskell, J. A.; Tocopherol and carotenoid contents of selected Korean fruits and vegetables; Journal of Food Composition and Analysis; 2007; 20#Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24"
+    },
+    "TOCTRA": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 0.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.1,
+      "data_origin": "Literatur",
+      "reference": "Dismore M.L., Haytowitz D.B., Gebhardt S.E.,Peterson J.W., Booth S.L.); Vitamin K content of nuts and fruits in the US diet; Journal of the american dietetic association; 2003; 103; 12"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.045,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.05,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 0.267,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.15,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 0.9,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITB6": {
+      "value": 70,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "BIOT": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 6,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Yon M.,Hyun T.H.; Folate content of foods commonly consumed in Korea measured after trienzyme extraction; Nutrition Research; 2003; 23"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.008,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 3,
+      "data_origin": "Aggregation",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "CLD": {
+      "value": 8.3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "K": {
+      "value": 94,
+      "data_origin": "Aggregation",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "CA": {
+      "value": 8,
+      "data_origin": "Aggregation",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "MG": {
+      "value": 8,
+      "data_origin": "Aggregation",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "P": {
+      "value": 9,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.3,
+      "data_origin": "Aggregation",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Converted value from: BVL; Lebensmittel Monitoring 2012; 2012#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "ZN": {
+      "value": 0.09,
+      "data_origin": "Aggregation",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995#Converted value from: BVL; Lebensmittel Monitoring 2012; 2012#Converted value from: Nho, E. Y., et al.; Determination of Metals in Fruits of Cucurbitaceae Species from South Korea, to Characterize Potential Effects on Human Health.; Analytical Letters; 2018; 51; 5#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Radwan, M. A., Salama, A. K.; Market basket survey for some heavy metals in Egyptian fruits and vegetables; Food and Chemical Toxicology; 2006; 8; 44"
+    },
+    "ID": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995"
+    },
+    "CU": {
+      "value": 54,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Nho, E. Y., et al.; Determination of Metals in Fruits of Cucurbitaceae Species from South Korea, to Characterize Potential Effects on Human Health.; Analytical Letters; 2018; 51; 5#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995#Converted value from: BVL; Lebensmittel Monitoring 2012; 2012"
+    },
+    "MN": {
+      "value": 40,
+      "data_origin": "Aggregation",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Converted value from: BVL; Lebensmittel Monitoring 2012; 2012#Converted value from: Nho, E. Y., et al.; Determination of Metals in Fruits of Cucurbitaceae Species from South Korea, to Characterize Potential Effects on Human Health.; Analytical Letters; 2018; 51; 5#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995"
+    },
+    "FD": {
+      "value": 11,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CR": {
+      "value": 3.8,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Nho, E. Y., et al.; Determination of Metals in Fruits of Cucurbitaceae Species from South Korea, to Characterize Potential Effects on Human Health.; Analytical Letters; 2018; 51; 5"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0.24,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0.24,
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "SORTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 3.82,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 1.2,
+      "data_origin": "Aggregation",
+      "reference": "Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15#Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "FRUS": {
+      "value": 2.56,
+      "data_origin": "Aggregation",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15"
+    },
+    "GALS": {
+      "value": 0.06,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 2.9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 2.87,
+      "data_origin": "Literatur",
+      "reference": "Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15"
+    },
+    "MALS": {
+      "value": 0.03,
+      "data_origin": "Literatur",
+      "reference": "Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 6.72,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "McCance and Widdowson`s; The Composition of Foods, Seventh Summary Edition; 2015"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0.2,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0.1,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.1,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.04911,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.00033,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.03529,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F17:0": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:0": {
+      "value": 0.01008,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F20:0": {
+      "value": 0.00082,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F22:0": {
+      "value": 0.00015,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F24:0": {
+      "value": 0.00244,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "FAMS": {
+      "value": 0.0502,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.00032,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:1CN7": {
+      "value": 0.0014,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:1CN9": {
+      "value": 0.04814,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F20:1CN9": {
+      "value": 0.00032,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.059,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.0173,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.0168,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0.00053,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "FAPUN6": {
+      "value": 0.04166,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.04085,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0.00081,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.176,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.017,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ARG": {
+      "value": 0.059,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ASP": {
+      "value": 0.039,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CYSTE": {
+      "value": 0.002,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "GLU": {
+      "value": 0.063,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "GLY": {
+      "value": 0.01,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "HIS": {
+      "value": 0.006,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ILE": {
+      "value": 0.019,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "LEU": {
+      "value": 0.018,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "LYS": {
+      "value": 0.062,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "MET": {
+      "value": 0.006,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PHE": {
+      "value": 0.015,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PRO": {
+      "value": 0.024,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "SER": {
+      "value": 0.016,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "THR": {
+      "value": 0.027,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TRP": {
+      "value": 0.007,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TYR": {
+      "value": 0.012,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VAL": {
+      "value": 0.016,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "NT": {
+      "value": 0.1,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    }
+  }
+}

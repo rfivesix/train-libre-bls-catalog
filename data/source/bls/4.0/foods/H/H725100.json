@@ -1,0 +1,699 @@
+{
+  "bls_code": "H725100",
+  "source_group": "H",
+  "name_de": "Linse reif",
+  "name_en": "Lentil mature",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 1362,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 323,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 10.7,
+      "data_origin": "Aggregation",
+      "reference": "de Almeida Costa, G. E., et al.; Chemical composition, dietary fibre and resistant starch contents of raw and cooked pea, common bean, chickpea and lentil legumes.; Food Chemistry; 2006; 94; 3#Piecyk, M., et al.; Chemical composition and starch digestibility in flours from Polish processed legume seeds.; Food Chemistry; 2012; 135; 3#Iqbal, A., et al.; Nutritional quality of important food legumes.; Food Chemistry; 2006; 97; 2#Public Health England, Nutrient analysis of fruits and vegetables. 2017#Perez-Hidalgo, M. A., Guerra-Hernández, E., García-Villanova, B.; Dietary fiber in three raw legumes and processing effect on chick peas by an enzymatic-gravimetric method; Journal of Food Composition and Analysis; 1997"
+    },
+    "PROT625": {
+      "value": 23.357,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FAT": {
+      "value": 1.7,
+      "data_origin": "Aggregation",
+      "reference": "de Almeida Costa, G. E., et al.; Chemical composition, dietary fibre and resistant starch contents of raw and cooked pea, common bean, chickpea and lentil legumes.; Food Chemistry; 2006; 94; 3#Public Health England, Nutrient analysis of fruits and vegetables. 2017#Senser F., Scherz H.; Fleisch+ -prod., Fisch+ -prod., Gemüse+ -prod., Früchte+ -prod., Süßw., alkoholh; Brief vom 19.08.93 Deut. Forschungsanst. f. Lebensmittelchem; 1993#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 44.8,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 17.6,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: de Almeida Costa, G. E., et al.; Chemical composition, dietary fibre and resistant starch contents of raw and cooked pea, common bean, chickpea and lentil legumes.; Food Chemistry; 2006; 94; 3#Public Health England, Nutrient analysis of fruits and vegetables. 2017#Converted value from: Perez-Hidalgo, M. A., Guerra-Hernández, E., García-Villanova, B.; Dietary fiber in three raw legumes and processing effect on chick peas by an enzymatic-gravimetric method; Journal of Food Composition and Analysis; 1997"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 2.6,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017#Piecyk, M., et al.; Chemical composition and starch digestibility in flours from Polish processed legume seeds.; Food Chemistry; 2012; 135; 3#de Almeida Costa, G. E., et al.; Chemical composition, dietary fibre and resistant starch contents of raw and cooked pea, common bean, chickpea and lentil legumes.; Food Chemistry; 2006; 94; 3"
+    },
+    "VITA": {
+      "value": 17,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 8,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 100,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1.9,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 1.9,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 123,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 123,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.48,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.265,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 6.642,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 2.475,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 1.57,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITB6": {
+      "value": 550,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "BIOT": {
+      "value": 23.3,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "FOL": {
+      "value": 116,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 116,
+      "data_origin": "Aggregation",
+      "reference": "Jha, A. B., et al.; Genetic diversity of folate profiles in seeds of common bean, lentil, chickpea and pea.; Journal of Food Composition and Analysis; 2015; 42#Hefni, M., et al.; Folate content in foods commonly consumed in Egypt.; Food Chemistry; 2010; 121; 2"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.018,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CLD": {
+      "value": 84,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "K": {
+      "value": 837,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CA": {
+      "value": 64.667,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MG": {
+      "value": 129,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "P": {
+      "value": 408,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 8.03,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ZN": {
+      "value": 3.7,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2014; 2014#Converted value from: BVL / BfR; Lebensmittel-Monitoring; 2001"
+    },
+    "ID": {
+      "value": 6.7,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 841,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2009; 2009#Converted value from: BVL; Lebensmittel Monitoring 2014; 2014"
+    },
+    "MN": {
+      "value": 1350,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2014; 2014"
+    },
+    "FD": {
+      "value": 26,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CR": {
+      "value": 8.8,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": "<LOQ",
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "FRUS": {
+      "value": "<LOQ",
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 1.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 1.2,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "MALS": {
+      "value": 0.05,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "SUGAR": {
+      "value": 1.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 43.5,
+      "data_origin": "Aggregation",
+      "reference": "Piecyk, M., et al.; Chemical composition and starch digestibility in flours from Polish processed legume seeds.; Food Chemistry; 2012; 135; 3#Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 17.678,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: de Almeida Costa, G. E., et al.; Chemical composition, dietary fibre and resistant starch contents of raw and cooked pea, common bean, chickpea and lentil legumes.; Food Chemistry; 2006; 94; 3#Converted value from: Perez-Hidalgo, M. A., Guerra-Hernández, E., García-Villanova, B.; Dietary fiber in three raw legumes and processing effect on chick peas by an enzymatic-gravimetric method; Journal of Food Composition and Analysis; 1997"
+    },
+    "FIBINS": {
+      "value": 16.244,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Perez-Hidalgo, M. A., Guerra-Hernández, E., García-Villanova, B.; Dietary fiber in three raw legumes and processing effect on chick peas by an enzymatic-gravimetric method; Journal of Food Composition and Analysis; 1997#de Almeida Costa, G. E., et al.; Chemical composition, dietary fibre and resistant starch contents of raw and cooked pea, common bean, chickpea and lentil legumes.; Food Chemistry; 2006; 94; 3"
+    },
+    "FIBSOL": {
+      "value": 1.434,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Perez-Hidalgo, M. A., Guerra-Hernández, E., García-Villanova, B.; Dietary fiber in three raw legumes and processing effect on chick peas by an enzymatic-gravimetric method; Journal of Food Composition and Analysis; 1997#de Almeida Costa, G. E., et al.; Chemical composition, dietary fibre and resistant starch contents of raw and cooked pea, common bean, chickpea and lentil legumes.; Food Chemistry; 2006; 94; 3"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.24,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.0035,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F15:0": {
+      "value": 0.002,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F16:0": {
+      "value": 0.19,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F17:0": {
+      "value": 0.0022,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F18:0": {
+      "value": 0.018,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F20:0": {
+      "value": 0.0083,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F22:0": {
+      "value": 0.0062,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F24:0": {
+      "value": 0.0051,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "FAMS": {
+      "value": 0.018,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.0049,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": 0.011,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F22:1CN9": {
+      "value": 0.0019,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "FAPU": {
+      "value": 0.73,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.15,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.15,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.58,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.58,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0.001,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F20:3CN6": {
+      "value": 0.0016,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.38,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Zhang, B., et al.; Fatty acid, carotenoid and tocopherol compositions of 20 Canadian lentil cultivars and synergistic contribution to antioxidant activities.; Food Chemistry; 2014; 161"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 10.28,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 1.29,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ARG": {
+      "value": 2.24,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ASP": {
+      "value": 3.16,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CYSTE": {
+      "value": 0.25,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLU": {
+      "value": 4.49,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLY": {
+      "value": 1.3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "HIS": {
+      "value": 0.71,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 1.19,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LEU": {
+      "value": 2.11,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LYS": {
+      "value": 1.89,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.22,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 1.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PRO": {
+      "value": 1.22,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "SER": {
+      "value": 1.51,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "THR": {
+      "value": 1.12,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TRP": {
+      "value": 0.25,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TYR": {
+      "value": 0.84,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VAL": {
+      "value": 1.39,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NT": {
+      "value": 4,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Piecyk, M., et al.; Chemical composition and starch digestibility in flours from Polish processed legume seeds.; Food Chemistry; 2012; 135; 3#Converted value from: Iqbal, A., et al.; Nutritional quality of important food legumes.; Food Chemistry; 2006; 97; 2#Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017#Converted value from: de Almeida Costa, G. E., et al.; Chemical composition, dietary fibre and resistant starch contents of raw and cooked pea, common bean, chickpea and lentil legumes.; Food Chemistry; 2006; 94; 3"
+    }
+  }
+}

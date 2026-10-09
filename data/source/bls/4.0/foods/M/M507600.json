@@ -1,0 +1,699 @@
+{
+  "bls_code": "M507600",
+  "source_group": "M",
+  "name_de": "Esrom mind. 45 % Fett i. Tr.",
+  "name_en": "Esrom cheese min. 45 % fat in dry matter",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 1364,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 328,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 45.9,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "PROT625": {
+      "value": 23.7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "FAT": {
+      "value": 25.7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CHO": {
+      "value": 0.01,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.77,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 3.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "VITA": {
+      "value": 237,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 227,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 218,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CARTB": {
+      "value": 113,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0.26,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0.26,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.66,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "TOCPHA": {
+      "value": 0.66,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0.012,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 15.85,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 15.85,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "RIBF": {
+      "value": 0.28,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "NIAEQ": {
+      "value": 5.667,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "PANTAC": {
+      "value": 0.8,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "VITB6": {
+      "value": 60,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "BIOT": {
+      "value": 1.1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 18,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 18,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "VITC": {
+      "value": 0.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "NACL": {
+      "value": 1.945,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 778,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CLD": {
+      "value": 1135,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "K": {
+      "value": 66.2,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CA": {
+      "value": 810,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "MG": {
+      "value": 25.1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "P": {
+      "value": 450,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "S": {
+      "value": 213,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.12,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ZN": {
+      "value": 2.82,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ID": {
+      "value": 35,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "CU": {
+      "value": 120,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "MN": {
+      "value": 50,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "FD": {
+      "value": 140,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "CR": {
+      "value": 0.25,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "MO": {
+      "value": 6.6,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": 0.114,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.046,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0.61,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "MALAC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0.01,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0.01,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 16.642,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0.871,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F6:0": {
+      "value": 0.56,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F8:0": {
+      "value": 0.36,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F10:0": {
+      "value": 0.801,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F12:0": {
+      "value": 1.001,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F14:0": {
+      "value": 2.842,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 7.605,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 2.602,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 6.634,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0.36,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F16:1CN7": {
+      "value": 0.56,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 5.714,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.72,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.19,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.19,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.53,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.53,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.29,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CHORL": {
+      "value": 58,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "AAE9": {
+      "value": 10.914,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.759,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ARG": {
+      "value": 0.759,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ASP": {
+      "value": 1.71,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "CYSTE": {
+      "value": 0.087,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "GLU": {
+      "value": 4.74,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "GLY": {
+      "value": 0.493,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "HIS": {
+      "value": 0.683,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "ILE": {
+      "value": 1.33,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "LEU": {
+      "value": 2.24,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "LYS": {
+      "value": 1.93,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "MET": {
+      "value": 0.683,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "PHE": {
+      "value": 1.25,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "PRO": {
+      "value": 2.54,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "SER": {
+      "value": 1.37,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "THR": {
+      "value": 0.834,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "TRP": {
+      "value": 0.334,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "TYR": {
+      "value": 1.33,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "VAL": {
+      "value": 1.63,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    },
+    "NT": {
+      "value": 3.793,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute; Food data (frida.fooddata.dk), version 4.2; 2022"
+    }
+  }
+}

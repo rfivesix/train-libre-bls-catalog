@@ -1,0 +1,699 @@
+{
+  "bls_code": "Q210000",
+  "source_group": "Q",
+  "name_de": "Erdnussöl",
+  "name_en": "Peanut oil",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 3696,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 899,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": "TR",
+      "data_origin": "Spuren",
+      "reference": "-"
+    },
+    "PROT625": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAT": {
+      "value": 99.9,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CHO": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": "TR",
+      "data_origin": "Spuren",
+      "reference": "-"
+    },
+    "VITA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 12,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Converted value from: U.S. Department of Agriculture (USDA), Agricultural Research Service. FoodData Central: Foundation Foods. Version Current: April 2024. Internet: fdc.nal.usda.gov.#Converted value from: Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "TOCPHA": {
+      "value": 12,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#U.S. Department of Agriculture (USDA), Agricultural Research Service. FoodData Central: Foundation Foods. Version Current: April 2024. Internet: fdc.nal.usda.gov."
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "TOCPHG": {
+      "value": 17.4,
+      "data_origin": "Aggregation",
+      "reference": "U.S. Department of Agriculture (USDA), Agricultural Research Service. FoodData Central: Foundation Foods. Version Current: April 2024. Internet: fdc.nal.usda.gov.#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "TOCPHD": {
+      "value": 2.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 1.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 1.1,
+      "data_origin": "Aggregation",
+      "reference": "Woollard D. C., Indyk H.E., Fong B.Y., Cook K.K.; Determination of Vitamin K1 Isomers in Foods by Liquid Chromatography with C30 Bonded-Phase Column; Journal of AOAC International; 2002; 85; 3#Ferland G., Sadowski J. A.; Vitamin K1 (Phylloquinone) Content of Edible Oils: Effect of Heating  and Light Exposure; J Agric. Food Chem.; 1992; 40"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "RIBF": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "NIAEQ": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "PANTAC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CLD": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "K": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CA": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MG": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "P": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.064,
+      "data_origin": "Literatur",
+      "reference": "Scherz H.; Milch, Milchprodukte, Käse, Eier, Fette, Öle (Manuskript für SFK-Tabellen 5. Aufl.); Brief vom 13.07.93 Deut. Forschungsanst. F. Lebensmittelchem; 1993"
+    },
+    "ZN": {
+      "value": 0.033,
+      "data_origin": "Literatur",
+      "reference": "Dugo, G., La Pera, L., La Torre, G. L., Giuffrida, D.; Determination of Cd(II), Cu(II), Pb(II), and Zn(II) content in commercial vegetable oils using derivative potentiometric stripping analysis; Food Chemistry; 2004; 4"
+    },
+    "ID": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MN": {
+      "value": 2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 16.7,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 8.9,
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F17:0": {
+      "value": 0.1,
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F18:0": {
+      "value": 2.6,
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F20:0": {
+      "value": 1.2,
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F22:0": {
+      "value": 2.5,
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F24:0": {
+      "value": 1.4,
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "FAMS": {
+      "value": 54.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": 1.3,
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F18:1CN9": {
+      "value": 51.3,
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F20:1CN9": {
+      "value": 1.5,
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 23.7,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.2,
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 23.5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 23.5,
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F20:2CN6": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.5,
+      "data_origin": "Literatur",
+      "reference": "Vingering, N., et al.; Fatty acid composition of commercial vegetable oils from the French market analysed using a long highly polar column; OCL - Oleagineux Corps Gras Lipides; 2010; 17; 3"
+    },
+    "CHORL": {
+      "value": 1.03,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "AAE9": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    }
+  }
+}

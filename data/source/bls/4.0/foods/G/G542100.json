@@ -1,0 +1,699 @@
+{
+  "bls_code": "G542100",
+  "source_group": "G",
+  "name_de": "Gemüsepaprika gelb, roh",
+  "name_en": "Sweet pepper yellow, raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 118,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 28,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 92.9,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Guil-Guerrero, J. L., et al.; Nutrient composition and antioxidant activity of 10 pepper (Capsicum annuun) varieties.; European Food Research and Technology; 2006; 1#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "PROT625": {
+      "value": 0.8,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FAT": {
+      "value": 0.2,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "CHO": {
+      "value": 4.422,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 2.2,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.32,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.01,
+      "data_origin": "Aggregation",
+      "reference": "Guil-Guerrero, J. L., et al.; Nutrient composition and antioxidant activity of 10 pepper (Capsicum annuun) varieties.; European Food Research and Technology; 2006; 1#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "VITA": {
+      "value": 29,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 14,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 150,
+      "data_origin": "Literatur",
+      "reference": "Heinonen MI, Ollilainen V, Linkola EK, Varo PT, Koivistoinen; Carotenoids in Finnish Foods: Vegetables, Fruits, and Berries; Journal of Agricultural and Food Chemistry; 1989; 37"
+    },
+    "CAROTPAXB": {
+      "value": 42,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 3.885,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 3.885,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": 0.1333,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0.288,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0.061,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": 0.0208,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 2.36,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 2.36,
+      "data_origin": "Literatur",
+      "reference": "Koivu,T.J.; Piironen, V.I.; Henttonen, S.K.; Mattila; P.H.); Determination of Phylloquinone in Vegetables, Fruits, and Berries by High-Performance Liquid Chromatography with Electrochemical Detection; J. Agric. Food Chem.; 1997; 45; 12"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.11,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "RIBF": {
+      "value": 0.02,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "NIAEQ": {
+      "value": 0.583,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.4,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "PANTAC": {
+      "value": 0.35,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "VITB6": {
+      "value": 108.37,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "BIOT": {
+      "value": 3.9,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FOL": {
+      "value": 30,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 30,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 159.81,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0.002,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 1,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "CLD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "K": {
+      "value": 182,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "CA": {
+      "value": 6,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "MG": {
+      "value": 9,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "P": {
+      "value": 22.93,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.38,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "ZN": {
+      "value": 0.155,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "ID": {
+      "value": 3,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 40,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "MN": {
+      "value": 110,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.262,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.06,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 4.422,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 1.8,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FRUS": {
+      "value": 2.6,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "GALS": {
+      "value": 0.02193,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "MALS": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "LACS": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "SUGAR": {
+      "value": 4.422,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 2.2,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 1.87,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.33,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.0512,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": 0.00023,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "F14:0": {
+      "value": 0.00189,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "F15:0": {
+      "value": 0.00018,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "F16:0": {
+      "value": 0.0327,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "F17:0": {
+      "value": 0.00045,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "F18:0": {
+      "value": 0.0114,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "F20:0": {
+      "value": 0.00172,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "F22:0": {
+      "value": 0.00149,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "F24:0": {
+      "value": 0.0011,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "FAMS": {
+      "value": 0.003,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.0013,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.001,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": 0.0011,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "FAPU": {
+      "value": 0.0853,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.032,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.032,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.0533,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.0533,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.00172,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Saini, Ramesh Kumar; Keum, Young-Soo; GC–MS and HPLC–DAD analysis of fatty acids and tocopherols in sweet peppers (Capsicum annuum L.); Journal of Food Measurement and Characterization; 2016"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.245,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.035,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.041,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 0.122,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.016,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 0.113,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.032,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.018,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.028,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 0.045,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0.038,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.01,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.027,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.037,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.034,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.032,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.011,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.018,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.036,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 0.128,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    }
+  }
+}

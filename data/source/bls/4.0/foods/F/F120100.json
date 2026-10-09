@@ -1,0 +1,699 @@
+{
+  "bls_code": "F120100",
+  "source_group": "F",
+  "name_de": "Apfel geschält, roh",
+  "name_en": "Apple peeled, raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 180,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 43,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 82.47,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PROT625": {
+      "value": 0.3,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Converted value from: Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "FAT": {
+      "value": 0.13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CHO": {
+      "value": 8.9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 2.19,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Gorinstein, S., Martin-Belloso, O. ,Lojek, A. ,Číž, M., Soliva-Fortuny, R., Park, Y. S., Caspi, A., Libman, I., Trakhtenberg, S.; Comparative content of some phytochemicals in Spanish apples, peaches and pears; Journal of the Science of Food and Agriculture; 2002; 82"
+    },
+    "ALC": {
+      "value": 0.019,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.455,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.17,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITA": {
+      "value": 5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 23.1,
+      "data_origin": "Aggregation",
+      "reference": "Kim, Y.,Giraud, D. W.,Driskell, J. A.; Tocopherol and carotenoid contents of selected Korean fruits and vegetables; Journal of Food Composition and Analysis; 2007; 20#Charoensiri, R., Kongkachuichai, R., Suknicom, S., Sungpuag, P.; Beta-carotene, lycopene, and alpha-tocopherol contents of selected Thai fruits; Food Chemistry; 2009; 113"
+    },
+    "CAROTPAXB": {
+      "value": 13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.115,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Kim, Y.,Giraud, D. W.,Driskell, J. A.; Tocopherol and carotenoid contents of selected Korean fruits and vegetables; Journal of Food Composition and Analysis; 2007; 20#Converted value from: Charoensiri, R., Kongkachuichai, R., Suknicom, S., Sungpuag, P.; Beta-carotene, lycopene, and alpha-tocopherol contents of selected Thai fruits; Food Chemistry; 2009; 113"
+    },
+    "TOCPHA": {
+      "value": 0.115,
+      "data_origin": "Aggregation",
+      "reference": "Charoensiri, R., Kongkachuichai, R., Suknicom, S., Sungpuag, P.; Beta-carotene, lycopene, and alpha-tocopherol contents of selected Thai fruits; Food Chemistry; 2009; 113#Kim, Y.,Giraud, D. W.,Driskell, J. A.; Tocopherol and carotenoid contents of selected Korean fruits and vegetables; Journal of Food Composition and Analysis; 2007; 20"
+    },
+    "TOCPHB": {
+      "value": 0.01,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TOCPHG": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Kim, Y.,Giraud, D. W.,Driskell, J. A.; Tocopherol and carotenoid contents of selected Korean fruits and vegetables; Journal of Food Composition and Analysis; 2007; 20"
+    },
+    "TOCPHD": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Kim, Y.,Giraud, D. W.,Driskell, J. A.; Tocopherol and carotenoid contents of selected Korean fruits and vegetables; Journal of Food Composition and Analysis; 2007; 20"
+    },
+    "TOCTRA": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITK": {
+      "value": 0.6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.6,
+      "data_origin": "Literatur",
+      "reference": "Dismore M.L., Haytowitz D.B., Gebhardt S.E.,Peterson J.W., Booth S.L.); Vitamin K content of nuts and fruits in the US diet; Journal of the american dietetic association; 2003; 103; 12"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.011,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "RIBF": {
+      "value": 0.009,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NIAEQ": {
+      "value": 0.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.1,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PANTAC": {
+      "value": 0.071,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITB6": {
+      "value": 43,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 1.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "FOL": {
+      "value": 2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 2,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Phillips KM, Rasor AS, Ruggio DM, Amanna KR; Folate content of different edible portions of vegetables and fruits; Nutrition and Food Science; 2008#Vahteristo L., Lehikoinen K., Ollilainen V. and Varo P.; Application of an HPLC assay for the determination of folate derivatives in some vegetables, fruits and berries consumed in Finland; Food Chemistry; 1997; 59; 4"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 9,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "NACL": {
+      "value": 0.002,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 1,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CLD": {
+      "value": 2.2,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "K": {
+      "value": 110,
+      "data_origin": "Literatur",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "CA": {
+      "value": 5,
+      "data_origin": "Literatur",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "MG": {
+      "value": 6,
+      "data_origin": "Literatur",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "P": {
+      "value": 9,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.12,
+      "data_origin": "Literatur",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "ZN": {
+      "value": 0.01,
+      "data_origin": "Literatur",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "ID": {
+      "value": 4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "CU": {
+      "value": 30,
+      "data_origin": "Literatur",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "MN": {
+      "value": 20,
+      "data_origin": "Literatur",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "FD": {
+      "value": 9,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.029317,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.426,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0.76,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "SORTL": {
+      "value": 0.76,
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 4.7,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 1.4,
+      "data_origin": "Aggregation",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Haila K, Kumpulainen J, Häkkinen U, Tahvonen R; Sugars and organic acids in berries and fruits consumed in Finland during 1987–1989.; Journal of Food Composition and Analysis; 1992; 5; 2"
+    },
+    "FRUS": {
+      "value": 3.3,
+      "data_origin": "Aggregation",
+      "reference": "Haila K, Kumpulainen J, Häkkinen U, Tahvonen R; Sugars and organic acids in berries and fruits consumed in Finland during 1987–1989.; Journal of Food Composition and Analysis; 1992; 5; 2#Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "DISAC": {
+      "value": 2.78,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 2.78,
+      "data_origin": "Literatur",
+      "reference": "Haila K, Kumpulainen J, Häkkinen U, Tahvonen R; Sugars and organic acids in berries and fruits consumed in Finland during 1987–1989.; Journal of Food Composition and Analysis; 1992; 5; 2"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 7.5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0.6,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 2.19,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Gorinstein, S., Martin-Belloso, O. ,Lojek, A. ,Číž, M., Soliva-Fortuny, R., Park, Y. S., Caspi, A., Libman, I., Trakhtenberg, S.; Comparative content of some phytochemicals in Spanish apples, peaches and pears; Journal of the Science of Food and Agriculture; 2002; 82"
+    },
+    "FIBINS": {
+      "value": 1.3,
+      "data_origin": "Literatur",
+      "reference": "Gorinstein, S., Martin-Belloso, O. ,Lojek, A. ,Číž, M., Soliva-Fortuny, R., Park, Y. S., Caspi, A., Libman, I., Trakhtenberg, S.; Comparative content of some phytochemicals in Spanish apples, peaches and pears; Journal of the Science of Food and Agriculture; 2002; 82"
+    },
+    "FIBSOL": {
+      "value": 0.89,
+      "data_origin": "Literatur",
+      "reference": "Gorinstein, S., Martin-Belloso, O. ,Lojek, A. ,Číž, M., Soliva-Fortuny, R., Park, Y. S., Caspi, A., Libman, I., Trakhtenberg, S.; Comparative content of some phytochemicals in Spanish apples, peaches and pears; Journal of the Science of Food and Agriculture; 2002; 82"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.019,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F6:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F8:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F10:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F12:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F14:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.017,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.002,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.043,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.068,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.012,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ARG": {
+      "value": 0.006,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ASP": {
+      "value": 0.074,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CYSTE": {
+      "value": 0.001,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "GLU": {
+      "value": 0.026,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "GLY": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.005,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ILE": {
+      "value": 0.006,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "LEU": {
+      "value": 0.014,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "LYS": {
+      "value": 0.013,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "MET": {
+      "value": 0.001,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PHE": {
+      "value": 0.007,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PRO": {
+      "value": 0.006,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "SER": {
+      "value": 0.011,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "THR": {
+      "value": 0.006,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TRP": {
+      "value": 0.004,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "TYR": {
+      "value": 0.001,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VAL": {
+      "value": 0.012,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "NT": {
+      "value": 0.04,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021#Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    }
+  }
+}

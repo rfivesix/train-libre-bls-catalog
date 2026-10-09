@@ -1,0 +1,699 @@
+{
+  "bls_code": "T410600",
+  "source_group": "T",
+  "name_de": "Lachs geräuchert (Räucherlachs)",
+  "name_en": "Salmon smoked",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 713,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 170,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 66.9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PROT625": {
+      "value": 21.25,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FAT": {
+      "value": 9.2,
+      "data_origin": "Aggregation",
+      "reference": "Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "CHO": {
+      "value": 0.16,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.65,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 3.9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITA": {
+      "value": 6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 5.2,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": "<LOQ",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0.94,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0.94,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 3,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 3,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": "<LOQ",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 1.8,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0.014,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 5.783,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 1.725,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 4.058,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.42,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "RIBF": {
+      "value": 0.08,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NIAEQ": {
+      "value": 8.731,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 4.264,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PANTAC": {
+      "value": 0.551,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 634,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 6.805,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 3.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 3.3,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 2.34,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 2.925,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 1170,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CLD": {
+      "value": 1000,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "K": {
+      "value": 419,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CA": {
+      "value": 6.6,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "MG": {
+      "value": 28.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "P": {
+      "value": 280,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "S": {
+      "value": 240,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.147,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ZN": {
+      "value": 0.33,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ID": {
+      "value": 9,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "CU": {
+      "value": 34.3,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "MN": {
+      "value": 32.7,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FD": {
+      "value": 30,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "CR": {
+      "value": 0.5,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 0.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": 0.028,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0.546,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.076,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.16,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.16,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0.16,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 1.73,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.36,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F15:0": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F16:0": {
+      "value": 1.03,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F17:0": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F18:0": {
+      "value": 0.34,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.46,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F18:1CN7": {
+      "value": 0.36,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F18:1CN9": {
+      "value": 2.9,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F20:1CN9": {
+      "value": 0.3,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 2.6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 1.46,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.19,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F18:4CN3": {
+      "value": 0.1,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F20:5CN3": {
+      "value": 0.41,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F22:5CN3": {
+      "value": 0.23,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F22:6CN3": {
+      "value": 0.53,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "FAPUN6": {
+      "value": 1.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 1,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F20:2CN6": {
+      "value": 0.069,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0.032,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 40.3,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 9.263,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 1.24,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 1.16,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 2.05,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.23,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 2.82,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.983,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.986,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.988,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 1.59,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 1.9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.567,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.883,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.674,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.797,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.961,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.268,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.731,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 1.12,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 3.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    }
+  }
+}

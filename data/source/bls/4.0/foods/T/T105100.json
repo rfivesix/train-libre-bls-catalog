@@ -1,0 +1,699 @@
+{
+  "bls_code": "T105100",
+  "source_group": "T",
+  "name_de": "Sardine roh",
+  "name_en": "Sardine raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 631,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 151,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 74.4,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "PROT625": {
+      "value": 19.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FAT": {
+      "value": 8.15,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "CHO": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.4,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "VITA": {
+      "value": 10,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 10,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 10,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "CARTB": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 3.95,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 3.95,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "ERGCAL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1.735,
+      "data_origin": "Übernommener Wert",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "TOCPHA": {
+      "value": 1.735,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": 0.01,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0.01,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 0.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0.12,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "RIBF": {
+      "value": 0.34,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "NIAEQ": {
+      "value": 14.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 10.1,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "PANTAC": {
+      "value": 0.69,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "VITB6": {
+      "value": 260,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "BIOT": {
+      "value": 9.7,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "FOL": {
+      "value": 7,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 7,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 8.31,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "VITC": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "NACL": {
+      "value": 0.34,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 136,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "CLD": {
+      "value": 200,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "K": {
+      "value": 387,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "CA": {
+      "value": 50,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "MG": {
+      "value": 32,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "P": {
+      "value": 257,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 1.55,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "ZN": {
+      "value": 1.16,
+      "data_origin": "Aggregation",
+      "reference": "Terrés, C, Navarro, M, Martín-Lagos, F, Giménez, R, López, H, López, MC; Zinc levels in foods from southeastern Spain: relationship to daily dietary intake; Food Additives and Contaminants; 2001; 8; 18#Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "ID": {
+      "value": 79,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "CU": {
+      "value": 130,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "MN": {
+      "value": 30,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "FD": {
+      "value": 100,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 2,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 1.8287,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F6:0": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F8:0": {
+      "value": 0.002,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F10:0": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F12:0": {
+      "value": 0.0058,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F14:0": {
+      "value": 0.3305,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F15:0": {
+      "value": 0.0184,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F16:0": {
+      "value": 1.1064,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F17:0": {
+      "value": 0.0899,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F18:0": {
+      "value": 0.2368,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F20:0": {
+      "value": 0.0265,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F22:0": {
+      "value": 0.008,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F24:0": {
+      "value": 0.0044,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "FAMS": {
+      "value": 1.2853,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F16:1CN7": {
+      "value": 0.2827,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F18:1CN7": {
+      "value": 0.1532,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F18:1CN9": {
+      "value": 0.5183,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F20:1CN9": {
+      "value": 0.2661,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F22:1CN9": {
+      "value": 0.0296,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "FAPU": {
+      "value": 1.4838,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 1.2627,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.0498,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F18:4CN3": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F20:5CN3": {
+      "value": 0.4924,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F22:5CN3": {
+      "value": 0.0774,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F22:6CN3": {
+      "value": 0.6228,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "FAPUN6": {
+      "value": 0.2211,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.0613,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F18:2C9T11": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F18:3CN6": {
+      "value": 0.0066,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F20:2CN6": {
+      "value": 0.1093,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F20:3CN6": {
+      "value": 0.0068,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "F20:4CN6": {
+      "value": 0.0371,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "FAX": {
+      "value": 0.892,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "CHORL": {
+      "value": 51,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fish and fish products; 2013"
+    },
+    "AAE9": {
+      "value": 10.16,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 1.6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ARG": {
+      "value": 1.31,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ASP": {
+      "value": 2.32,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CYSTE": {
+      "value": 0.22,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLU": {
+      "value": 3.04,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLY": {
+      "value": 1.24,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "HIS": {
+      "value": 0.46,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 1.19,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LEU": {
+      "value": 1.87,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LYS": {
+      "value": 2.28,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.64,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 0.91,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PRO": {
+      "value": 0.85,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "SER": {
+      "value": 1.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "THR": {
+      "value": 1.12,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TRP": {
+      "value": 0.24,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TYR": {
+      "value": 0.81,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VAL": {
+      "value": 1.45,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NT": {
+      "value": 3.104,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    }
+  }
+}

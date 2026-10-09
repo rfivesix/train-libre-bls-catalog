@@ -1,0 +1,699 @@
+{
+  "bls_code": "Q991000",
+  "source_group": "Q",
+  "name_de": "Mayonnaise (Fertigprodukt)",
+  "name_en": "Mayonnaise (ready-made product)",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 3084,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 750,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 11.7,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995"
+    },
+    "PROT625": {
+      "value": 1.49,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FAT": {
+      "value": 81.2,
+      "data_origin": "Aggregation",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 2.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0.64,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.762,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.98,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITA": {
+      "value": 21,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 19,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 17.3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2024"
+    },
+    "CARTB": {
+      "value": 20,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2024"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 7.6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "TOCPHA": {
+      "value": 7.6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "TOCPHB": {
+      "value": 0.08,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 3.05,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0.0985,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 45.9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 43.3,
+      "data_origin": "Literatur",
+      "reference": "Bolton-Smith C;Price RJG;Fenton ST;Harrington DJ;Shearer MJ; Compilation of a provisional UK database for the phylloquinone (vitamin K1) content of foods; British Journal of Nutrition; 2000; 4"
+    },
+    "VITK2": {
+      "value": 2.6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2024"
+    },
+    "THIA": {
+      "value": 0.04,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.04,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 0.317,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 0.15,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "VITB6": {
+      "value": 90,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "BIOT": {
+      "value": 0.7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "FOL": {
+      "value": 9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 9,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0.3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "VITC": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.91,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 364,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995"
+    },
+    "CLD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "K": {
+      "value": 9,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995"
+    },
+    "CA": {
+      "value": 7,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "MG": {
+      "value": 1,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "P": {
+      "value": 30,
+      "data_origin": "Aggregation",
+      "reference": "Norwegian Food Safety Authority, Norwegian Food Composition Database 2023#The Swedish Food Agency; The Swedish Food Agency food database; 2024"
+    },
+    "S": {
+      "value": 32,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.23,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "ZN": {
+      "value": 0.16,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "ID": {
+      "value": 4,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995"
+    },
+    "CU": {
+      "value": 9,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995"
+    },
+    "MN": {
+      "value": 11,
+      "data_origin": "Literatur",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 5.7,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 2.8,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": 0.546,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.122,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0.076,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.018,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0.004,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0.004,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.7,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "FRUS": {
+      "value": 0.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 1.6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 1.6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2024"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2024"
+    },
+    "SUGAR": {
+      "value": 2.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Norwegian Food Safety Authority, Norwegian Food Composition Database 2023"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0.64,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.64,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 6.88,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F6:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F8:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F10:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F12:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F14:0": {
+      "value": 0.058,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 4.387,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F17:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F18:0": {
+      "value": 1.48,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F20:0": {
+      "value": 0.545,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F22:0": {
+      "value": 0.294,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F24:0": {
+      "value": 0.116,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "FAMS": {
+      "value": 42.772,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F16:1CN7": {
+      "value": 0.179,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F18:1CN7": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F18:1CN9": {
+      "value": 42.282,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": 0.311,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "FAPU": {
+      "value": 25.234,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 7.395,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 7.395,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F18:4CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F22:5CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "FAPUN6": {
+      "value": 17.839,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 17.768,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0.071,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F20:3CN6": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 1.154,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "CHORL": {
+      "value": 57.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Public Health England; McCance and Widdowson's The Composition of Foods Integrated Dataset; 2021"
+    },
+    "AAE9": {
+      "value": 0.326,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.054,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.083,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 0.114,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.016,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 0.192,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.043,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.03,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.049,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 0.051,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0.046,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.03,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.03,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.007,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.032,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.046,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.007,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.035,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.037,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 0.238,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    }
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "bls_code": "T207172",
+  "source_group": "T",
+  "name_de": "Köhler/Seelachs, gegrillt",
+  "name_en": "Saithe/pollack, grilled",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 535,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 127,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 72.409,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PROT625": {
+      "value": 24.913,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FAT": {
+      "value": 3.019,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CHO": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.239,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1.53,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 1.53,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 0.19,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.044,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0.15,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.095,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "RIBF": {
+      "value": 0.521,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "NIAEQ": {
+      "value": 8.226,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 3.493,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PANTAC": {
+      "value": 0.41,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 367,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 4.9,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 11,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 11,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 3.4,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0.1708,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 68.3,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CLD": {
+      "value": 159,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "K": {
+      "value": 508,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CA": {
+      "value": 28,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MG": {
+      "value": 33.8,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "P": {
+      "value": 279,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "S": {
+      "value": 303,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.316,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ZN": {
+      "value": 0.5,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ID": {
+      "value": 81,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 70,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MN": {
+      "value": 13,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FD": {
+      "value": 171,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 0.243,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.81,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": 0.0003,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": 0.0021,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.1747,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": 0.013,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.4549,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F17:0": {
+      "value": 0.0346,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.1203,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F20:0": {
+      "value": 0.0042,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": 0.0024,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": 0.0039,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0.812,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0.001,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.226,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.472,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": 0.0978,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": 0.0157,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 1.0995,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.9533,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.0364,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": 0.046,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0.3045,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": 0.1172,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0.4492,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.1462,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.0941,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0.0048,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0.0085,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": 0.0081,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0.0307,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.2896,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 79,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 10.766,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 1.457,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 1.522,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 2.579,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.309,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 3.817,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 1.083,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.554,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 1.199,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 2.05,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 2.411,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.838,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 1.019,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.799,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 1.044,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 1.122,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.284,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.851,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 1.289,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 3.986,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    }
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "bls_code": "U687000",
+  "source_group": "U",
+  "name_de": "Schwein Oberschale (ohne Deckel) roh",
+  "name_en": "Pork topside",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 484,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 115,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 74.13,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PROT625": {
+      "value": 23.01,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FAT": {
+      "value": 2.51,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CHO": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.41,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITA": {
+      "value": 2.6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 2.6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 2.6,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": "TR",
+      "data_origin": "Spuren",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": "TR",
+      "data_origin": "Spuren",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.442,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 0.442,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 2.87,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": "TR",
+      "data_origin": "Spuren",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 2.87,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.7,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "RIBF": {
+      "value": 0.19,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NIAEQ": {
+      "value": 13.45,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 8.25,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PANTAC": {
+      "value": 0.49,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 603,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 0.62,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 1.5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 1.5,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": "<LOD",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": "<LOQ",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": "TR",
+      "data_origin": "Spuren",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0.1192,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 47.7,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CLD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "K": {
+      "value": 401.2,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CA": {
+      "value": 3.6,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "MG": {
+      "value": 25.7,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "P": {
+      "value": 204.6,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.5706,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ZN": {
+      "value": 1.5473,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ID": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 55.2,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "MN": {
+      "value": 7.6,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "TR",
+      "data_origin": "Spuren",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "TR",
+      "data_origin": "Spuren",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": "TR",
+      "data_origin": "Spuren",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "TR",
+      "data_origin": "Spuren",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.781,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": 0.0016,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.0229,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": 0.0011,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.478,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F17:0": {
+      "value": 0.00628,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.264,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F20:0": {
+      "value": 0.00576,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": 0.00032,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": 0.00075,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 1.044,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.0681,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": 0.0885,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.884,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": 0.00027,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": 0.00343,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.209,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.01631,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.00957,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": 0.00048,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0.00087,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": 0.0048,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0.00059,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.19,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.167,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": 0.00265,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0.0015,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0.012,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": 0.00439,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0.00505,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.252,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 54.25,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 10.60599,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 1.34201,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 1.82025,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 2.14242,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.2789,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 3.4685,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 1.07605,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 1.0509,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 1.17067,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 2.12128,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 1.92306,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.69208,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.96737,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.88029,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 1.01387,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 1.14798,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.31182,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.86348,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 1.22083,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 3.68,
+      "data_origin": "Analyse",
+      "reference": "-"
+    }
+  }
+}

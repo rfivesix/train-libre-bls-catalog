@@ -1,0 +1,699 @@
+{
+  "bls_code": "G104100",
+  "source_group": "G",
+  "name_de": "Feldsalat/Rapunzel, roh",
+  "name_en": "Lamb's lettuce raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 74,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 18,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 92.667,
+      "data_origin": "Aggregation",
+      "reference": "Fajardo, V., et al.; Folate content in fresh-cut vegetable packed products by 96-well microtiter plate microbiological assay.; Food Chemistry; 2015; 169#Colonna, E., et al.; Nutritional quality of ten leafy vegetables harvested at two light intensities.; Food Chemistry; 2016; 199#Ramos-Bueno, R. P., et al.; Phytochemical Composition and Antitumor Activities of New Salad Greens: Rucola (Diplotaxis tenuifolia) and Corn Salad (Valerianella locusta); Plant Foods for Human Nutrition; 2016; 2"
+    },
+    "PROT625": {
+      "value": 1.9,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Colonna, E., et al.; Nutritional quality of ten leafy vegetables harvested at two light intensities.; Food Chemistry; 2016; 199"
+    },
+    "FAT": {
+      "value": 0.36,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 0.808,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.8,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.8,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITA": {
+      "value": 534,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 267,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 2732,
+      "data_origin": "Aggregation",
+      "reference": "Ramos-Bueno, R. P., et al.; Phytochemical Composition and Antitumor Activities of New Salad Greens: Rucola (Diplotaxis tenuifolia) and Corn Salad (Valerianella locusta); Plant Foods for Human Nutrition; 2016; 2#Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204"
+    },
+    "CAROTPAXB": {
+      "value": 940,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.458,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Cruz, R. and S. Casal; Validation of a fast and accurate chromatographic method for detailed quantification of vitamin E in green leafy vegetables; Food Chemistry; 2013; 141"
+    },
+    "TOCPHA": {
+      "value": 0.458,
+      "data_origin": "Literatur",
+      "reference": "Cruz, R. and S. Casal; Validation of a fast and accurate chromatographic method for detailed quantification of vitamin E in green leafy vegetables; Food Chemistry; 2013; 141"
+    },
+    "TOCPHB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0.031,
+      "data_origin": "Literatur",
+      "reference": "Cruz, R. and S. Casal; Validation of a fast and accurate chromatographic method for detailed quantification of vitamin E in green leafy vegetables; Food Chemistry; 2013; 141"
+    },
+    "TOCPHD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 116,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 116,
+      "data_origin": "Literatur",
+      "reference": "Vinas P., Bravo-Bravo M., Lopez-Garcia I.and Hernandez-Cordoba M.; Dispersive liquid-liquid microextraction for the determination of vitamins D and K in foods by liquid chromatography with diode-array and atmospheric pressure chemical ionization-mass spectrometry detection; Talanta; 2013; 115"
+    },
+    "VITK2": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Vinas P., Bravo-Bravo M., Lopez-Garcia I.and Hernandez-Cordoba M.; Dispersive liquid-liquid microextraction for the determination of vitamins D and K in foods by liquid chromatography with diode-array and atmospheric pressure chemical ionization-mass spectrometry detection; Talanta; 2013; 115"
+    },
+    "THIA": {
+      "value": 0.065,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.08,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 0.713,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.38,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 250,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "BIOT": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 108,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 108,
+      "data_origin": "Aggregation",
+      "reference": "Johansson M., Jägerstad M.,Frolich W.; Folates in lettuce: a pilot study; Scandinavian Journal of Food and Nutrition; 2007; 51; 1#Müller H.; Bestimmung der Folsäure-Gehalte von Gemüse und Obst mit Hilfe der Hochleistungsflüssigchromatographie (HPLC); Z Lebensm Unters Forsch; 1993; 196#Fajardo, V., et al.; Folate content in fresh-cut vegetable packed products by 96-well microtiter plate microbiological assay.; Food Chemistry; 2015; 169"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 35,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.02515,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 10.06,
+      "data_origin": "Literatur",
+      "reference": "Santos, J., et al. ; Multi-elemental analysis of ready-to-eat \"baby leaf\" vegetables using microwave digestion and high-resolution continuum source atomic absorption spectrometry; Food Chemistry; 2014; 151"
+    },
+    "CLD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "K": {
+      "value": 441,
+      "data_origin": "Aggregation",
+      "reference": "Colonna, E., et al.; Nutritional quality of ten leafy vegetables harvested at two light intensities.; Food Chemistry; 2016; 199#Santos, J., et al. ; Multi-elemental analysis of ready-to-eat \"baby leaf\" vegetables using microwave digestion and high-resolution continuum source atomic absorption spectrometry; Food Chemistry; 2014; 151"
+    },
+    "CA": {
+      "value": 59.2,
+      "data_origin": "Aggregation",
+      "reference": "Colonna, E., et al.; Nutritional quality of ten leafy vegetables harvested at two light intensities.; Food Chemistry; 2016; 199#Santos, J., et al. ; Multi-elemental analysis of ready-to-eat \"baby leaf\" vegetables using microwave digestion and high-resolution continuum source atomic absorption spectrometry; Food Chemistry; 2014; 151"
+    },
+    "MG": {
+      "value": 39.5,
+      "data_origin": "Aggregation",
+      "reference": "Santos, J., et al. ; Multi-elemental analysis of ready-to-eat \"baby leaf\" vegetables using microwave digestion and high-resolution continuum source atomic absorption spectrometry; Food Chemistry; 2014; 151#Colonna, E., et al.; Nutritional quality of ten leafy vegetables harvested at two light intensities.; Food Chemistry; 2016; 199"
+    },
+    "P": {
+      "value": 49,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 1.84,
+      "data_origin": "Literatur",
+      "reference": "Santos, J., et al. ; Multi-elemental analysis of ready-to-eat \"baby leaf\" vegetables using microwave digestion and high-resolution continuum source atomic absorption spectrometry; Food Chemistry; 2014; 151"
+    },
+    "ZN": {
+      "value": 0.32,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2017; 2017#Converted value from: BVL; Lebensmittel Monitoring 2014; 2014#Santos, J., et al. ; Multi-elemental analysis of ready-to-eat \"baby leaf\" vegetables using microwave digestion and high-resolution continuum source atomic absorption spectrometry; Food Chemistry; 2014; 151#Converted value from: BVL; Lebensmittel Monitoring 2004; 2004#Converted value from: BVL; Lebensmittel Monitoring 2011; 2011"
+    },
+    "ID": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 126,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2017; 2017#Converted value from: BVL; Lebensmittel Monitoring 2011; 2011#Converted value from: BVL; Lebensmittel Monitoring 2014; 2014#Converted value from: BVL; Lebensmittel Monitoring 2004; 2004#Santos, J., et al. ; Multi-elemental analysis of ready-to-eat \"baby leaf\" vegetables using microwave digestion and high-resolution continuum source atomic absorption spectrometry; Food Chemistry; 2014; 151"
+    },
+    "MN": {
+      "value": 500,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2017; 2017#Converted value from: BVL; Lebensmittel Monitoring 2014; 2014"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 5,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2017; 2017"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.619,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.391,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FRUS": {
+      "value": 0.228,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0.181,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0.181,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0.8,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0.008,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 1.8,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 1.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.017,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.0043,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Ramos-Bueno, R. P., et al.; Phytochemical Composition and Antitumor Activities of New Salad Greens: Rucola (Diplotaxis tenuifolia) and Corn Salad (Valerianella locusta); Plant Foods for Human Nutrition; 2016; 2"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.0038,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Ramos-Bueno, R. P., et al.; Phytochemical Composition and Antitumor Activities of New Salad Greens: Rucola (Diplotaxis tenuifolia) and Corn Salad (Valerianella locusta); Plant Foods for Human Nutrition; 2016; 2"
+    },
+    "F20:0": {
+      "value": 0.0028,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Ramos-Bueno, R. P., et al.; Phytochemical Composition and Antitumor Activities of New Salad Greens: Rucola (Diplotaxis tenuifolia) and Corn Salad (Valerianella locusta); Plant Foods for Human Nutrition; 2016; 2"
+    },
+    "F22:0": {
+      "value": 0.003,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Ramos-Bueno, R. P., et al.; Phytochemical Composition and Antitumor Activities of New Salad Greens: Rucola (Diplotaxis tenuifolia) and Corn Salad (Valerianella locusta); Plant Foods for Human Nutrition; 2016; 2"
+    },
+    "F24:0": {
+      "value": 0.0033,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Ramos-Bueno, R. P., et al.; Phytochemical Composition and Antitumor Activities of New Salad Greens: Rucola (Diplotaxis tenuifolia) and Corn Salad (Valerianella locusta); Plant Foods for Human Nutrition; 2016; 2"
+    },
+    "FAMS": {
+      "value": 0.008,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.0063,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Ramos-Bueno, R. P., et al.; Phytochemical Composition and Antitumor Activities of New Salad Greens: Rucola (Diplotaxis tenuifolia) and Corn Salad (Valerianella locusta); Plant Foods for Human Nutrition; 2016; 2"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.002,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Ramos-Bueno, R. P., et al.; Phytochemical Composition and Antitumor Activities of New Salad Greens: Rucola (Diplotaxis tenuifolia) and Corn Salad (Valerianella locusta); Plant Foods for Human Nutrition; 2016; 2"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.175,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.145,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.145,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Ramos-Bueno, R. P., et al.; Phytochemical Composition and Antitumor Activities of New Salad Greens: Rucola (Diplotaxis tenuifolia) and Corn Salad (Valerianella locusta); Plant Foods for Human Nutrition; 2016; 2"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.03,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.03,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Ramos-Bueno, R. P., et al.; Phytochemical Composition and Antitumor Activities of New Salad Greens: Rucola (Diplotaxis tenuifolia) and Corn Salad (Valerianella locusta); Plant Foods for Human Nutrition; 2016; 2"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.737,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.088,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ASP": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.035,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 0.13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LEU": {
+      "value": 0.14,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LYS": {
+      "value": 0.11,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.011,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 0.096,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PRO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SER": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.085,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TRP": {
+      "value": 0.02,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TYR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.11,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NT": {
+      "value": 0.304,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Colonna, E., et al.; Nutritional quality of ten leafy vegetables harvested at two light intensities.; Food Chemistry; 2016; 199"
+    }
+  }
+}

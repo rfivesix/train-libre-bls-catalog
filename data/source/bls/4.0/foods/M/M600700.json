@@ -1,0 +1,699 @@
+{
+  "bls_code": "M600700",
+  "source_group": "M",
+  "name_de": "Weichkäse mind. 50 % Fett i. Tr.",
+  "name_en": "Soft cheese min. 50 % fat in dry matter",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 1284,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 310,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 56,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PROT625": {
+      "value": 19.8,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "FAT": {
+      "value": 25.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "CHO": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.58,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITA": {
+      "value": 305,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 292,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 280,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "CARTB": {
+      "value": 150,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0.51,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0.51,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.77,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 0.77,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E, Renz-Schauen A, Naehrwerttabellen fuer Milch und Milchprodukte, 1992"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0.02,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 43,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 1.21,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 42,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.06,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "RIBF": {
+      "value": 0.45,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "NIAEQ": {
+      "value": 4.99,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.82,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "PANTAC": {
+      "value": 0.54,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITB6": {
+      "value": 200,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "BIOT": {
+      "value": 6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "FOL": {
+      "value": 46,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 46,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 1,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "VITC": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "NACL": {
+      "value": 1.75,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 700,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "CLD": {
+      "value": 1100,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "K": {
+      "value": 88,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CA": {
+      "value": 245,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "MG": {
+      "value": 18,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "P": {
+      "value": 278,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "S": {
+      "value": 54,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "ZN": {
+      "value": 1.96,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ID": {
+      "value": 20,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "CU": {
+      "value": 40,
+      "data_origin": "Aggregation",
+      "reference": "Agence nationale de sécurité sanitaire (Anses), Ciqual French food composition table 2020#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "MN": {
+      "value": 100,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "FD": {
+      "value": 100,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "CR": {
+      "value": 1.2,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 10,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "ACEAC": {
+      "value": 0.038,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "MALAC": {
+      "value": 0.022,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 17.656,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0.581,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": 0.462,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": 0.321,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": 0.862,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": 0.992,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 3.103,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 8.568,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F17:0": {
+      "value": 0.028,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 2.739,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 5.99,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.482,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 5.475,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": 0.033,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.573,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.117,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.117,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.456,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.456,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 59,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "AAE9": {
+      "value": 8.6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.319,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ARG": {
+      "value": 0.549,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ASP": {
+      "value": 0.92,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CYSTE": {
+      "value": 0.084,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "GLU": {
+      "value": 3.45,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "GLY": {
+      "value": 0.209,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "HIS": {
+      "value": 0.505,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ILE": {
+      "value": 1,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "LEU": {
+      "value": 1.9,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "LYS": {
+      "value": 1.6,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "MET": {
+      "value": 0.494,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PHE": {
+      "value": 0.737,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PRO": {
+      "value": 2.24,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "SER": {
+      "value": 0.711,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "THR": {
+      "value": 0.84,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "TRP": {
+      "value": 0.25,
+      "data_origin": "Aggregation",
+      "reference": "Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TYR": {
+      "value": 0.723,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VAL": {
+      "value": 1.3,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992"
+    },
+    "NT": {
+      "value": 3.2,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Renner E., Renz-Schauen A.; Nährwerttabelle für Milch- und Milchprodukte; Verlag B. Renner, Gießen; 1992#Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    }
+  }
+}

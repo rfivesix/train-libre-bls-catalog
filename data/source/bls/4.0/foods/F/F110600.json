@@ -1,0 +1,699 @@
+{
+  "bls_code": "F110600",
+  "source_group": "F",
+  "name_de": "Apfelsaft",
+  "name_en": "Apple juice",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 188,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 44,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 88.05,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995"
+    },
+    "PROT625": {
+      "value": 0.097,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FAT": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "CHO": {
+      "value": 10.585,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0.31,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0.031,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.766,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.23,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "VITA": {
+      "value": 6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 14,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": 43,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.08,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 0.08,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 0.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.003,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "RIBF": {
+      "value": 0.0045,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NIAEQ": {
+      "value": 0.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.2,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "PANTAC": {
+      "value": 0.05,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "VITB6": {
+      "value": 9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 0.9,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FOL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Konings, E. J. M., et al.; Folate intake of the Dutch population according to newly established liquid chromatography data for foods; American Journal of Clinical Nutrition; 2001; 73"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0.015,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 6,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Sager, M. and M. Gossinger; Element contents of cloudy varietal apple juices.; Mitteilungen Klosterneuburg; 2015; 65; 2#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: Tormen, L., et al.; Rapid assessment of metal contamination in commercial fruit juices by inductively coupled mass spectrometry after a simple dilution.; Journal of Food Composition and Analysis; 2011; 24; 1#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995#Dehelean, A., Magdas, D. A.; Analysis of mineral and heavy metal content of some commercial fruit juices by inductively coupled plasma mass spectrometry; The Scientific World Journal; 2013"
+    },
+    "CLD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "K": {
+      "value": 91,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Lanzerstorfer, P., Wruss, J., Huemer, S., Steininger, A., Müller, U., Himmelsbach, M., Borgmann, D., Winkler, S., Höglinger, O., Weghuber, J.; Bioanalytical characterization of apple juice from 88 grafted and nongrafted apple varieties grown in upper austria; Journal of Agricultural and Food Chemistry; 2014; 62#Dehelean, A., Magdas, D. A.; Analysis of mineral and heavy metal content of some commercial fruit juices by inductively coupled plasma mass spectrometry; The Scientific World Journal; 2013#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: Sager, M. and M. Gossinger; Element contents of cloudy varietal apple juices.; Mitteilungen Klosterneuburg; 2015; 65; 2#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "CA": {
+      "value": 5,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Lanzerstorfer, P., Wruss, J., Huemer, S., Steininger, A., Müller, U., Himmelsbach, M., Borgmann, D., Winkler, S., Höglinger, O., Weghuber, J.; Bioanalytical characterization of apple juice from 88 grafted and nongrafted apple varieties grown in upper austria; Journal of Agricultural and Food Chemistry; 2014; 62#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: Sager, M. and M. Gossinger; Element contents of cloudy varietal apple juices.; Mitteilungen Klosterneuburg; 2015; 65; 2#Converted value from: Tormen, L., et al.; Rapid assessment of metal contamination in commercial fruit juices by inductively coupled mass spectrometry after a simple dilution.; Journal of Food Composition and Analysis; 2011; 24; 1#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Dehelean, A., Magdas, D. A.; Analysis of mineral and heavy metal content of some commercial fruit juices by inductively coupled plasma mass spectrometry; The Scientific World Journal; 2013#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "MG": {
+      "value": 4,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Lanzerstorfer, P., Wruss, J., Huemer, S., Steininger, A., Müller, U., Himmelsbach, M., Borgmann, D., Winkler, S., Höglinger, O., Weghuber, J.; Bioanalytical characterization of apple juice from 88 grafted and nongrafted apple varieties grown in upper austria; Journal of Agricultural and Food Chemistry; 2014; 62#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Dehelean, A., Magdas, D. A.; Analysis of mineral and heavy metal content of some commercial fruit juices by inductively coupled plasma mass spectrometry; The Scientific World Journal; 2013#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995#Converted value from: Sager, M. and M. Gossinger; Element contents of cloudy varietal apple juices.; Mitteilungen Klosterneuburg; 2015; 65; 2#Converted value from: Szymczycha-Madeja A, Welna M; Evaluation of a simple and fast method for the multi-elemental analysis in commercial fruit juice samples using atomic emission spectrometry.; Food Chemistry; 2013; 141; 4"
+    },
+    "P": {
+      "value": 6.74,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Sager, M. and M. Gossinger; Element contents of cloudy varietal apple juices.; Mitteilungen Klosterneuburg; 2015; 65; 2"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.2,
+      "data_origin": "Aggregation",
+      "reference": "Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Converted value from: Lanzerstorfer, P., Wruss, J., Huemer, S., Steininger, A., Müller, U., Himmelsbach, M., Borgmann, D., Winkler, S., Höglinger, O., Weghuber, J.; Bioanalytical characterization of apple juice from 88 grafted and nongrafted apple varieties grown in upper austria; Journal of Agricultural and Food Chemistry; 2014; 62#Converted value from: Tormen, L., et al.; Rapid assessment of metal contamination in commercial fruit juices by inductively coupled mass spectrometry after a simple dilution.; Journal of Food Composition and Analysis; 2011; 24; 1#Converted value from: Szymczycha-Madeja A, Welna M; Evaluation of a simple and fast method for the multi-elemental analysis in commercial fruit juice samples using atomic emission spectrometry.; Food Chemistry; 2013; 141; 4#Converted value from: BVL; Lebensmittel Monitoring 2011; 2011#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995#Converted value from: Sager, M. and M. Gossinger; Element contents of cloudy varietal apple juices.; Mitteilungen Klosterneuburg; 2015; 65; 2#Converted value from: BVL; Lebensmittel Monitoring 2013; 2013#Converted value from: BVL; Lebensmittel Monitoring 2008; 2008#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "ZN": {
+      "value": 0.03,
+      "data_origin": "Aggregation",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995#Converted value from: BVL; Lebensmittel Monitoring 2011; 2011#Converted value from: BVL; Lebensmittel Monitoring 2008; 2008#Converted value from: BVL; Lebensmittel Monitoring 2013; 2013#Converted value from: BVL; Lebensmittel Monitoring 2005 ; 2005#Converted value from: Tormen, L., et al.; Rapid assessment of metal contamination in commercial fruit juices by inductively coupled mass spectrometry after a simple dilution.; Journal of Food Composition and Analysis; 2011; 24; 1#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Dehelean, A., Magdas, D. A.; Analysis of mineral and heavy metal content of some commercial fruit juices by inductively coupled plasma mass spectrometry; The Scientific World Journal; 2013#Converted value from: Szymczycha-Madeja A, Welna M; Evaluation of a simple and fast method for the multi-elemental analysis in commercial fruit juice samples using atomic emission spectrometry.; Food Chemistry; 2013; 141; 4#Converted value from: Tvermoes, B. E. et al.; Screening level health risk assessment of selected metals in apple juice sold in the United States.; Food and Chemical Toxicology; 2014; 71#Converted value from: Sager, M. and M. Gossinger; Element contents of cloudy varietal apple juices.; Mitteilungen Klosterneuburg; 2015; 65; 2#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "ID": {
+      "value": 2,
+      "data_origin": "Aggregation",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995#Converted value from: Sager, M. and M. Gossinger; Element contents of cloudy varietal apple juices.; Mitteilungen Klosterneuburg; 2015; 65; 2"
+    },
+    "CU": {
+      "value": 20,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2011; 2011#Converted value from: BVL; Lebensmittel Monitoring 2008; 2008#Converted value from: BVL; Lebensmittel Monitoring 2005 ; 2005#Converted value from: Tvermoes, B. E. et al.; Screening level health risk assessment of selected metals in apple juice sold in the United States.; Food and Chemical Toxicology; 2014; 71#Converted value from: BVL; Lebensmittel Monitoring 2013; 2013#Converted value from: Sager, M. and M. Gossinger; Element contents of cloudy varietal apple juices.; Mitteilungen Klosterneuburg; 2015; 65; 2#Converted value from: Tormen, L., et al.; Rapid assessment of metal contamination in commercial fruit juices by inductively coupled mass spectrometry after a simple dilution.; Journal of Food Composition and Analysis; 2011; 24; 1#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995"
+    },
+    "MN": {
+      "value": 40,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2008; 2008#Converted value from: BVL; Lebensmittel Monitoring 2013; 2013#Converted value from: BVL; Lebensmittel Monitoring 2011; 2011#Converted value from: Anastácio, M. et al.; Determination of trace metals in fruit juices in the Portuguese market.; Toxicology Reports; 2018; 5#Converted value from: Tvermoes, B. E. et al.; Screening level health risk assessment of selected metals in apple juice sold in the United States.; Food and Chemical Toxicology; 2014; 71#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: BVL; Lebensmittel Monitoring 2016; 2016#Converted value from: Sager, M. and M. Gossinger ; Element contents of cloudy varietal apple juices.; Mitteilungen Klosterneuburg; 2015; 65; 2#Converted value from: Tormen, L., et al. ; Rapid assessment of metal contamination in commercial fruit juices by inductively coupled mass spectrometry after a simple dilution.; Journal of Food Composition and Analysis; 2011; 24; 1"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 1,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Garcı́a, E. M., et al.; Chrom levels in potable water, fruit juices and soft drinks: influence on dietary intake; Science of The Total Environment; 1999; 241; 1#Converted value from: BVL; Lebensmittel Monitoring 2008; 2008#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Converted value from: Sager, M. and M. Gossinger; Element contents of cloudy varietal apple juices.; Mitteilungen Klosterneuburg; 2015; 65; 2#Converted value from: BVL; Lebensmittel Monitoring 2011; 2011#Converted value from: Tvermoes, B. E. et al.; Screening level health risk assessment of selected metals in apple juice sold in the United States.; Food and Chemical Toxicology; 2014; 71#Converted value from: Anastácio, M. et al.; Determination of trace metals in fruit juices in the Portuguese market.; Toxicology Reports; 2018; 5"
+    },
+    "MO": {
+      "value": 0.65,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tormen, L., et al.; Rapid assessment of metal contamination in commercial fruit juices by inductively coupled mass spectrometry after a simple dilution.; Journal of Food Composition and Analysis; 2011; 24; 1"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.009,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "LACAC": {
+      "value": 0.017,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "MALAC": {
+      "value": 0.74,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Matthews RH, Pehrsson PR, Farhat-Sabet M; Sugar content of selected foods: Individual and total sugars; Home economic research report 48, U.S. Department of Agriculture, Human Nutrition Information Service: Washington DC; 1987"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 8.45,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 2.215,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 6.235,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 1.135,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 1.135,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "LACS": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "SUGAR": {
+      "value": 9.585,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "McCance and Widdowson`s; The Composition of Foods, Seventh Summary Edition; 2015"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0.03,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.28,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F17:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.023,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.004,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.002,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 0.027,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 0.009,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.002,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.002,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 0.005,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0.005,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.003,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.002,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.004,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.002,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.004,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 0.016,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    }
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "bls_code": "F211100",
+  "source_group": "F",
+  "name_de": "Süßkirsche roh",
+  "name_en": "Sweet cherry raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 298,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 70,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 82.63,
+      "data_origin": "Literatur",
+      "reference": "Vedrina-Dragojevic, I., et al.; Effect of blanching, drying, freezing and storage on degradation of beta-carotene in different fruits; Nahrung-Food; 1997; 41; 6"
+    },
+    "PROT625": {
+      "value": 0.9,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FAT": {
+      "value": 0.31,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 15.33,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.559,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.49,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITA": {
+      "value": 11,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 51,
+      "data_origin": "Aggregation",
+      "reference": "Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204#Dias, M. G., et al.; Carotenoids in traditional Portuguese fruits and vegetables.; Food Chemistry; 2009; 113; 3"
+    },
+    "CAROTPAXB": {
+      "value": 28,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204#Converted value from: Dias, M. G., et al.; Carotenoids in traditional Portuguese fruits and vegetables.; Food Chemistry; 2009; 113; 3"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.08,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHA": {
+      "value": 0.08,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHB": {
+      "value": 0.02,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHG": {
+      "value": 0.07,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHD": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCTRA": {
+      "value": 0.07,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "VITK": {
+      "value": 2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.039,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.042,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 0.403,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.27,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 0.19,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITB6": {
+      "value": 45,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "BIOT": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FOL": {
+      "value": 37,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 37,
+      "data_origin": "Aggregation",
+      "reference": "Stralsjö L., Ahlin H., Witthöft C.M.and Jastrebova J); Folate determination in Swedish berries by radioprotein-binding assay (RPBA) and high performance liquid chromatography (HPLC); Eur Food Res Technol; 2003; 216#Müller H.; Bestimmung der Folsäure-Gehalte von Gemüse und Obst mit Hilfe der Hochleistungsflüssigchromatographie (HPLC); Z Lebensm Unters Forsch; 1993; 196"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 15,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.00059,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 0.236,
+      "data_origin": "Aggregation",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995#Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9"
+    },
+    "CLD": {
+      "value": 3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "K": {
+      "value": 214,
+      "data_origin": "Aggregation",
+      "reference": "Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995"
+    },
+    "CA": {
+      "value": 14,
+      "data_origin": "Aggregation",
+      "reference": "Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "MG": {
+      "value": 12,
+      "data_origin": "Aggregation",
+      "reference": "Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "P": {
+      "value": 24,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 1.285,
+      "data_origin": "Aggregation",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995#Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Bagdatlioglu, N., et al.; Heavy metal levels in leafy vegetables and some selected fruits.; Journal fur Verbraucherschutz und Lebensmittelsicherheit; 2010; 5; 3"
+    },
+    "ZN": {
+      "value": 0.08,
+      "data_origin": "Aggregation",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995#Bagdatlioglu, N., et al.; Heavy metal levels in leafy vegetables and some selected fruits.; Journal fur Verbraucherschutz und Lebensmittelsicherheit ; 2010; 5; 3#Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Converted value from: BVL / BfR; Lebensmittel-Monitoring; 1998#Converted value from: BVL; Lebensmittel Monitoring 2014; 2014#Converted value from: BVL; Lebensmittel Monitoring 2011; 2011"
+    },
+    "ID": {
+      "value": 0.84,
+      "data_origin": "Aggregation",
+      "reference": "Norwegian Food Safety Authority, Norwegian Food Composition Database 2023#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CU": {
+      "value": 77,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2011; 2011#Converted value from: BVL; Lebensmittel Monitoring 2014; 2014#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995"
+    },
+    "MN": {
+      "value": 100,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2014; 2014#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995"
+    },
+    "FD": {
+      "value": 18,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CR": {
+      "value": 2,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 2,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.025,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Usenik V. et al.; Sugars, organic acids, phenolic composition and antioxidant activity of sweet cherry (Prunus avium L.); Food Chemistry; 2008; 107; 1"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.534,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Usenik V. et al.; Sugars, organic acids, phenolic composition and antioxidant activity of sweet cherry (Prunus avium L.); Food Chemistry; 2008; 107; 1"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Senser F., Scherz H.; Fleisch+ -prod., Fisch+ -prod., Gemüse+ -prod., Früchte+ -prod., Süßw., alkoholh; Brief vom 19.08.93 Deut. Forschungsanst. f. Lebensmittelchem; 1993; 0"
+    },
+    "POLYL": {
+      "value": 1.67,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 1.67,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Usenik V. et al.; Sugars, organic acids, phenolic composition and antioxidant activity of sweet cherry (Prunus avium L.); Food Chemistry; 2008; 107; 1"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 12.89,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 7.14,
+      "data_origin": "Aggregation",
+      "reference": "Ballistreri, G., et al. ; Fruit quality and bioactive compounds relevant to human health of sweet cherry (Prunus avium L.) cultivars grown in Italy.; Food Chemistry; 2013; 140#Demir, T.; Determination of carotenoid, organic acid and sugar content in some sweet cherry cultivars grown in Sakarya, Turkey; Journal of Food, Agriculture and Environment; 2013; 11#Kelebek, H. and S. Selli ; Evaluation of chemical constituents and antioxidant activity of sweet cherry (Prunus avium L.) cultivars.; International Journal of Food Science and Technology; 2011; 46#Converted value from: Usenik V. et al.; Sugars, organic acids, phenolic composition and antioxidant activity of sweet cherry (Prunus avium L.); Food Chemistry; 2008; 107; 1#Hayaloglu, A. A. and N. Demir ; Physicochemical characteristics, antioxidant activity, organic acid and sugar contents of 12 sweet cherry (prunus avium l.) cultivars grown in Turkey.; Journal of Food Science; 2015; 80"
+    },
+    "FRUS": {
+      "value": 5.75,
+      "data_origin": "Aggregation",
+      "reference": "Kelebek, H. and S. Selli ; Evaluation of chemical constituents and antioxidant activity of sweet cherry (Prunus avium L.) cultivars.; International Journal of Food Science and Technology; 2011; 46#Demir, T.; Determination of carotenoid, organic acid and sugar content in some sweet cherry cultivars grown in Sakarya, Turkey; Journal of Food, Agriculture and Environment; 2013; 11#Hayaloglu, A. A. and N. Demir ; Physicochemical characteristics, antioxidant activity, organic acid and sugar contents of 12 sweet cherry (prunus avium l.) cultivars grown in Turkey.; Journal of Food Science; 2015; 80#Converted value from: Usenik V. et al.; Sugars, organic acids, phenolic composition and antioxidant activity of sweet cherry (Prunus avium L.); Food Chemistry; 2008; 107; 1#Ballistreri, G., et al. ; Fruit quality and bioactive compounds relevant to human health of sweet cherry (Prunus avium L.) cultivars grown in Italy.; Food Chemistry; 2013; 140"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0.77,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0.6,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Usenik V. et al.; Sugars, organic acids, phenolic composition and antioxidant activity of sweet cherry (Prunus avium L.); Food Chemistry; 2008; 107; 1#Demir, T.; Determination of carotenoid, organic acid and sugar content in some sweet cherry cultivars grown in Sakarya, Turkey; Journal of Food, Agriculture and Environment; 2013; 11#Kelebek, H. and S. Selli ; Evaluation of chemical constituents and antioxidant activity of sweet cherry (Prunus avium L.) cultivars.; International Journal of Food Science and Technology; 2011; 46"
+    },
+    "MALS": {
+      "value": 0.17,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 13.66,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 1.9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 1,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.07,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.0017,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.049,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.017,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:0": {
+      "value": 0.0022,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0.084,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.001,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.083,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.093,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.046,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.046,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.047,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.047,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.149,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.024,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ARG": {
+      "value": 0.014,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ASP": {
+      "value": 0.483,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CYSTE": {
+      "value": 0.003,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLU": {
+      "value": 0.031,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLY": {
+      "value": 0.019,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "HIS": {
+      "value": 0.011,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 0.016,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LEU": {
+      "value": 0.023,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LYS": {
+      "value": 0.031,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.004,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 0.016,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PRO": {
+      "value": 0.026,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "SER": {
+      "value": 0.026,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "THR": {
+      "value": 0.018,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TRP": {
+      "value": 0.008,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TYR": {
+      "value": 0.01,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VAL": {
+      "value": 0.022,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NT": {
+      "value": 0.144,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    }
+  }
+}

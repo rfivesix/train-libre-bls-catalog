@@ -1,0 +1,699 @@
+{
+  "bls_code": "R123100",
+  "source_group": "R",
+  "name_de": "Apfelessig",
+  "name_en": "Apple cider vinegar",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 80,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 18,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 93.2,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "PROT625": {
+      "value": 0.2,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: The Swedish Food Agency; The Swedish Food Agency food database; 2022#Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "FAT": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "CHO": {
+      "value": 0.147,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0.097,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 5.48,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.209,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "VITA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "TOCPHA": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "TOCPHB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "RIBF": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "NIAEQ": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PANTAC": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VITB6": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "BIOT": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022#US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "VITC": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "NACL": {
+      "value": 0.045,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 18,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "CLD": {
+      "value": 0.8,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "K": {
+      "value": 100,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "CA": {
+      "value": 5.8,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "MG": {
+      "value": 4.2,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "P": {
+      "value": 6,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.12,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "ZN": {
+      "value": 0.036,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "ID": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 2,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "MN": {
+      "value": 36,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 1.8,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "MO": {
+      "value": 0.57,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "ACEAC": {
+      "value": 5.21,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "CITAC": {
+      "value": 0.007,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "LACAC": {
+      "value": 0.051,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "MALAC": {
+      "value": 0.208,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "POLYL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.147,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.017,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "FRUS": {
+      "value": 0.13,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Manja Pätzold, Angelika John, Karl-Heinz Bauer, Claus-Dieter Patz, Frank Will, Helmut Dietrich, Investigation of Selected Components in Apple and Wine Vinegars (Original: Untersuchung ausgewählter Inhaltsstoffe in Apfel- und Weinessigen) , 2005"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0.147,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "F14:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "F15:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "F17:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "F20:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "F22:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "F18:1CN7": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "F20:1CN9": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "F18:4CN3": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "F18:2C9T11": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    },
+    "FAX": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ARG": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ASP": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "CYSTE": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "GLU": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "GLY": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "HIS": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "ILE": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "LEU": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "LYS": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "MET": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PHE": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "PRO": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "SER": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "THR": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TRP": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "TYR": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "VAL": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019"
+    },
+    "NT": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Converted value from: The Swedish Food Agency; The Swedish Food Agency food database; 2022"
+    }
+  }
+}

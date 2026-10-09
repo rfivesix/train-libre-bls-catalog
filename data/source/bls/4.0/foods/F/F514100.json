@@ -1,0 +1,699 @@
+{
+  "bls_code": "F514100",
+  "source_group": "F",
+  "name_de": "Kiwi roh",
+  "name_en": "Kiwi fruit raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 256,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 61,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 84.9,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017#D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37"
+    },
+    "PROT625": {
+      "value": 0.9,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "FAT": {
+      "value": 0.5,
+      "data_origin": "Aggregation",
+      "reference": "D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "CHO": {
+      "value": 10.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 3.9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 1.495,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.6,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "VITA": {
+      "value": 7,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 38,
+      "data_origin": "Aggregation",
+      "reference": "D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37#Heinonen MI, Ollilainen V, Linkola EK, Varo PT, Koivistoinen; Carotenoids in Finnish Foods: Vegetables, Fruits, and Berries; Journal of Agricultural and Food Chemistry; 1989; 37#Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204"
+    },
+    "CAROTPAXB": {
+      "value": 2,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1.74,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3#Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "TOCPHA": {
+      "value": 1.74,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017#Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHB": {
+      "value": 0.002,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017#Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHG": {
+      "value": 0.018,
+      "data_origin": "Aggregation",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "TOCPHD": {
+      "value": 0.002,
+      "data_origin": "Aggregation",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "TOCTRA": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "VITK": {
+      "value": 33,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 33,
+      "data_origin": "Aggregation",
+      "reference": "Koivu,T.J.; Piironen, V.I.; Henttonen, S.K.; Mattila; P.H.); Determination of Phylloquinone in Vegetables, Fruits, and Berries by High-Performance Liquid Chromatography with Electrochemical Detection; J. Agric. Food Chem.; 1997; 45; 12#Bolton-Smith C;Price RJG;Fenton ST;Harrington DJ;Shearer MJ; Compilation of a provisional UK database for the phylloquinone (vitamin K1) content of foods; British Journal of Nutrition; 2000; 4#Dismore M.L., Haytowitz D.B., Gebhardt S.E.,Peterson J.W., Booth S.L.); Vitamin K content of nuts and fruits in the US diet; Journal of the american dietetic association; 2003; 103; 12"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.0075,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "RIBF": {
+      "value": "<LOQ",
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "NIAEQ": {
+      "value": 0.6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.3,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "PANTAC": {
+      "value": 0.42,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "VITB6": {
+      "value": 70,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "BIOT": {
+      "value": 1.3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "FOL": {
+      "value": 35,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 35,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Yon M.,Hyun T.H.; Folate content of foods commonly consumed in Korea measured after trienzyme extraction; Nutrition Research; 2003; 23#Public Health England, Nutrient analysis of fruits and vegetables. 2017#Konings, E. J. M., et al.; Folate intake of the Dutch population according to newly established liquid chromatography data for foods; American Journal of Clinical Nutrition; 2001; 73"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 71,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "NACL": {
+      "value": 0.008,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 3,
+      "data_origin": "Aggregation",
+      "reference": "Barea-Álvarez M, Delgado-Andrade C, Haro A, Olalla M, Seiquer I, Rufián-Henares JÁ; Subtropical fruits grown in Spain and elsewhere: A comparison of mineral profiles.; Journal of Food Composition and Analysis; 2016; 48#D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37#Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "CLD": {
+      "value": 33,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "K": {
+      "value": 280,
+      "data_origin": "Aggregation",
+      "reference": "Barea-Álvarez M, Delgado-Andrade C, Haro A, Olalla M, Seiquer I, Rufián-Henares JÁ; Subtropical fruits grown in Spain and elsewhere: A comparison of mineral profiles.; Journal of Food Composition and Analysis; 2016; 48#Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "CA": {
+      "value": 26,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017#Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Barea-Álvarez M, Delgado-Andrade C, Haro A, Olalla M, Seiquer I, Rufián-Henares JÁ; Subtropical fruits grown in Spain and elsewhere: A comparison of mineral profiles.; Journal of Food Composition and Analysis; 2016; 48#D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37"
+    },
+    "MG": {
+      "value": 14,
+      "data_origin": "Aggregation",
+      "reference": "Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "P": {
+      "value": 33,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.2,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2010; 2010#D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37#Public Health England, Nutrient analysis of fruits and vegetables. 2017#Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9"
+    },
+    "ZN": {
+      "value": 0.09,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2010; 2010#Miller-Ihli, NJ; Atomic absorption and atomic emission spectrometry for the determination of the trace element content of selected fruits consumed in the United States; Journal of Food Composition and Analysis; 1996; 9#Habte, G., et al.; Determination of Essential and Toxic Elements in Tropical Fruit by Microwave-Assisted Digestion and Inductively Coupled Plasma-Mass Spectrometry.; Analytical Letters; 2017; 50; 6#D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37#Terrés, C, Navarro, M, Martín-Lagos, F, Giménez, R, López, H, López, MC; Zinc levels in foods from southeastern Spain: relationship to daily dietary intake; Food Additives and Contaminants; 2001; 8; 18#Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "ID": {
+      "value": 0.8,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017#The New Zealand Institute for Plant & Food Research Limited; The New Zealand Food Composition Table, 10th Edition; 2013"
+    },
+    "CU": {
+      "value": 120,
+      "data_origin": "Aggregation",
+      "reference": "Habte, G., et al.; Determination of Essential and Toxic Elements in Tropical Fruit by Microwave-Assisted Digestion and Inductively Coupled Plasma-Mass Spectrometry.; Analytical Letters; 2017; 50; 6#Converted value from: BVL; Lebensmittel Monitoring 2010; 2010#Public Health England, Nutrient analysis of fruits and vegetables. 2017#Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1"
+    },
+    "MN": {
+      "value": 60,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2010; 2010#Habte, G., et al.; Determination of Essential and Toxic Elements in Tropical Fruit by Microwave-Assisted Digestion and Inductively Coupled Plasma-Mass Spectrometry.; Analytical Letters; 2017; 50; 6#Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 4,
+      "data_origin": "Aggregation",
+      "reference": "Habte, G., et al.; Determination of Essential and Toxic Elements in Tropical Fruit by Microwave-Assisted Digestion and Inductively Coupled Plasma-Mass Spectrometry.; Analytical Letters; 2017; 50; 6#Converted value from: BVL; Lebensmittel Monitoring 2010; 2010"
+    },
+    "MO": {
+      "value": 1,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2010; 2010"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.995,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "SORTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 9.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 4.8,
+      "data_origin": "Aggregation",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017#D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37"
+    },
+    "FRUS": {
+      "value": 4.4,
+      "data_origin": "Aggregation",
+      "reference": "D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37#Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "GALS": {
+      "value": 0.0268,
+      "data_origin": "Literatur",
+      "reference": "Kim, H. O.,Hartnett, C.,Scaman, C. H.; Free galactose content in selected fresh fruits and vegetables and soy beverages; Journal of Agricultural and Food; 2007; 55"
+    },
+    "DISAC": {
+      "value": 0.9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0.67,
+      "data_origin": "Aggregation",
+      "reference": "D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37#Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "MALS": {
+      "value": 0.2,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "SUGAR": {
+      "value": 10.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "D’Evoli, L.; Moscatello, S.; Lucarini, M.; Aguzzi, A.; Gabrielli, P.; Proietti, S.; Battistelli, A.; Nutritional traits and antioxidant capacity of kiwifruit (Actinidia deliciosa Planch., cv. Hayward) grown in Italy; Journal of Food Composition and Analysis; 2015; 37#Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 3.9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 2.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 1.5,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.1,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.2,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.251,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.041,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ARG": {
+      "value": 0.059,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ASP": {
+      "value": 0.098,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "CYSTE": {
+      "value": 0.019,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "GLU": {
+      "value": 0.146,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "GLY": {
+      "value": 0.045,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "HIS": {
+      "value": 0.008,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ILE": {
+      "value": 0.021,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "LEU": {
+      "value": 0.051,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "LYS": {
+      "value": 0.047,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "MET": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "PHE": {
+      "value": 0.026,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "PRO": {
+      "value": 0.027,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "SER": {
+      "value": 0.038,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "THR": {
+      "value": 0.039,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "TRP": {
+      "value": 0.015,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "TYR": {
+      "value": 0.026,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "VAL": {
+      "value": 0.044,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "NT": {
+      "value": 0.1,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    }
+  }
+}

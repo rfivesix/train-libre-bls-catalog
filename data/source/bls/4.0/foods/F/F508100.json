@@ -1,0 +1,699 @@
+{
+  "bls_code": "F508100",
+  "source_group": "F",
+  "name_de": "Maracuja/Passionsfrucht, roh",
+  "name_en": "Passion fruit raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 244,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 57,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 82,
+      "data_origin": "Aggregation",
+      "reference": "Pertuzatti, P. B., et al.; Carotenoids, tocopherols and ascorbic acid content in yellow passion fruit (Passiflora edulis) grown under different cultivation systems.; Lwt-Food Science and Technology; 2015; 64; 1#Genovese, M. I., et al.; Bioactive compounds and antioxidant capacity of exotic fruits and commercial frozen pulps from Brazil.; Food Science and Technology International; 2008; 14; 3"
+    },
+    "PROT625": {
+      "value": 0.71331,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Pacheco, A. L. V., et al.; Mineral composition of pulp and production of the yellow passion fruit with organic and conventional fertilizers.; Food Chemistry; 2017; 217"
+    },
+    "FAT": {
+      "value": 0.2,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "CHO": {
+      "value": 9.54,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 3.9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.9,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITA": {
+      "value": 123,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 62,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 517,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016#Public Health England, McCance and Widdowson's The Composition of Foods Integrated Dataset, 2021"
+    },
+    "CAROTPAXB": {
+      "value": 447,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Public Health England, McCance and Widdowson's The Composition of Foods Integrated Dataset, 2021#Converted value from: Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Pertuzatti, P. B., et al.; Carotenoids, tocopherols and ascorbic acid content in yellow passion fruit (Passiflora edulis) grown under different cultivation systems.; Lwt-Food Science and Technology; 2015; 64; 1"
+    },
+    "TOCPHA": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Pertuzatti, P. B., et al.; Carotenoids, tocopherols and ascorbic acid content in yellow passion fruit (Passiflora edulis) grown under different cultivation systems.; Lwt-Food Science and Technology; 2015; 64; 1"
+    },
+    "TOCPHB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0.013,
+      "data_origin": "Literatur",
+      "reference": "Pertuzatti, P. B., et al.; Carotenoids, tocopherols and ascorbic acid content in yellow passion fruit (Passiflora edulis) grown under different cultivation systems.; Lwt-Food Science and Technology; 2015; 64; 1"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.02,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 2.303,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 2.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 4.3,
+      "data_origin": "Literatur",
+      "reference": "Genovese, M. I., et al.; Bioactive compounds and antioxidant capacity of exotic fruits and commercial frozen pulps from Brazil.; Food Science and Technology International; 2008; 14; 3"
+    },
+    "NACL": {
+      "value": 0.0224,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 8.96,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "CLD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "K": {
+      "value": 324.1,
+      "data_origin": "Aggregation",
+      "reference": "De Souza, V. R., et al.; Determination of bioactive compounds, antioxidant activity and chemical composition of Cerrado Brazilian fruits.; Food Chemistry; 2012; 134; 1#Pacheco, A. L. V., et al.; Mineral composition of pulp and production of the yellow passion fruit with organic and conventional fertilizers.; Food Chemistry; 2017; 217#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "CA": {
+      "value": 4.3,
+      "data_origin": "Aggregation",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#De Souza, V. R., et al.; Determination of bioactive compounds, antioxidant activity and chemical composition of Cerrado Brazilian fruits.; Food Chemistry; 2012; 134; 1#Pacheco, A. L. V., et al.; Mineral composition of pulp and production of the yellow passion fruit with organic and conventional fertilizers.; Food Chemistry; 2017; 217"
+    },
+    "MG": {
+      "value": 11.14,
+      "data_origin": "Aggregation",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Pacheco, A. L. V., et al.; Mineral composition of pulp and production of the yellow passion fruit with organic and conventional fertilizers.; Food Chemistry; 2017; 217#De Souza, V. R., et al.; Determination of bioactive compounds, antioxidant activity and chemical composition of Cerrado Brazilian fruits.; Food Chemistry; 2012; 134; 1"
+    },
+    "P": {
+      "value": 57,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.758,
+      "data_origin": "Aggregation",
+      "reference": "Pacheco, A. L. V., et al.; Mineral composition of pulp and production of the yellow passion fruit with organic and conventional fertilizers.; Food Chemistry; 2017; 217#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#De Souza, V. R., et al.; Determination of bioactive compounds, antioxidant activity and chemical composition of Cerrado Brazilian fruits.; Food Chemistry; 2012; 134; 1"
+    },
+    "ZN": {
+      "value": 0.392,
+      "data_origin": "Aggregation",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1#Pacheco, A. L. V., et al.; Mineral composition of pulp and production of the yellow passion fruit with organic and conventional fertilizers.; Food Chemistry; 2017; 217"
+    },
+    "ID": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 122,
+      "data_origin": "Aggregation",
+      "reference": "Pacheco, A. L. V., et al.; Mineral composition of pulp and production of the yellow passion fruit with organic and conventional fertilizers.; Food Chemistry; 2017; 217#Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1"
+    },
+    "MN": {
+      "value": 260,
+      "data_origin": "Aggregation",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2#Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 3.25,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.65,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 6.45,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 3.64,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FRUS": {
+      "value": 2.81,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 3.09,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 3.09,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 9.54,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 1.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0.7,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.7,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.02353,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.00026,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.01917,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F17:0": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:0": {
+      "value": 0.00243,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F20:0": {
+      "value": 0.00054,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F22:0": {
+      "value": 0.00039,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F24:0": {
+      "value": 0.00074,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "FAMS": {
+      "value": 0.0179,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.0024,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:1CN7": {
+      "value": 0.00833,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:1CN9": {
+      "value": 0.00707,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F20:1CN9": {
+      "value": 0.0001,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.0379,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.02142,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.02058,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0.00084,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "FAPUN6": {
+      "value": 0.0165,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.0157,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0.0008,
+      "data_origin": "Literatur",
+      "reference": "Morais, D. R., et al.; Proximate composition, mineral contents and fatty acid composition of the different parts and dried peels of tropical fruits cultivated in Brazil.; Journal of the Brazilian Chemical Society; 2017; 28; 2"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.24973,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.0336,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.02953,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 0.06627,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.01526,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 0.08866,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.02953,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.01427,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.02953,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 0.04893,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0.03873,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.00613,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.0306,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.02547,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.02547,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.03467,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.0122,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.01833,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.03467,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 0.11413,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Pacheco, A. L. V., et al.; Mineral composition of pulp and production of the yellow passion fruit with organic and conventional fertilizers.; Food Chemistry; 2017; 217"
+    }
+  }
+}

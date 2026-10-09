@@ -1,0 +1,699 @@
+{
+  "bls_code": "G450100",
+  "source_group": "G",
+  "name_de": "Spargel roh",
+  "name_en": "Asparagus raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 119,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 28,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 93.615,
+      "data_origin": "Aggregation",
+      "reference": "Amaro-Lopez, M. A., et al.; Trends and nutritional significance of mineral content in fresh white asparagus spears.; International Journal of Food Sciences and Nutrition; 1998; 5#Senyan, S., et al.; Seasonal variations in nutritional components of green asparagus using the mother fern cultivation.; Scientia Horticulturae; 2007; 3#Amaro, M. A., et al.; Effect of industrial processing on the mineral content of white asparagus.; International Journal of Food Science and Technology; 1997; 5#Lopez, M. A. A., et al.; Nutritional changes in the essential trace elements content of asparagus during industrial processing; Food Research International; 1999; 7"
+    },
+    "PROT625": {
+      "value": 1.96,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FAT": {
+      "value": 0.156,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 3.98,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.16,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.571,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 1,
+      "data_origin": "Literatur",
+      "reference": "Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1.14,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHA": {
+      "value": 1.14,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHB": {
+      "value": 0.03,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHG": {
+      "value": 0.14,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHD": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCTRA": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "VITK": {
+      "value": 103.9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 103.9,
+      "data_origin": "Literatur",
+      "reference": "Woollard D. C., Indyk H.E., Fong B.Y., Cook K.K.; Determination of Vitamin K1 Isomers in Foods by Liquid Chromatography with C30 Bonded-Phase Column; Journal of AOAC International; 2002; 85; 3"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.114,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.105,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 1.383,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 0.62,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITB6": {
+      "value": 54,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "BIOT": {
+      "value": 2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FOL": {
+      "value": 121,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 121,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Phillips KM, Rasor AS, Ruggio DM, Amanna KR; Folate content of different edible portions of vegetables and fruits; Nutrition and Food Science; 2008#Müller H.; Bestimmung der Folsäure-Gehalte von Gemüse und Obst mit Hilfe der Hochleistungsflüssigchromatographie (HPLC); Z Lebensm Unters Forsch; 1993; 196"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 19.889,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.00535,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 2.14,
+      "data_origin": "Aggregation",
+      "reference": "Amaro, M. A., et al.; Effect of industrial processing on the mineral content of white asparagus.; International Journal of Food Science and Technology; 1997; 5#Amaro-Lopez, M. A., et al.; Trends and nutritional significance of mineral content in fresh white asparagus spears.; International Journal of Food Sciences and Nutrition; 1998; 5"
+    },
+    "CLD": {
+      "value": 37.267,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "K": {
+      "value": 241.7,
+      "data_origin": "Aggregation",
+      "reference": "Amaro-Lopez, M. A., et al.; Trends and nutritional significance of mineral content in fresh white asparagus spears.; International Journal of Food Sciences and Nutrition; 1998; 5#Amaro, M. A., et al.; Effect of industrial processing on the mineral content of white asparagus.; International Journal of Food Science and Technology; 1997; 5"
+    },
+    "CA": {
+      "value": 19.945,
+      "data_origin": "Aggregation",
+      "reference": "Amaro, M. A., et al.; Effect of industrial processing on the mineral content of white asparagus.; International Journal of Food Science and Technology; 1997; 5#Amaro-Lopez, M. A., et al.; Trends and nutritional significance of mineral content in fresh white asparagus spears.; International Journal of Food Sciences and Nutrition; 1998; 5"
+    },
+    "MG": {
+      "value": 10.914,
+      "data_origin": "Aggregation",
+      "reference": "Amaro-Lopez, M. A., et al.; Trends and nutritional significance of mineral content in fresh white asparagus spears.; International Journal of Food Sciences and Nutrition; 1998; 5#Amaro, M. A., et al.; Effect of industrial processing on the mineral content of white asparagus.; International Journal of Food Science and Technology; 1997; 5"
+    },
+    "P": {
+      "value": 44.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.4,
+      "data_origin": "Aggregation",
+      "reference": "Lopez, M. A. A., et al.; Nutritional changes in the essential trace elements content of asparagus during industrial processing; Food Research International; 1999; 7#Converted value from: BVL; Lebensmittel Monitoring 2010; 2010#Amaro-Lopez, M. A., et al.; Trends and nutritional significance of mineral content in fresh white asparagus spears.; International Journal of Food Sciences and Nutrition; 1998; 5"
+    },
+    "ZN": {
+      "value": 0.41,
+      "data_origin": "Aggregation",
+      "reference": "Lopez, M. A. A., et al.; Nutritional changes in the essential trace elements content of asparagus during industrial processing; Food Research International; 1999; 7#Converted value from: BVL; Lebensmittel Monitoring 2010; 2010#Converted value from: BVL / BfR; Lebensmittel-Monitoring; 1998#Amaro-Lopez, M. A., et al.; Trends and nutritional significance of mineral content in fresh white asparagus spears.; International Journal of Food Sciences and Nutrition; 1998; 5"
+    },
+    "ID": {
+      "value": 7,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CU": {
+      "value": 77,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2010; 2010"
+    },
+    "MN": {
+      "value": 100,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2010; 2010"
+    },
+    "FD": {
+      "value": 48,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CR": {
+      "value": 4,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2010; 2010"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.06,
+      "data_origin": "Literatur",
+      "reference": "Senser F., Scherz H.; Fleisch+ -prod., Fisch+ -prod., Gemüse+ -prod., Früchte+ -prod., Süßw., alkoholh; Brief vom 19.08.93 Deut. Forschungsanst. f. Lebensmittelchem; 1993; 0"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.095,
+      "data_origin": "Literatur",
+      "reference": "Senser F., Scherz H.; Fleisch+ -prod., Fisch+ -prod., Gemüse+ -prod., Früchte+ -prod., Süßw., alkoholh; Brief vom 19.08.93 Deut. Forschungsanst. f. Lebensmittelchem; 1993; 0"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0.09,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0.09,
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "SORTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 3.54,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 1.65,
+      "data_origin": "Aggregation",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Senyan, S., et al.; Seasonal variations in nutritional components of green asparagus using the mother fern cultivation.; Scientia Horticulturae; 2007; 3"
+    },
+    "FRUS": {
+      "value": 1.89,
+      "data_origin": "Aggregation",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Senyan, S., et al.; Seasonal variations in nutritional components of green asparagus using the mother fern cultivation.; Scientia Horticulturae; 2007; 3"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0.25959,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0.25959,
+      "data_origin": "Literatur",
+      "reference": "Senyan, S., et al.; Seasonal variations in nutritional components of green asparagus using the mother fern cultivation.; Scientia Horticulturae; 2007; 3"
+    },
+    "MALS": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "McCance and Widdowson`s; The Composition of Foods, Seventh Summary Edition; 2015"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 3.8,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0.091,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "McCance and Widdowson`s; The Composition of Foods, Seventh Summary Edition; 2015"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 1.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 1.3,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.1,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.0279,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": 3.9e-05,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F8:0": {
+      "value": 2.3e-05,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F10:0": {
+      "value": 6.39e-05,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F12:0": {
+      "value": 0.000344,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F14:0": {
+      "value": 0.000305,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F15:0": {
+      "value": 0.00031,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F16:0": {
+      "value": 0.0191,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F17:0": {
+      "value": 0.00028,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F18:0": {
+      "value": 0.0017,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F20:0": {
+      "value": 0.000468,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F22:0": {
+      "value": 0.00242,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F24:0": {
+      "value": 0.00286,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "FAMS": {
+      "value": 0.00581,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 3e-05,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F16:1CN7": {
+      "value": 0.000101,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.00539,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F20:1CN9": {
+      "value": 0.000286,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.0747,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.0259,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.0259,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.0488,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.0486,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0.000214,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.00078,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Martins, D., et al.; Nutritional and in vitro antioxidant properties of edible wild greens in Iberian Peninsula traditional diet.; Food Chemistry; 2011; 2"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.53,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.11,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ASP": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.031,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 0.069,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LEU": {
+      "value": 0.083,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LYS": {
+      "value": 0.089,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.027,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 0.06,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PRO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SER": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.057,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TRP": {
+      "value": 0.023,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TYR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.091,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NT": {
+      "value": 0.314,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    }
+  }
+}

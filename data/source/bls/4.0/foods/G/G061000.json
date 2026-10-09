@@ -1,0 +1,699 @@
+{
+  "bls_code": "G061000",
+  "source_group": "G",
+  "name_de": "Basilikum roh",
+  "name_en": "Basil raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 95,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 23,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 92.1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "PROT625": {
+      "value": 3.15,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "FAT": {
+      "value": 0.64,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "CHO": {
+      "value": 0.31,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.49,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "VITA": {
+      "value": 531,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 266,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 3140,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "CAROTPAXB": {
+      "value": 95,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Daly, T., et al.; Carotenoid Content of Commonly Consumed Herbs and Assessment of Their Bioaccessibility Using an In Vitro Digestion Model.; Plant Foods for Human Nutrition; 2010; 65; 2"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.8,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 0.8,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "TOCPHB": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "TOCPHG": {
+      "value": 0.16,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "TOCTRA": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "VITK": {
+      "value": 415,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 415,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.034,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "RIBF": {
+      "value": 0.076,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "NIAEQ": {
+      "value": 1.552,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.902,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "PANTAC": {
+      "value": 0.209,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "VITB6": {
+      "value": 155,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "BIOT": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 68,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 68,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "VITC": {
+      "value": 18,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "NACL": {
+      "value": 0.01,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "CLD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "K": {
+      "value": 295,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "CA": {
+      "value": 177,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "MG": {
+      "value": 64,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "P": {
+      "value": 56,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 3.17,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "ZN": {
+      "value": 0.81,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "ID": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 385,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "MN": {
+      "value": 1150,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.31,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.02,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "FRUS": {
+      "value": 0.02,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "GALS": {
+      "value": 0.27,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "SUGAR": {
+      "value": 0.31,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.041,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "F6:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "F8:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "F10:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "F12:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "F14:0": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.036,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.005,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "F22:5CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "FAPUN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.477,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "AAE9": {
+      "value": 0.89,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.132,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "ARG": {
+      "value": 0.117,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "ASP": {
+      "value": 0.301,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "CYSTE": {
+      "value": 0.028,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "GLU": {
+      "value": 0.277,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "GLY": {
+      "value": 0.122,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "HIS": {
+      "value": 0.051,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "ILE": {
+      "value": 0.104,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "LEU": {
+      "value": 0.191,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "LYS": {
+      "value": 0.11,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "MET": {
+      "value": 0.036,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "PHE": {
+      "value": 0.13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "PRO": {
+      "value": 0.104,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "SER": {
+      "value": 0.099,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "THR": {
+      "value": 0.104,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "TRP": {
+      "value": 0.039,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "TYR": {
+      "value": 0.077,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "VAL": {
+      "value": 0.127,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    },
+    "NT": {
+      "value": 0.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: US Department of Agriculture, Agricultural Research Service, USDA National Nutrient Database for Standard Reference, Legacy Release 2019"
+    }
+  }
+}

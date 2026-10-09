@@ -1,0 +1,699 @@
+{
+  "bls_code": "F302100",
+  "source_group": "F",
+  "name_de": "Himbeere roh",
+  "name_en": "Raspberry raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 182,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 43,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 86.1,
+      "data_origin": "Aggregation",
+      "reference": "Vedrina-Dragojevic, I., et al.; Effect of blanching, drying, freezing and storage on degradation of beta-carotene in different fruits; Nahrung-Food; 1997; 41; 6#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "PROT625": {
+      "value": 1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "FAT": {
+      "value": 0.3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 5.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 4.7,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 2.12,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.4,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "VITA": {
+      "value": 4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 7.8,
+      "data_origin": "Aggregation",
+      "reference": "Heinonen MI, Ollilainen V, Linkola EK, Varo PT, Koivistoinen; Carotenoids in Finnish Foods: Vegetables, Fruits, and Berries; Journal of Agricultural and Food Chemistry; 1989; 37#Marinova, D., Ribarova, F.; HPLC determination of carotenoids in Bulgarian berries; Journal of Food Composition and Analysis; 2007; 20"
+    },
+    "CAROTPAXB": {
+      "value": 30,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Marinova, D., Ribarova, F.; HPLC determination of carotenoids in Bulgarian berries; Journal of Food Composition and Analysis; 2007; 20"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.79,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3#Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017#Converted value from: Piironen V, Syvaoja EL, Varo P, Salminen K, Koivistoinen P; Tocopherols and Tocotrienols in Finnish Foods: Vegetables, Fruits and Berries; Journal of Agricultural and Food Chemistry; 1986"
+    },
+    "TOCPHA": {
+      "value": 0.79,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017#Piironen V, Syvaoja EL, Varo P, Salminen K, Koivistoinen P; Tocopherols and Tocotrienols in Finnish Foods: Vegetables, Fruits and Berries; Journal of Agricultural and Food Chemistry; 1986#Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHB": {
+      "value": 0.13,
+      "data_origin": "Aggregation",
+      "reference": "Piironen V, Syvaoja EL, Varo P, Salminen K, Koivistoinen P; Tocopherols and Tocotrienols in Finnish Foods: Vegetables, Fruits and Berries; Journal of Agricultural and Food Chemistry; 1986#Public Health England, Nutrient analysis of fruits and vegetables. 2017#Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHG": {
+      "value": 1.28,
+      "data_origin": "Aggregation",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3#Public Health England, Nutrient analysis of fruits and vegetables. 2017#Piironen V, Syvaoja EL, Varo P, Salminen K, Koivistoinen P; Tocopherols and Tocotrienols in Finnish Foods: Vegetables, Fruits and Berries; Journal of Agricultural and Food Chemistry; 1986"
+    },
+    "TOCPHD": {
+      "value": 1.2,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017#Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3#Piironen V, Syvaoja EL, Varo P, Salminen K, Koivistoinen P; Tocopherols and Tocotrienols in Finnish Foods: Vegetables, Fruits and Berries; Journal of Agricultural and Food Chemistry; 1986"
+    },
+    "TOCTRA": {
+      "value": 0,
+      "data_origin": "Aggregation",
+      "reference": "Piironen V, Syvaoja EL, Varo P, Salminen K, Koivistoinen P; Tocopherols and Tocotrienols in Finnish Foods: Vegetables, Fruits and Berries; Journal of Agricultural and Food Chemistry; 1986#Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "VITK": {
+      "value": 9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 9,
+      "data_origin": "Aggregation",
+      "reference": "Dismore M.L., Haytowitz D.B., Gebhardt S.E.,Peterson J.W., Booth S.L.); Vitamin K content of nuts and fruits in the US diet; Journal of the american dietetic association; 2003; 103; 12#Koivu,T.J.; Piironen, V.I.; Henttonen, S.K.; Mattila; P.H.); Determination of Phylloquinone in Vegetables, Fruits, and Berries by High-Performance Liquid Chromatography with Electrochemical Detection; J. Agric. Food Chem.; 1997; 45; 12"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.01,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "RIBF": {
+      "value": 0.01,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "NIAEQ": {
+      "value": 0.7,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.5,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "PANTAC": {
+      "value": 0.73,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "VITB6": {
+      "value": 90,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "BIOT": {
+      "value": 1.6,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "FOL": {
+      "value": 44,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 44,
+      "data_origin": "Aggregation",
+      "reference": "Müller H.; Bestimmung der Folsäure-Gehalte von Gemüse und Obst mit Hilfe der Hochleistungsflüssigchromatographie (HPLC); Z Lebensm Unters Forsch; 1993; 196#Public Health England, Nutrient analysis of fruits and vegetables. 2017#Stralsjö L., Ahlin H., Witthöft C.M.and Jastrebova J); Folate determination in Swedish berries by radioprotein-binding assay (RPBA) and high performance liquid chromatography (HPLC); Eur Food Res Technol; 2003; 216"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 24,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017#de Ancos B, González EM, Cano MP; Ellagic Acid, Vitamin C, and Total Phenolic Contents and Radical Scavenging Capacity Affected by Freezing and Frozen Storage in Raspberry Fruit.; Agr Food Chem; 2000; 48; 10"
+    },
+    "NACL": {
+      "value": 0.0012,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": "<LOQ",
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "CLD": {
+      "value": 11,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "K": {
+      "value": 172,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "CA": {
+      "value": 13,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Public Health England, Nutrient analysis of fruits and vegetables. 2017#De Souza, V. R., Pereira, P. A. P., Da Silva, T. L. T., De Oliveira Lima, L. C., Pio, R., Queiroz, F.; Determination of the bioactive compounds, antioxidant activity and chemical composition of Brazilian blackberry, red raspberry, strawberry, blueberry and sweet cherry fruits; Food Chemistry; 2014; 156"
+    },
+    "MG": {
+      "value": 18,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017#De Souza, V. R., Pereira, P. A. P., Da Silva, T. L. T., De Oliveira Lima, L. C., Pio, R., Queiroz, F.; Determination of the bioactive compounds, antioxidant activity and chemical composition of Brazilian blackberry, red raspberry, strawberry, blueberry and sweet cherry fruits; Food Chemistry; 2014; 156#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "P": {
+      "value": 28,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.6,
+      "data_origin": "Aggregation",
+      "reference": "De Souza, V. R., Pereira, P. A. P., Da Silva, T. L. T., De Oliveira Lima, L. C., Pio, R., Queiroz, F.; Determination of the bioactive compounds, antioxidant activity and chemical composition of Brazilian blackberry, red raspberry, strawberry, blueberry and sweet cherry fruits; Food Chemistry; 2014; 156#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Converted value from: BVL; Lebensmittel Monitoring 2010; 2010#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "ZN": {
+      "value": 0.3,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Converted value from: BVL; Lebensmittel Monitoring 2010; 2010#Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1#De Souza, V. R., Pereira, P. A. P., Da Silva, T. L. T., De Oliveira Lima, L. C., Pio, R., Queiroz, F.; Determination of the bioactive compounds, antioxidant activity and chemical composition of Brazilian blackberry, red raspberry, strawberry, blueberry and sweet cherry fruits; Food Chemistry; 2014; 156#Converted value from: BVL; Lebensmittel Monitoring 2013; 2013#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "ID": {
+      "value": 4.4,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "CU": {
+      "value": 70,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2013; 2013#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Converted value from: BVL; Lebensmittel Monitoring 2010; 2010#Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "MN": {
+      "value": 440,
+      "data_origin": "Aggregation",
+      "reference": "Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Converted value from: BVL; Lebensmittel Monitoring 2013; 2013#Converted value from: BVL; Lebensmittel Monitoring 2010; 2010#Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "FD": {
+      "value": 16,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 4,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2010; 2010"
+    },
+    "MO": {
+      "value": 7.64,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 1.72,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Leibniz-Institut für Lebensmittel-Systembiologie; SFK Online Version; 2016"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0.003,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "SORTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "XYLTL": {
+      "value": 0.003,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MNSAC": {
+      "value": 5.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 2.6,
+      "data_origin": "Aggregation",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017#Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "FRUS": {
+      "value": 2.5,
+      "data_origin": "Aggregation",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "GALS": {
+      "value": 0.0107,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0.05,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "MALS": {
+      "value": 0.05,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "SUGAR": {
+      "value": 5.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 4.7,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 3.7,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 1,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.0101,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.0082,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.0019,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0.03,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.03,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.195,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.065,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.065,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.13,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.294,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.089,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ARG": {
+      "value": 0.053,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ASP": {
+      "value": 0.125,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "CYSTE": {
+      "value": 0.01,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "GLU": {
+      "value": 0.171,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "GLY": {
+      "value": 0.046,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "HIS": {
+      "value": 0.022,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ILE": {
+      "value": 0.026,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "LEU": {
+      "value": 0.057,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "LYS": {
+      "value": 0.055,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "MET": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "PHE": {
+      "value": 0.037,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "PRO": {
+      "value": 0.033,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "SER": {
+      "value": 0.062,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "THR": {
+      "value": 0.039,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "TRP": {
+      "value": 0.012,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "TYR": {
+      "value": 0.029,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "VAL": {
+      "value": 0.046,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "NT": {
+      "value": 0.1,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    }
+  }
+}

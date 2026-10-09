@@ -1,0 +1,699 @@
+{
+  "bls_code": "F201100",
+  "source_group": "F",
+  "name_de": "Aprikose roh",
+  "name_en": "Apricot raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 178,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 42,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 84.61,
+      "data_origin": "Aggregation",
+      "reference": "Vedrina-Dragojevic, I., et al.; Effect of blanching, drying, freezing and storage on degradation of beta-carotene in different fruits; Nahrung-Food; 1997; 41; 6#Bertazza G, Cristoferi G, Bignami C; Fruit composition and quality of organically and conventionally grown apple, apricot and pear in the Veneto region (Northern Italy); Acta Horticulturae; 2010#Akin, E. B., et al.; Some compositional properties of main Malatya apricot (Prunus armeniaca L.) varieties; Food Chemistry; 2008; 107#Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983#Olmedilla B, Granado F, Blanco I, Rojas-Hidalgo E:; Quantitation of provitamin-A and non-provitamin-A carotenoids in the fruits most commonly consumed in Spain; Royal Society of Chemistry (RSC); 1993"
+    },
+    "PROT625": {
+      "value": 0.8,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "FAT": {
+      "value": 0.13,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CHO": {
+      "value": 8.22,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.54,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ALC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.62,
+      "data_origin": "Aggregation",
+      "reference": "Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983#Akin, E. B., et al.; Some compositional properties of main Malatya apricot (Prunus armeniaca L.) varieties; Food Chemistry; 2008; 107"
+    },
+    "VITA": {
+      "value": 282,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 141,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 1562,
+      "data_origin": "Aggregation",
+      "reference": "Hart DJ, Scott KJ; Development and evaluationof an HPLC method for the analysis of carotenoids in foods, and the measurement of the carotenoid content of vegetables and fruits commonly consumed in the UK; Food Chemistry; 1995; 54#Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204#Akin, E. B., et al.; Some compositional properties of main Malatya apricot (Prunus armeniaca L.) varieties; Food Chemistry; 2008; 107#Olmedilla B, Granado F, Blanco I, Rojas-Hidalgo E:; Quantitation of provitamin-A and non-provitamin-A carotenoids in the fruits most commonly consumed in Spain; Royal Society of Chemistry (RSC); 1993"
+    },
+    "CAROTPAXB": {
+      "value": 265,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Hart DJ, Scott KJ; Development and evaluationof an HPLC method for the analysis of carotenoids in foods, and the measurement of the carotenoid content of vegetables and fruits commonly consumed in the UK; Food Chemistry; 1995; 54#Converted value from: Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204#Converted value from: Olmedilla B, Granado F, Blanco I, Rojas-Hidalgo E:; Quantitation of provitamin-A and non-provitamin-A carotenoids in the fruits most commonly consumed in Spain; Royal Society of Chemistry (RSC); 1993"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TOCPHA": {
+      "value": 0.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TOCPHB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 3,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.107,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: El-Aarab AE, Ali M, Hussein L; Vitamin B1 profile of the egyptian core foods and adequacy of intake; Journal of Food Composition and Analysis; 2004; 17"
+    },
+    "RIBF": {
+      "value": 0.053,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 0.77,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.77,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 0.29,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITB6": {
+      "value": 70,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "BIOT": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "FOL": {
+      "value": 10.8,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 10.8,
+      "data_origin": "Literatur",
+      "reference": "Müller H.; Bestimmung der Folsäure-Gehalte von Gemüse und Obst mit Hilfe der Hochleistungsflüssigchromatographie (HPLC); Z Lebensm Unters Forsch; 1993; 196"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 9.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.005,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 2,
+      "data_origin": "Aggregation",
+      "reference": "Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983#Akin, E. B., et al.; Some compositional properties of main Malatya apricot (Prunus armeniaca L.) varieties; Food Chemistry; 2008; 107"
+    },
+    "CLD": {
+      "value": 1,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "K": {
+      "value": 362,
+      "data_origin": "Aggregation",
+      "reference": "Akin, E. B., et al.; Some compositional properties of main Malatya apricot (Prunus armeniaca L.) varieties; Food Chemistry; 2008; 107#Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983"
+    },
+    "CA": {
+      "value": 21.9,
+      "data_origin": "Aggregation",
+      "reference": "Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983#Akin, E. B., et al.; Some compositional properties of main Malatya apricot (Prunus armeniaca L.) varieties; Food Chemistry; 2008; 107"
+    },
+    "MG": {
+      "value": 20,
+      "data_origin": "Aggregation",
+      "reference": "Akin, E. B., et al.; Some compositional properties of main Malatya apricot (Prunus armeniaca L.) varieties; Food Chemistry; 2008; 107#Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983"
+    },
+    "P": {
+      "value": 21,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.612,
+      "data_origin": "Aggregation",
+      "reference": "Akin, E. B., et al.; Some compositional properties of main Malatya apricot (Prunus armeniaca L.) varieties; Food Chemistry; 2008; 107#Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983"
+    },
+    "ZN": {
+      "value": 0.21,
+      "data_origin": "Aggregation",
+      "reference": "Khan, N., et al.; Elemental Analysis of Stone Fruits by Inductively Coupled Plasma Mass Spectrometry and Direct Mercury Analysis.; Analytical Letters; 2017; 50; 15#Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1#Akin, E. B., et al.; Some compositional properties of main Malatya apricot (Prunus armeniaca L.) varieties; Food Chemistry; 2008; 107#Converted value from: BVL / BfR; Lebensmittel-Monitoring; 1998#Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983"
+    },
+    "ID": {
+      "value": 0.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CU": {
+      "value": 82,
+      "data_origin": "Aggregation",
+      "reference": "Khan, N., et al.; Elemental Analysis of Stone Fruits by Inductively Coupled Plasma Mass Spectrometry and Direct Mercury Analysis.; Analytical Letters; 2017; 50; 15#Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1"
+    },
+    "MN": {
+      "value": 211,
+      "data_origin": "Aggregation",
+      "reference": "Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1#Khan, N., et al.; Elemental Analysis of Stone Fruits by Inductively Coupled Plasma Mass Spectrometry and Direct Mercury Analysis.; Analytical Letters; 2017; 50; 15#Akin, E. B., et al.; Some compositional properties of main Malatya apricot (Prunus armeniaca L.) varieties; Food Chemistry; 2008; 107"
+    },
+    "FD": {
+      "value": 10,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.4,
+      "data_origin": "Literatur",
+      "reference": "Senser F., Scherz H.; Fleisch+ -prod., Fisch+ -prod., Gemüse+ -prod., Früchte+ -prod., Süßw., alkoholh; Brief vom 19.08.93 Deut. Forschungsanst. f. Lebensmittelchem; 1993; 0"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 1,
+      "data_origin": "Literatur",
+      "reference": "Senser F., Scherz H.; Fleisch+ -prod., Fisch+ -prod., Gemüse+ -prod., Früchte+ -prod., Süßw., alkoholh; Brief vom 19.08.93 Deut. Forschungsanst. f. Lebensmittelchem; 1993; 0"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0.8,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0.8,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Matthews RH, Pehrsson PR, Farhat-Sabet M; Sugar content of selected foods: Individual and total sugars; Home economic research report 48, U.S. Department of Agriculture, Human Nutrition Information Service: Washington DC; 1987"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 2.875,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 1.94,
+      "data_origin": "Aggregation",
+      "reference": "Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983#Bertazza G, Cristoferi G, Bignami C; Fruit composition and quality of organically and conventionally grown apple, apricot and pear in the Veneto region (Northern Italy); Acta Horticulturae; 2010"
+    },
+    "FRUS": {
+      "value": 0.935,
+      "data_origin": "Aggregation",
+      "reference": "Bertazza G, Cristoferi G, Bignami C; Fruit composition and quality of organically and conventionally grown apple, apricot and pear in the Veneto region (Northern Italy); Acta Horticulturae; 2010#Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 4.545,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 4.545,
+      "data_origin": "Aggregation",
+      "reference": "Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983#Bertazza G, Cristoferi G, Bignami C; Fruit composition and quality of organically and conventionally grown apple, apricot and pear in the Veneto region (Northern Italy); Acta Horticulturae; 2010"
+    },
+    "MALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 7.42,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 1.54,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FIBINS": {
+      "value": 0.83,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FIBSOL": {
+      "value": 0.71,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.0103,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.0092,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0.0011,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0.064,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.064,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.029,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.029,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.029,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.084,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.021,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ARG": {
+      "value": 0.015,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ASP": {
+      "value": 0.414,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "CYSTE": {
+      "value": 0.006,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "GLU": {
+      "value": 0.042,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "GLY": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "HIS": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "ILE": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "LEU": {
+      "value": 0.024,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "LYS": {
+      "value": 0.023,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "MET": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "PHE": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "PRO": {
+      "value": 0.015,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "SER": {
+      "value": 0.025,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "THR": {
+      "value": 0.019,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "TRP": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "TYR": {
+      "value": 0,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "VAL": {
+      "value": 0.018,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "National Food Institute, Food data (frida.fooddata.dk), version 5.2, May 2024"
+    },
+    "NT": {
+      "value": 0.128,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Wills RB, Scriven FM, Greenfield H; Nutrient composition of stone fruit (Prunus spp.) cultivars: apricot, cherry, nectarine, peach and plum; Journal of the Science of Food and Agriculture; 1983"
+    }
+  }
+}

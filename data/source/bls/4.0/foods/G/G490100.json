@@ -1,0 +1,699 @@
+{
+  "bls_code": "G490100",
+  "source_group": "G",
+  "name_de": "Knoblauch roh",
+  "name_en": "Garlic raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 399,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 97,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 65.413,
+      "data_origin": "Aggregation",
+      "reference": "Priecina, L. and D. Karklina; Determination of major sugars in fresh and dried spices and vegetables using high performance liquid chromatography.; FOODBALT; 2014#Shohag, M. J. I., et al.; Folate Content and Composition of Vegetables Commonly Consumed in China.; Journal of Food Science; 2012; 77; 11#Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1#Sajid, M., et al.; Chemical and mineral analysis of garlic: a golden herb.; Pakistan Journal of Food Sciences; 2014; 24; 2#Fante, L. and C. P. Z. Noreña; Quality of hot air dried and freeze-dried of garlic (Allium sativum L.).; Journal of Food Science and Technology; 2015; 52; 1#Pardo, J. E., et al. ; Physical-chemical and sensory quality evaluation of garlic cultivars.; Journal of Food Quality; 2007; 30; 5"
+    },
+    "PROT625": {
+      "value": 6.05,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FAT": {
+      "value": 0.42,
+      "data_origin": "Literatur",
+      "reference": "Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "CHO": {
+      "value": 3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 28.297,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Gorinstein, S., et al.; Comparison of the bioactive compounds and antioxidant potentials of fresh and cooked Polish, Ukrainian, and Israeli garlic.; Journal of Agricultural and Food Chemistry; 2005; 52; 1#Converted value from: Lee, Y., et al. ; Analytical dietary fiber database for the National Health and Nutrition Survey in Korea.; Journal of Food Composition and Analysis; 2008; 21#Judaprasong, K. et al.; Investigation of Thai plants for potential sources of inulin-type fructans; 2011"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.222,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.42,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VITA": {
+      "value": 90,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 45,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 534,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": 10,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.01,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TOCPHA": {
+      "value": 0.01,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TOCPHB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 0.076,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.076,
+      "data_origin": "Literatur",
+      "reference": "Presse N., Potvin S., Bertrand B., Calvo M.S., Ferland G.; Phylloquinone content of herbs, spices and seasonings; Journal of Food Composition and Analysis; 2015; 41"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "RIBF": {
+      "value": 0.08,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NIAEQ": {
+      "value": 1.7,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.6,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PANTAC": {
+      "value": 0.15,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 140,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 3,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 81,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 81,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Yon M.,Hyun T.H.; Folate content of foods commonly consumed in Korea measured after trienzyme extraction; Nutrition Research; 2003; 23#Shohag, M. J. I., et al.; Folate Content and Composition of Vegetables Commonly Consumed in China.; Journal of Food Science; 2012; 77; 11"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 14,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.0196695,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 7.8678,
+      "data_origin": "Literatur",
+      "reference": "Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1"
+    },
+    "CLD": {
+      "value": 30,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "K": {
+      "value": 384.7096,
+      "data_origin": "Literatur",
+      "reference": "Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1"
+    },
+    "CA": {
+      "value": 14.42,
+      "data_origin": "Aggregation",
+      "reference": "Kim, J. B. and S. H. Cheong; Volatile organosulfur and nutrient compounds derived from garlic (Allium sativum) according to cultivating areas and processing methods.; Research Journal of Pharmaceutical, Biological and Chemical Sciences; 2015; 6; 6#Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1"
+    },
+    "MG": {
+      "value": 16.382,
+      "data_origin": "Literatur",
+      "reference": "Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1"
+    },
+    "P": {
+      "value": 134,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.6958,
+      "data_origin": "Literatur",
+      "reference": "Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1"
+    },
+    "ZN": {
+      "value": 0.88,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2014; 2014#Radwan, M. A., Salama, A. K.; Market basket survey for some heavy metals in Egyptian fruits and vegetables; Food and Chemical Toxicology; 2006; 8; 44#Gorinstein, S., et al.; Comparison of the bioactive compounds and antioxidant potentials of fresh and cooked Polish, Ukrainian, and Israeli garlic.; Journal of Agricultural and Food Chemistry; 2005; 52; 1#Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1"
+    },
+    "ID": {
+      "value": 2.5,
+      "data_origin": "Literatur",
+      "reference": "Gorinstein, S., et al.; Comparison of the bioactive compounds and antioxidant potentials of fresh and cooked Polish, Ukrainian, and Israeli garlic.; Journal of Agricultural and Food Chemistry; 2005; 52; 1"
+    },
+    "CU": {
+      "value": 153,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2014; 2014#Gorinstein, S., et al.; Comparison of the bioactive compounds and antioxidant potentials of fresh and cooked Polish, Ukrainian, and Israeli garlic.; Journal of Agricultural and Food Chemistry; 2005; 52; 1"
+    },
+    "MN": {
+      "value": 340,
+      "data_origin": "Aggregation",
+      "reference": "Gorinstein, S., et al.; Comparison of the bioactive compounds and antioxidant potentials of fresh and cooked Polish, Ukrainian, and Israeli garlic.; Journal of Agricultural and Food Chemistry; 2005; 52; 1#Converted value from: BVL; Lebensmittel Monitoring 2014; 2014#Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1"
+    },
+    "FD": {
+      "value": 10,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 3,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 6,
+      "data_origin": "Literatur",
+      "reference": "Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.048,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.174,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "SORTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 1.8,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 1.14,
+      "data_origin": "Aggregation",
+      "reference": "Fante, L. and C. P. Z. Noreña; Quality of hot air dried and freeze-dried of garlic (Allium sativum L.).; Journal of Food Science and Technology; 2015; 52; 1#Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "FRUS": {
+      "value": 0.66,
+      "data_origin": "Aggregation",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Fante, L. and C. P. Z. Noreña; Quality of hot air dried and freeze-dried of garlic (Allium sativum L.).; Journal of Food Science and Technology; 2015; 52; 1"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0.2,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0.05,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 24.2,
+      "data_origin": "Literatur",
+      "reference": "Judaprasong, K. et al.; Investigation of Thai plants for potential sources of inulin-type fructans; 2011"
+    },
+    "FIBHMW": {
+      "value": 4.097,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Gorinstein, S., et al.; Comparison of the bioactive compounds and antioxidant potentials of fresh and cooked Polish, Ukrainian, and Israeli garlic.; Journal of Agricultural and Food Chemistry; 2005; 52; 1#Converted value from: Lee, Y., et al. ; Analytical dietary fiber database for the National Health and Nutrition Survey in Korea.; Journal of Food Composition and Analysis; 2008; 21"
+    },
+    "FIBINS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.063,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0.059,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F17:0": {
+      "value": 0.0012,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F18:0": {
+      "value": 0.0011,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": 0.001,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F24:0": {
+      "value": 0.0011,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "FAMS": {
+      "value": 0.012,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.0012,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.011,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.171,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.013,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.013,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.158,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.158,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.048,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 1.856,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.271,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.436,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 0.558,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 1.25,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.301,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.106,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.255,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 0.361,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0.301,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.066,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.195,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.4,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.271,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.238,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.066,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.175,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.268,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 0.968,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    }
+  }
+}

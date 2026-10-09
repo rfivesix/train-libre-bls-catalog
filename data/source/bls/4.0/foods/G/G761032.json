@@ -1,0 +1,699 @@
+{
+  "bls_code": "G761032",
+  "source_group": "G",
+  "name_de": "Zuckererbse gekocht",
+  "name_en": "Sugar pea boiled",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 169,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 40,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 89.9,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "PROT625": {
+      "value": 3.3,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "FAT": {
+      "value": 0.4,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "CHO": {
+      "value": 5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.6,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.4,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "VITA": {
+      "value": 48,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 24,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 286,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": 1,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.5,
+      "data_origin": "Literatur",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 0.5,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "TOCPHB": {
+      "value": 0.05,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "TOCPHG": {
+      "value": 0.15,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "TOCPHD": {
+      "value": "<LOQ",
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 48,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 48,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.13,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "RIBF": {
+      "value": 0.06,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "NIAEQ": {
+      "value": 0.6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.6,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "PANTAC": {
+      "value": 0.33,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "VITB6": {
+      "value": 70,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "BIOT": {
+      "value": 2.4,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "FOL": {
+      "value": 12,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 12,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 43,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0.002,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 1,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "CLD": {
+      "value": 25,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "K": {
+      "value": 169,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "CA": {
+      "value": 45,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "MG": {
+      "value": 21,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "P": {
+      "value": 60,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.83,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "ZN": {
+      "value": 0.49,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "ID": {
+      "value": 7.6,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "CU": {
+      "value": 80,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "MN": {
+      "value": 260,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "FD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 2.5,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 2.2,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "FRUS": {
+      "value": 0.3,
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 1.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 1.1,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "MALS": {
+      "value": "<LOQ",
+      "data_origin": "Literatur",
+      "reference": "Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "SUGAR": {
+      "value": 3.7,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 1,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 2,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F17:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.3,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 0.4,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 0.7,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.2,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 0.2,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0.2,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.2,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.2,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 0.5,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Public Health England, Nutrient analysis of fruits and vegetables. 2017"
+    }
+  }
+}

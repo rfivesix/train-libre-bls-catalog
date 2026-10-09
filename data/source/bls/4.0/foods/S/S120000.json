@@ -1,0 +1,699 @@
+{
+  "bls_code": "S120000",
+  "source_group": "S",
+  "name_de": "Honig",
+  "name_en": "Honey",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 1293,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 305,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 17.5,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "McCance and Widdowson`s; The Composition of Foods, Seventh Summary Edition; 2015"
+    },
+    "PROT625": {
+      "value": 0.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: McCance and Widdowson`s; The Composition of Foods, Seventh Summary Edition; 2015"
+    },
+    "FAT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CHO": {
+      "value": 74.091,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "McCance and Widdowson`s; The Composition of Foods, Seventh Summary Edition; 2015"
+    },
+    "ALC": {
+      "value": 0.004,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "OA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.18,
+      "data_origin": "Literatur",
+      "reference": "Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "VITA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": "<LOD",
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "McCance and Widdowson`s; The Composition of Foods, Seventh Summary Edition; 2015"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.003,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "RIBF": {
+      "value": 0.24,
+      "data_origin": "Aggregation",
+      "reference": "Ciulu M., Solinas S., Floris I., Panzanelli A., Pilo M.I., Piu P.C., Spano N., Sanna G.; RP-HPLC determination of water-soluble vitamins in honey; Talanta; 2011; 83#Tuberoso, C., Jerković, I., Bifulco, E., Marijanovic, Z., Congiu, F., Bubalo, D.; Riboflavin and lumichrome in Dalmatian sage honey and other unifloral honeys determined by LC–DAD technique; Food Chemistry; 2012; 135"
+    },
+    "NIAEQ": {
+      "value": 0.681,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.681,
+      "data_origin": "Literatur",
+      "reference": "Ciulu M., Solinas S., Floris I., Panzanelli A., Pilo M.I., Piu P.C., Spano N., Sanna G.; RP-HPLC determination of water-soluble vitamins in honey; Talanta; 2011; 83"
+    },
+    "PANTAC": {
+      "value": 0.07,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 157.7,
+      "data_origin": "Literatur",
+      "reference": "Schramm, W.,Bitsch, R; Selective measurement of vitamin B6 derivatives in plant foods; Bioavailibility 93; 1993; 1"
+    },
+    "BIOT": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 0.389,
+      "data_origin": "Literatur",
+      "reference": "Perna, A., Intaglietta, I., Simonetti, A., Gambacorta, E; A comparative study on phenolic profile, vitamin C content and antioxidant activity of Italian honeys of different botanical origin; International Journal of Food Science and Technology; 2013; 48"
+    },
+    "NACL": {
+      "value": 0.008,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 3,
+      "data_origin": "Aggregation",
+      "reference": "Grembecka, M., Szefer, P.; Evaluation of honeys and bee products quality based on their mineral composition using multivariate techniques; Environmental Monitoring and Assessment; 2013; 185#Escuredo, O., Míguez, M.,Fernández-González, M.,Carmen Seijo, M.; Nutritional value and antioxidant activity of honeys produced in a European Atlantic area; Food Chemistry; 2013; 138#Escuredo, O., Seijo, M. C., Fernández-González, M.;  Descriptive analysis of Rubus honey from the north-west of Spain; International Journal of Food Science and Technology; 2011; 46#Alves, A., Ramos, A.,Gonçalves, M. M., Bernardo, M., Mendes, B.; Antioxidant activity, quality parameters and mineral content of Portuguese monofloral honeys; Journal of Food Composition and Analysis; 2013; 30#Nikolova, K.,Gentscheva, G.,Ivanova, E.; Survey of the mineral content and some physico-chemical parameters of Bulgarian bee honeys; Bulgarian Chemical Communications; 2012; 45#Moise, A.,Liviu, A. M.,Dezmirean, D.,Bobis, O.; Nutraceutical properties of Romanian heather honey; Nutrition and Food Science; 2013; 43"
+    },
+    "CLD": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "K": {
+      "value": 67,
+      "data_origin": "Aggregation",
+      "reference": "Moise, A.,Liviu, A. M.,Dezmirean, D.,Bobis, O.; Nutraceutical properties of Romanian heather honey; Nutrition and Food Science; 2013; 43#Grembecka, M., Szefer, P.; Evaluation of honeys and bee products quality based on their mineral composition using multivariate techniques; Environmental Monitoring and Assessment; 2013; 185#Alves, A., Ramos, A.,Gonçalves, M. M., Bernardo, M., Mendes, B.; Antioxidant activity, quality parameters and mineral content of Portuguese monofloral honeys; Journal of Food Composition and Analysis; 2013; 30#Nikolova, K.,Gentscheva, G.,Ivanova, E.; Survey of the mineral content and some physico-chemical parameters of Bulgarian bee honeys; Bulgarian Chemical Communications; 2012; 45#Escuredo, O., Seijo, M. C., Fernández-González, M.;  Descriptive analysis of Rubus honey from the north-west of Spain; International Journal of Food Science and Technology; 2011; 46#Escuredo, O., Míguez, M.,Fernández-González, M.,Carmen Seijo, M.; Nutritional value and antioxidant activity of honeys produced in a European Atlantic area; Food Chemistry; 2013; 138"
+    },
+    "CA": {
+      "value": 5,
+      "data_origin": "Aggregation",
+      "reference": "Escuredo, O., Seijo, M. C., Fernández-González, M.;  Descriptive analysis of Rubus honey from the north-west of Spain; International Journal of Food Science and Technology; 2011; 46#Alves, A., Ramos, A.,Gonçalves, M. M., Bernardo, M., Mendes, B.; Antioxidant activity, quality parameters and mineral content of Portuguese monofloral honeys; Journal of Food Composition and Analysis; 2013; 30#Escuredo, O., Míguez, M.,Fernández-González, M.,Carmen Seijo, M.; Nutritional value and antioxidant activity of honeys produced in a European Atlantic area; Food Chemistry; 2013; 138#Moise, A.,Liviu, A. M.,Dezmirean, D.,Bobis, O.; Nutraceutical properties of Romanian heather honey; Nutrition and Food Science; 2013; 43#Grembecka, M., Szefer, P.; Evaluation of honeys and bee products quality based on their mineral composition using multivariate techniques; Environmental Monitoring and Assessment; 2013; 185#Nikolova, K.,Gentscheva, G.,Ivanova, E.; Survey of the mineral content and some physico-chemical parameters of Bulgarian bee honeys; Bulgarian Chemical Communications; 2012; 45"
+    },
+    "MG": {
+      "value": 4,
+      "data_origin": "Aggregation",
+      "reference": "Escuredo, O., Seijo, M. C., Fernández-González, M.;  Descriptive analysis of Rubus honey from the north-west of Spain; International Journal of Food Science and Technology; 2011; 46#Escuredo, O., Míguez, M.,Fernández-González, M.,Carmen Seijo, M.; Nutritional value and antioxidant activity of honeys produced in a European Atlantic area; Food Chemistry; 2013; 138#Alves, A., Ramos, A.,Gonçalves, M. M., Bernardo, M., Mendes, B.; Antioxidant activity, quality parameters and mineral content of Portuguese monofloral honeys; Journal of Food Composition and Analysis; 2013; 30#Grembecka, M., Szefer, P.; Evaluation of honeys and bee products quality based on their mineral composition using multivariate techniques; Environmental Monitoring and Assessment; 2013; 185#Moise, A.,Liviu, A. M.,Dezmirean, D.,Bobis, O.; Nutraceutical properties of Romanian heather honey; Nutrition and Food Science; 2013; 43#Nikolova, K.,Gentscheva, G.,Ivanova, E.; Survey of the mineral content and some physico-chemical parameters of Bulgarian bee honeys; Bulgarian Chemical Communications; 2012; 45"
+    },
+    "P": {
+      "value": 4.933,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.3,
+      "data_origin": "Aggregation",
+      "reference": "Moise, A.,Liviu, A. M.,Dezmirean, D.,Bobis, O.; Nutraceutical properties of Romanian heather honey; Nutrition and Food Science; 2013; 43#Escuredo, O., Míguez, M.,Fernández-González, M.,Carmen Seijo, M.; Nutritional value and antioxidant activity of honeys produced in a European Atlantic area; Food Chemistry; 2013; 138#Nikolova, K.,Gentscheva, G.,Ivanova, E.; Survey of the mineral content and some physico-chemical parameters of Bulgarian bee honeys; Bulgarian Chemical Communications; 2012; 45#Grembecka, M., Szefer, P.; Evaluation of honeys and bee products quality based on their mineral composition using multivariate techniques; Environmental Monitoring and Assessment; 2013; 185#Alves, A., Ramos, A.,Gonçalves, M. M., Bernardo, M., Mendes, B.; Antioxidant activity, quality parameters and mineral content of Portuguese monofloral honeys; Journal of Food Composition and Analysis; 2013; 30#Escuredo, O., Seijo, M. C., Fernández-González, M.;  Descriptive analysis of Rubus honey from the north-west of Spain; International Journal of Food Science and Technology; 2011; 46"
+    },
+    "ZN": {
+      "value": 0.2,
+      "data_origin": "Aggregation",
+      "reference": "Escuredo, O., Míguez, M.,Fernández-González, M.,Carmen Seijo, M.; Nutritional value and antioxidant activity of honeys produced in a European Atlantic area; Food Chemistry; 2013; 138#Grembecka, M., Szefer, P.; Evaluation of honeys and bee products quality based on their mineral composition using multivariate techniques; Environmental Monitoring and Assessment; 2013; 185#Moise, A.,Liviu, A. M.,Dezmirean, D.,Bobis, O.; Nutraceutical properties of Romanian heather honey; Nutrition and Food Science; 2013; 43#Escuredo, O., Seijo, M. C., Fernández-González, M.;  Descriptive analysis of Rubus honey from the north-west of Spain; International Journal of Food Science and Technology; 2011; 46"
+    },
+    "ID": {
+      "value": 0.5,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 18,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "MN": {
+      "value": 220,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "FD": {
+      "value": 7,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "CR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 1,
+      "data_origin": "Übernommener Wert",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 67.99,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 29.723,
+      "data_origin": "Aggregation",
+      "reference": "Escuredo, O., Míguez, M.,Fernández-González, M.,Carmen Seijo, M.; Nutritional value and antioxidant activity of honeys produced in a European Atlantic area; Food Chemistry; 2013; 138#Escuredo, O., Seijo, M. C., Fernández-González, M.;  Descriptive analysis of Rubus honey from the north-west of Spain; International Journal of Food Science and Technology; 2011; 46#Moise, A.,Liviu, A. M.,Dezmirean, D.,Bobis, O.; Nutraceutical properties of Romanian heather honey; Nutrition and Food Science; 2013; 43"
+    },
+    "FRUS": {
+      "value": 38.267,
+      "data_origin": "Aggregation",
+      "reference": "Moise, A.,Liviu, A. M.,Dezmirean, D.,Bobis, O.; Nutraceutical properties of Romanian heather honey; Nutrition and Food Science; 2013; 43#Escuredo, O., Seijo, M. C., Fernández-González, M.;  Descriptive analysis of Rubus honey from the north-west of Spain; International Journal of Food Science and Technology; 2011; 46#Escuredo, O., Míguez, M.,Fernández-González, M.,Carmen Seijo, M.; Nutritional value and antioxidant activity of honeys produced in a European Atlantic area; Food Chemistry; 2013; 138"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 2.774,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0.197,
+      "data_origin": "Aggregation",
+      "reference": "Escuredo, O., Seijo, M. C., Fernández-González, M.;  Descriptive analysis of Rubus honey from the north-west of Spain; International Journal of Food Science and Technology; 2011; 46#Moise, A.,Liviu, A. M.,Dezmirean, D.,Bobis, O.; Nutraceutical properties of Romanian heather honey; Nutrition and Food Science; 2013; 43#Escuredo, O., Míguez, M.,Fernández-González, M.,Carmen Seijo, M.; Nutritional value and antioxidant activity of honeys produced in a European Atlantic area; Food Chemistry; 2013; 138"
+    },
+    "MALS": {
+      "value": 2.577,
+      "data_origin": "Aggregation",
+      "reference": "Escuredo, O., Míguez, M.,Fernández-González, M.,Carmen Seijo, M.; Nutritional value and antioxidant activity of honeys produced in a European Atlantic area; Food Chemistry; 2013; 138#Moise, A.,Liviu, A. M.,Dezmirean, D.,Bobis, O.; Nutraceutical properties of Romanian heather honey; Nutrition and Food Science; 2013; 43#Escuredo, O., Seijo, M. C., Fernández-González, M.;  Descriptive analysis of Rubus honey from the north-west of Spain; International Journal of Food Science and Technology; 2011; 46"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 70.764,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": 3.327,
+      "data_origin": "Literatur",
+      "reference": "Recklies, K. et al.; Differentiation of Honeydew Honeys from Blossom Honeys and According to Their Botanical Origin by Electrical Conductivity and Phenolic and Sugar Spectra; 2021"
+    },
+    "STARCH": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "McCance and Widdowson`s; The Composition of Foods, Seventh Summary Edition; 2015"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F16:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F17:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:1CN9": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:2C9T11": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MET": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SER": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "THR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 0.064,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Converted value from: McCance and Widdowson`s; The Composition of Foods, Seventh Summary Edition; 2015"
+    }
+  }
+}

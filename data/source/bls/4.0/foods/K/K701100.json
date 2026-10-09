@@ -1,0 +1,699 @@
+{
+  "bls_code": "K701100",
+  "source_group": "K",
+  "name_de": "Champignon roh",
+  "name_en": "Button mushroom raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 119,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 28,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 90.88,
+      "data_origin": "Aggregation",
+      "reference": "Henry, L. D. C. and R. S. Rajkumar; Nutritional status of certain wild edible mushrooms from the eastern ghats of Tamil Nadu.; Mysore Journal of Agricultural Sciences; 2014; 48; 1#Di Anibal, C., et al.; Chemical composition and nutritional value of Argentine commercial edible mushrooms.; Journal fur Verbraucherschutz und Lebensmittelsicherheit; 2015; 10; 2#Phillips, K. M., et al.; Vitamin D and sterol composition of 10 types of mushrooms from retail suppliers in the United States.; Journal of Agricultural and Food Chemistry ; 2011; 59; 14#Mattila, P., et al.; Contents of vitamins, mineral elements, and some phenolic compounds in cultivated mushrooms.;  Journal of Agricultural and Food Chemistry; 2001; 49; 5#Bernas, E. and G. Jaworska ; Vitamins profile as an indicator of the quality of frozen Agaricus bisporus mushrooms.; Journal of Food Composition and Analysis; 2016; 49#Mattila, P., et al.; Basic composition and amino acid contents of mushrooms cultivated in Finland.; Journal of Agricultural and Food Chemistry; 2002; 50; 22#Jaworska, G., et al.; NUTRACEUTICALS AND ANTIOXIDANT ACTIVITY OF PREPARED FOR CONSUMPTION COMMERCIAL MUSHROOMS AGARICUS BISPORUS AND PLEUROTUS OSTREATUS.; Journal of Food Quality; 2015; 28; 2#Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16#Phillips, K. M., et al.; Folate composition of 10 types of mushrooms determined by liquid chromatography-mass spectrometry.; Food Chemistry; 2011; 129; 2#Beluhan, S. and A. Ranogajec; Chemical composition and non-volatile components of Croatian wild edible mushrooms.; Food Chemistry; 2011; 124; 3"
+    },
+    "PROT625": {
+      "value": 3.66,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Caglarirmak, N.; Determination of nutrients and volatile constituents of Agaricus bisporus (brown) at different stages.; Journal of the Science of Food and Agriculture; 2009; 89; 4#Converted value from: Jaworska, G., et al.; NUTRACEUTICALS AND ANTIOXIDANT ACTIVITY OF PREPARED FOR CONSUMPTION COMMERCIAL MUSHROOMS AGARICUS BISPORUS AND PLEUROTUS OSTREATUS.; Journal of Food Quality; 2015; 28; 2#Converted value from: Di Anibal, C., et al.; Chemical composition and nutritional value of Argentine commercial edible mushrooms.; Journal fur Verbraucherschutz und Lebensmittelsicherheit; 2015; 10; 2#Converted value from: Beluhan, S. and A. Ranogajec; Chemical composition and non-volatile components of Croatian wild edible mushrooms.; Food Chemistry; 2011; 124; 3#Converted value from: Roncero-Ramos, I., et al.; Effect of different cooking methods on nutritional value and antioxidant activity of cultivated mushrooms.; International Journal of Food Sciences and Nutrition; 2017; 68; 3#Converted value from: Reis, F. S., et al.; Chemical composition and nutritional value of the most widely appreciated cultivated mushrooms: An inter-species comparative study.; Food and Chemical Toxicology; 2012; 50; 2#Converted value from: Mattila, P., et al.; Basic composition and amino acid contents of mushrooms cultivated in Finland.; Journal of Agricultural and Food Chemistry; 2002; 50; 22#Converted value from: Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16#Converted value from: Pereira, E., et al.; Towards chemical and nutritional inventory of Portuguese wild edible mushrooms in different habitats.; Food Chemistry; 2012; 130; 2#Converted value from: Barros, L., et al.; Fatty acid and sugar compositions, and nutritional value of five wild edible mushrooms from Northeast Portugal.; Food Chemistry; 2007; 105; 1"
+    },
+    "FAT": {
+      "value": 0.274,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "CHO": {
+      "value": 2.9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.13,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.017,
+      "data_origin": "Aggregation",
+      "reference": "Beluhan, S. and A. Ranogajec; Chemical composition and non-volatile components of Croatian wild edible mushrooms.; Food Chemistry; 2011; 124; 3#Di Anibal, C., et al.; Chemical composition and nutritional value of Argentine commercial edible mushrooms.; Journal fur Verbraucherschutz und Lebensmittelsicherheit; 2015; 10; 2#Mattila, P., et al.; Basic composition and amino acid contents of mushrooms cultivated in Finland.; Journal of Agricultural and Food Chemistry; 2002; 50; 22#Roncero-Ramos, I., et al.; Effect of different cooking methods on nutritional value and antioxidant activity of cultivated mushrooms.; International Journal of Food Sciences and Nutrition; 2017; 68; 3#Reis, F. S., et al.; Chemical composition and nutritional value of the most widely appreciated cultivated mushrooms: An inter-species comparative study.; Food and Chemical Toxicology; 2012; 50; 2#Pereira, E., et al.; Towards chemical and nutritional inventory of Portuguese wild edible mushrooms in different habitats.; Food Chemistry; 2012; 130; 2#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16#Barros, L., et al.; Fatty acid and sugar compositions, and nutritional value of five wild edible mushrooms from Northeast Portugal.; Food Chemistry; 2007; 105; 1#Gaur, T., et al.; Nutritional and anti-nutritional components of some selected edible mushroom species.; Indian Journal of Natural Products and Resources; 2016; 7; 2#Henry, L. D. C. and R. S. Rajkumar; Nutritional status of certain wild edible mushrooms from the eastern ghats of Tamil Nadu.; Mysore Journal of Agricultural Sciences; 2014; 48; 1"
+    },
+    "VITA": {
+      "value": 2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 10,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0.4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0.4,
+      "data_origin": "Aggregation",
+      "reference": "Phillips, K. M., et al.; Vitamin D and sterol composition of 10 types of mushrooms from retail suppliers in the United States.; Journal of Agricultural and Food Chemistry ; 2011; 59; 14#Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16#Teichmann, A., et al.; Sterol and vitamin D2 concentrations in cultivated and wild grown mushrooms: Effects of UV irradiation.; LWT - Food Science and Technology; 2007; 40; 5"
+    },
+    "VITE": {
+      "value": 0.01,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHA": {
+      "value": 0.01,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHB": {
+      "value": 0.01,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHG": {
+      "value": 0.02,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHD": {
+      "value": 0.02,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCTRA": {
+      "value": 0.07,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "VITK": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.039,
+      "data_origin": "Aggregation",
+      "reference": "Mattila, P., et al.; Contents of vitamins, mineral elements, and some phenolic compounds in cultivated mushrooms.;  Journal of Agricultural and Food Chemistry; 2001; 49; 5#Furlani, R. P. Z. and H. T. Godoy; Vitamins B1 and B2 contents in cultivated mushrooms.; Food Chemistry; 2008; 106; 2"
+    },
+    "RIBF": {
+      "value": 0.284,
+      "data_origin": "Aggregation",
+      "reference": "Furlani, R. P. Z. and H. T. Godoy; Vitamins B1 and B2 contents in cultivated mushrooms.; Food Chemistry; 2008; 106; 2#Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16#Mattila, P., et al.; Contents of vitamins, mineral elements, and some phenolic compounds in cultivated mushrooms.;  Journal of Agricultural and Food Chemistry; 2001; 49; 5"
+    },
+    "NIAEQ": {
+      "value": 3.123,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 2.723,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "PANTAC": {
+      "value": 1.271,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 55,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 16,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FOL": {
+      "value": 27,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 27,
+      "data_origin": "Aggregation",
+      "reference": "Phillips, K. M., et al.; Folate composition of 10 types of mushrooms determined by liquid chromatography-mass spectrometry.; Food Chemistry; 2011; 129; 2#Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16#Mattila, P., et al.; Contents of vitamins, mineral elements, and some phenolic compounds in cultivated mushrooms.;  Journal of Agricultural and Food Chemistry; 2001; 49; 5"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 1,
+      "data_origin": "Aggregation",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16#Mattila, P., et al.; Contents of vitamins, mineral elements, and some phenolic compounds in cultivated mushrooms.;  Journal of Agricultural and Food Chemistry; 2001; 49; 5"
+    },
+    "NACL": {
+      "value": 0.10332,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 41.33,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CLD": {
+      "value": 67,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "K": {
+      "value": 245,
+      "data_origin": "Aggregation",
+      "reference": "Koyyalamudi, S. R., et al.; Micronutrient mineral content of the fruiting bodies of Australian cultivated Agaricus bisporus white button mushrooms.; Journal of Food Composition and Analysis; 2013; 31; 1#Mattila, P., et al.; Contents of vitamins, mineral elements, and some phenolic compounds in cultivated mushrooms.;  Journal of Agricultural and Food Chemistry; 2001; 49; 5#Caglarirmak, N.; Determination of nutrients and volatile constituents of Agaricus bisporus (brown) at different stages.; Journal of the Science of Food and Agriculture; 2009; 89; 4"
+    },
+    "CA": {
+      "value": 6,
+      "data_origin": "Aggregation",
+      "reference": "Koyyalamudi, S. R., et al.; Micronutrient mineral content of the fruiting bodies of Australian cultivated Agaricus bisporus white button mushrooms.; Journal of Food Composition and Analysis; 2013; 31; 1#Gaur, T., et al.; Nutritional and anti-nutritional components of some selected edible mushroom species.; Indian Journal of Natural Products and Resources; 2016; 7; 2#Caglarirmak, N.; Determination of nutrients and volatile constituents of Agaricus bisporus (brown) at different stages.; Journal of the Science of Food and Agriculture; 2009; 89; 4#Mattila, P., et al.; Contents of vitamins, mineral elements, and some phenolic compounds in cultivated mushrooms.;  Journal of Agricultural and Food Chemistry; 2001; 49; 5"
+    },
+    "MG": {
+      "value": 13,
+      "data_origin": "Aggregation",
+      "reference": "Koyyalamudi, S. R., et al.; Micronutrient mineral content of the fruiting bodies of Australian cultivated Agaricus bisporus white button mushrooms.; Journal of Food Composition and Analysis; 2013; 31; 1#Gaur, T., et al.; Nutritional and anti-nutritional components of some selected edible mushroom species.; Indian Journal of Natural Products and Resources; 2016; 7; 2#Mattila, P., et al.; Contents of vitamins, mineral elements, and some phenolic compounds in cultivated mushrooms.;  Journal of Agricultural and Food Chemistry; 2001; 49; 5#Caglarirmak, N.; Determination of nutrients and volatile constituents of Agaricus bisporus (brown) at different stages.; Journal of the Science of Food and Agriculture; 2009; 89; 4"
+    },
+    "P": {
+      "value": 88.31,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 1.3,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2012; 2012#Koyyalamudi, S. R., et al.; Micronutrient mineral content of the fruiting bodies of Australian cultivated Agaricus bisporus white button mushrooms.; Journal of Food Composition and Analysis; 2013; 31; 1#Mattila, P., et al.; Contents of vitamins, mineral elements, and some phenolic compounds in cultivated mushrooms.;  Journal of Agricultural and Food Chemistry; 2001; 49; 5#Gaur, T., et al.; Nutritional and anti-nutritional components of some selected edible mushroom species.; Indian Journal of Natural Products and Resources; 2016; 7; 2#Caglarirmak, N.; Determination of nutrients and volatile constituents of Agaricus bisporus (brown) at different stages.; Journal of the Science of Food and Agriculture; 2009; 89; 4"
+    },
+    "ZN": {
+      "value": 0.51,
+      "data_origin": "Aggregation",
+      "reference": "Mattila, P., et al.; Contents of vitamins, mineral elements, and some phenolic compounds in cultivated mushrooms.;  Journal of Agricultural and Food Chemistry; 2001; 49; 5#Converted value from: BVL; Lebensmittel Monitoring 2012; 2012#Caglarirmak, N.; Determination of nutrients and volatile constituents of Agaricus bisporus (brown) at different stages.; Journal of the Science of Food and Agriculture; 2009; 89; 4#Converted value from: BVL / BfR; Lebensmittel-Monitoring; 1999#Converted value from: BVL; Lebensmittel Monitoring 2007; 2007#Koyyalamudi, S. R., et al.; Micronutrient mineral content of the fruiting bodies of Australian cultivated Agaricus bisporus white button mushrooms.; Journal of Food Composition and Analysis; 2013; 31; 1"
+    },
+    "ID": {
+      "value": 6.79,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 295,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2007; 2007#Converted value from: BVL; Lebensmittel Monitoring 2012; 2012#Mattila, P., et al.; Contents of vitamins, mineral elements, and some phenolic compounds in cultivated mushrooms.;  Journal of Agricultural and Food Chemistry; 2001; 49; 5#Koyyalamudi, S. R., et al.; Micronutrient mineral content of the fruiting bodies of Australian cultivated Agaricus bisporus white button mushrooms.; Journal of Food Composition and Analysis; 2013; 31; 1"
+    },
+    "MN": {
+      "value": 130,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2012; 2012#Koyyalamudi, S. R., et al.; Micronutrient mineral content of the fruiting bodies of Australian cultivated Agaricus bisporus white button mushrooms.; Journal of Food Composition and Analysis; 2013; 31; 1#Gaur, T., et al.; Nutritional and anti-nutritional components of some selected edible mushroom species.; Indian Journal of Natural Products and Resources; 2016; 7; 2#Mattila, P., et al.; Contents of vitamins, mineral elements, and some phenolic compounds in cultivated mushrooms.;  Journal of Agricultural and Food Chemistry; 2001; 49; 5"
+    },
+    "FD": {
+      "value": 19,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CR": {
+      "value": 13.37,
+      "data_origin": "Literatur",
+      "reference": "Koyyalamudi, S. R., et al.; Micronutrient mineral content of the fruiting bodies of Australian cultivated Agaricus bisporus white button mushrooms.; Journal of Food Composition and Analysis; 2013; 31; 1"
+    },
+    "MO": {
+      "value": 3.49,
+      "data_origin": "Literatur",
+      "reference": "Koyyalamudi, S. R., et al.; Micronutrient mineral content of the fruiting bodies of Australian cultivated Agaricus bisporus white button mushrooms.; Journal of Food Composition and Analysis; 2013; 31; 1"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.12,
+      "data_origin": "Literatur",
+      "reference": "Senser F., Scherz H.; Fleisch+ -prod., Fisch+ -prod., Gemüse+ -prod., Früchte+ -prod., Süßw., alkoholh; Brief vom 19.08.93 Deut. Forschungsanst. f. Lebensmittelchem; 1993; 0"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.014,
+      "data_origin": "Literatur",
+      "reference": "Senser F., Scherz H.; Fleisch+ -prod., Fisch+ -prod., Gemüse+ -prod., Früchte+ -prod., Süßw., alkoholh; Brief vom 19.08.93 Deut. Forschungsanst. f. Lebensmittelchem; 1993; 0"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 2.74,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 2.63,
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "SORTL": {
+      "value": 0.11,
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.2,
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "FRUS": {
+      "value": 0.02,
+      "data_origin": "Aggregation",
+      "reference": "Reis, F. S., et al.; Chemical composition and nutritional value of the most widely appreciated cultivated mushrooms: An inter-species comparative study.; Food and Chemical Toxicology; 2012; 50; 2#Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Pereira, E., et al.; Towards chemical and nutritional inventory of Portuguese wild edible mushrooms in different habitats.; Food Chemistry; 2012; 130; 2"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Reis, F. S., et al.; Chemical composition and nutritional value of the most widely appreciated cultivated mushrooms: An inter-species comparative study.; Food and Chemical Toxicology; 2012; 50; 2"
+    },
+    "MALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 1.9,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 1.5,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.0482,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0.00277,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": 0.00037,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F10:0": {
+      "value": 0.00204,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F12:0": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F14:0": {
+      "value": 0.00124,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F15:0": {
+      "value": 0.0008,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F16:0": {
+      "value": 0.02781,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F17:0": {
+      "value": 0.00058,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F18:0": {
+      "value": 0.00701,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F20:0": {
+      "value": 0.00263,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F22:0": {
+      "value": 0.00139,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F24:0": {
+      "value": 0.00161,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "FAMS": {
+      "value": 0.00606,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0.00102,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F16:1CN7": {
+      "value": 0.00022,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.00482,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F20:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.13702,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.13702,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.13702,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.00139,
+      "data_origin": "Literatur",
+      "reference": "Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.755,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.2,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ASP": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.014,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLU": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.057,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 0.11,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LEU": {
+      "value": 0.12,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LYS": {
+      "value": 0.17,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.023,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 0.074,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PRO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SER": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.087,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TRP": {
+      "value": 0.024,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TYR": {
+      "value": 0.066,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VAL": {
+      "value": 0.09,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NT": {
+      "value": 0.59,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Pereira, E., et al.; Towards chemical and nutritional inventory of Portuguese wild edible mushrooms in different habitats.; Food Chemistry; 2012; 130; 2#Converted value from: Barros, L., et al.; Fatty acid and sugar compositions, and nutritional value of five wild edible mushrooms from Northeast Portugal.; Food Chemistry; 2007; 105; 1#Converted value from: Beluhan, S. and A. Ranogajec; Chemical composition and non-volatile components of Croatian wild edible mushrooms.; Food Chemistry; 2011; 124; 3#Converted value from: Caglarirmak, N.; Determination of nutrients and volatile constituents of Agaricus bisporus (brown) at different stages.; Journal of the Science of Food and Agriculture; 2009; 89; 4#Converted value from: Reis, F. S., et al.; Chemical composition and nutritional value of the most widely appreciated cultivated mushrooms: An inter-species comparative study.; Food and Chemical Toxicology; 2012; 50; 2#Converted value from: Roncero-Ramos, I., et al.; Effect of different cooking methods on nutritional value and antioxidant activity of cultivated mushrooms.; International Journal of Food Sciences and Nutrition; 2017; 68; 3#Converted value from: Simon, R. R., et al.; Vitamin D mushrooms: Comparison of the composition of button mushrooms (Agaricus bisporus) treated postharvest with UVB light or sunlight.; Journal of Agricultural and Food Chemistry; 2011; 59; 16#Converted value from: Mattila, P., et al.; Basic composition and amino acid contents of mushrooms cultivated in Finland.; Journal of Agricultural and Food Chemistry; 2002; 50; 22#Converted value from: Jaworska, G., et al.; NUTRACEUTICALS AND ANTIOXIDANT ACTIVITY OF PREPARED FOR CONSUMPTION COMMERCIAL MUSHROOMS AGARICUS BISPORUS AND PLEUROTUS OSTREATUS.; Journal of Food Quality; 2015; 28; 2#Converted value from: Di Anibal, C., et al.; Chemical composition and nutritional value of Argentine commercial edible mushrooms.; Journal fur Verbraucherschutz und Lebensmittelsicherheit; 2015; 10; 2"
+    }
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "bls_code": "T417600",
+  "source_group": "T",
+  "name_de": "Wildlachs geräuchert",
+  "name_en": "Pacific salmon smoked",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 505,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 120,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 70.74,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PROT625": {
+      "value": 21.483,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FAT": {
+      "value": 3.78,
+      "data_origin": "Literatur",
+      "reference": "Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "CHO": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 1.28,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 4.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 4.3,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1.39,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 1.39,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCPHB": {
+      "value": 0.01,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCPHG": {
+      "value": 0.03,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCPHD": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TOCTRA": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITK": {
+      "value": 0.9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.3,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 0.6,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.092,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "RIBF": {
+      "value": 0.09,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "NIAEQ": {
+      "value": 11.4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 6.7,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PANTAC": {
+      "value": 0.69,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 200,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "BIOT": {
+      "value": 4,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 18,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 18,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 3.9,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 1,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0.13,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 52,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CLD": {
+      "value": 138,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "K": {
+      "value": 326,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CA": {
+      "value": 18,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MG": {
+      "value": 61,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "P": {
+      "value": 279,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "S": {
+      "value": 239,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.24,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ZN": {
+      "value": 0.55,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ID": {
+      "value": 6,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CU": {
+      "value": 42,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MN": {
+      "value": 17,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FD": {
+      "value": 34,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 3.59,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MO": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.937,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": 0.14,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F15:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F16:0": {
+      "value": 0.622,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F17:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F18:0": {
+      "value": 0.175,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAMS": {
+      "value": 1.548,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": 0.219,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F18:1CN7": {
+      "value": 0.228,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F18:1CN9": {
+      "value": 0.948,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F20:1CN9": {
+      "value": 0.153,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F22:1CN9": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAPU": {
+      "value": 0.917,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.787,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.0075,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F18:4CN3": {
+      "value": 0.017,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F20:5CN3": {
+      "value": 0.242,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F22:5CN3": {
+      "value": 0.0935,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F22:6CN3": {
+      "value": 0.427,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "FAPUN6": {
+      "value": 0.13,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.0963,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F20:2CN6": {
+      "value": 0.018,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": 0.016,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Molkentin, J.; Lehmann, I.; Ostermeyer, U.; Rehbein, H.; Traceability of organic fish – Authenticating the production origin of salmonids by chemical and isotopic analyses; Food Control; 2015"
+    },
+    "FAX": {
+      "value": 0.612,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CHORL": {
+      "value": 60,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 9.079,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 1.274,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 1.252,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 2.116,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.249,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 3.012,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 1.046,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.549,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.992,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 1.662,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 1.944,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.649,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.864,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.735,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.82,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.981,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.282,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.714,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 1.156,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 3.437,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    }
+  }
+}

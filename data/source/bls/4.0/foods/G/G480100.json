@@ -1,0 +1,699 @@
+{
+  "bls_code": "G480100",
+  "source_group": "G",
+  "name_de": "Speisezwiebel roh",
+  "name_en": "Onion raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 142,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 34,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 89.7,
+      "data_origin": "Aggregation",
+      "reference": "Sanchez-Castillo, C. P., et al.; The Mineral Content of Mexican Fruits and Vegetables.; Journal of Food Composition and Analysis; 1998; 11; 4#Vahteristo L., Lehikoinen K., Ollilainen V. and Varo P.; Application of an HPLC assay for the determination of folate derivatives in some vegetables, fruits and berries consumed in Finland; Food Chemistry; 1997; 59; 4#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15#Priecina, L. and D. Karklina; Determination of major sugars in fresh and dried spices and vegetables using high performance liquid chromatography.; FOODBALT; 2014#Bassett MN, Sammán NC; Folate content and retention in selected raw and processed foods; Archivos Latinoamericanos de Nutricion; 2010#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1#Shohag, M. J. I., et al.; Folate Content and Composition of Vegetables Commonly Consumed in China.; Journal of Food Science; 2012; 77; 11#Caruso, G., Conti, S., Villari, G., Borrelli, C., Melchionna, G., Minutolo, M., Russo, G., Amalfitano, C.; Effects of transplanting time and plant density on yield, quality and antioxidant content of onion (Allium cepa L.) in southern Italy; Scientia Horticulturae; 2014#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995"
+    },
+    "PROT625": {
+      "value": 1.156,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FAT": {
+      "value": 0.15,
+      "data_origin": "Literatur",
+      "reference": "Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "CHO": {
+      "value": 6.01,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 1.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0.254,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.465,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "VITA": {
+      "value": 1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 4,
+      "data_origin": "Aggregation",
+      "reference": "Heinonen MI, Ollilainen V, Linkola EK, Varo PT, Koivistoinen; Carotenoids in Finnish Foods: Vegetables, Fruits, and Berries; Journal of Agricultural and Food Chemistry; 1989; 37#Müller H; Determination of the carotenoid content in selected vegetables and fruit by HPLC and photodiode array detection; Zeitschrift für Lebensmittel-Untersuchung und -Forschung; 1997; 204"
+    },
+    "CAROTPAXB": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITD": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ERGCAL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 0.04,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHA": {
+      "value": 0.04,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHB": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHG": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCPHD": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "TOCTRA": {
+      "value": 0.12,
+      "data_origin": "Literatur",
+      "reference": "Chun, J., et al.; Tocopherol and tocotrienol contents of raw and processed fruits and vegetables in the United States diet; Journal of Food Composition and Analysis; 2006; 19; 2-3"
+    },
+    "VITK": {
+      "value": 0.4,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.4,
+      "data_origin": "Aggregation",
+      "reference": "Damon M., Zhang N.Z., Haytowitz D.B., Booth S.L.; Phylloquinone (vitamin K1) content of vegetables; Journal of Food Composition and Analysis; 2005; 18#Koivu,T.J.; Piironen, V.I.; Henttonen, S.K.; Mattila; P.H.); Determination of Phylloquinone in Vegetables, Fruits, and Berries by High-Performance Liquid Chromatography with Electrochemical Detection; J. Agric. Food Chem.; 1997; 45; 12"
+    },
+    "VITK2": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.06,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: El-Aarab AE, Ali M, Hussein L; Vitamin B1 profile of the egyptian core foods and adequacy of intake; Journal of Food Composition and Analysis; 2004; 17"
+    },
+    "RIBF": {
+      "value": 0.02,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "NIAEQ": {
+      "value": 0.617,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.3,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "PANTAC": {
+      "value": 0.04,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "VITB6": {
+      "value": 67.7,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "BIOT": {
+      "value": 1,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FOL": {
+      "value": 15,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 15,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Yon M.,Hyun T.H.; Folate content of foods commonly consumed in Korea measured after trienzyme extraction; Nutrition Research; 2003; 23#Vahteristo L., Lehikoinen K., Ollilainen V. and Varo P.; Application of an HPLC assay for the determination of folate derivatives in some vegetables, fruits and berries consumed in Finland; Food Chemistry; 1997; 59; 4#Konings, E. J. M., et al.; Folate intake of the Dutch population according to newly established liquid chromatography data for foods; American Journal of Clinical Nutrition; 2001; 73#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Hefni, M., et al.; Folate content in foods commonly consumed in Egypt.; Food Chemistry; 2010; 121; 2#Bassett MN, Sammán NC; Folate content and retention in selected raw and processed foods; Archivos Latinoamericanos de Nutricion; 2010#Shohag, M. J. I., et al.; Folate Content and Composition of Vegetables Commonly Consumed in China.; Journal of Food Science; 2012; 77; 11"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITC": {
+      "value": 7.4,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.022,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 9,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1#Sanchez-Castillo, C. P., et al.; The Mineral Content of Mexican Fruits and Vegetables.; Journal of Food Composition and Analysis; 1998; 11; 4#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995#Caruso, G., Conti, S., Villari, G., Borrelli, C., Melchionna, G., Minutolo, M., Russo, G., Amalfitano, C.; Effects of transplanting time and plant density on yield, quality and antioxidant content of onion (Allium cepa L.) in southern Italy; Scientia Horticulturae; 2014#Gundersen, V., et al.; Comparative investigation of concentrations of major and trace elements in organic and conventional Danish agricultural crops. 1. Onions (Allium cepa Hysam) and peas (Pisum sativum Ping Pong).; Journal of Agricultural and Food Chemistry; 2000; 48; 12"
+    },
+    "CLD": {
+      "value": 19.48,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "K": {
+      "value": 174,
+      "data_origin": "Aggregation",
+      "reference": "Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: I. Sodium, Phosphorus, and Potassium.; Journal of Food Composition and Analysis; 1995#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Sanchez-Castillo, C. P., et al.; The Mineral Content of Mexican Fruits and Vegetables.; Journal of Food Composition and Analysis; 1998; 11; 4#Caruso, G., Conti, S., Villari, G., Borrelli, C., Melchionna, G., Minutolo, M., Russo, G., Amalfitano, C.; Effects of transplanting time and plant density on yield, quality and antioxidant content of onion (Allium cepa L.) in southern Italy; Scientia Horticulturae; 2014#Gundersen, V., et al.; Comparative investigation of concentrations of major and trace elements in organic and conventional Danish agricultural crops. 1. Onions (Allium cepa Hysam) and peas (Pisum sativum Ping Pong).; Journal of Agricultural and Food Chemistry; 2000; 48; 12#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6"
+    },
+    "CA": {
+      "value": 25,
+      "data_origin": "Aggregation",
+      "reference": "Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1#Caruso, G., Conti, S., Villari, G., Borrelli, C., Melchionna, G., Minutolo, M., Russo, G., Amalfitano, C.; Effects of transplanting time and plant density on yield, quality and antioxidant content of onion (Allium cepa L.) in southern Italy; Scientia Horticulturae; 2014#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Sanchez-Castillo, C. P., et al.; The Mineral Content of Mexican Fruits and Vegetables.; Journal of Food Composition and Analysis; 1998; 11; 4#Gundersen, V., et al.; Comparative investigation of concentrations of major and trace elements in organic and conventional Danish agricultural crops. 1. Onions (Allium cepa Hysam) and peas (Pisum sativum Ping Pong).; Journal of Agricultural and Food Chemistry; 2000; 48; 12"
+    },
+    "MG": {
+      "value": 10,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1#Gundersen, V., et al.; Comparative investigation of concentrations of major and trace elements in organic and conventional Danish agricultural crops. 1. Onions (Allium cepa Hysam) and peas (Pisum sativum Ping Pong).; Journal of Agricultural and Food Chemistry; 2000; 48; 12#Caruso, G., Conti, S., Villari, G., Borrelli, C., Melchionna, G., Minutolo, M., Russo, G., Amalfitano, C.; Effects of transplanting time and plant density on yield, quality and antioxidant content of onion (Allium cepa L.) in southern Italy; Scientia Horticulturae; 2014#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Sanchez-Castillo, C. P., et al.; The Mineral Content of Mexican Fruits and Vegetables.; Journal of Food Composition and Analysis; 1998; 11; 4"
+    },
+    "P": {
+      "value": 33.332,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 0.685,
+      "data_origin": "Aggregation",
+      "reference": "Bagdatlioglu, N., et al.; Heavy metal levels in leafy vegetables and some selected fruits.; Journal fur Verbraucherschutz und Lebensmittelsicherheit; 2010; 5; 3#Gundersen, V., et al.; Comparative investigation of concentrations of major and trace elements in organic and conventional Danish agricultural crops. 1. Onions (Allium cepa Hysam) and peas (Pisum sativum Ping Pong).; Journal of Agricultural and Food Chemistry; 2000; 48; 12#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Sanchez-Castillo, C. P., et al.; The Mineral Content of Mexican Fruits and Vegetables.; Journal of Food Composition and Analysis; 1998; 11; 4#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "ZN": {
+      "value": 0.21,
+      "data_origin": "Aggregation",
+      "reference": "Radwan, M. A., Salama, A. K.; Market basket survey for some heavy metals in Egyptian fruits and vegetables; Food and Chemical Toxicology; 2006; 8; 44#Gundersen, V., et al.; Comparative investigation of concentrations of major and trace elements in organic and conventional Danish agricultural crops. 1. Onions (Allium cepa Hysam) and peas (Pisum sativum Ping Pong).; Journal of Agricultural and Food Chemistry; 2000; 48; 12#Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML: ; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland. ; Journal of Food Composition and Analysis; 2007; 20; 6#Bagdatlioglu, N., et al.; Heavy metal levels in leafy vegetables and some selected fruits.; Journal fur Verbraucherschutz und Lebensmittelsicherheit ; 2010; 5; 3#Converted value from: BVL; Lebensmittel Monitoring 2013; 2013#Converted value from: BVL; Lebensmittel Monitoring 2008; 2008#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: BVL / BfR; Lebensmittel-Monitoring; 1999#Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Sanchez-Castillo, C. P., et al. ; The Mineral Content of Mexican Fruits and Vegetables.; Journal of Food Composition and Analysis; 1998; 11; 4#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: II. Calcium, Magnesium, Iron, and Zinc; Journal of Food Composition and Analysis; 1995"
+    },
+    "ID": {
+      "value": 2,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995"
+    },
+    "CU": {
+      "value": 49,
+      "data_origin": "Aggregation",
+      "reference": "Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1#Gundersen, V., et al.; Comparative investigation of concentrations of major and trace elements in organic and conventional Danish agricultural crops. 1. Onions (Allium cepa Hysam) and peas (Pisum sativum Ping Pong).; Journal of Agricultural and Food Chemistry; 2000; 48; 12#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Converted value from: BVL; Lebensmittel Monitoring 2008; 2008#Converted value from: BVL; Lebensmittel Monitoring 2013; 2013"
+    },
+    "MN": {
+      "value": 130,
+      "data_origin": "Aggregation",
+      "reference": "Ellen, G., et al.; HEAVY-METALS IN VEGETABLES GROWN IN THE NETHERLANDS AND IN DOMESTIC AND IMPORTED FRUITS.; Zeitschrift Fur Lebensmittel-Untersuchung Und-Forschung; 1990; 190; 1#Converted value from: BVL; Lebensmittel Monitoring 2008; 2008#Converted value from: BVL; Lebensmittel Monitoring 2013; 2013#Gundersen, V., et al.; Comparative investigation of concentrations of major and trace elements in organic and conventional Danish agricultural crops. 1. Onions (Allium cepa Hysam) and peas (Pisum sativum Ping Pong).; Journal of Agricultural and Food Chemistry; 2000; 48; 12#Pennington, J. A. T., et al.; Composition of Core Foods of the U.S. Food Supply, 1982-1991: III. Copper, Manganese, Selenium, and Iodine; Journal of Food Composition and Analysis; 1995#Ekholm P, Reinivuo H, Mattila P, Pakkala H, Koponen J, Happonen A, Hellstrom J, Ovaskainen ML.; Changes in the mineral and trace element contents of cereals, fruits and vegetables in Finland.; Journal of Food Composition and Analysis; 2007; 20; 6#Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "FD": {
+      "value": 42,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CR": {
+      "value": 1,
+      "data_origin": "Aggregation",
+      "reference": "Gundersen, V., et al.; Comparative investigation of concentrations of major and trace elements in organic and conventional Danish agricultural crops. 1. Onions (Allium cepa Hysam) and peas (Pisum sativum Ping Pong).; Journal of Agricultural and Food Chemistry; 2000; 48; 12#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Converted value from: BVL; Lebensmittel Monitoring 2008; 2008"
+    },
+    "MO": {
+      "value": 2,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2008; 2008#Gundersen, V., et al.; Comparative investigation of concentrations of major and trace elements in organic and conventional Danish agricultural crops. 1. Onions (Allium cepa Hysam) and peas (Pisum sativum Ping Pong).; Journal of Agricultural and Food Chemistry; 2000; 48; 12#Akinwande, B. A., Olatunde, S. J.; Comparative evaluation of the mineral profile and other selected components of onion and garlic; International Food Research Journal; 2015; 22; 1"
+    },
+    "ACEAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0.072,
+      "data_origin": "Literatur",
+      "reference": "Herrmann K.; Die Säuren der Gemüsearten; Ernährungs-Umschau; 1989; 36; 6"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0.182,
+      "data_origin": "Literatur",
+      "reference": "Herrmann K.; Die Säuren der Gemüsearten; Ernährungs-Umschau; 1989; 36; 6"
+    },
+    "TARAC": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Herrmann K.; Die Säuren der Gemüsearten; Ernährungs-Umschau; 1989; 36; 6"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "SORTL": {
+      "value": "<LOD",
+      "data_origin": "Literatur",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "XYLTL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 4.51,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 2.7,
+      "data_origin": "Aggregation",
+      "reference": "Vagen IM, Slimestad R; Amount of charactersitic compounds in 15 cultivars of onion (Allium cepa L.) in controlled field trials; Journal of the Science of Food and Agriculture; 2008; 88#Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Caruso, G., Conti, S., Villari, G., Borrelli, C., Melchionna, G., Minutolo, M., Russo, G., Amalfitano, C.; Effects of transplanting time and plant density on yield, quality and antioxidant content of onion (Allium cepa L.) in southern Italy; Scientia Horticulturae; 2014#Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2"
+    },
+    "FRUS": {
+      "value": 1.81,
+      "data_origin": "Aggregation",
+      "reference": "Muir, J. G., et al.;  Measurement of short-chain carbohydrates in common australian vegetables and fruits by high-performance liquid chromatography (HPLC); Journal of Agricultural and Food Chemistry; 2009; 57; 2#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Vagen IM, Slimestad R; Amount of charactersitic compounds in 15 cultivars of onion (Allium cepa L.) in controlled field trials; Journal of the Science of Food and Agriculture; 2008; 88#Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15#Caruso, G., Conti, S., Villari, G., Borrelli, C., Melchionna, G., Minutolo, M., Russo, G., Amalfitano, C.; Effects of transplanting time and plant density on yield, quality and antioxidant content of onion (Allium cepa L.) in southern Italy; Scientia Horticulturae; 2014"
+    },
+    "GALS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 1.502,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 1.477,
+      "data_origin": "Aggregation",
+      "reference": "Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15#Vagen IM, Slimestad R; Amount of charactersitic compounds in 15 cultivars of onion (Allium cepa L.) in controlled field trials; Journal of the Science of Food and Agriculture; 2008; 88#Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Caruso, G., Conti, S., Villari, G., Borrelli, C., Melchionna, G., Minutolo, M., Russo, G., Amalfitano, C.; Effects of transplanting time and plant density on yield, quality and antioxidant content of onion (Allium cepa L.) in southern Italy; Scientia Horticulturae; 2014"
+    },
+    "MALS": {
+      "value": 0.025,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Li, B. W. and Andrews, K. W.; Individual sugars, soluble, and insoluble dietary fiber contents of 70 high consumption foods.; Journal of Food Composition and Analysis; 2002; 15"
+    },
+    "LACS": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of fruit and vegetables; 2013"
+    },
+    "SUGAR": {
+      "value": 6.01,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "McCance and Widdowson`s; The Composition of Foods, Seventh Summary Edition; 2015"
+    },
+    "FIBLMW": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 1.4,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0.7,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0.7,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 0.025,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F6:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F8:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F10:0": {
+      "value": 0.0006,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F12:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F14:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F15:0": {
+      "value": 0.0008,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F16:0": {
+      "value": 0.0214,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F17:0": {
+      "value": 0.00037,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F18:0": {
+      "value": 0.00047,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F20:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:0": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F24:0": {
+      "value": 0.0014,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "FAMS": {
+      "value": 0.0151,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F16:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN7": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:1CN9": {
+      "value": 0.0141,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F20:1CN9": {
+      "value": 0.00043,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F22:1CN9": {
+      "value": 0.00056,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "FAPU": {
+      "value": 0.0519,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.0027,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.0027,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F18:4CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "F22:5CN3": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F22:6CN3": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FAPUN6": {
+      "value": 0.0492,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 0.0492,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "F18:2C9T11": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F18:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:2CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:3CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "F20:4CN6": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FAX": {
+      "value": 0.0128,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Tsiaganis MC, Laskari K, Melissari E; Fatty acid composition of Allium species lipids; Journal of Food Composition and Analysis; 2006"
+    },
+    "CHORL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "AAE9": {
+      "value": 0.236,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.16,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ASP": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.013,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 0.019,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LEU": {
+      "value": 0.033,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "LYS": {
+      "value": 0.057,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.012,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 0.035,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PRO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "SER": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.02,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TRP": {
+      "value": 0.019,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "TYR": {
+      "value": 0.041,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VAL": {
+      "value": 0.028,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NT": {
+      "value": 0.185,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of fruit and vegetables; 2013#Converted value from: Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    }
+  }
+}

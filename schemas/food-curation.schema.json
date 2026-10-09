@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://train-libre.org/schemas/food-curation.schema.json",
+  "title": "Train Libre food curation overlay",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["bls_code", "display_names", "aliases", "category_id"],
+  "properties": {
+    "bls_code": {"type": "string", "pattern": "^[A-Z][A-Z0-9]{6}$"},
+    "display_names": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "fr": {"$ref": "#/$defs/translation"},
+        "it": {"$ref": "#/$defs/translation"},
+        "ja": {"$ref": "#/$defs/translation"}
+      }
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["language_code", "value", "kind", "method"],
+        "properties": {
+          "language_code": {"enum": ["de", "en", "fr", "it", "ja"]},
+          "value": {"type": "string", "minLength": 1},
+          "kind": {"enum": ["synonym", "spelling", "transliteration", "regional"]},
+          "method": {"enum": ["source", "human", "machine", "machine-reviewed"]}
+        }
+      }
+    },
+    "category_id": {"type": ["string", "null"]}
+  },
+  "$defs": {
+    "translation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["value", "method"],
+      "properties": {
+        "value": {"type": "string", "minLength": 1},
+        "method": {"enum": ["human", "machine", "machine-reviewed"]},
+        "model": {"type": "string"},
+        "reviewed_by": {"type": "string"},
+        "reviewed_at": {"type": "string", "format": "date"},
+        "note": {"type": "string"}
+      }
+    }
+  }
+}

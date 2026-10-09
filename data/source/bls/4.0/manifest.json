@@ -1,0 +1,27 @@
+{
+  "catalog_id": "bls",
+  "source_version": "4.0",
+  "source_release": "2025",
+  "source_title": "Bundeslebensmittelschlüssel (BLS), Deutsche Nährstoffdatenbank",
+  "publisher": "Max Rubner-Institut",
+  "doi": "10.25826/Data20251217-134202-0",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "tool_version": "1.0.0",
+  "input_files": {
+    "BLS_4_0_Daten_2025_DE.xlsx": "524bbefe25b691f5cb3de7a9f3e27fa2967aebfeabf217d99414ba7806e78c60",
+    "BLS_4_0_Components_DE_EN.xlsx": "359aefcd2086f45e62ff3dbd0c8536306e594a5806ac325d8bf86f484561bdf4",
+    "BLS_4_0_Dokumentation_DE.pdf": "6d83913f9b705399f86795a9c3afcb2d0454d1129bfb24ce53da911c5a6a24b6"
+  },
+  "food_count": 7140,
+  "nutrient_triplet_count": 138,
+  "component_definition_count": 138,
+  "food_nutrient_fact_count": 985320,
+  "data_origin_count": 14,
+  "source_reference_count": 2164,
+  "facts_with_null_value": 59,
+  "facts_with_qualitative_value": 115760,
+  "facts_with_explicit_zero": 213181,
+  "food_notes_count": 4,
+  "source_records_are_unmodified": true
+}

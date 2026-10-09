@@ -1,0 +1,699 @@
+{
+  "bls_code": "E111132",
+  "source_group": "E",
+  "name_de": "Hühnerei gekocht",
+  "name_en": "Chicken egg boiled",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 601,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 144,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 75.4,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "PROT625": {
+      "value": 14.1,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FAT": {
+      "value": 9.6,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "CHO": {
+      "value": 0.34,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.9,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "VITA": {
+      "value": 255.2,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 254.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 253,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CARTB": {
+      "value": 12.9,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CAROTPAXB": {
+      "value": 1,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "VITD": {
+      "value": 2.3,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 2.3,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "ERGCAL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1.56,
+      "data_origin": "Literatur",
+      "reference": "-"
+    },
+    "TOCPHA": {
+      "value": 1.56,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "TOCPHB": {
+      "value": 0.03,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "TOCPHG": {
+      "value": 0.42,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "TOCPHD": {
+      "value": 0.005,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "TOCTRA": {
+      "value": 0.05,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "VITK": {
+      "value": 8,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.6,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITK2": {
+      "value": 7,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "THIA": {
+      "value": 0.08,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "RIBF": {
+      "value": 0.47,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "NIAEQ": {
+      "value": 3.447,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.08,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "PANTAC": {
+      "value": 1.08,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITB6": {
+      "value": 67.7,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "BIOT": {
+      "value": 15.6,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FOL": {
+      "value": 87,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 87,
+      "data_origin": "Aggregation",
+      "reference": "Konings, E. J. M., et al.; Folate intake of the Dutch population according to newly established liquid chromatography data for foods; American Journal of Clinical Nutrition; 2001; 73#Bassett MN, Sammán NC; Folate content and retention in selected raw and processed foods; Archivos Latinoamericanos de Nutricion; 2010#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 2,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "VITC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "NACL": {
+      "value": 0.375,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 150,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "CLD": {
+      "value": 176,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "K": {
+      "value": 141,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "CA": {
+      "value": 55,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "MG": {
+      "value": 14,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "P": {
+      "value": 210,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 1.97,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "ZN": {
+      "value": 1.32,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "ID": {
+      "value": 52,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "CU": {
+      "value": 59,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MN": {
+      "value": 40,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FD": {
+      "value": 4.6,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CR": {
+      "value": 0.5,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.34,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.34,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0.34,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 2.6,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F6:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F8:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F10:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F12:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F14:0": {
+      "value": 0.028,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F15:0": {
+      "value": 0.006,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F16:0": {
+      "value": 1.919,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F17:0": {
+      "value": 0.017,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F18:0": {
+      "value": 0.6,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F20:0": {
+      "value": 0.002,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F22:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F24:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FAMS": {
+      "value": 3.67,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0.006,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F16:1CN7": {
+      "value": 0.227,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F18:1CN7": {
+      "value": 0.17,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F18:1CN9": {
+      "value": 3.246,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F20:1CN9": {
+      "value": 0.021,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F22:1CN9": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FAPU": {
+      "value": 1.49,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.14,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.05,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F18:4CN3": {
+      "value": 0.012,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F22:5CN3": {
+      "value": 0.0096,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F22:6CN3": {
+      "value": 0.065,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FAPUN6": {
+      "value": 1.34,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 1.19,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F18:2C9T11": {
+      "value": 0.0096,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F18:3CN6": {
+      "value": 0.006,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F20:2CN6": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F20:3CN6": {
+      "value": 0.0096,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F20:4CN6": {
+      "value": 0.137,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FAX": {
+      "value": 0.206,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "CHORL": {
+      "value": 360,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "AAE9": {
+      "value": 6.018,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.792,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ARG": {
+      "value": 0.774,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ASP": {
+      "value": 1.335,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "CYSTE": {
+      "value": 0.316,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GLU": {
+      "value": 1.675,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "GLY": {
+      "value": 0.47,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "HIS": {
+      "value": 0.3,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "ILE": {
+      "value": 0.774,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LEU": {
+      "value": 1.128,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "LYS": {
+      "value": 0.847,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "MET": {
+      "value": 0.436,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PHE": {
+      "value": 0.758,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "PRO": {
+      "value": 0.548,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "SER": {
+      "value": 0.968,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "THR": {
+      "value": 0.619,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TRP": {
+      "value": 0.202,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "TYR": {
+      "value": 0.53,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "VAL": {
+      "value": 0.954,
+      "data_origin": "Rezeptberechnung",
+      "reference": "-"
+    },
+    "NT": {
+      "value": 2.256,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    }
+  }
+}

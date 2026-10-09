@@ -1,0 +1,16 @@
+# Spreadsheet lock files are local editor state, not source data.
+.~lock.*#
+.DS_Store
+
+# Python tooling
+__pycache__/
+*.py[cod]
+.venv/
+
+# Reproducible local build outputs
+dist/*.db
+dist/*.sqlite
+dist/*.sqlite3
+reports/source-validation-*.json
+reports/app-build-*.json
+reports/generated-*

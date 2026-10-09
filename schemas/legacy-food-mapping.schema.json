@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://train-libre.org/schemas/legacy-food-mapping.schema.json",
+  "title": "Legacy base-food migration map",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["mapping_version", "legacy_database", "legacy_database_sha256", "legacy_category_ids", "target_catalog", "matching_policy", "entries"],
+  "properties": {
+    "mapping_version": {"const": 1},
+    "legacy_database": {"type": "string"},
+    "legacy_database_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "legacy_category_ids": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "target_catalog": {"type": "string", "pattern": "^bls:[0-9]+\\.[0-9]+$"},
+    "matching_policy": {"type": "string"},
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["legacy_product_id", "legacy_name_de", "legacy_name_en", "legacy_category_id", "suggested_matches", "target_bls_code", "status", "review_note"],
+        "properties": {
+          "legacy_product_id": {"type": "string", "minLength": 1},
+          "legacy_name_de": {"type": "string"},
+          "legacy_name_en": {"type": "string"},
+          "legacy_category_id": {"type": "string"},
+          "suggested_matches": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["bls_code", "exact_name_locales"],
+              "properties": {
+                "bls_code": {"type": "string", "pattern": "^[A-Z][A-Z0-9]{6}$"},
+                "exact_name_locales": {"type": "array", "items": {"enum": ["de", "en"]}, "uniqueItems": true}
+              }
+            }
+          },
+          "target_bls_code": {"type": ["string", "null"], "pattern": "^[A-Z][A-Z0-9]{6}$"},
+          "status": {"enum": ["pending", "mapped", "no_equivalent"]},
+          "review_note": {"type": ["string", "null"]}
+        }
+      }
+    }
+  }
+}

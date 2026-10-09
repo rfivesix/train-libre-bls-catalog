@@ -1,0 +1,699 @@
+{
+  "bls_code": "E111100",
+  "source_group": "E",
+  "name_de": "Hühnerei roh",
+  "name_en": "Chicken egg raw",
+  "note": null,
+  "nutrients": {
+    "ENERCJ": {
+      "value": 563,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ENERCC": {
+      "value": 135,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "WATER": {
+      "value": 76.36,
+      "data_origin": "Analyse",
+      "reference": "-"
+    },
+    "PROT625": {
+      "value": 13.175,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FAT": {
+      "value": 9,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "CHO": {
+      "value": 0.34,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FIBT": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "ALC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "OA": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ASH": {
+      "value": 0.88,
+      "data_origin": "Aggregation",
+      "reference": "Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "VITA": {
+      "value": 261.9,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITAA": {
+      "value": 260.1,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "RETOL": {
+      "value": 258.2,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Ollilainen V, Heinonen M, Linkola E, Varo P, Koivistoinen P; Carotenoids and Retinoids in Finnish Foods: Dairy Products and Eggs; Journal of Dairy Science; 1989; 72"
+    },
+    "CARTB": {
+      "value": 13.2,
+      "data_origin": "Literatur",
+      "reference": "Ollilainen V, Heinonen M, Linkola E, Varo P, Koivistoinen P; Carotenoids and Retinoids in Finnish Foods: Dairy Products and Eggs; Journal of Dairy Science; 1989; 72"
+    },
+    "CAROTPAXB": {
+      "value": 18.1,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24#Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "VITD": {
+      "value": 1.8,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "CHOCAL": {
+      "value": 1.8,
+      "data_origin": "Aggregation",
+      "reference": "Exler J, Phillips KM, Patterson KY, Holden JM; Cholesterol and vitamin D content of eggs in the U.S. retail market; Journal of Food Composition and Analysis; 2013#Bilodeau L, Dufresne G, Deeks J, Clement G, Bertrand J, Turcotte S, Robichaud A, Beraldin F, Fouquet A; Determination of vitamin D3 and 25-hydroxyvitamin D3 in foodstuffs by HPLC UV-DAD and LC-MS/MS; Journal of Food Composition and Analysis; 2011; 24#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "ERGCAL": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "VITE": {
+      "value": 1.23,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24#Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "TOCPHA": {
+      "value": 1.23,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "TOCPHB": {
+      "value": 0.05,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "TOCPHG": {
+      "value": 0.72,
+      "data_origin": "Aggregation",
+      "reference": "Monge-Rojas, R., Campos, H.; Tocopherol and carotenoid content of foods commonly consumed in Costa Rica; Journal of Food Composition and Analysis; 2011; 24#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "TOCPHD": {
+      "value": 0.005,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "TOCTRA": {
+      "value": 0.04,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "VITK": {
+      "value": 8,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "VITK1": {
+      "value": 0.6,
+      "data_origin": "Literatur",
+      "reference": "Kamao M., Suhara Y., Tsugawa N. et al.; Vitamin K Content of Foods and Dietary Vitamin K Intake in Japanese Young Women; J Nutr Sci Vitaminol; 2007; 53"
+    },
+    "VITK2": {
+      "value": 7,
+      "data_origin": "Literatur",
+      "reference": "Kamao M., Suhara Y., Tsugawa N. et al.; Vitamin K Content of Foods and Dietary Vitamin K Intake in Japanese Young Women; J Nutr Sci Vitaminol; 2007; 53"
+    },
+    "THIA": {
+      "value": 0.08,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "RIBF": {
+      "value": 0.5,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "NIAEQ": {
+      "value": 3.417,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NIA": {
+      "value": 0.05,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "PANTAC": {
+      "value": 1.35,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "VITB6": {
+      "value": 88.05,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "BIOT": {
+      "value": 19.5,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FOL": {
+      "value": 76,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FOLFD": {
+      "value": 76,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013#Converted value from: Yon M.,Hyun T.H.; Folate content of foods commonly consumed in Korea measured after trienzyme extraction; Nutrition Research; 2003; 23#Müller H.; Die Bestimmung der Folsäure-Gehalte von Lebensmitteln tierischer Herkunft  mit Hilfe der Hochleistungsflüssigchromatographie (HPLC); Z Lebensm Unters Forsch; 1993; 196"
+    },
+    "FOLAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "VITB12": {
+      "value": 2.7,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "VITC": {
+      "value": "<LOD or <LOQ",
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "NACL": {
+      "value": 0.385,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "NA": {
+      "value": 154,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "CLD": {
+      "value": 180,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "K": {
+      "value": 138,
+      "data_origin": "Aggregation",
+      "reference": "Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "CA": {
+      "value": 52,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "MG": {
+      "value": 13,
+      "data_origin": "Aggregation",
+      "reference": "Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "P": {
+      "value": 210,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "S": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "FE": {
+      "value": 1.8,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2012; 2012#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "ZN": {
+      "value": 1.28,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2006 ; 2006#Converted value from: BVL; Lebensmittel Monitoring 2012; 2012#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Terrés, C, Navarro, M, Martín-Lagos, F, Giménez, R, López, H, López, MC; Zinc levels in foods from southeastern Spain: relationship to daily dietary intake; Food Additives and Contaminants; 2001; 8; 18#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "ID": {
+      "value": 43.5,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013#Nerhus, I., M. Wik Markhus, B. M. Nilsen, J. Øyen, A. Maage, E. R. Ødegård, L. K. Midtbø, S. Frantzen, T. Kögel, I. E. Graff, Ø. Lie, L. Dahl and M. Kjellevold; Iodine content of six fish sepcies, Norwegian dairy products and hen´s egg; Food & Nutrition Research; 2018; 62"
+    },
+    "CU": {
+      "value": 59,
+      "data_origin": "Aggregation",
+      "reference": "Converted value from: BVL; Lebensmittel Monitoring 2012; 2012#Converted value from: BVL; Lebensmittel Monitoring 2006 ; 2006#Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "MN": {
+      "value": 40,
+      "data_origin": "Aggregation",
+      "reference": "Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980#Converted value from: BVL; Lebensmittel Monitoring 2012; 2012#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FD": {
+      "value": 4.7,
+      "data_origin": "Aggregation",
+      "reference": "US Department of Agriculture, Agricultural Research Service; USDA National Nutrient Database for Standard Reference, Legacy Release; 2019#Food Standards Australia New Zealand; Australian Food Composition Database – Release 2.0; 2022"
+    },
+    "CR": {
+      "value": 0.5,
+      "data_origin": "Literatur",
+      "reference": "Koivistoinen P; Mineral element composition of Finnish foods. N, K, Ca, Mg, P, S, Fe, Cu, Mn, Zn, Mo, Co, Ni, Cr, F, Se, Si, Rb, Al, B, Br, Hg, As, Cd, Pb and Ash; Almqvist & Wiksell; 1980"
+    },
+    "MO": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "ACEAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "CITAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "TARAC": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "POLYL": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "MANTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SORTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "XYLTL": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MNSAC": {
+      "value": 0.34,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "GLUS": {
+      "value": 0.34,
+      "data_origin": "Nährstoffdatenbank",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "FRUS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "GALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "DISAC": {
+      "value": 0,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "SUCS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "MALS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "LACS": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "SUGAR": {
+      "value": 0.34,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "OLSAC": {
+      "value": "-",
+      "data_origin": "-",
+      "reference": "-"
+    },
+    "STARCH": {
+      "value": 0,
+      "data_origin": "Logische Null",
+      "reference": "-"
+    },
+    "FIBLMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMW": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBINS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBSOL": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWS": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FIBHMWI": {
+      "value": 0,
+      "data_origin": "Musterberechnung",
+      "reference": "-"
+    },
+    "FASAT": {
+      "value": 2.437,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F4:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F6:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F8:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F10:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F12:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F14:0": {
+      "value": 0.025,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F15:0": {
+      "value": 0.006,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F16:0": {
+      "value": 1.798,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F17:0": {
+      "value": 0.016,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F18:0": {
+      "value": 0.592,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F20:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F22:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F24:0": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FAMS": {
+      "value": 3.425,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F14:1CN5": {
+      "value": 0.005,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F16:1CN7": {
+      "value": 0.212,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F18:1CN7": {
+      "value": 0.156,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F18:1CN9": {
+      "value": 3.032,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F20:1CN9": {
+      "value": 0.02,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F22:1CN9": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FAPU": {
+      "value": 1.415,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "FAPUN3": {
+      "value": 0.126,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:3CN3": {
+      "value": 0.046,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F18:4CN3": {
+      "value": 0.011,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F20:5CN3": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F22:5CN3": {
+      "value": 0.0098,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F22:6CN3": {
+      "value": 0.059,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FAPUN6": {
+      "value": 1.28,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "F18:2CN6": {
+      "value": 1.138,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F18:2C9T11": {
+      "value": 0.009,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F18:3CN6": {
+      "value": 0.006,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F20:2CN6": {
+      "value": 0,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F20:3CN6": {
+      "value": 0.009,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "F20:4CN6": {
+      "value": 0.127,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "FAX": {
+      "value": 0.192,
+      "data_origin": "Literatur",
+      "reference": "Converted value from: Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "CHORL": {
+      "value": 350,
+      "data_origin": "Literatur",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "AAE9": {
+      "value": 6.018,
+      "data_origin": "Formelberechnung",
+      "reference": "-"
+    },
+    "ALA": {
+      "value": 0.792,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "ARG": {
+      "value": 0.774,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "ASP": {
+      "value": 1.335,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "CYSTE": {
+      "value": 0.316,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "GLU": {
+      "value": 1.675,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "GLY": {
+      "value": 0.47,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "HIS": {
+      "value": 0.3,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "ILE": {
+      "value": 0.774,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "LEU": {
+      "value": 1.128,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "LYS": {
+      "value": 0.847,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "MET": {
+      "value": 0.436,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "PHE": {
+      "value": 0.758,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "PRO": {
+      "value": 0.548,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "SER": {
+      "value": 0.968,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "THR": {
+      "value": 0.619,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "TRP": {
+      "value": 0.202,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "TYR": {
+      "value": 0.53,
+      "data_origin": "Aggregation",
+      "reference": "Health, D. o; Nutrient analysis of eggs; 2013#Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7"
+    },
+    "VAL": {
+      "value": 0.954,
+      "data_origin": "Aggregation",
+      "reference": "Kirchhoff, E; Souci - Fachmann - Kraut - Die Zusammensetzung der Lebensmittel - Nährwert-Tabellen; 2008; 7#Health, D. o; Nutrient analysis of eggs; 2013"
+    },
+    "NT": {
+      "value": 1.896,
+      "data_origin": "Analyse",
+      "reference": "-"
+    }
+  }
+}
