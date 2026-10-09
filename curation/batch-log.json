@@ -1510,6 +1510,80 @@
       "model": "GPT-6 Luna",
       "reasoning_effort": "medium",
       "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 111,
+      "code_start": "X437143",
+      "code_end": "X452013",
+      "count": 50,
+      "category_counts": {
+        "prepared_dishes": 5,
+        "soups_stews": 44,
+        "vegetables": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 112,
+      "code_start": "X452153",
+      "code_end": "X464433",
+      "count": 50,
+      "category_counts": {
+        "soups_stews": 49,
+        "prepared_dishes": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 113,
+      "code_start": "X464643",
+      "code_end": "X490263",
+      "count": 50,
+      "category_counts": {
+        "soups_stews": 49,
+        "sauces_condiments": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 114,
+      "code_start": "X491163",
+      "code_end": "X4B1010",
+      "count": 50,
+      "category_counts": {
+        "soups_stews": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 115,
+      "code_start": "X4B2000",
+      "code_end": "X532043",
+      "count": 50,
+      "category_counts": {
+        "soups_stews": 3,
+        "pasta_dough": 1,
+        "prepared_dishes": 8,
+        "bread_baked_goods": 2,
+        "legumes_soy": 1,
+        "vegetables": 35
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
     }
   ]
 }
