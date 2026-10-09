@@ -76,14 +76,14 @@ python tools/package_catalog_release.py --version 4.0.0 --catalog-version 4.0 --
 
 This creates a compressed database, manifest, and attribution notice under `dist/release/`. It does not publish the files. See [release distribution](docs/release-distribution.md) for the client contract and release policy.
 
-To build and publish the stable release in one command, authenticate the GitHub CLI with permission to publish releases in `rfivesix/train-libre`, then run:
+To build and publish the stable release in one command, make this catalog repository public, authenticate the GitHub CLI with permission to publish releases here, then run:
 
 ```sh
 gh auth login
 python tools/publish_catalog_release.py --version 4.0.0 --catalog-version 4.0
 ```
 
-Use `--dry-run` to build and validate the package while checking the target release without uploading. The command keeps this working repository private; it publishes only the database, manifest, and attribution notice to the public app repository. The app client must support gzip releases before it can consume these assets.
+Use `--dry-run` to build and validate the package while checking the target release without uploading. The command publishes the database, manifest, and attribution notice as a release of this catalog repository. It does not change repository visibility, commit, or push source files. The app client must support gzip releases before it can consume these assets.
 
 The app asset is cloned from the current base-food database before catalog rows are replaced, preserving the exact legacy table definitions, columns, constraints, and indexes. New nutrient, provenance, alias, and legacy mapping tables are additive. The build report is written to `reports/app-build-4.0.json`. See [the integration contract](docs/train-libre-integration.md).
 

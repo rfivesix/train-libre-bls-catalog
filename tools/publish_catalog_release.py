@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build, package, and publish a BLS food-catalog release to Train Libre."""
+"""Build, package, and publish a BLS food-catalog release to this repository."""
 
 from __future__ import annotations
 
@@ -11,7 +11,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-APP_REPOSITORY = "rfivesix/train-libre"
+CATALOG_REPOSITORY = "rfivesix/train-libre-bls-catalog"
 DEFAULT_TAG = "bls-foods-stable"
 
 
@@ -85,7 +85,8 @@ def repository_details(repository: str) -> tuple[str, str]:
     fields = result.stdout.strip().split("\t")
     if len(fields) != 2 or fields[0] != "PUBLIC" or not fields[1]:
         raise PublishError(
-            f"Release target must be a public GitHub repository with a default branch: {repository}"
+            f"Release target {repository} must be public and have a default branch. "
+            "Make the catalog repository public, then rerun the command."
         )
     return fields[0], fields[1]
 
@@ -216,7 +217,7 @@ def main() -> int:
     parser.add_argument("--version", required=True, help="Release version, e.g. 4.0.0")
     parser.add_argument("--catalog-version", default="4.0")
     parser.add_argument("--channel", choices=("stable", "beta"), default="stable")
-    parser.add_argument("--repository", default=APP_REPOSITORY)
+    parser.add_argument("--repository", default=CATALOG_REPOSITORY)
     parser.add_argument("--tag", default=DEFAULT_TAG)
     parser.add_argument("--dry-run", action="store_true", help="Build and validate without publishing")
     args = parser.parse_args()
