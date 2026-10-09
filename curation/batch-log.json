@@ -454,6 +454,87 @@
       "unresolved_count": 0,
       "model": "GPT-6 Luna",
       "reasoning_effort": "medium"
+    },
+    {
+      "batch": 36,
+      "code_start": "G760232",
+      "code_end": "G993132",
+      "count": 50,
+      "category_counts": {
+        "legumes_soy": 17,
+        "prepared_dishes": 3,
+        "sauces_condiments": 4,
+        "soups_stews": 2,
+        "vegetables": 24
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 37,
+      "code_start": "G993142",
+      "code_end": "H190100",
+      "count": 50,
+      "category_counts": {
+        "beverages": 1,
+        "legumes_soy": 3,
+        "nuts_seeds": 22,
+        "pasta_dough": 2,
+        "prepared_dishes": 18,
+        "vegetables": 4
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 38,
+      "code_start": "H190600",
+      "code_end": "H710400",
+      "count": 50,
+      "category_counts": {
+        "legumes_soy": 9,
+        "nuts_seeds": 32,
+        "vegetables": 9
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 39,
+      "code_start": "H720400",
+      "code_end": "H880100",
+      "count": 50,
+      "category_counts": {
+        "beverages": 9,
+        "dairy": 4,
+        "legumes_soy": 31,
+        "prepared_dishes": 2,
+        "sauces_condiments": 2,
+        "snacks_sweets": 2
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 40,
+      "code_start": "H880200",
+      "code_end": "K280100",
+      "count": 50,
+      "category_counts": {
+        "legumes_soy": 4,
+        "nuts_seeds": 1,
+        "pasta_dough": 7,
+        "potatoes_starches": 28,
+        "prepared_dishes": 9,
+        "snacks_sweets": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
     }
   ]
 }
