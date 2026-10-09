@@ -1674,6 +1674,87 @@
         "X656362",
         "X678212"
       ]
+    },
+    {
+      "batch": 121,
+      "code_start": "X693412",
+      "code_end": "X740433",
+      "count": 50,
+      "category_counts": {
+        "prepared_dishes": 30,
+        "legumes_soy": 1,
+        "vegetables": 2,
+        "potatoes_starches": 7,
+        "snacks_sweets": 2,
+        "pasta_dough": 8
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 122,
+      "code_start": "X740612",
+      "code_end": "X820162",
+      "count": 50,
+      "category_counts": {
+        "pasta_dough": 36,
+        "grains_cereals": 14
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 123,
+      "code_start": "X820252",
+      "code_end": "X912133",
+      "count": 50,
+      "category_counts": {
+        "prepared_dishes": 46,
+        "bread_baked_goods": 4
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 124,
+      "code_start": "X912233",
+      "code_end": "X987212",
+      "count": 50,
+      "category_counts": {
+        "prepared_dishes": 37,
+        "bread_baked_goods": 6,
+        "beverages": 2,
+        "grains_cereals": 4,
+        "snacks_sweets": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "X985212"
+      ]
+    },
+    {
+      "batch": 125,
+      "code_start": "X987312",
+      "code_end": "X9A6020",
+      "count": 50,
+      "category_counts": {
+        "bread_baked_goods": 7,
+        "grains_cereals": 21,
+        "prepared_dishes": 19,
+        "pasta_dough": 3
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
     }
   ]
 }
