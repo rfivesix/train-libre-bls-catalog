@@ -1240,6 +1240,76 @@
         "W008000",
         "W009000"
       ]
+    },
+    {
+      "batch": 96,
+      "code_start": "W147000",
+      "code_end": "W214000",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 97,
+      "code_start": "W215000",
+      "code_end": "W237000",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 98,
+      "code_start": "W237032",
+      "code_end": "W273500",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 99,
+      "code_start": "W273600",
+      "code_end": "W343000",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "W273600",
+        "W278200",
+        "W278600",
+        "W281000"
+      ]
+    },
+    {
+      "batch": 100,
+      "code_start": "W343400",
+      "code_end": "W415072",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
     }
   ]
 }
