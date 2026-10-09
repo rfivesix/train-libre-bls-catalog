@@ -36,6 +36,19 @@ python3 tools/package_catalog_release.py \
 
 The command refuses preview builds, checksum mismatches, invalid SQLite files, count mismatches, or pending legacy mappings. It writes the package to `dist/release/`. It does not publish, tag, or change repository visibility.
 
+## Publish to the public app repository
+
+The working catalog repository remains private. Publish only the release package to the public `rfivesix/train-libre` repository. The publishing command uses the local GitHub CLI session, so no token needs to be stored in this repository:
+
+```sh
+gh auth login
+python3 tools/publish_catalog_release.py --version 4.0.0 --catalog-version 4.0
+```
+
+The command validates the strict source and app build, packages the database, confirms the target repository is public, then creates or updates the `bls-foods-stable` GitHub Release. When updating, it uploads the database and attribution notice before replacing the manifest, so clients using the previous manifest reject a mismatched database and retain their installed catalog. The command refuses draft or immutable releases. `--dry-run` performs the build and checks the target without publishing.
+
+The command publishes publicly. Run it only for a reviewed release version. It does not make this working repository public and does not commit or push its source files.
+
 ## Client requirements
 
 The release package alone is not a client integration. The app updater must support gzip extraction, compare the downloaded and decompressed checksums separately, enforce `min_app_schema_version`, verify the product and nutrient counts, and install atomically. The app must not seed or retain the old bundled base-food catalog. Catalog update failure must preserve the last valid downloaded catalog; a clean install with no catalog must clearly gate base-food features until the BLS download succeeds.
