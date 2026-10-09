@@ -664,6 +664,78 @@
       "unresolved_count": 0,
       "model": "GPT-6 Luna",
       "reasoning_effort": "medium"
+    },
+    {
+      "batch": 51,
+      "code_start": "N630600",
+      "code_end": "P231000",
+      "count": 50,
+      "category_counts": {
+        "alcoholic_beverages": 31,
+        "beverages": 19
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 52,
+      "code_start": "P232000",
+      "code_end": "P640000",
+      "count": 50,
+      "category_counts": {
+        "alcoholic_beverages": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 53,
+      "code_start": "P712000",
+      "code_end": "Q330000",
+      "count": 50,
+      "category_counts": {
+        "alcoholic_beverages": 33,
+        "fats_oils": 17
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 54,
+      "code_start": "Q340000",
+      "code_end": "R111100",
+      "count": 50,
+      "category_counts": {
+        "dairy": 12,
+        "fats_oils": 31,
+        "herbs_spices": 2,
+        "sauces_condiments": 5
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 55,
+      "code_start": "R112000",
+      "code_end": "R810000",
+      "count": 50,
+      "category_counts": {
+        "bread_baked_goods": 8,
+        "dairy": 1,
+        "herbs_spices": 3,
+        "meat_poultry": 1,
+        "sauces_condiments": 28,
+        "snacks_sweets": 6,
+        "soups_stews": 1,
+        "vegetables": 2
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
     }
   ]
 }
