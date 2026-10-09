@@ -152,47 +152,10 @@
       "legacy_product_id_start": "base_food_chocolate_lava_cake",
       "legacy_product_id_end": "base_food_cold_brew_coffee_unsweetened",
       "reviewed_count": 25,
-      "mapped_count": 15,
-      "no_equivalent_count": 9,
-      "pending_count": 1,
-      "unresolved_count": 1,
-      "model": "GPT-6 Luna",
-      "reasoning_effort": "medium",
-      "german_authoritative_conflicts": [],
-      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
-    },
-    {
-      "batch": 9,
-      "legacy_product_id_start": "base_food_chocolate_lava_cake",
-      "legacy_product_id_end": "base_food_cold_brew_coffee_unsweetened",
-      "reviewed_count": 25,
       "mapped_count": 14,
       "no_equivalent_count": 10,
       "pending_count": 1,
       "unresolved_count": 1,
-      "model": "GPT-6 Luna",
-      "reasoning_effort": "medium",
-      "german_authoritative_conflicts": [
-        {
-          "bls_code": "D7A5300",
-          "decision": "Used German Zimtschnecken (yeast cinnamon roll) identity, despite English “Danish swirl”; mapped to the matching German-defined roll."
-        }
-      ],
-      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning.",
-      "review_adjustments": [
-        "base_food_chocolate_pudding targets generic Y8A4090 rather than a specific sweetened powder preparation.",
-        "base_food_cocktail_sauce left no_equivalent because the only cocktail match is a dressing, not a sauce."
-      ]
-    },
-    {
-      "batch": 10,
-      "legacy_product_id_start": "base_food_conch_cooked",
-      "legacy_product_id_end": "base_food_couscous_cooked",
-      "reviewed_count": 25,
-      "mapped_count": 14,
-      "no_equivalent_count": 8,
-      "pending_count": 3,
-      "unresolved_count": 3,
       "model": "GPT-6 Luna",
       "reasoning_effort": "medium",
       "german_authoritative_conflicts": [],
@@ -211,6 +174,160 @@
       "reasoning_effort": "medium",
       "german_authoritative_conflicts": [],
       "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 11,
+      "legacy_product_id_start": "base_food_couscous_with_vegetables_ready_meal",
+      "legacy_product_id_end": "base_food_curry_sauce",
+      "reviewed_count": 25,
+      "mapped_count": 12,
+      "no_equivalent_count": 13,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 12,
+      "legacy_product_id_start": "base_food_curry_turkey_salad",
+      "legacy_product_id_end": "base_food_dried_dates",
+      "reviewed_count": 25,
+      "mapped_count": 15,
+      "no_equivalent_count": 6,
+      "pending_count": 4,
+      "unresolved_count": 4,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [
+        {
+          "bls_code": "T020100",
+          "decision": "German says only Tintenfisch while English says Common cuttlefish; German was followed, leaving the Sepia-specific raw mapping pending."
+        },
+        {
+          "bls_code": "T020132",
+          "decision": "German says only Tintenfisch while English says Common cuttlefish; German was followed, leaving the Sepia-specific cooked mapping pending."
+        }
+      ],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 13,
+      "legacy_product_id_start": "base_food_dried_figs",
+      "legacy_product_id_end": "base_food_dry_roasted_cashews_unsalted",
+      "reviewed_count": 25,
+      "mapped_count": 15,
+      "no_equivalent_count": 9,
+      "pending_count": 1,
+      "unresolved_count": 1,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 14,
+      "legacy_product_id_start": "base_food_dry_roasted_peanuts_unsalted",
+      "legacy_product_id_end": "base_food_energy_drink",
+      "reviewed_count": 25,
+      "mapped_count": 11,
+      "no_equivalent_count": 13,
+      "pending_count": 1,
+      "unresolved_count": 1,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 15,
+      "legacy_product_id_start": "base_food_enoki_mushroom_raw",
+      "legacy_product_id_end": "base_food_fruit_chews",
+      "reviewed_count": 25,
+      "mapped_count": 11,
+      "no_equivalent_count": 13,
+      "pending_count": 1,
+      "unresolved_count": 1,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [
+        {
+          "bls_code": "X654042",
+          "decision": "German name is Pommes frites; conflicting English name says Potato chips. German-authoritative identity is French fries, so the exact legacy French-fries entries map to this code."
+        }
+      ],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 16,
+      "legacy_product_id_start": "base_food_fruit_custard",
+      "legacy_product_id_end": "base_food_grape_jelly",
+      "reviewed_count": 25,
+      "mapped_count": 9,
+      "no_equivalent_count": 9,
+      "pending_count": 7,
+      "unresolved_count": 7,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 17,
+      "legacy_product_id_start": "base_food_grape_juice",
+      "legacy_product_id_end": "base_food_hazelnut",
+      "reviewed_count": 25,
+      "mapped_count": 18,
+      "no_equivalent_count": 7,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 18,
+      "legacy_product_id_start": "base_food_hazelnut_ice_cream",
+      "legacy_product_id_end": "base_food_kalamata_olives_in_brine",
+      "reviewed_count": 25,
+      "mapped_count": 8,
+      "no_equivalent_count": 17,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 19,
+      "legacy_product_id_start": "base_food_kale",
+      "legacy_product_id_end": "base_food_lemon_posset",
+      "reviewed_count": 25,
+      "mapped_count": 10,
+      "no_equivalent_count": 13,
+      "pending_count": 2,
+      "unresolved_count": 2,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 20,
+      "legacy_product_id_start": "base_food_lemon_sorbet",
+      "legacy_product_id_end": "base_food_mango_sorbet",
+      "reviewed_count": 25,
+      "mapped_count": 10,
+      "no_equivalent_count": 14,
+      "pending_count": 1,
+      "unresolved_count": 1,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
     }
   ],
   "duplicate_target_reviews": [
@@ -220,7 +337,7 @@
         "base_food_bulgur_cooked",
         "base_food_cooked_bulgur"
       ],
-      "assessment": "Legitimate duplicate mapping: legacy IDs refer to the same food identity."
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to cooked bulgur."
     },
     {
       "target_bls_code": "C119232",
@@ -228,7 +345,15 @@
         "base_food_cooked_couscous",
         "base_food_couscous_cooked"
       ],
-      "assessment": "Legitimate duplicate mapping: legacy IDs refer to the same food identity."
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to cooked couscous."
+    },
+    {
+      "target_bls_code": "D771600",
+      "legacy_product_ids": [
+        "base_food_butter_croissant",
+        "base_food_croissant"
+      ],
+      "assessment": "Legitimate duplicate mapping: BLS croissant record covers these legacy croissant variants and has no separate butter distinction."
     },
     {
       "target_bls_code": "F503100",
@@ -236,7 +361,7 @@
         "2980922012010",
         "base_food_banana"
       ],
-      "assessment": "Legitimate duplicate mapping: legacy IDs refer to the same food identity."
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to banana."
     },
     {
       "target_bls_code": "G770432",
@@ -244,7 +369,23 @@
         "base_food_chickpeas_cooked",
         "base_food_cooked_chickpeas"
       ],
-      "assessment": "Legitimate duplicate mapping: legacy IDs refer to the same food identity."
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to cooked chickpeas."
+    },
+    {
+      "target_bls_code": "H480100",
+      "legacy_product_ids": [
+        "base_food_chia_seed",
+        "base_food_dried_chia_seeds"
+      ],
+      "assessment": "Legitimate duplicate mapping: chia seeds are dried seeds; the BLS entry represents the same seed product."
+    },
+    {
+      "target_bls_code": "H730132",
+      "legacy_product_ids": [
+        "base_food_cooked_lentils",
+        "base_food_lentils_cooked"
+      ],
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to cooked lentils."
     },
     {
       "target_bls_code": "N410100",
@@ -252,7 +393,15 @@
         "base_food_black_coffee_unsweetened",
         "base_food_coffee_black"
       ],
-      "assessment": "Legitimate duplicate mapping: legacy IDs refer to the same food identity."
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to plain black coffee infusion."
+    },
+    {
+      "target_bls_code": "S361000",
+      "legacy_product_ids": [
+        "base_food_fruit_gummies",
+        "base_food_gummy_bears"
+      ],
+      "assessment": "Legitimate duplicate mapping: BLS generic fruit gummy entry represents both fruit gummies and gummy bears."
     },
     {
       "target_bls_code": "T204100",
@@ -260,13 +409,29 @@
         "base_food_atlantic_cod_raw",
         "base_food_cod_raw"
       ],
-      "assessment": "Legitimate duplicate mapping: legacy IDs refer to the same food identity."
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to raw cod; Atlantic cod is the BLS species represented."
+    },
+    {
+      "target_bls_code": "W327000",
+      "legacy_product_ids": [
+        "base_food_liver_sausage",
+        "base_food_liverwurst"
+      ],
+      "assessment": "Legitimate many-to-one: German and English source names are synonymous aliases for simple liver sausage."
+    },
+    {
+      "target_bls_code": "X654042",
+      "legacy_product_ids": [
+        "base_food_french_fries",
+        "base_food_french_fries_1"
+      ],
+      "assessment": "Legitimate duplicate mapping: both legacy IDs are identical French-fries products."
     }
   ],
-  "checkpoint_reviewed_count": 250,
+  "checkpoint_reviewed_count": 500,
   "checkpoint_outcomes": {
-    "mapped": 125,
-    "no_equivalent": 106,
-    "pending": 19
+    "mapped": 242,
+    "no_equivalent": 222,
+    "pending": 36
   }
 }
