@@ -22,6 +22,8 @@ A reproducible, lossless conversion of the German Bundeslebensmittelschlüssel (
 | `curation/migrations/legacy-base-foods.json` | Reviewable mapping from every legacy base-food ID to a BLS ID or an explicit no-equivalent result. |
 | `schemas/` | Machine-readable contracts for source records and curation overlays. |
 | `tools/catalog.py` | Import, losslessness validation, source database build, and app asset build. |
+| `tools/package_catalog_release.py` | Validate and gzip-package the strict app database with a release manifest and attribution notice. |
+| `docs/release-distribution.md` | Release artifact contract, client requirements, and packaging procedure. |
 | `reports/` | Human-readable validation and build reports. |
 | `dist/` | Local generated SQLite artifacts; outputs are reproducible and ignored by Git. |
 
@@ -64,6 +66,14 @@ python tools/catalog.py build-app --version 4.0
 ```
 
 This writes `dist/train_libre_base_foods.db`. It is blocked if required translations or category assignments are missing. `--preview` builds an explicitly incomplete local artifact for inspection; it must not be used for a release.
+
+Package a strict build for versioned remote distribution with:
+
+```sh
+python tools/package_catalog_release.py --version 4.0.0 --catalog-version 4.0 --channel stable
+```
+
+This creates a compressed database, manifest, and attribution notice under `dist/release/`. It does not publish the files. See [release distribution](docs/release-distribution.md) for the client contract and release policy.
 
 The app asset is cloned from the current base-food database before catalog rows are replaced, preserving the exact legacy table definitions, columns, constraints, and indexes. New nutrient, provenance, alias, and legacy mapping tables are additive. The build report is written to `reports/app-build-4.0.json`. See [the integration contract](docs/train-libre-integration.md).
 

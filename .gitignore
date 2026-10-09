@@ -11,6 +11,7 @@ __pycache__/
 dist/*.db
 dist/*.sqlite
 dist/*.sqlite3
+dist/release/
 reports/source-validation-*.json
 reports/app-build-*.json
 reports/generated-*

@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/rfivesix/train-libre-bls-catalog/blob/main/schemas/release-manifest.schema.json",
+  "title": "Train Libre food catalog release manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source_id",
+    "channel",
+    "version",
+    "catalog_id",
+    "catalog_version",
+    "schema_version",
+    "min_app_schema_version",
+    "generated_at",
+    "db_file",
+    "db_compression",
+    "db_sha256",
+    "download_sha256",
+    "db_size_bytes",
+    "download_size_bytes",
+    "expected_food_count",
+    "food_nutrient_fact_count",
+    "legacy_mapping_count",
+    "license",
+    "source",
+    "modifications"
+  ],
+  "properties": {
+    "source_id": { "const": "bls_food_catalog" },
+    "channel": { "enum": ["stable", "beta"] },
+    "version": { "type": "string", "minLength": 1 },
+    "catalog_id": { "const": "bls" },
+    "catalog_version": { "type": "string", "minLength": 1 },
+    "schema_version": { "type": "integer", "minimum": 1 },
+    "min_app_schema_version": { "type": "integer", "minimum": 1 },
+    "generated_at": { "type": "string", "format": "date-time" },
+    "db_file": { "type": "string", "pattern": "^[A-Za-z0-9._-]+\\.db\\.gz$" },
+    "db_compression": { "const": "gzip" },
+    "db_sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "download_sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "db_size_bytes": { "type": "integer", "minimum": 1 },
+    "download_size_bytes": { "type": "integer", "minimum": 1 },
+    "expected_food_count": { "type": "integer", "minimum": 1 },
+    "food_nutrient_fact_count": { "type": "integer", "minimum": 0 },
+    "legacy_mapping_count": { "type": "integer", "minimum": 0 },
+    "license": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "url", "notice_file"],
+      "properties": {
+        "id": { "const": "CC-BY-4.0" },
+        "url": { "const": "https://creativecommons.org/licenses/by/4.0/" },
+        "notice_file": { "const": "THIRD_PARTY_NOTICES.md" }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["publisher", "title", "doi"],
+      "properties": {
+        "publisher": { "const": "Max Rubner-Institut" },
+        "title": { "type": "string", "minLength": 1 },
+        "doi": { "const": "10.25826/Data20251217-134202-0" }
+      }
+    },
+    "modifications": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "minItems": 1
+    }
+  }
+}

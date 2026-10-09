@@ -1,0 +1,47 @@
+# Food catalog release distribution
+
+## Delivery model
+
+Do not bundle the full BLS SQLite catalog in the Train Libre app. Publish a gzip-compressed SQLite snapshot as a versioned release asset. The current strict build is about 82 MiB; the compressed payload is about 26 MiB. The app downloads and verifies the compressed bytes, decompresses to a temporary SQLite file, verifies the uncompressed database, and imports it only after all checks pass.
+
+The former bundled base-food catalog is not a fallback. A fresh installation must obtain the BLS catalog before enabling base-food-dependent features. Previously logged diary entries remain local historical snapshots and are not replaced by catalog updates.
+
+## Release contents
+
+Each release contains these files:
+
+- `train_libre_base_foods.db.gz`: deterministic gzip of the strict app database.
+- `catalog_manifest.json`: content version, channel, schema compatibility, checksums, byte sizes, record counts, source attribution, license, and modification statement.
+- `THIRD_PARTY_NOTICES.md`: required attribution and license notice.
+
+The manifest distinguishes `download_sha256` (compressed bytes) from `db_sha256` (decompressed SQLite bytes). A client must verify both. Do not overwrite an immutable release asset; publish a new version and update the stable channel pointer instead.
+
+## Build a release package
+
+Build and validate the strict SQLite catalog first:
+
+```sh
+python3 tools/catalog.py validate-source --version 4.0
+python3 tools/catalog.py build-app --version 4.0 --force
+```
+
+Then package it with a unique release version:
+
+```sh
+python3 tools/package_catalog_release.py \
+  --version 4.0.0 \
+  --catalog-version 4.0 \
+  --channel stable
+```
+
+The command refuses preview builds, checksum mismatches, invalid SQLite files, count mismatches, or pending legacy mappings. It writes the package to `dist/release/`. It does not publish, tag, or change repository visibility.
+
+## Client requirements
+
+The release package alone is not a client integration. The app updater must support gzip extraction, compare the downloaded and decompressed checksums separately, enforce `min_app_schema_version`, verify the product and nutrient counts, and install atomically. The app must not seed or retain the old bundled base-food catalog. Catalog update failure must preserve the last valid downloaded catalog; a clean install with no catalog must clearly gate base-food features until the BLS download succeeds.
+
+The manifest uses the release-version and schema fields already used by the OpenExerciseDB channel, with food-specific count fields and explicit gzip checksums. The food client must use its own `source_id` and stable channel configuration.
+
+## Public distribution and repository visibility
+
+This repository currently contains the BLS source files, the legacy Train Libre database snapshot, and curation/build tooling. The BLS-derived data can be distributed under the attribution terms recorded in `THIRD_PARTY_NOTICES.md`. Repository publication is a separate decision: review the rights and intended license of the legacy snapshot and repository tooling before making the whole repository public. A public release may expose only the packaged database, manifest, and notice; it does not require publishing this working repository.
