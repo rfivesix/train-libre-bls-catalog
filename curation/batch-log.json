@@ -60,6 +60,74 @@
       "unresolved_count": 0,
       "model": "GPT-6 Luna",
       "reasoning_effort": "medium"
+    },
+    {
+      "batch": 6,
+      "code_start": "C222000",
+      "code_end": "C341000",
+      "count": 50,
+      "category_counts": {
+        "grains_cereals": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 7,
+      "code_start": "C341032",
+      "code_end": "C492082",
+      "count": 50,
+      "category_counts": {
+        "bread_baked_goods": 2,
+        "grains_cereals": 46,
+        "potatoes_starches": 2
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 8,
+      "code_start": "C512000",
+      "code_end": "C538000",
+      "count": 50,
+      "category_counts": {
+        "grains_cereals": 41,
+        "snacks_sweets": 9
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 9,
+      "code_start": "C539100",
+      "code_end": "D0A3000",
+      "count": 50,
+      "category_counts": {
+        "beverages": 6,
+        "bread_baked_goods": 29,
+        "grains_cereals": 6,
+        "pasta_dough": 2,
+        "prepared_dishes": 3,
+        "snacks_sweets": 4
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 10,
+      "code_start": "D0A3100",
+      "code_end": "D305000",
+      "count": 50,
+      "category_counts": {
+        "bread_baked_goods": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
     }
   ]
 }
