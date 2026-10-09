@@ -40,10 +40,12 @@ def run(command: list[str], *, capture: bool = False) -> subprocess.CompletedPro
 
 def prepare(version: str, catalog_version: str, channel: str) -> Path:
     python = sys.executable
+    print(f"Validating BLS {catalog_version} source data...", flush=True)
     run(
         [python, "tools/catalog.py", "validate-source", "--version", catalog_version],
         capture=True,
     )
+    print("Building strict Train Libre food catalog...", flush=True)
     run([
         python,
         "tools/catalog.py",
@@ -52,6 +54,7 @@ def prepare(version: str, catalog_version: str, channel: str) -> Path:
         catalog_version,
         "--force",
     ])
+    print("Packaging compressed release and manifest...", flush=True)
     run([
         python,
         "tools/package_catalog_release.py",
@@ -152,6 +155,7 @@ def publish(
         return
 
     if release is None:
+        print(f"Creating and publishing {repository} release {tag}...", flush=True)
         run(
             [
                 "gh",
@@ -174,6 +178,7 @@ def publish(
         print(f"Created public release: https://github.com/{repository}/releases/tag/{tag}")
         return
 
+    print(f"Updating and publishing {repository} release {tag}...", flush=True)
     # Publish the manifest last. Until it is replaced, clients will reject the
     # new database by checksum and retain their current valid catalog.
     for key in ("database", "notice", "manifest"):
@@ -217,7 +222,8 @@ def main() -> int:
     args = parser.parse_args()
 
     try:
-        run(["gh", "auth", "status"])
+        print("Checking GitHub CLI authentication...", flush=True)
+        run(["gh", "auth", "status"], capture=True)
         output_dir = prepare(args.version, args.catalog_version, args.channel)
         publish(
             output_dir=output_dir,
