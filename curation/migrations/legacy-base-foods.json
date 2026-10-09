@@ -199,9 +199,9 @@
       "legacy_name_en": "Apple Cake",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS apple cake entries specify dough styles; the legacy name does not identify which style applies."
+      "target_bls_code": "D131200",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Apfelkuchen (Rührmasse) (D131200). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_apple_cinnamon_oat_smoothie",
@@ -474,9 +474,9 @@
       "legacy_name_en": "Baked Cheesecake",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes cheesecake dough types; legacy name does not identify the type."
+      "target_bls_code": "D480200",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Käsekuchen/Quarkkuchen (Mürbeteig) (D480200). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_baked_potato",
@@ -937,9 +937,9 @@
       "legacy_name_en": "Bell Pepper",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes raw sweet pepper by color; legacy entry does not specify color."
+      "target_bls_code": "G543100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Gemüsepaprika rot, roh (G543100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_berries_mixed",
@@ -967,9 +967,9 @@
       "legacy_name_en": "Bircher Muesli Dry Mix",
       "legacy_category_id": "muesli_flakes",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "Bircher-style BLS mix includes dried fruit and nuts; dry-mix recipe details are not specified."
+      "target_bls_code": "C512600",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Müslimischung Bircher Art (mit Trockenfrüchten und Nüssen) ungesüßt (C512600). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_bitter_lemon",
@@ -1067,9 +1067,9 @@
       "legacy_name_en": "Blue cheese",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS blue-cheese records specify fat-in-dry-matter levels or named varieties; legacy entry gives neither."
+      "target_bls_code": "M502700",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Edelpilzkäse mind. 50 % Fett i. Tr. (M502700). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_blue_crab_cooked",
@@ -1144,9 +1144,9 @@
       "legacy_name_en": "Boiled Egg",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes boiled eggs by bird species; legacy entry does not specify the species."
+      "target_bls_code": "E111132",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Hühnerei gekocht (E111132). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_boiled_potatoes",
@@ -1154,9 +1154,9 @@
       "legacy_name_en": "Boiled potatoes",
       "legacy_category_id": "kartoffelgerichte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "Available BLS records specify potatoes boiled with peel or with salt; legacy entry specifies neither."
+      "target_bls_code": "K110132",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Kartoffel geschält, gekocht (K110132). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_bologna_sausage",
@@ -1251,9 +1251,9 @@
       "legacy_name_en": "Brie",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS Brie entries require a fat-in-dry-matter level; the legacy name does not specify one."
+      "target_bls_code": "M601700",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Brie mind. 50 % Fett i. Tr. (M601700). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_brined_black_olives",
@@ -1409,9 +1409,9 @@
       "legacy_name_en": "Camembert",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS Camembert entries require a fat-in-dry-matter level; the legacy name does not specify one."
+      "target_bls_code": "M602700",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Camembert mind. 50 % Fett i. Tr. (M602700). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_candied_almonds",
@@ -1744,9 +1744,9 @@
       "legacy_name_en": "Cheesecake",
       "legacy_category_id": "dessert",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS has cheesecake entries only for specific dough styles; legacy name does not specify which."
+      "target_bls_code": "D480200",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Käsekuchen/Quarkkuchen (Mürbeteig) (D480200). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_cherry",
@@ -1754,9 +1754,9 @@
       "legacy_name_en": "Cherry",
       "legacy_category_id": "obst",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes raw sweet and sour cherries; legacy name does not identify the type."
+      "target_bls_code": "F211100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Süßkirsche roh (F211100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_cherry_banana_smoothie",
@@ -1784,9 +1784,9 @@
       "legacy_name_en": "Cherry Juice",
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes sweet-cherry and sour-cherry juice; legacy name does not identify the type."
+      "target_bls_code": "F211600",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Süßkirschsaft (F211600). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_chestnut_cream",
@@ -1841,9 +1841,9 @@
       "legacy_name_en": "Chicken Breast (cooked)",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "Legacy combines boiled and fried chicken breast; BLS records these as distinct preparations."
+      "target_bls_code": "Y562032",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Hähnchenbrustfilet gebraten (Y562032). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_chicken_breast_raw",
@@ -2001,9 +2001,9 @@
       "legacy_name_en": "Chicken liver, cooked",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS chicken liver entry is fried; legacy says cooked without specifying whether boiled or fried."
+      "target_bls_code": "Y5A3000",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Hühnerleber gebraten (Y5A3000). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_chicken_liver_raw",
@@ -2543,9 +2543,9 @@
       "legacy_name_en": "Cola",
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes caffeinated and caffeine-free cola, while the legacy name specifies neither."
+      "target_bls_code": "N330000",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Colagetränk koffeinhaltig (N330000). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_cold_brew_coffee_unsweetened",
@@ -2573,9 +2573,9 @@
       "legacy_name_en": "Cooked Beef Steak",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS steak entries specify grilled or fried preparation; legacy only says cooked, so the method cannot be chosen safely."
+      "target_bls_code": "Y135432",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Rindersteak gegrillt (Y135432). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_cooked_black_beans",
@@ -2713,9 +2713,9 @@
       "legacy_name_en": "Cooked Whole Wheat Pasta",
       "legacy_category_id": "klassiker",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS wholemeal cooked pasta is split into egg and egg-free forms; the legacy name does not specify which."
+      "target_bls_code": "E500032",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Vollkornteigwaren eifrei, gekocht (E500032). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_cookies_and_cream_ice_cream",
@@ -2773,9 +2773,9 @@
       "legacy_name_en": "Cornflakes",
       "legacy_category_id": "muesli_flakes",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes unsweetened and sweetened cornflakes; the legacy name does not specify sweetening."
+      "target_bls_code": "C515400",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Cornflakes ungesüßt (C515400). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_cottage_cheese",
@@ -2783,9 +2783,9 @@
       "legacy_name_en": "Cottage cheese",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS cottage cheese entries differ by fat level; the legacy name does not specify one."
+      "target_bls_code": "M711100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Körniger Frischkäse < 10 % Fett i. Tr. (M711100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_cottage_pie_ready_meal",
@@ -3098,9 +3098,9 @@
       "legacy_name_en": "Cooked Cuttlefish",
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS German name for T020132 is only Tintenfisch and does not safely establish Sepia identity; the more specific English gloss is not authoritative."
+      "target_bls_code": "T020132",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Tintenfisch gekocht (T020132). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_cuttlefish_raw",
@@ -3108,9 +3108,9 @@
       "legacy_name_en": "Raw Cuttlefish",
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS German name for T020100 is only Tintenfisch and does not safely establish Sepia identity; the more specific English gloss is not authoritative."
+      "target_bls_code": "T020100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Tintenfisch roh (T020100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_dandelion_greens",
@@ -3195,9 +3195,9 @@
       "legacy_name_en": "Doner Kebab",
       "legacy_category_id": "fastfood",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes poultry from veal/beef döner; legacy name does not specify the meat."
+      "target_bls_code": "Y921062",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Döner Kebab, Fladenbrot gefüllt mit Grillfleisch (Kalb/Rind), Rohkost und Sauce (Y921062). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_doppelbock_beer",
@@ -3329,9 +3329,9 @@
       "legacy_name_en": "Dried Cranberries",
       "legacy_category_id": "trockenfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "The only dried cranberry record is explicitly sugared (F414400); legacy does not specify whether sugar was added."
+      "target_bls_code": "F414400",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Cranberries getrocknet, gezuckert (F414400). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_dried_dates",
@@ -3559,9 +3559,9 @@
       "legacy_name_en": "Dry-Cured Ham",
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes lean and fat-rimmed smoked raw-cured pork ham; legacy name does not specify fat level."
+      "target_bls_code": "U681700",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Schwein Rohschinken, mager, Rohpökelware, geräuchert (U681700). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_dry_red_wine",
@@ -3699,9 +3699,9 @@
       "legacy_name_en": "Duck meat and skin, roasted",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS cooked duck with skin is oven-roasted without fat; legacy does not specify fat or cooking method."
+      "target_bls_code": "V464162",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Ente Fleisch, mit Haut, gebraten ohne Fett (Ofen) (V464162). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_dungeness_crab_cooked",
@@ -4112,9 +4112,9 @@
       "legacy_name_en": "Fried potatoes with onions",
       "legacy_category_id": "kartoffelgerichte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS separates fried potatoes with onions made from raw potatoes and boiled potatoes; the legacy source does not specify which."
+      "target_bls_code": "X651043",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Bratkartoffeln aus Pellkartoffeln, mit Zwiebeln (X651043). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_frisee_lettuce",
@@ -4142,9 +4142,9 @@
       "legacy_name_en": "Fruit Custard",
       "legacy_category_id": "dessert",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS fruit cream entries specify gelatine or a particular pudding; the legacy name does not identify the preparation."
+      "target_bls_code": "Y872053",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Fruchtcreme roh gerührt (mit Gelatine) (Y872053). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_fruit_granola",
@@ -4182,9 +4182,9 @@
       "legacy_name_en": "Fruit Muesli",
       "legacy_category_id": "muesli_flakes",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS fruit muesli entries distinguish sweetened and unsweetened mixes; the legacy name does not specify which."
+      "target_bls_code": "C512300",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Müslimischung mit Trockenfrüchten, ungesüßt (C512300). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_fruit_tart",
@@ -4192,9 +4192,9 @@
       "legacy_name_en": "Fruit Tart",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS fruit tart-like entries specify crust and toppings; the legacy name does not identify a matching style."
+      "target_bls_code": "D490500",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Französische Apfeltarte (Blätterteig) (D490500). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_fruit_tea_unsweetened",
@@ -4242,9 +4242,9 @@
       "legacy_name_en": "Garlic Sausage",
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes raw and simple garlic sausage; the legacy name does not specify the sausage form."
+      "target_bls_code": "W172100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Knoblauchwurst einfach (W172100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_gelbwurst",
@@ -4317,9 +4317,9 @@
       "legacy_name_en": "Gingerbread",
       "legacy_category_id": "backwaren",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS gingerbread entries specify regional style, coating, or recipe; the legacy name does not identify one."
+      "target_bls_code": "D652400",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Nürnberger Lebkuchen (D652400). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_gnocchi_in_tomato_sauce_ready_meal",
@@ -4357,9 +4357,9 @@
       "legacy_name_en": "Goose meat, raw",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS separates raw goose meat with and without skin; the legacy name does not specify skin."
+      "target_bls_code": "V474100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Gans Fleisch, mit Haut, roh (V474100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_gooseberry_jam",
@@ -4377,9 +4377,9 @@
       "legacy_name_en": "Gouda",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS Gouda entries specify fat-in-dry-matter tiers; the legacy name gives no tier."
+      "target_bls_code": "M402500",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Gouda mind. 40 % Fett i. Tr. (M402500). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_grape",
@@ -5054,9 +5054,9 @@
       "legacy_name_en": "Lactose-free whole milk",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS separates lactose-free whole milk into pasteurized and UHT products; legacy name does not specify which."
+      "target_bls_code": "M114300",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Vollmilch 3,5 % Fett, laktosefrei, pasteurisiert (M114300). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_lager_beer",
@@ -5064,9 +5064,9 @@
       "legacy_name_en": "Lager Beer",
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes pale and dark lager; legacy name does not specify which."
+      "target_bls_code": "P161000",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Lagerbier hell (P161000). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_lamb_chop_raw",
@@ -5374,9 +5374,9 @@
       "legacy_name_en": "Cooked Lobster",
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS cooked lobster entry is specifically boiled; legacy preparation is unspecified."
+      "target_bls_code": "T730132",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Hummer gekocht (T730132). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_lobster_raw",
@@ -5799,9 +5799,9 @@
       "legacy_name_en": "Milk 1.5%",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS separates fresh pasteurized and UHT 1.5% milk; legacy name omits processing."
+      "target_bls_code": "M111200",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Milch fettarm, frisch, 1,5 % Fett, pasteurisiert (M111200). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_milk_3_5",
@@ -5809,9 +5809,9 @@
       "legacy_name_en": "Whole Milk 3.5%",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS separates fresh pasteurized and UHT 3.5% whole milk; legacy name omits processing."
+      "target_bls_code": "M111300",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Vollmilch frisch, 3,5 % Fett, pasteurisiert (M111300). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_milk_chocolate",
@@ -5998,9 +5998,9 @@
       "legacy_name_en": "Mozzarella",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes mozzarella by fat in dry matter; legacy gives no matching fat-in-dry-matter class."
+      "target_bls_code": "M0A1000",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Mozzarella mind. 20 % Fett i. Tr. (M0A1000). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_mozzarella_18",
@@ -6008,9 +6008,9 @@
       "legacy_name_en": "Mozzarella (18% Fat)",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "Legacy 18% fat cannot be safely equated to BLS mozzarella fat-in-dry-matter classes by names alone."
+      "target_bls_code": "M0A1000",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Mozzarella mind. 20 % Fett i. Tr. (M0A1000). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_mozzarella_sticks",
@@ -6827,9 +6827,9 @@
       "legacy_name_en": "Pheasant meat, raw",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS raw pheasant is specified with skin; legacy does not specify skin state."
+      "target_bls_code": "V311100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Fasan Fleisch, mit Haut, roh (V311100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_pheasant_meat_roasted",
@@ -6837,9 +6837,9 @@
       "legacy_name_en": "Pheasant meat, roasted",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS pheasant is specified with skin and oven-fried without fat; legacy only says roasted, so preparation and skin state do not safely align."
+      "target_bls_code": "V311162",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Fasan Fleisch, mit Haut, gebraten ohne Fett (Ofen) (V311162). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_pickled_artichoke_hearts",
@@ -7060,9 +7060,9 @@
       "legacy_name_en": "Plain kefir",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS kefir entries are split by fat level (0.5%, 1.5–1.8%, 3.5%); legacy gives no fat level."
+      "target_bls_code": "M130300",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Kefir mind. 3,5 % Fett (M130300). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_plain_low_fat_yogurt",
@@ -7187,9 +7187,9 @@
       "legacy_name_en": "Pork chop, raw",
       "legacy_category_id": "fleisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes raw pork loin chop cuts (Stielkotelett, cranial, caudal); the legacy name does not specify which."
+      "target_bls_code": "U622100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Schwein Kotelett (Rücken/cranial) roh (U622100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_pork_ground_raw",
@@ -7281,9 +7281,9 @@
       "legacy_name_en": "Pork shoulder, raw",
       "legacy_category_id": "fleisch",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS separates raw pork shoulder by fat and rind; the legacy name does not specify either."
+      "target_bls_code": "U664100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Schwein Dicker Bug (mit Fett und Schwarte) roh (U664100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_pork_tenderloin_raw",
@@ -7358,9 +7358,9 @@
       "legacy_name_en": "Potato",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS has separate peeled and unpeeled raw potato records; legacy does not specify skin."
+      "target_bls_code": "K110100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Kartoffel geschält, roh (K110100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_potato_bread",
@@ -7388,9 +7388,9 @@
       "legacy_name_en": "Potatoes (cooked)",
       "legacy_category_id": "kartoffelgerichte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS separates cooked peeled and unpeeled potatoes; legacy does not specify skin."
+      "target_bls_code": "K110132",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Kartoffel geschält, gekocht (K110132). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_potato_croquettes",
@@ -7426,9 +7426,9 @@
       "legacy_name_en": "Potato dumplings",
       "legacy_category_id": "kartoffelgerichte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes potato dumplings made from raw versus cooked potatoes; legacy does not specify the kind."
+      "target_bls_code": "X673042",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Kartoffelklöße von gekochten Kartoffeln (X673042). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_potato_gnocchi",
@@ -7436,9 +7436,9 @@
       "legacy_name_en": "Potato gnocchi",
       "legacy_category_id": "kartoffelgerichte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes raw and cooked gnocchi; legacy does not specify preparation state."
+      "target_bls_code": "K270032",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Gnocchi gekocht (K270032). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_potato_gratin",
@@ -7775,9 +7775,9 @@
       "legacy_name_en": "Quinoa (cooked)",
       "legacy_category_id": "nudeln_getreide",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes cooked white quinoa (C118032) and tricolour quinoa (C118122); the legacy name does not specify the variety."
+      "target_bls_code": "C118032",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Quinoa weiß, gekocht (C118032). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_quinoa_flakes",
@@ -8569,9 +8569,9 @@
       "legacy_name_en": "Semi-skimmed milk, 1.5% fat",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS splits 1.5% milk into fresh pasteurised and UHT products; the legacy entry does not specify processing."
+      "target_bls_code": "M111200",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Milch fettarm, frisch, 1,5 % Fett, pasteurisiert (M111200). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_semolina_pudding",
@@ -8579,9 +8579,9 @@
       "legacy_name_en": "Semolina Pudding",
       "legacy_category_id": "dessert",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS pudding records distinguish egg and cream preparations; the legacy entry does not specify its recipe."
+      "target_bls_code": "Y8A4050",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Grießflammeri/Grießpudding, ohne Ei (Y8A4050). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_serrano_ham",
@@ -8599,9 +8599,9 @@
       "legacy_name_en": "Sesame Seed Roll",
       "legacy_category_id": "brot_broetchen",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS sesame rolls are split by wheat, rye, or mixed grain; the legacy bread base is unspecified."
+      "target_bls_code": "B516300",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Weizenbrötchen mit Sesam (B516300). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_shiitake_mushroom_cooked",
@@ -8713,9 +8713,9 @@
       "legacy_name_en": "Skimmed milk",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS splits skimmed milk into fresh pasteurised and UHT products; the legacy entry does not specify processing."
+      "target_bls_code": "M111100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Milch entrahmt, frisch, höchstens 0,1 % Fett, pasteurisiert (M111100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_skyr_natural",
@@ -8733,9 +8733,9 @@
       "legacy_name_en": "Smoked Ham",
       "legacy_category_id": "wurst_aufschnitt",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS smoked ham records specify raw-cured pork and fat level; the legacy entry leaves these product details unspecified."
+      "target_bls_code": "U681700",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Schwein Rohschinken, mager, Rohpökelware, geräuchert (U681700). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_smoked_mettwurst",
@@ -8915,9 +8915,9 @@
       "legacy_name_en": "Spinach",
       "legacy_category_id": "gemuese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "Legacy name does not specify raw or cooked spinach; BLS separates these forms, so the intended form is unclear."
+      "target_bls_code": "G210132",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Spinat gekocht (G210132). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_spinach_banana_smoothie",
@@ -8965,9 +8965,9 @@
       "legacy_name_en": "Raw Squid",
       "legacy_category_id": "meeresfruechte",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "German BLS Tintenfisch roh (T020100) is translated as common cuttlefish; German does not resolve whether this legacy squid means cuttlefish or another squid species."
+      "target_bls_code": "T020100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Tintenfisch roh (T020100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_steamed_potatoes",
@@ -8995,9 +8995,9 @@
       "legacy_name_en": "Still Water",
       "legacy_category_id": "saefte_limos_wasser",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS has tap/drinking water and still natural mineral water, but the legacy name does not identify the source."
+      "target_bls_code": "N120000",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Natürliches Mineralwasser (N120000). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_stout_beer",
@@ -9647,9 +9647,9 @@
       "legacy_name_en": "Turkey Breast (raw)",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS raw turkey breast is specified without skin; the legacy entry does not specify skin status, so that distinction cannot be resolved safely."
+      "target_bls_code": "V486100",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Pute Brust, ohne Haut, roh (V486100). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_turkey_breast_skinless_raw",
@@ -9667,9 +9667,9 @@
       "legacy_name_en": "Turkey breast, skinless, roasted",
       "legacy_category_id": "gefluegel",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS distinguishes oven-fried and pan-fried skinless turkey breast; the legacy entry specifies roasting without a method."
+      "target_bls_code": "V486162",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Pute Brust, ohne Haut, gebraten ohne Fett (Ofen) (V486162). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_turkey_leg_meat_and_skin_roasted",
@@ -9805,9 +9805,9 @@
       "legacy_name_en": "Vanilla Pudding",
       "legacy_category_id": "dessert",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS lists several vanilla puddings with differing milk fat, egg, and preparation; the generic legacy item does not identify which one."
+      "target_bls_code": "Y861653",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Vanillepudding, Flammeri, zubereitet aus Pulver und Milch 3,5 % Fett (Y861653). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_vanilla_soft_serve_ice_cream",
@@ -9999,9 +9999,9 @@
       "legacy_name_en": "Wheat Beer",
       "legacy_category_id": "bier_wein",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "Weißbier does not specify filtered vs naturally cloudy; BLS separates these wheat-beer forms."
+      "target_bls_code": "P150000",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Weizenbier kristallklar (P150000). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_wheat_bran",
@@ -10256,9 +10256,9 @@
       "legacy_name_en": "Whole milk, 3.5% fat",
       "legacy_category_id": "milch_kaese",
       "suggested_matches": [],
-      "target_bls_code": null,
-      "status": "pending",
-      "review_note": "BLS separates fresh pasteurized and UHT milk; legacy name does not specify which form."
+      "target_bls_code": "M111300",
+      "status": "mapped",
+      "review_note": "Best-fit default selected because the legacy label omits BLS variant details; mapped to Vollmilch frisch, 3,5 % Fett, pasteurisiert (M111300). This is an approximate migration target, not a claim that the omitted detail is known."
     },
     {
       "legacy_product_id": "base_food_whole_wheat_bread",
