@@ -45,8 +45,8 @@
       "legacy_product_id_start": "base_food_batavia_lettuce",
       "legacy_product_id_end": "base_food_beetroot_and_apple_salad",
       "reviewed_count": 25,
-      "mapped_count": 13,
-      "no_equivalent_count": 12,
+      "mapped_count": 12,
+      "no_equivalent_count": 13,
       "pending_count": 0,
       "unresolved_count": 0,
       "model": "GPT-6 Luna",
@@ -194,8 +194,8 @@
       "legacy_product_id_start": "base_food_curry_turkey_salad",
       "legacy_product_id_end": "base_food_dried_dates",
       "reviewed_count": 25,
-      "mapped_count": 15,
-      "no_equivalent_count": 6,
+      "mapped_count": 14,
+      "no_equivalent_count": 7,
       "pending_count": 4,
       "unresolved_count": 4,
       "model": "GPT-6 Luna",
@@ -245,8 +245,8 @@
       "legacy_product_id_start": "base_food_enoki_mushroom_raw",
       "legacy_product_id_end": "base_food_fruit_chews",
       "reviewed_count": 25,
-      "mapped_count": 11,
-      "no_equivalent_count": 13,
+      "mapped_count": 10,
+      "no_equivalent_count": 14,
       "pending_count": 1,
       "unresolved_count": 1,
       "model": "GPT-6 Luna",
@@ -278,8 +278,8 @@
       "legacy_product_id_start": "base_food_grape_juice",
       "legacy_product_id_end": "base_food_hazelnut",
       "reviewed_count": 25,
-      "mapped_count": 18,
-      "no_equivalent_count": 7,
+      "mapped_count": 17,
+      "no_equivalent_count": 8,
       "pending_count": 0,
       "unresolved_count": 0,
       "model": "GPT-6 Luna",
@@ -328,6 +328,151 @@
       "reasoning_effort": "medium",
       "german_authoritative_conflicts": [],
       "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 21,
+      "legacy_product_id_start": "base_food_mango_yogurt_smoothie",
+      "legacy_product_id_end": "base_food_meatballs_with_pasta_ready_meal",
+      "reviewed_count": 25,
+      "mapped_count": 9,
+      "no_equivalent_count": 16,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 22,
+      "legacy_product_id_start": "base_food_melon_cucumber_mint_smoothie",
+      "legacy_product_id_end": "base_food_multigrain_roll",
+      "reviewed_count": 25,
+      "mapped_count": 9,
+      "no_equivalent_count": 12,
+      "pending_count": 4,
+      "unresolved_count": 4,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [
+        {
+          "bls_code": "B291000",
+          "decision": "German name specifies Mehrkornbrot mit Ölsamen (multigrain bread with oilseeds), while English omits the oilseeds. German-authoritative identity is narrower; the generic legacy multigrain bread remains no_equivalent."
+        }
+      ],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 23,
+      "legacy_product_id_start": "base_food_mushroom_button",
+      "legacy_product_id_end": "base_food_olive_oil",
+      "reviewed_count": 25,
+      "mapped_count": 12,
+      "no_equivalent_count": 13,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 24,
+      "legacy_product_id_start": "base_food_onion",
+      "legacy_product_id_end": "base_food_pastrami",
+      "reviewed_count": 25,
+      "mapped_count": 13,
+      "no_equivalent_count": 12,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 25,
+      "legacy_product_id_start": "base_food_patatas_bravas",
+      "legacy_product_id_end": "base_food_pineapple",
+      "reviewed_count": 25,
+      "mapped_count": 8,
+      "no_equivalent_count": 15,
+      "pending_count": 2,
+      "unresolved_count": 2,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 26,
+      "legacy_product_id_start": "base_food_pineapple_coconut_smoothie",
+      "legacy_product_id_end": "base_food_pork_belly_raw",
+      "reviewed_count": 25,
+      "mapped_count": 13,
+      "no_equivalent_count": 11,
+      "pending_count": 1,
+      "unresolved_count": 1,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 27,
+      "legacy_product_id_start": "base_food_pork_chop_raw",
+      "legacy_product_id_end": "base_food_potato_leek_soup",
+      "reviewed_count": 25,
+      "mapped_count": 8,
+      "no_equivalent_count": 11,
+      "pending_count": 6,
+      "unresolved_count": 6,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 28,
+      "legacy_product_id_start": "base_food_potato_nuggets",
+      "legacy_product_id_end": "base_food_quark_20_percent_fat_in_dry_matter",
+      "reviewed_count": 25,
+      "mapped_count": 14,
+      "no_equivalent_count": 11,
+      "pending_count": 0,
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 29,
+      "legacy_product_id_start": "base_food_quark_magnesium",
+      "legacy_product_id_end": "base_food_red_cabbage_salad",
+      "reviewed_count": 25,
+      "mapped_count": 15,
+      "no_equivalent_count": 9,
+      "pending_count": 1,
+      "unresolved_count": 1,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
+    },
+    {
+      "batch": 30,
+      "legacy_product_id_start": "base_food_red_leaf_lettuce",
+      "legacy_product_id_end": "base_food_rooibos_tea_unsweetened",
+      "reviewed_count": 25,
+      "mapped_count": 11,
+      "no_equivalent_count": 13,
+      "pending_count": 1,
+      "unresolved_count": 1,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_authoritative_conflicts": [],
+      "runtime_metadata_note": "Worker runtime did not expose model/effort; dispatch requested GPT-6 Luna with medium reasoning."
     }
   ],
   "duplicate_target_reviews": [
@@ -348,12 +493,52 @@
       "assessment": "Legitimate duplicate mapping: both legacy IDs refer to cooked couscous."
     },
     {
+      "target_bls_code": "C133000",
+      "legacy_product_ids": [
+        "base_food_oatmeal_dry",
+        "base_food_rolled_oats"
+      ],
+      "assessment": "Legitimate duplicate mapping: both remaining legacy IDs describe unqualified oat flakes; fine and coarse variants were marked no_equivalent."
+    },
+    {
+      "target_bls_code": "C351032",
+      "legacy_product_ids": [
+        "base_food_cooked_brown_rice",
+        "base_food_rice_brown_cooked"
+      ],
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to cooked brown rice."
+    },
+    {
+      "target_bls_code": "C352032",
+      "legacy_product_ids": [
+        "base_food_cooked_white_rice",
+        "base_food_rice_white_cooked"
+      ],
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to cooked white rice."
+    },
+    {
+      "target_bls_code": "C532000",
+      "legacy_product_ids": [
+        "base_food_crispy_rice_cereal",
+        "base_food_puffed_rice_cereal"
+      ],
+      "assessment": "Legitimate duplicate mapping: crispy rice cereal and puffed rice cereal refer to puffed rice."
+    },
+    {
+      "target_bls_code": "D720200",
+      "legacy_product_ids": [
+        "base_food_cream_puff",
+        "base_food_profiteroles_with_cream"
+      ],
+      "assessment": "Legitimate duplicate mapping: cream puff and profiteroles with cream are equivalent choux pastries."
+    },
+    {
       "target_bls_code": "D771600",
       "legacy_product_ids": [
         "base_food_butter_croissant",
         "base_food_croissant"
       ],
-      "assessment": "Legitimate duplicate mapping: BLS croissant record covers these legacy croissant variants and has no separate butter distinction."
+      "assessment": "Legitimate duplicate mapping: BLS croissant record covers the legacy croissant variants and has no separate butter distinction."
     },
     {
       "target_bls_code": "F503100",
@@ -372,12 +557,52 @@
       "assessment": "Legitimate duplicate mapping: both legacy IDs refer to cooked chickpeas."
     },
     {
+      "target_bls_code": "H130100",
+      "legacy_product_ids": [
+        "base_food_hazelnut",
+        "base_food_raw_hazelnuts"
+      ],
+      "assessment": "Legitimate duplicate mapping: BLS unqualified hazelnut entry represents plain raw hazelnut."
+    },
+    {
+      "target_bls_code": "H170100",
+      "legacy_product_ids": [
+        "base_food_cashew",
+        "base_food_raw_cashews"
+      ],
+      "assessment": "Legitimate duplicate mapping: BLS unqualified cashew entry represents plain raw cashew."
+    },
+    {
+      "target_bls_code": "H210100",
+      "legacy_product_ids": [
+        "base_food_almond",
+        "base_food_raw_almonds"
+      ],
+      "assessment": "Legitimate duplicate mapping: BLS sweet almond entry represents plain raw almond."
+    },
+    {
+      "target_bls_code": "H310100",
+      "legacy_product_ids": [
+        "base_food_dried_pumpkin_seed_kernels",
+        "base_food_pumpkin_seed"
+      ],
+      "assessment": "Legitimate duplicate mapping: unqualified pumpkin seed entry is the same seed identity; dried qualifier does not specify a different preparation."
+    },
+    {
       "target_bls_code": "H480100",
       "legacy_product_ids": [
         "base_food_chia_seed",
         "base_food_dried_chia_seeds"
       ],
-      "assessment": "Legitimate duplicate mapping: chia seeds are dried seeds; the BLS entry represents the same seed product."
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to chia seeds."
+    },
+    {
+      "target_bls_code": "H510802",
+      "legacy_product_ids": [
+        "base_food_brined_green_olives",
+        "base_food_olive"
+      ],
+      "assessment": "Legitimate duplicate mapping: both legacy IDs refer to preserved green olives drained from brine/pickling liquid."
     },
     {
       "target_bls_code": "H730132",
@@ -386,6 +611,14 @@
         "base_food_lentils_cooked"
       ],
       "assessment": "Legitimate duplicate mapping: both legacy IDs refer to cooked lentils."
+    },
+    {
+      "target_bls_code": "M713100",
+      "legacy_product_ids": [
+        "base_food_low_fat_quark",
+        "base_food_quark_magnesium"
+      ],
+      "assessment": "Legitimate duplicate mapping: both legacy names refer to Magerquark (low-fat quark)."
     },
     {
       "target_bls_code": "N410100",
@@ -401,7 +634,7 @@
         "base_food_fruit_gummies",
         "base_food_gummy_bears"
       ],
-      "assessment": "Legitimate duplicate mapping: BLS generic fruit gummy entry represents both fruit gummies and gummy bears."
+      "assessment": "Legitimate duplicate mapping: BLS generic fruit gummy entry represents fruit gummies and gummy bears."
     },
     {
       "target_bls_code": "T204100",
@@ -412,12 +645,29 @@
       "assessment": "Legitimate duplicate mapping: both legacy IDs refer to raw cod; Atlantic cod is the BLS species represented."
     },
     {
+      "target_bls_code": "U611100",
+      "legacy_product_ids": [
+        "base_food_pork_lion_raw",
+        "base_food_pork_loin_raw",
+        "base_food_pork_tenderloin_raw"
+      ],
+      "assessment": "Legitimate duplicate mapping: BLS combines pork tenderloin/filet and loin in one German-authoritative raw entry."
+    },
+    {
       "target_bls_code": "W327000",
       "legacy_product_ids": [
         "base_food_liver_sausage",
         "base_food_liverwurst"
       ],
       "assessment": "Legitimate many-to-one: German and English source names are synonymous aliases for simple liver sausage."
+    },
+    {
+      "target_bls_code": "X1A2020",
+      "legacy_product_ids": [
+        "base_food_mayonnaise_potato_salad",
+        "base_food_potato_salad_mayonnaise"
+      ],
+      "assessment": "Legitimate duplicate mapping: both legacy IDs are potato salad with mayonnaise."
     },
     {
       "target_bls_code": "X654042",
@@ -428,10 +678,10 @@
       "assessment": "Legitimate duplicate mapping: both legacy IDs are identical French-fries products."
     }
   ],
-  "checkpoint_reviewed_count": 500,
+  "checkpoint_reviewed_count": 750,
   "checkpoint_outcomes": {
-    "mapped": 242,
-    "no_equivalent": 222,
-    "pending": 36
+    "mapped": 352,
+    "no_equivalent": 347,
+    "pending": 51
   }
 }
