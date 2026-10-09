@@ -190,6 +190,73 @@
       "unresolved_count": 0,
       "model": "GPT-6 Luna",
       "reasoning_effort": "medium"
+    },
+    {
+      "batch": 16,
+      "code_start": "D740500",
+      "code_end": "D7A4000",
+      "count": 50,
+      "category_counts": {
+        "bread_baked_goods": 30,
+        "snacks_sweets": 20
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 17,
+      "code_start": "D7A5000",
+      "code_end": "D7B8200",
+      "count": 50,
+      "category_counts": {
+        "bread_baked_goods": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 18,
+      "code_start": "D7B8300",
+      "code_end": "E113100",
+      "count": 50,
+      "category_counts": {
+        "bread_baked_goods": 11,
+        "eggs": 17,
+        "snacks_sweets": 22
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 19,
+      "code_start": "E113132",
+      "code_end": "E605300",
+      "count": 50,
+      "category_counts": {
+        "eggs": 11,
+        "pasta_dough": 32,
+        "potatoes_starches": 7
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 20,
+      "code_start": "E605332",
+      "code_end": "F081100",
+      "count": 50,
+      "category_counts": {
+        "beverages": 12,
+        "fruit": 1,
+        "pasta_dough": 37
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
     }
   ]
 }
