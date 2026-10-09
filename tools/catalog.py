@@ -68,6 +68,22 @@ def sha256(path: Path) -> str:
     return digest.hexdigest()
 
 
+def normalize_alias(value: str) -> str:
+    """Language-neutral duplicate key; preserve letters and digits only."""
+    folded = value.lower()
+    return "".join(char for char in folded if char.isalnum())
+
+
+def validate_alias_normalization_fixtures() -> None:
+    fixtures = read_json(ROOT / "data" / "validation" / "alias-normalization.json")
+    for fixture in fixtures.get("fixtures", []):
+        actual = normalize_alias(fixture["value"])
+        if actual != fixture["normalized"]:
+            raise CatalogError(
+                f"Alias normalization fixture failed for {fixture['value']!r}: {actual!r}"
+            )
+
+
 def source_paths(version: str) -> tuple[Path, Path, Path]:
     directory = ROOT / "sources" / "bls" / version
     return (
@@ -641,7 +657,7 @@ def load_curation(version: str) -> tuple[dict[str, dict[str, Any]], dict[str, di
             raise CatalogError(f"Curation file path must be <group>/{code}.json: {path}")
         if code in overlays:
             raise CatalogError(f"Duplicate curation overlay for {code}")
-        allowed = {"bls_code", "display_names", "aliases", "category_id"}
+        allowed = {"bls_code", "display_names", "aliases", "category_id", "default_portion"}
         if set(overlay) - allowed:
             raise CatalogError(f"Curation overlay contains forbidden fields: {path}")
         names = overlay.get("display_names", {})
@@ -660,19 +676,46 @@ def load_curation(version: str) -> tuple[dict[str, dict[str, Any]], dict[str, di
         aliases = overlay.get("aliases", [])
         if not isinstance(aliases, list):
             raise CatalogError(f"Aliases must be a list in {path}")
+        alias_keys: set[tuple[str, str]] = set()
         for alias in aliases:
-            if not isinstance(alias, dict) or set(alias) != {"language_code", "value", "kind", "method"}:
+            if not isinstance(alias, dict) or set(alias) != {"language_code", "value", "kind", "method", "match_scope", "review_status"}:
                 raise CatalogError(f"Malformed alias in {path}")
             if (
-                alias["language_code"] not in SUPPORTED_LOCALES
+                not isinstance(alias["language_code"], str)
+                or alias["language_code"] not in SUPPORTED_LOCALES
                 or not isinstance(alias["value"], str)
                 or not alias["value"].strip()
             ):
                 raise CatalogError(f"Invalid alias in {path}")
-            if alias["kind"] not in {"synonym", "spelling", "transliteration", "regional"}:
+            if not isinstance(alias["kind"], str) or alias["kind"] not in {"synonym", "spelling", "transliteration", "regional"}:
                 raise CatalogError(f"Invalid alias kind in {path}")
-            if alias["method"] not in {"source", "human", "machine", "machine-reviewed"}:
+            if not isinstance(alias["method"], str) or alias["method"] not in {"source", "human", "machine", "machine-reviewed"}:
                 raise CatalogError(f"Invalid alias method in {path}")
+            if not isinstance(alias["match_scope"], str) or alias["match_scope"] not in {"identity", "candidate_only"}:
+                raise CatalogError(f"Invalid alias match_scope in {path}")
+            if not isinstance(alias["review_status"], str) or alias["review_status"] not in {"approved", "candidate_only"}:
+                raise CatalogError(f"Invalid alias review_status in {path}")
+            if alias["review_status"] == "approved" and alias["method"] not in {"source", "human", "machine-reviewed"}:
+                raise CatalogError(f"Only reviewed aliases may be approved in {path}")
+            key = (alias["language_code"], normalize_alias(alias["value"]))
+            if not key[1] or key in alias_keys:
+                raise CatalogError(f"Duplicate normalized alias for {code} in {path}: {alias['value']}")
+            alias_keys.add(key)
+        portion = overlay.get("default_portion")
+        if portion is not None:
+            if not isinstance(portion, dict) or set(portion) != {"grams", "labels", "provenance"}:
+                raise CatalogError(f"Malformed default_portion in {path}")
+            grams, labels, provenance = portion["grams"], portion["labels"], portion["provenance"]
+            if isinstance(grams, bool) or not isinstance(grams, (int, float)) or not math.isfinite(grams) or grams <= 0:
+                raise CatalogError(f"Default portion grams must be a positive finite number in {path}")
+            if not isinstance(labels, dict) or set(labels) != set(SUPPORTED_LOCALES) or any(not isinstance(labels[x], str) or not labels[x].strip() for x in SUPPORTED_LOCALES):
+                raise CatalogError(f"Default portion needs non-empty labels in {SUPPORTED_LOCALES}: {path}")
+            if not isinstance(provenance, dict) or set(provenance) != {"kind", "method", "note"} or provenance.get("kind") not in {"source-backed", "train-libre-estimate"} or not isinstance(provenance.get("method"), str) or not provenance["method"].strip() or not isinstance(provenance.get("note"), str) or not provenance["note"].strip():
+                raise CatalogError(f"Default portion provenance must identify kind, method, and note: {path}")
+            if provenance["kind"] == "source-backed" and provenance["method"] != "reference":
+                raise CatalogError(f"Source-backed portions must use reference method: {path}")
+            if provenance["kind"] == "train-libre-estimate" and provenance["method"] != "editorial-estimate":
+                raise CatalogError(f"Train Libre estimates must use editorial-estimate method: {path}")
         overlays[code] = overlay
 
     category_path = ROOT / "curation" / "categories.json"
@@ -849,6 +892,7 @@ def load_legacy_mapping(version: str) -> list[dict[str, Any]]:
 
 def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path:
     validate_source(version)
+    validate_alias_normalization_fixtures()
     records = load_normalized_foods(version)
     components = read_json(normalized_root(version) / "nutrient_components.json")
     overlays, categories = load_curation(version)
@@ -932,9 +976,21 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
                 barcode TEXT NOT NULL REFERENCES products(barcode),
                 language_code TEXT NOT NULL,
                 alias TEXT NOT NULL,
+                normalized_alias TEXT NOT NULL,
                 kind TEXT NOT NULL,
                 method TEXT NOT NULL,
+                match_scope TEXT NOT NULL CHECK (match_scope IN ('identity', 'candidate_only')),
+                review_status TEXT NOT NULL CHECK (review_status IN ('approved', 'candidate_only')),
                 PRIMARY KEY (barcode, language_code, alias)
+            );
+            CREATE TABLE food_default_portions (
+                barcode TEXT PRIMARY KEY REFERENCES products(barcode),
+                mass_grams REAL NOT NULL CHECK (mass_grams > 0),
+                label_de TEXT NOT NULL, label_en TEXT NOT NULL, label_fr TEXT NOT NULL,
+                label_it TEXT NOT NULL, label_ja TEXT NOT NULL,
+                provenance_kind TEXT NOT NULL CHECK (provenance_kind IN ('source-backed', 'train-libre-estimate')),
+                provenance_method TEXT NOT NULL,
+                provenance_note TEXT NOT NULL
             );
             CREATE TABLE legacy_food_mappings (
                 legacy_product_id TEXT PRIMARY KEY,
@@ -978,6 +1034,7 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
         products = []
         source_meta = []
         aliases_to_insert = []
+        portions_to_insert = []
         all_nutrients = []
         for food in records:
             code = food["bls_code"]
@@ -1042,9 +1099,14 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
             )
             source_meta.append((product_id, "BLS", code, version, LICENSE_ID, DOI, food["note"]))
             aliases_to_insert.extend(
-                (product_id, alias["language_code"], alias["value"], alias["kind"], alias["method"])
+                (product_id, alias["language_code"], alias["value"], normalize_alias(alias["value"]), alias["kind"], alias["method"], alias["match_scope"], alias["review_status"])
                 for alias in overlay.get("aliases", [])
+                if alias["review_status"] in {"approved", "candidate_only"}
             )
+            portion = overlay.get("default_portion")
+            if portion:
+                provenance = portion["provenance"]
+                portions_to_insert.append((product_id, portion["grams"], *(portion["labels"][locale] for locale in SUPPORTED_LOCALES), provenance["kind"], provenance["method"], provenance["note"]))
             all_nutrients.extend(
                 (
                     product_id,
@@ -1059,7 +1121,8 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
 
         db.executemany("INSERT INTO products VALUES (" + ",".join("?" for _ in range(29)) + ")", products)
         db.executemany("INSERT INTO food_source_metadata VALUES (?, ?, ?, ?, ?, ?, ?)", source_meta)
-        db.executemany("INSERT INTO food_aliases VALUES (?, ?, ?, ?, ?)", aliases_to_insert)
+        db.executemany("INSERT INTO food_aliases VALUES (?, ?, ?, ?, ?, ?, ?, ?)", aliases_to_insert)
+        db.executemany("INSERT INTO food_default_portions VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", portions_to_insert)
         db.executemany(
             "INSERT INTO legacy_food_mappings VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
             [
@@ -1104,7 +1167,9 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
             "source_version": version,
             "source_doi": DOI,
             "source_license": LICENSE_ID,
-            "schema_version": "1",
+            "curated_alias_owner": "Train Libre",
+            "curated_alias_count": str(len(aliases_to_insert)),
+            "schema_version": "2",
             "tool_version": TOOL_VERSION,
             "source_manifest_sha256": hashlib.sha256(json_bytes(source_manifest)).hexdigest(),
             "build_mode": "preview" if preview else "release-candidate",
@@ -1139,6 +1204,41 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
             raise CatalogError(f"Output exists; pass --force to replace generated artifact: {output}")
         output.unlink()
     temp_path.replace(output)
+    alias_rows = [
+        (food["bls_code"], alias)
+        for food in records
+        for alias in overlays.get(food["bls_code"], {}).get("aliases", [])
+        if alias["review_status"] in {"approved", "candidate_only"}
+    ]
+    alias_groups: dict[tuple[str, str], list[dict[str, str]]] = {}
+    for code, alias in alias_rows:
+        alias_groups.setdefault((alias["language_code"], normalize_alias(alias["value"])), []).append(
+            {"bls_code": code, "value": alias["value"], "match_scope": alias["match_scope"], "review_status": alias["review_status"]}
+        )
+    collisions = [
+        {"language_code": language, "normalized": normalized, "foods": sorted(entries, key=lambda row: (row["bls_code"], row["value"]))}
+        for (language, normalized), entries in sorted(alias_groups.items())
+        if len({entry["bls_code"] for entry in entries}) > 1
+    ]
+    alias_counts = {
+        "total": len(alias_rows),
+        "by_language": {locale: sum(a["language_code"] == locale for _, a in alias_rows) for locale in SUPPORTED_LOCALES},
+        "by_review_status": {status: sum(a["review_status"] == status for _, a in alias_rows) for status in ("approved", "candidate_only")},
+        "by_language_review_status": {
+            locale: {
+                status: sum(
+                    a["language_code"] == locale and a["review_status"] == status
+                    for _, a in alias_rows
+                )
+                for status in ("approved", "candidate_only")
+            }
+            for locale in SUPPORTED_LOCALES
+        },
+        "by_match_scope": {scope: sum(a["match_scope"] == scope for _, a in alias_rows) for scope in ("identity", "candidate_only")},
+        "cross_food_collision_groups": len(collisions),
+    }
+    alias_audit = {"curation_owner": "Train Libre", "counts": alias_counts, "cross_food_collisions": collisions}
+    write_json(ROOT / "reports" / f"alias-audit-{version}.json", alias_audit)
     build_report = {
         "status": "preview" if preview else "passed",
         "source_catalog": f"bls:{version}",
@@ -1150,6 +1250,9 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
         "legacy_mappings_by_status": legacy_mapping_counts,
         "category_assignment_coverage": sum(count for key, count in category_counts.items() if key != "__unmapped__"),
         "translation_overlay_count": len(overlays),
+        "default_portion_count": len(portions_to_insert),
+        "default_portion_unset_count": len(records) - len(portions_to_insert),
+        "aliases": alias_counts,
         "build_mode": "preview" if preview else "release-candidate",
     }
     write_json(ROOT / "reports" / f"app-build-{version}.json", build_report)

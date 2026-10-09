@@ -1,0 +1,10 @@
+{
+  "normalizer": "lowercase Unicode letters and digits; remove separators",
+  "fixtures": [
+    {"value": "Pâtes d’avoine", "normalized": "pâtesdavoine"},
+    {"value": "Zucchini-Courgette", "normalized": "zucchinicourgette"},
+    {"value": "Hafer Flocken", "normalized": "haferflocken"},
+    {"value": "りんご", "normalized": "りんご"},
+    {"value": "パスタ", "normalized": "パスタ"}
+  ]
+}

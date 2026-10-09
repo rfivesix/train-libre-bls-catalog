@@ -14,6 +14,47 @@
       "method": "machine"
     }
   },
-  "aliases": [],
+  "aliases": [
+    {
+      "language_code": "de",
+      "value": "weißer Reis",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "en",
+      "value": "white rice",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "fr",
+      "value": "riz blanc",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "it",
+      "value": "riso bianco",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "ja",
+      "value": "白米",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    }
+  ],
   "category_id": "grains_cereals"
 }

@@ -1,0 +1,1162 @@
+{
+  "curation_owner": "Train Libre",
+  "counts": {
+    "total": 223,
+    "by_language": {
+      "de": 34,
+      "en": 153,
+      "fr": 12,
+      "it": 12,
+      "ja": 12
+    },
+    "by_review_status": {
+      "approved": 0,
+      "candidate_only": 223
+    },
+    "by_language_review_status": {
+      "de": {
+        "approved": 0,
+        "candidate_only": 34
+      },
+      "en": {
+        "approved": 0,
+        "candidate_only": 153
+      },
+      "fr": {
+        "approved": 0,
+        "candidate_only": 12
+      },
+      "it": {
+        "approved": 0,
+        "candidate_only": 12
+      },
+      "ja": {
+        "approved": 0,
+        "candidate_only": 12
+      }
+    },
+    "by_match_scope": {
+      "identity": 50,
+      "candidate_only": 173
+    },
+    "cross_food_collision_groups": 30
+  },
+  "cross_food_collisions": [
+    {
+      "language_code": "de",
+      "normalized": "brezel",
+      "foods": [
+        {
+          "bls_code": "B723000",
+          "value": "Brezel",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B723100",
+          "value": "Brezel",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "de",
+      "normalized": "kaiserschmarrn",
+      "foods": [
+        {
+          "bls_code": "Y890342",
+          "value": "Kaiserschmarrn",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "Y890512",
+          "value": "Kaiserschmarrn",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "de",
+      "normalized": "mandelmilch",
+      "foods": [
+        {
+          "bls_code": "H800000",
+          "value": "Mandelmilch",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H800100",
+          "value": "Mandelmilch",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H800200",
+          "value": "Mandelmilch",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H800300",
+          "value": "Mandelmilch",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H800400",
+          "value": "Mandelmilch",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "de",
+      "normalized": "nudeln",
+      "foods": [
+        {
+          "bls_code": "E401000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E401032",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E612000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "de",
+      "normalized": "sojamilch",
+      "foods": [
+        {
+          "bls_code": "H841100",
+          "value": "Sojamilch",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H841400",
+          "value": "Sojamilch",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H842400",
+          "value": "Sojamilch",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H842600",
+          "value": "Sojamilch",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "de",
+      "normalized": "weißbier",
+      "foods": [
+        {
+          "bls_code": "P151100",
+          "value": "Weißbier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "P151110",
+          "value": "Weißbier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "P151120",
+          "value": "Weißbier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "almondmilk",
+      "foods": [
+        {
+          "bls_code": "H800000",
+          "value": "almond milk",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H800100",
+          "value": "almond milk",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H800200",
+          "value": "almond milk",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H800300",
+          "value": "almond milk",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H800400",
+          "value": "almond milk",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "applefritters",
+      "foods": [
+        {
+          "bls_code": "Y845242",
+          "value": "apple fritters",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "Y845362",
+          "value": "apple fritters",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "beet",
+      "foods": [
+        {
+          "bls_code": "G613100",
+          "value": "beet",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G613132",
+          "value": "beet",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G613152",
+          "value": "beet",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G613600",
+          "value": "beet",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G613802",
+          "value": "beet",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "chiliconcarne",
+      "foods": [
+        {
+          "bls_code": "X469743",
+          "value": "chili con carne",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X469753",
+          "value": "chili con carne",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "donut",
+      "foods": [
+        {
+          "bls_code": "D741000",
+          "value": "donut",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "D741600",
+          "value": "donut",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "eggplant",
+      "foods": [
+        {
+          "bls_code": "G510100",
+          "value": "eggplant",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G510132",
+          "value": "eggplant",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G510142",
+          "value": "eggplant",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G510152",
+          "value": "eggplant",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G510162",
+          "value": "eggplant",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G510172",
+          "value": "eggplant",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G510182",
+          "value": "eggplant",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G510702",
+          "value": "eggplant",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "favabean",
+      "foods": [
+        {
+          "bls_code": "G730100",
+          "value": "fava bean",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G730132",
+          "value": "fava bean",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G730200",
+          "value": "fava bean",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G730232",
+          "value": "fava bean",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G730902",
+          "value": "fava bean",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "groundbeef",
+      "foods": [
+        {
+          "bls_code": "U010100",
+          "value": "ground beef",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U010132",
+          "value": "ground beef",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U010142",
+          "value": "ground beef",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U010162",
+          "value": "ground beef",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U010182",
+          "value": "ground beef",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U010200",
+          "value": "ground beef",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U010232",
+          "value": "ground beef",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U010242",
+          "value": "ground beef",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U010262",
+          "value": "ground beef",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U010272",
+          "value": "ground beef",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U011172",
+          "value": "ground beef",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U012282",
+          "value": "ground beef",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "groundpork",
+      "foods": [
+        {
+          "bls_code": "U020100",
+          "value": "ground pork",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U020132",
+          "value": "ground pork",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U020142",
+          "value": "ground pork",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U020162",
+          "value": "ground pork",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U020182",
+          "value": "ground pork",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U020200",
+          "value": "ground pork",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U020242",
+          "value": "ground pork",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U020272",
+          "value": "ground pork",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U022232",
+          "value": "ground pork",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U023262",
+          "value": "ground pork",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U024172",
+          "value": "ground pork",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "groundveal",
+      "foods": [
+        {
+          "bls_code": "U030132",
+          "value": "ground veal",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U030142",
+          "value": "ground veal",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U030162",
+          "value": "ground veal",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U030172",
+          "value": "ground veal",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "U030182",
+          "value": "ground veal",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "kaiserschmarrn",
+      "foods": [
+        {
+          "bls_code": "Y890342",
+          "value": "Kaiserschmarrn",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "Y890512",
+          "value": "Kaiserschmarrn",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "kale",
+      "foods": [
+        {
+          "bls_code": "G322100",
+          "value": "kale",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G322132",
+          "value": "kale",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G322142",
+          "value": "kale",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G322152",
+          "value": "kale",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G322182",
+          "value": "kale",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G322200",
+          "value": "kale",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G322232",
+          "value": "kale",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G322242",
+          "value": "kale",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G322252",
+          "value": "kale",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G322282",
+          "value": "kale",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G322902",
+          "value": "kale",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "pasta",
+      "foods": [
+        {
+          "bls_code": "E401000",
+          "value": "pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E401032",
+          "value": "pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E612000",
+          "value": "pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "physalis",
+      "foods": [
+        {
+          "bls_code": "F552100",
+          "value": "physalis",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "F552600",
+          "value": "physalis",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "potato",
+      "foods": [
+        {
+          "bls_code": "K110100",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "K110132",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "K110142",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "K110143",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "K110162",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "K110182",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "K110902",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "K120100",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "K120134",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "K120164",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "K120184",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "K120200",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "K120264",
+          "value": "potato",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "rutabaga",
+      "foods": [
+        {
+          "bls_code": "G611100",
+          "value": "rutabaga",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G611132",
+          "value": "rutabaga",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G611152",
+          "value": "rutabaga",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "scallion",
+      "foods": [
+        {
+          "bls_code": "G482100",
+          "value": "scallion",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G482132",
+          "value": "scallion",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G482142",
+          "value": "scallion",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G482152",
+          "value": "scallion",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G482162",
+          "value": "scallion",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G482182",
+          "value": "scallion",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G486100",
+          "value": "scallion",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G486132",
+          "value": "scallion",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G486142",
+          "value": "scallion",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G486152",
+          "value": "scallion",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G486162",
+          "value": "scallion",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G486182",
+          "value": "scallion",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "soymilk",
+      "foods": [
+        {
+          "bls_code": "H841100",
+          "value": "soy milk",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H841400",
+          "value": "soy milk",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H842400",
+          "value": "soy milk",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H842600",
+          "value": "soy milk",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "stewingchicken",
+      "foods": [
+        {
+          "bls_code": "V432132",
+          "value": "stewing chicken",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "V432200",
+          "value": "stewing chicken",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "V432232",
+          "value": "stewing chicken",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "V434100",
+          "value": "stewing chicken",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "V435100",
+          "value": "stewing chicken",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "V435132",
+          "value": "stewing chicken",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "V435200",
+          "value": "stewing chicken",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "V435232",
+          "value": "stewing chicken",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "whitechocolate",
+      "foods": [
+        {
+          "bls_code": "S580000",
+          "value": "white chocolate",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "S580200",
+          "value": "white chocolate",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "S580300",
+          "value": "white chocolate",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "S580600",
+          "value": "white chocolate",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "S580700",
+          "value": "white chocolate",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "en",
+      "normalized": "zucchini",
+      "foods": [
+        {
+          "bls_code": "G582100",
+          "value": "zucchini",
+          "match_scope": "identity",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G582132",
+          "value": "zucchini",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G582142",
+          "value": "zucchini",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G582152",
+          "value": "zucchini",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G582162",
+          "value": "zucchini",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G582172",
+          "value": "zucchini",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G582182",
+          "value": "zucchini",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "G582802",
+          "value": "zucchini",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "fr",
+      "normalized": "pâtes",
+      "foods": [
+        {
+          "bls_code": "E401000",
+          "value": "pâtes",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E401032",
+          "value": "pâtes",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E612000",
+          "value": "pâtes",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "it",
+      "normalized": "pasta",
+      "foods": [
+        {
+          "bls_code": "E401000",
+          "value": "pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E401032",
+          "value": "pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E612000",
+          "value": "pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "ja",
+      "normalized": "パスタ",
+      "foods": [
+        {
+          "bls_code": "E401000",
+          "value": "パスタ",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E401032",
+          "value": "パスタ",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E612000",
+          "value": "パスタ",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    }
+  ]
+}

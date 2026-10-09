@@ -14,6 +14,47 @@
       "method": "machine"
     }
   },
-  "aliases": [],
+  "aliases": [
+    {
+      "language_code": "de",
+      "value": "Paradeiser",
+      "kind": "regional",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "en",
+      "value": "tomato fresh",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "fr",
+      "value": "tomate fraîche",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "it",
+      "value": "pomodoro fresco",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "ja",
+      "value": "トマト",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    }
+  ],
   "category_id": "vegetables"
 }

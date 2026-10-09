@@ -14,6 +14,47 @@
       "method": "machine"
     }
   },
-  "aliases": [],
+  "aliases": [
+    {
+      "language_code": "de",
+      "value": "Hühnerei",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "en",
+      "value": "hen egg",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "fr",
+      "value": "œuf de poule",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "it",
+      "value": "uovo di gallina",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "ja",
+      "value": "鶏卵",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    }
+  ],
   "category_id": "eggs"
 }

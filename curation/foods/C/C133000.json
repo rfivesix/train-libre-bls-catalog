@@ -14,6 +14,47 @@
       "method": "machine"
     }
   },
-  "aliases": [],
+  "aliases": [
+    {
+      "language_code": "de",
+      "value": "Haferflocken",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "en",
+      "value": "rolled oats",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "fr",
+      "value": "flocons d’avoine",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "it",
+      "value": "fiocchi d’avena",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "ja",
+      "value": "オートミール",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    }
+  ],
   "category_id": "grains_cereals"
 }

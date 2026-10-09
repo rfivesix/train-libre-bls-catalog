@@ -21,16 +21,33 @@
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["language_code", "value", "kind", "method"],
+        "required": ["language_code", "value", "kind", "method", "match_scope", "review_status"],
         "properties": {
           "language_code": {"enum": ["de", "en", "fr", "it", "ja"]},
           "value": {"type": "string", "minLength": 1},
           "kind": {"enum": ["synonym", "spelling", "transliteration", "regional"]},
-          "method": {"enum": ["source", "human", "machine", "machine-reviewed"]}
-        }
+          "method": {"enum": ["source", "human", "machine", "machine-reviewed"]},
+          "match_scope": {"enum": ["identity", "candidate_only"]},
+          "review_status": {"enum": ["approved", "candidate_only"]}
+        },
+        "allOf": [
+          {
+            "if": {"properties": {"review_status": {"const": "approved"}}},
+            "then": {"properties": {"method": {"enum": ["source", "human", "machine-reviewed"]}}}
+          }
+        ]
       }
     },
-    "category_id": {"type": ["string", "null"]}
+    "category_id": {"type": ["string", "null"]},
+    "default_portion": {
+      "type": "object", "additionalProperties": false,
+      "required": ["grams", "labels", "provenance"],
+      "properties": {
+        "grams": {"type": "number", "exclusiveMinimum": 0},
+        "labels": {"type": "object", "additionalProperties": false, "required": ["de", "en", "fr", "it", "ja"], "properties": {"de": {"type": "string", "minLength": 1}, "en": {"type": "string", "minLength": 1}, "fr": {"type": "string", "minLength": 1}, "it": {"type": "string", "minLength": 1}, "ja": {"type": "string", "minLength": 1}}},
+        "provenance": {"type": "object", "additionalProperties": false, "required": ["kind", "method", "note"], "properties": {"kind": {"enum": ["source-backed", "train-libre-estimate"]}, "method": {"enum": ["reference", "editorial-estimate"]}, "note": {"type": "string", "minLength": 1}}}
+      }
+    }
   },
   "$defs": {
     "translation": {

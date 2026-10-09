@@ -33,6 +33,7 @@
 - `display_names.fr`, `.it`, and `.ja`: translated display text and translation provenance.
 - `aliases`: localized alternative search terms, each linked to the BLS code.
 - `category_id`: an identifier declared by `curation/categories.json`.
+- `default_portion` (optional): an editorial household portion, stored separately from aliases and package quantity. It contains `grams`, labels in `de`, `en`, `fr`, `it`, and `ja`, and provenance (`source-backed` or `train-libre-estimate`).
 
 The curation schema rejects source nutrient fields, German/English source names, source notes, and source identifiers other than the matching BLS code. This makes accidental source overwrites a validation error.
 
@@ -62,6 +63,7 @@ Primary keys are `foods.bls_code`, `nutrient_components.component_code`, and `(f
 - `data_origins` and `source_references` deduplicate repeated origin labels and citations in the million-row facts table.
 - `food_source_metadata` for BLS code, source version, source license, and food note.
 - `food_aliases` for additional localized search terms.
+- `food_default_portions` for optional localized default serving labels, approximate mass in grams, and provenance. It is not BLS nutrient data and is not a packaged-product quantity.
 - `legacy_food_mappings` for reviewed old product IDs, BLS targets, and explicit no-equivalent outcomes.
 - the legacy `metadata` table for catalog version and reproducible source/build details.
 

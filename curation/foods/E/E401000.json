@@ -14,6 +14,47 @@
       "method": "machine"
     }
   },
-  "aliases": [],
+  "aliases": [
+    {
+      "language_code": "de",
+      "value": "Nudeln",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "en",
+      "value": "pasta",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "fr",
+      "value": "pâtes",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "it",
+      "value": "pasta",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "ja",
+      "value": "パスタ",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    }
+  ],
   "category_id": "pasta_dough"
 }

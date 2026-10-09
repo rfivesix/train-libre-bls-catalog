@@ -14,6 +14,47 @@
       "method": "machine"
     }
   },
-  "aliases": [],
+  "aliases": [
+    {
+      "language_code": "de",
+      "value": "rote Paprika",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "en",
+      "value": "red bell pepper",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "fr",
+      "value": "poivron rouge",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "it",
+      "value": "peperone rosso",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "ja",
+      "value": "赤パプリカ",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    }
+  ],
   "category_id": "vegetables"
 }

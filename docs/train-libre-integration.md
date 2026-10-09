@@ -32,9 +32,15 @@ The compatibility product columns are mapped by BLS component code, not by trans
 
 All BLS values are based on 100 g edible portion. No conversion to 100 ml or serving size is inferred during import. Missing core values remain null in the generated asset; they are not replaced with zero.
 
+## Optional default portions
+
+`food_default_portions` is a catalog-only companion table keyed by the product barcode (`bls:<code>`). It exposes `mass_grams`, five localized labels, and provenance fields. It represents a Train Libre default household measure, not BLS source data and not Open Food Facts package quantity. Consumers must continue to read `product_quantity` and `product_quantity_unit` only as packaged-product quantity; they must query this companion table when they need an optional default serving. If no row exists, show no default. Do not use the portion mass to rewrite per-100-g nutrient values; any serving calculation is a client-side scaling operation and must retain the source basis.
+
 ## Search and AI matching
 
 Generic, unbranded food queries should search and rank the curated BLS base-food catalog as the canonical ingredient source. Open Food Facts remains available for explicit brands, packaged-product names, and barcode scans. Search ranking must avoid selecting a brand result solely because it shares a token with a generic food (for example, blueberry gum for a generic blueberry request).
+
+`food_aliases` is a Train Libre curation table, separate from BLS source records and nutrient facts. Catalog schema 2 adds normalized alias keys, `match_scope` (`identity` or `candidate_only`), and `review_status` (`approved` or `candidate_only`). The app copies these rows into a replaceable local index when importing the catalog. Candidate-only or unreviewed aliases retrieve BLS possibilities but never count as exact identity evidence. Cross-food collisions stay available for ranking or clarification.
 
 ## Release requirements
 

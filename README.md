@@ -7,7 +7,7 @@ A reproducible, lossless conversion of the German Bundeslebensmittelschlüssel (
 - Use BLS 4.0 as the curated source for generic foods and prepared dishes.
 - Keep Open Food Facts in Train Libre for branded products and barcode workflows.
 - Preserve all BLS food records, nutrient values, units, per-value origins, references, component definitions, and food notes.
-- Add app-language translations, aliases, and app categories as overlays keyed by immutable BLS code.
+- Add app-language translations, aliases, categories, and optional default household portions as overlays keyed by immutable BLS code.
 - Generate one local SQLite asset for Train Libre; the pipeline does not require a network service or runtime API key.
 
 ## Repository map
@@ -17,7 +17,7 @@ A reproducible, lossless conversion of the German Bundeslebensmittelschlüssel (
 | `sources/bls/4.0/` | Unmodified official BLS source files and documentation. |
 | `sources/train-libre/current/` | Unmodified base-food database snapshot used for comparison. |
 | `data/source/bls/4.0/` | Deterministically normalized, reviewable BLS records generated from the source workbook. |
-| `curation/foods/` | Per-food additions only: translated display names, aliases, and an app category ID. |
+| `curation/foods/` | Per-food additions: translated display names, aliases, app category IDs, and optional default portions. |
 | `curation/categories.json` | Train Libre's user-facing category vocabulary and localized labels. |
 | `curation/migrations/legacy-base-foods.json` | Reviewable mapping from every legacy base-food ID to a BLS ID or an explicit no-equivalent result. |
 | `schemas/` | Machine-readable contracts for source records and curation overlays. |

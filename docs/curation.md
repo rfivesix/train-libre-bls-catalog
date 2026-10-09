@@ -16,7 +16,17 @@ Category IDs are stable machine identifiers; localized labels may change. Keep c
 
 ## Aliases
 
-Aliases are optional localized search terms, not alternate source names. Each alias has a language code and type/provenance. They support spelling variants, common regional names, and user search language. Aliases do not carry nutrition values and do not merge separate foods.
+Aliases are optional localized search terms, not alternate source names. They are Train Libre additions; BLS records and nutrient values remain untouched. Each alias records language, kind, curation method, review status, and matching scope. `identity` is reserved for a reviewed equivalent that preserves meaningful variety, composition, and preparation qualifiers. `candidate_only` retrieves possible foods without asserting identity. Machine suggestions must remain `candidate_only`; only source-backed, human-reviewed, or machine-reviewed aliases can be `approved`. Candidate-only aliases are exported to support retrieval but never confer exact-match status. Normalized duplicates for one food are rejected. Cross-food collisions are retained and reported for ranking or clarification.
+
+## Default portions
+
+`default_portion` is optional and separate from aliases and the packaged-product `product_quantity` / `product_quantity_unit` fields. It stores a positive approximate `grams` mass, short labels in `de`, `en`, `fr`, `it`, and `ja`, plus provenance. These values are Train Libre curation; BLS nutrients remain per 100 g and are never rescaled or described as serving-based.
+
+Use a portion only where a common household measure is defensible for the food (for example, a medium whole fruit or a glass of milk). Leave it absent when portions vary materially by preparation, size, recipe, or user practice, or when no recognizable household measure applies. Absence means no default is offered, not zero grams. Do not infer portion mass from nutrients.
+
+Provenance `kind` is `source-backed` only when a cited source explicitly supports that measure; `method` must then be `reference`, and `note` records the reference. `train-libre-estimate` uses `editorial-estimate` and must say the mass is an estimate, not a BLS value. Current curated entries are estimates; no BLS serving-size source has been used.
+
+The current fruit and vegetable review covers all 1,004 entries assigned to those taxonomy categories (264 fruit and 740 vegetables). It records an individual decision and rationale for every candidate in `reports/default-portions-4.0.json`. Sixteen fruit or vegetable entries have a default; the remaining 988 are unset with a reviewed reason. Eggs are in a separate category and are outside this review. References support typical measures or edible-yield assumptions where available; all selected masses remain approximate Train Libre estimates.
 
 ## Review order
 

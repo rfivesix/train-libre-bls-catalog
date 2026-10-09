@@ -14,6 +14,62 @@
       "method": "machine"
     }
   },
-  "aliases": [],
-  "category_id": "fruit"
+  "aliases": [
+    {
+      "language_code": "de",
+      "value": "frischer Apfel",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "en",
+      "value": "fresh apple",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "fr",
+      "value": "pomme fraîche",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "it",
+      "value": "mela fresca",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "ja",
+      "value": "りんご",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    }
+  ],
+  "category_id": "fruit",
+  "default_portion": {
+    "grams": 150,
+    "labels": {
+      "de": "1 mittelgroßer Apfel",
+      "en": "1 medium apple",
+      "fr": "1 pomme moyenne",
+      "it": "1 mela media",
+      "ja": "中サイズのりんご1個"
+    },
+    "provenance": {
+      "kind": "train-libre-estimate",
+      "method": "editorial-estimate",
+      "note": "Common household measure estimate; not reported by BLS. The mass is an approximate edible portion."
+    }
+  }
 }

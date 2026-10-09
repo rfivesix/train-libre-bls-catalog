@@ -14,6 +14,47 @@
       "method": "machine"
     }
   },
-  "aliases": [],
+  "aliases": [
+    {
+      "language_code": "de",
+      "value": "Kartoffel",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "en",
+      "value": "potato",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "fr",
+      "value": "pomme de terre",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "it",
+      "value": "patata",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "ja",
+      "value": "じゃがいも",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    }
+  ],
   "category_id": "potatoes_starches"
 }

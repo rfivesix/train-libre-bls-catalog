@@ -14,6 +14,15 @@
       "method": "machine"
     }
   },
-  "aliases": [],
+  "aliases": [
+    {
+      "language_code": "en",
+      "value": "scallion",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    }
+  ],
   "category_id": "vegetables"
 }

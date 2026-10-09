@@ -8,6 +8,6 @@ Copyright and data source: Max Rubner-Institut (MRI).
 
 License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-Train Libre's derived catalog converts the source spreadsheets to SQLite, preserves source nutrient values and per-value provenance, and adds translated names, search aliases, and Train Libre category assignments. These are modifications to the source data. The original source files are retained under `sources/bls/4.0/`.
+Train Libre's derived catalog converts the source spreadsheets to SQLite, preserves source nutrient values and per-value provenance, and adds translated names, curated search aliases, Train Libre category assignments, and optional default portions. These are Train Libre modifications; in particular, `food_aliases` contains Train Libre curated additions, not BLS source content. The original source files are retained under `sources/bls/4.0/`.
 
 This notice must be included with any distributed copy of the derived catalog, including the catalog bundled with Train Libre. The app's legal/third-party notices should identify the source, version, DOI, license, and the modifications made.

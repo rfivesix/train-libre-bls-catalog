@@ -15,5 +15,20 @@
     }
   },
   "aliases": [],
-  "category_id": "dairy"
+  "category_id": "dairy",
+  "default_portion": {
+    "grams": 200,
+    "labels": {
+      "de": "1 Glas (200 ml)",
+      "en": "1 glass (200 ml)",
+      "fr": "1 verre (200 ml)",
+      "it": "1 bicchiere (200 ml)",
+      "ja": "コップ1杯（200 ml）"
+    },
+    "provenance": {
+      "kind": "train-libre-estimate",
+      "method": "editorial-estimate",
+      "note": "Common household measure estimate; not reported by BLS. The mass is an approximate edible portion."
+    }
+  }
 }

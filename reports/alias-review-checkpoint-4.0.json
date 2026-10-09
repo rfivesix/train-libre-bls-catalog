@@ -1,0 +1,34 @@
+{
+  "catalog": "bls:4.0",
+  "total_foods": 7140,
+  "batch_size": 50,
+  "completed_batches": 143,
+  "reviewed_foods": 7140,
+  "next_bls_code": null,
+  "reviewed_through": "Y9A2050",
+  "alias_additions": 163,
+  "alias_counts_by_language": {
+    "de": 34,
+    "en": 153,
+    "fr": 12,
+    "it": 12,
+    "ja": 12
+  },
+  "alias_counts_by_review_status": {
+    "approved": 0,
+    "candidate_only": 223
+  },
+  "alias_counts_by_scope": {
+    "identity": 50,
+    "candidate_only": 173
+  },
+  "unresolved_judgments": [
+    {
+      "codes": [
+        "B723000",
+        "B723100"
+      ],
+      "judgment": "Brezel is a useful but ambiguous alternative across two preparation variants; candidate_only retained."
+    }
+  ]
+}

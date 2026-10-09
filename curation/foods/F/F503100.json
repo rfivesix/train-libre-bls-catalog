@@ -14,6 +14,62 @@
       "method": "machine"
     }
   },
-  "aliases": [],
-  "category_id": "fruit"
+  "aliases": [
+    {
+      "language_code": "de",
+      "value": "Banane",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "en",
+      "value": "banana",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "fr",
+      "value": "banane",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "it",
+      "value": "banana",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "ja",
+      "value": "バナナ",
+      "kind": "synonym",
+      "method": "machine",
+      "match_scope": "identity",
+      "review_status": "candidate_only"
+    }
+  ],
+  "category_id": "fruit",
+  "default_portion": {
+    "grams": 120,
+    "labels": {
+      "de": "1 mittelgroße Banane",
+      "en": "1 medium banana",
+      "fr": "1 banane moyenne",
+      "it": "1 banana media",
+      "ja": "中サイズのバナナ1本"
+    },
+    "provenance": {
+      "kind": "train-libre-estimate",
+      "method": "editorial-estimate",
+      "note": "Common household measure estimate; not reported by BLS. The mass is an approximate edible portion."
+    }
+  }
 }
