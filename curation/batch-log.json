@@ -1836,6 +1836,83 @@
         "Y351023",
         "Y351032"
       ]
+    },
+    {
+      "batch": 131,
+      "code_start": "Y435112",
+      "code_end": "Y567133",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 34,
+        "soups_stews": 15,
+        "prepared_dishes": 1
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 132,
+      "code_start": "Y568223",
+      "code_end": "Y622913",
+      "count": 50,
+      "category_counts": {
+        "meat_poultry": 22,
+        "prepared_dishes": 6,
+        "fish_seafood": 22
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "Y610712"
+      ]
+    },
+    {
+      "batch": 133,
+      "code_start": "Y623012",
+      "code_end": "Y650812",
+      "count": 50,
+      "category_counts": {
+        "fish_seafood": 48,
+        "prepared_dishes": 2
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
+    },
+    {
+      "batch": 134,
+      "code_start": "Y652112",
+      "code_end": "Y693312",
+      "count": 50,
+      "category_counts": {
+        "fish_seafood": 37,
+        "prepared_dishes": 13
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": [
+        "Y670533"
+      ]
+    },
+    {
+      "batch": 135,
+      "code_start": "Y693342",
+      "code_end": "Y730343",
+      "count": 50,
+      "category_counts": {
+        "fish_seafood": 17,
+        "prepared_dishes": 7,
+        "eggs": 26
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium",
+      "german_source_conflict_resolutions": []
     }
   ]
 }
