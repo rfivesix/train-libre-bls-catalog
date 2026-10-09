@@ -1,0 +1,65 @@
+{
+  "batches": [
+    {
+      "batch": 1,
+      "code_start": "B101000",
+      "code_end": "B276700",
+      "count": 50,
+      "category_counts": {
+        "bread_baked_goods": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 2,
+      "code_start": "B276800",
+      "code_end": "B526700",
+      "count": 50,
+      "category_counts": {
+        "bread_baked_goods": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 3,
+      "code_start": "B531000",
+      "code_end": "B718000",
+      "count": 50,
+      "category_counts": {
+        "bread_baked_goods": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 4,
+      "code_start": "B719000",
+      "code_end": "C119100",
+      "count": 50,
+      "category_counts": {
+        "bread_baked_goods": 36,
+        "grains_cereals": 14
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    },
+    {
+      "batch": 5,
+      "code_start": "C119132",
+      "code_end": "C221132",
+      "count": 50,
+      "category_counts": {
+        "grains_cereals": 50
+      },
+      "unresolved_count": 0,
+      "model": "GPT-6 Luna",
+      "reasoning_effort": "medium"
+    }
+  ]
+}
