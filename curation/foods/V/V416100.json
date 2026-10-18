@@ -14,6 +14,39 @@
       "method": "machine"
     }
   },
-  "aliases": [],
+  "aliases": [
+    {
+      "language_code": "de",
+      "value": "Hähnchenbrustfilet",
+      "kind": "spelling",
+      "method": "human",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "de",
+      "value": "Hähnchenbrustfilet roh",
+      "kind": "spelling",
+      "method": "human",
+      "match_scope": "identity",
+      "review_status": "approved"
+    },
+    {
+      "language_code": "de",
+      "value": "Hühnerbrustfilet roh",
+      "kind": "synonym",
+      "method": "human",
+      "match_scope": "identity",
+      "review_status": "approved"
+    },
+    {
+      "language_code": "de",
+      "value": "Hähnchenbrust roh",
+      "kind": "synonym",
+      "method": "human",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    }
+  ],
   "category_id": "meat_poultry"
 }

@@ -14,7 +14,24 @@
       "method": "machine"
     }
   },
-  "aliases": [],
+  "aliases": [
+    {
+      "language_code": "de",
+      "value": "Milch",
+      "kind": "synonym",
+      "method": "human",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "de",
+      "value": "Vollmilch frisch 3,5 % Fett",
+      "kind": "synonym",
+      "method": "human",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    }
+  ],
   "category_id": "dairy",
   "default_portion": {
     "grams": 200,

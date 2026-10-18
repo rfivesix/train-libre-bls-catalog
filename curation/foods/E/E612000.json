@@ -54,6 +54,14 @@
       "method": "machine",
       "match_scope": "candidate_only",
       "review_status": "candidate_only"
+    },
+    {
+      "language_code": "de",
+      "value": "Pasta",
+      "kind": "synonym",
+      "method": "human",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
     }
   ],
   "category_id": "pasta_dough"

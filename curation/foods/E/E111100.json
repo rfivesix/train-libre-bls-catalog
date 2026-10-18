@@ -54,6 +54,30 @@
       "method": "machine",
       "match_scope": "candidate_only",
       "review_status": "candidate_only"
+    },
+    {
+      "language_code": "de",
+      "value": "Ei",
+      "kind": "synonym",
+      "method": "human",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
+    },
+    {
+      "language_code": "de",
+      "value": "Ei roh",
+      "kind": "synonym",
+      "method": "human",
+      "match_scope": "identity",
+      "review_status": "approved"
+    },
+    {
+      "language_code": "de",
+      "value": "Eier",
+      "kind": "synonym",
+      "method": "human",
+      "match_scope": "candidate_only",
+      "review_status": "candidate_only"
     }
   ],
   "category_id": "eggs"

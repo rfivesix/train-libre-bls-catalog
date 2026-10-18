@@ -1,22 +1,22 @@
 {
   "curation_owner": "Train Libre",
   "counts": {
-    "total": 223,
+    "total": 706,
     "by_language": {
-      "de": 34,
+      "de": 517,
       "en": 153,
       "fr": 12,
       "it": 12,
       "ja": 12
     },
     "by_review_status": {
-      "approved": 0,
-      "candidate_only": 223
+      "approved": 4,
+      "candidate_only": 702
     },
     "by_language_review_status": {
       "de": {
-        "approved": 0,
-        "candidate_only": 34
+        "approved": 4,
+        "candidate_only": 513
       },
       "en": {
         "approved": 0,
@@ -36,10 +36,10 @@
       }
     },
     "by_match_scope": {
-      "identity": 50,
-      "candidate_only": 173
+      "identity": 54,
+      "candidate_only": 652
     },
-    "cross_food_collision_groups": 30
+    "cross_food_collision_groups": 36
   },
   "cross_food_collisions": [
     {
@@ -55,6 +55,1668 @@
         {
           "bls_code": "B723100",
           "value": "Brezel",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "de",
+      "normalized": "brot",
+      "foods": [
+        {
+          "bls_code": "B101000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B106000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B106500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B106700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B106800",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B107300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B107900",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B111000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B111200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B111272",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B111300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B111400",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B111500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B111600",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B111700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B111800",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B121000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B121100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B121200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B121300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B121400",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B121500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B121600",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B122000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B131000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B221000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B226000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B226500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B226700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B226800",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B227300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B227700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B231000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B251000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B254000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B254072",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B255500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B255700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B256000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B256500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B256700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B257300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B257700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B259000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B271000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B275500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B275700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B276000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B276500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B276700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B276800",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B277300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B277700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B291000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B309000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B311000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B314000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B314072",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B314100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B314172",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B314200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B314272",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B401000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B406000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B406500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B406700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B406800",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B411000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B416000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B416500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B416700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B416800",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B421000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B426000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B426500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B426700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B426800",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B491000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B491100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B491200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B491300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B491400",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B511000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B511100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B511200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B515500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B516000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B516300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B516400",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B516500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B516700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B517700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B521000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B521100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B521200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B526000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B526300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B526400",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B526500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B526700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B531000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551400",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551600",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551800",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B561000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B561100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B561200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B561300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B561400",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B591000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B629000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A1000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A1100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A1200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A1300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A1400",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A1500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A1600",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A2000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A2100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A2200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A2300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A2400",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A2500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A2600",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A2700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A2800",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A2900",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A3000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A3100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A3200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A4000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A4100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A5000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A5100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A5200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B6A6000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B710500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B710600",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B710700",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B710800",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B710900",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B717000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B718000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B719000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B723000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B723100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B723200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B723300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B723400",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B723500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B723600",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B780500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B781200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B781300",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B781400",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B781500",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B781600",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B782100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B783012",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B821000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B822000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B881100",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B881200",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A1000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A2000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A3000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A4000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A5000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A6000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A7000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A8000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A8072",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A9000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8B1000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8B2000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8B3000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8B4000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8B5000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8B6000",
+          "value": "Brot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "de",
+      "normalized": "brötchen",
+      "foods": [
+        {
+          "bls_code": "B401000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B406000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B406500",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B406700",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B406800",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B411000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B416000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B416500",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B416700",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B416800",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B421000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B426000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B426500",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B426700",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B426800",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B491000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B491100",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B491200",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B491300",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B491400",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B511000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B511100",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B511200",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B515500",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B516000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B516300",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B516400",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B516500",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B516700",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B517700",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B521000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B521100",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B521200",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B526000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B526300",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B526400",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B526500",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B526700",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B531000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551100",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551200",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551300",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551400",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551500",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551600",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551700",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B551800",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B561000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B561100",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B561200",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B561300",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B561400",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B591000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B781300",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B881200",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A2000",
+          "value": "Brötchen",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "de",
+      "normalized": "ei",
+      "foods": [
+        {
+          "bls_code": "E101132",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E105182",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E106100",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E107122",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E111100",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E111132",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E111162",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E111182",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E111500",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E131100",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E131132",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E141100",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E141132",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E151100",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E151132",
+          "value": "Ei",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "de",
+      "normalized": "eier",
+      "foods": [
+        {
+          "bls_code": "E101132",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E105182",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E106100",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E107122",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E111100",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E111132",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E111162",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E111182",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E111500",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E131100",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E131132",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E141100",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E141132",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E151100",
+          "value": "Eier",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E151132",
+          "value": "Eier",
           "match_scope": "candidate_only",
           "review_status": "candidate_only"
         }
@@ -119,6 +1781,18 @@
       "normalized": "nudeln",
       "foods": [
         {
+          "bls_code": "C559000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "C559032",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
           "bls_code": "E401000",
           "value": "Nudeln",
           "match_scope": "candidate_only",
@@ -131,8 +1805,1136 @@
           "review_status": "candidate_only"
         },
         {
+          "bls_code": "E401062",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E401082",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E430062",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E430082",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E432000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E432032",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E438000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E438032",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E438062",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E438082",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E470000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E470032",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E470042",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E470082",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E470162",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E500032",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E500062",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E500082",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E510000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E530000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E530032",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E530062",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E530082",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E603000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E603022",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E603032",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E603062",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E603082",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E604300",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E604332",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E605332",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E609100",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E609132",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E609200",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E609232",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
           "bls_code": "E612000",
           "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E612032",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E612100",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E612132",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632032",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632100",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632132",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632200",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632232",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632300",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632332",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E811000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E811032",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E901000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E911000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H030400",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H030432",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X432142",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X659012",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X659112",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X700062",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X700212",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X700242",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X701142",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X702042",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X711242",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X711512",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740162",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740612",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740733",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740763",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740833",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740862",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740933",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740963",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X741033",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X741112",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X742123",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X742233",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X742423",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X744063",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X744133",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X744163",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X744233",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X744263",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X745023",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X746023",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X760533",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X761033",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A1000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A1010",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A1020",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A2000",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A2010",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A3020",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A3030",
+          "value": "Nudeln",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "de",
+      "normalized": "pasta",
+      "foods": [
+        {
+          "bls_code": "C559000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "C559032",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E401000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E401032",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E401062",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E401082",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E430062",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E430082",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E432000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E432032",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E438000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E438032",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E438062",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E438082",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E470000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E470032",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E470042",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E470082",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E470162",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E500032",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E500062",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E500082",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E510000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E530000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E530032",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E530062",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E530082",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E603000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E603022",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E603032",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E603062",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E603082",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E604300",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E604332",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E605332",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E609100",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E609132",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E609200",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E609232",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E612000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E612032",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E612100",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E612132",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632032",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632100",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632132",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632200",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632232",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632300",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E632332",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E811000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E811032",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E901000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "E911000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H030400",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "H030432",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X432142",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X659012",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X659112",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X700062",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X700212",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X700242",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X701142",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X702042",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X711242",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X711512",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740162",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740612",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740733",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740763",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740833",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740862",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740933",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X740963",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X741033",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X741112",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X742123",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X742233",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X742423",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X744063",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X744133",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X744163",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X744233",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X744263",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X745023",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X746023",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X760533",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X761033",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A1000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A1010",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A1020",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A2000",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A2010",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A3020",
+          "value": "Pasta",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "X7A3030",
+          "value": "Pasta",
           "match_scope": "candidate_only",
           "review_status": "candidate_only"
         }
@@ -163,6 +2965,84 @@
         {
           "bls_code": "H842600",
           "value": "Sojamilch",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        }
+      ]
+    },
+    {
+      "language_code": "de",
+      "normalized": "toastbrot",
+      "foods": [
+        {
+          "bls_code": "B111200",
+          "value": "Toastbrot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B111272",
+          "value": "Toastbrot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B254000",
+          "value": "Toastbrot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B254072",
+          "value": "Toastbrot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B314000",
+          "value": "Toastbrot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B314072",
+          "value": "Toastbrot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B314100",
+          "value": "Toastbrot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B314172",
+          "value": "Toastbrot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B314200",
+          "value": "Toastbrot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B314272",
+          "value": "Toastbrot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A8000",
+          "value": "Toastbrot",
+          "match_scope": "candidate_only",
+          "review_status": "candidate_only"
+        },
+        {
+          "bls_code": "B8A8072",
+          "value": "Toastbrot",
           "match_scope": "candidate_only",
           "review_status": "candidate_only"
         }
