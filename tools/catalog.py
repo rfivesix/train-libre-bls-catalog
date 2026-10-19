@@ -642,6 +642,99 @@ def build_source_db(version: str, *, force: bool) -> Path:
     return output
 
 
+STATIC_BLS_CAFFEINE: dict[str, float] = {
+    "N330000": 10.0,
+    "N331000": 10.0,
+    "N390100": 6.5,
+    "N340000": 0.0,
+    "N352000": 0.0,
+    "N410100": 40.0,
+    "N410200": 35.0,
+    "N410300": 35.0,
+    "N410400": 35.0,
+    "N410500": 35.0,
+    "N410600": 40.0,
+    "N410800": 35.0,
+    "N411100": 212.0,
+    "N416000": 10.0,
+    "N420100": 35.0,
+    "N420900": 3000.0,
+    "N491000": 20.0,
+    "N4A0000": 35.0,
+    "N4A1000": 35.0,
+    "N4A2000": 35.0,
+    "N414100": 0.0,
+    "N414200": 0.0,
+    "N415000": 0.0,
+    "N440100": 0.0,
+    "N440900": 0.0,
+    "N610100": 15.0,
+    "N611000": 35.0,
+    "N630000": 20.0,
+    "N630200": 18.0,
+    "N630300": 18.0,
+    "N630400": 18.0,
+    "N630500": 18.0,
+    "N630600": 20.0,
+    "N630700": 20.0,
+    "N670100": 0.0,
+    "N019000": 5.0,
+    "Y997043": 30.0,
+    "S220200": 10.0,
+}
+
+
+def resolve_caffeine_heuristic(name_de: str, name_en: str) -> float | None:
+    text = f"{name_de} {name_en}".lower()
+    if any(w in text for w in ["entkoffeiniert", "koffeinfrei", "decaffeinated", "decaf", "senza caffeina", "décaféiné"]):
+        return 0.0
+    if any(w in text for w in ["kaffeeersatz", "zichorienkaffee", "malzkaffee", "getreidekaffee", "chicory"]):
+        return 0.0
+    if "koffeinhaltig" in text or "caffeinated" in text:
+        return 10.0 if "cola" in text else 15.0
+    if any(w in text for w in ["energy drink", "energy-drink", "energydrink", "monster energy", "red bull"]):
+        return 32.0
+    if "espresso" in text:
+        return 212.0
+    if "ristretto" in text:
+        return 250.0
+    if "instantkaffeepulver" in text:
+        return 3000.0
+    if any(w in text for w in ["kaffee", "coffee"]):
+        if "koffeinreduziert" in text or "caffeine-reduced" in text:
+            return 10.0
+        if "eiskaffee" in text:
+            return 30.0
+        return 40.0
+    if any(w in text for w in ["mate-tee", "mate tee", "yerba mate", "club mate"]):
+        return 35.0
+    if (
+        "schwarztee" in text
+        or "schwarzer tee" in text
+        or "black tea" in text
+        or "earl grey" in text
+    ):
+        return 20.0
+    if (
+        "grüntee" in text
+        or "grüner tee" in text
+        or "green tea" in text
+        or "matcha" in text
+    ):
+        return 15.0
+    if (
+        "weißtee" in text
+        or "weißer tee" in text
+        or "white tea" in text
+    ):
+        return 10.0
+    if "eistee" in text or "iced tea" in text or "ice tea" in text:
+        return 5.0
+    if "cola" in text or "coke" in text:
+        return 10.0
+    return None
+
+
 def load_curation(version: str) -> tuple[dict[str, dict[str, Any]], dict[str, dict[str, Any]]]:
     source_codes = {record["bls_code"] for record in load_normalized_foods(version)}
     overlays: dict[str, dict[str, Any]] = {}
@@ -924,6 +1017,11 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
         db.execute("PRAGMA foreign_keys = ON")
         legacy = sqlite3.connect(LEGACY_DATABASE)
         try:
+            cur_legacy = legacy.cursor()
+            cur_legacy.execute(
+                "SELECT barcode, caffeine_mg_per_100g FROM products WHERE caffeine_mg_per_100g IS NOT NULL"
+            )
+            legacy_caffeine = {row[0]: row[1] for row in cur_legacy.fetchall()}
             legacy.backup(db)
         finally:
             legacy.close()
@@ -1031,6 +1129,13 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
         references = sorted({fact["reference"] for food in records for fact in food["nutrients"].values() if fact["reference"] is not None})
         origin_ids = {label: index for index, label in enumerate(origins, start=1)}
         reference_ids = {citation: index for index, citation in enumerate(references, start=1)}
+        caffeine_by_bls = dict(STATIC_BLS_CAFFEINE)
+        for item in legacy_mappings:
+            target = item.get("target_bls_code")
+            legacy_id = item.get("legacy_product_id")
+            if target and legacy_id in legacy_caffeine:
+                caffeine_by_bls[target] = legacy_caffeine[legacy_id]
+
         products = []
         source_meta = []
         aliases_to_insert = []
@@ -1064,6 +1169,10 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
                 return fact["value"]
 
             kcal, kj = value("ENERCC"), value("ENERCJ")
+            caff = caffeine_by_bls.get(code)
+            if caff is None:
+                caff = resolve_caffeine_heuristic(food["name_de"], food["name_en"])
+            is_fluid = 1 if category_id == "beverages" else (0 if category_id != "__unmapped__" else None)
             products.append(
                 (
                     product_id,
@@ -1083,12 +1192,12 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
                     value("NACL"),
                     value("NA"),
                     value("CA"),
+                    caff,
                     None,
                     None,
                     None,
                     None,
-                    None,
-                    None,
+                    is_fluid,
                     names["fr"],
                     category_names["fr"],
                     names["it"],
