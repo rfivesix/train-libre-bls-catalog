@@ -13,7 +13,9 @@
       "properties": {
         "fr": {"$ref": "#/$defs/translation"},
         "it": {"$ref": "#/$defs/translation"},
-        "ja": {"$ref": "#/$defs/translation"}
+        "ja": {"$ref": "#/$defs/translation"},
+        "es": {"$ref": "#/$defs/translation"},
+        "nl": {"$ref": "#/$defs/translation"}
       }
     },
     "aliases": {
@@ -23,7 +25,7 @@
         "additionalProperties": false,
         "required": ["language_code", "value", "kind", "method", "match_scope", "review_status"],
         "properties": {
-          "language_code": {"enum": ["de", "en", "fr", "it", "ja"]},
+          "language_code": {"enum": ["de", "en", "fr", "it", "ja", "es", "nl"]},
           "value": {"type": "string", "minLength": 1},
           "kind": {"enum": ["synonym", "spelling", "transliteration", "regional"]},
           "method": {"enum": ["source", "human", "machine", "machine-reviewed"]},
@@ -44,7 +46,7 @@
       "required": ["grams", "labels", "provenance"],
       "properties": {
         "grams": {"type": "number", "exclusiveMinimum": 0},
-        "labels": {"type": "object", "additionalProperties": false, "required": ["de", "en", "fr", "it", "ja"], "properties": {"de": {"type": "string", "minLength": 1}, "en": {"type": "string", "minLength": 1}, "fr": {"type": "string", "minLength": 1}, "it": {"type": "string", "minLength": 1}, "ja": {"type": "string", "minLength": 1}}},
+        "labels": {"type": "object", "additionalProperties": false, "required": ["de", "en", "fr", "it", "ja", "es", "nl"], "properties": {"de": {"type": "string", "minLength": 1}, "en": {"type": "string", "minLength": 1}, "fr": {"type": "string", "minLength": 1}, "it": {"type": "string", "minLength": 1}, "ja": {"type": "string", "minLength": 1}, "es": {"type": "string", "minLength": 1}, "nl": {"type": "string", "minLength": 1}}},
         "provenance": {"type": "object", "additionalProperties": false, "required": ["kind", "method", "note"], "properties": {"kind": {"enum": ["source-backed", "train-libre-estimate"]}, "method": {"enum": ["reference", "editorial-estimate"]}, "note": {"type": "string", "minLength": 1}}}
       }
     }

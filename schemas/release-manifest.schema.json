@@ -21,6 +21,8 @@
     "download_size_bytes",
     "expected_food_count",
     "food_nutrient_fact_count",
+    "food_alias_count",
+    "food_translation_count",
     "legacy_mapping_count",
     "license",
     "source",
@@ -43,6 +45,8 @@
     "download_size_bytes": { "type": "integer", "minimum": 1 },
     "expected_food_count": { "type": "integer", "minimum": 1 },
     "food_nutrient_fact_count": { "type": "integer", "minimum": 0 },
+    "food_alias_count": { "type": "integer", "minimum": 0 },
+    "food_translation_count": { "type": "integer", "minimum": 0 },
     "legacy_mapping_count": { "type": "integer", "minimum": 0 },
     "license": {
       "type": "object",

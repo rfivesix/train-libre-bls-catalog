@@ -12,6 +12,14 @@
     "ja": {
       "value": "生のりんご",
       "method": "machine"
+    },
+    "es": {
+      "value": "Manzana, cruda",
+      "method": "human"
+    },
+    "nl": {
+      "value": "Appel, rauw",
+      "method": "human"
     }
   },
   "aliases": [
@@ -64,7 +72,9 @@
       "en": "1 medium apple",
       "fr": "1 pomme moyenne",
       "it": "1 mela media",
-      "ja": "中サイズのりんご1個"
+      "ja": "中サイズのりんご1個",
+      "es": "1 manzana mediana",
+      "nl": "1 middelgrote appel"
     },
     "provenance": {
       "kind": "train-libre-estimate",

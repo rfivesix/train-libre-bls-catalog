@@ -61,6 +61,7 @@ def validate_database(path: Path, report_path: Path) -> dict[str, Any]:
         ).fetchone()[0]
         foods = db.execute("SELECT COUNT(*) FROM food_nutrients").fetchone()[0]
         aliases = db.execute("SELECT COUNT(*) FROM food_aliases").fetchone()[0]
+        translations = db.execute("SELECT COUNT(*) FROM food_translations").fetchone()[0]
         metadata = dict(db.execute("SELECT key, value FROM metadata"))
         db.close()
     except sqlite3.Error as exc:
@@ -75,6 +76,8 @@ def validate_database(path: Path, report_path: Path) -> dict[str, Any]:
         or metadata.get("curated_alias_count") != str(aliases)
     ):
         raise ReleaseError("Alias count or Train Libre curation metadata is inconsistent")
+    if translations != counts.get("products", 0) * 2 or translations != counts.get("food_translations"):
+        raise ReleaseError("Spanish and Dutch food translation counts are incomplete")
     if pending:
         raise ReleaseError(f"Catalog still has {pending} pending legacy mappings")
     return report
@@ -139,6 +142,7 @@ def package(
             "expected_food_count": report["counts"]["products"],
             "food_nutrient_fact_count": report["counts"]["nutrient_facts"],
             "food_alias_count": report["aliases"]["total"],
+            "food_translation_count": report["counts"]["food_translations"],
             "legacy_mapping_count": report["counts"]["legacy_mappings"],
             "license": {
                 "id": "CC-BY-4.0",
@@ -174,8 +178,8 @@ def main() -> int:
     parser.add_argument("--version", required=True, help="Immutable release version, e.g. 4.0.0")
     parser.add_argument("--catalog-version", default="4.0", help="Upstream catalog version")
     parser.add_argument("--channel", default="stable", choices=sorted(CHANNELS))
-    parser.add_argument("--schema-version", type=int, default=2)
-    parser.add_argument("--min-app-schema-version", type=int, default=2)
+    parser.add_argument("--schema-version", type=int, default=3)
+    parser.add_argument("--min-app-schema-version", type=int, default=3)
     parser.add_argument("--database", type=Path, default=DEFAULT_DB)
     parser.add_argument("--build-report", type=Path)
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT)

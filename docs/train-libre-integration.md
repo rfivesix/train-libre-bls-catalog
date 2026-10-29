@@ -42,6 +42,8 @@ Generic, unbranded food queries should search and rank the curated BLS base-food
 
 `food_aliases` is a Train Libre curation table, separate from BLS source records and nutrient facts. Catalog schema 2 adds normalized alias keys, `match_scope` (`identity` or `candidate_only`), and `review_status` (`approved` or `candidate_only`). The app copies these rows into a replaceable local index when importing the catalog. Candidate-only or unreviewed aliases retrieve BLS possibilities but never count as exact identity evidence. Cross-food collisions stay available for ranking or clarification.
 
+Spanish (`es`) and Dutch (`nl`) food names and category labels are stored in the additive `food_translations` table. Search should index these localized names alongside `food_aliases`; they are deliberately not added as duplicate aliases. This preserves the legacy `products` schema while making both names and reviewed aliases available to localized search.
+
 ## Release requirements
 
 - Import the complete `food_nutrients` table as part of the app's catalog migration.

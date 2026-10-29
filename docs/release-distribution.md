@@ -14,7 +14,7 @@ Each release contains these files:
 - `catalog_manifest.json`: content version, channel, schema compatibility, checksums, byte sizes, record counts, source attribution, license, and modification statement.
 - `THIRD_PARTY_NOTICES.md`: required attribution and license notice.
 
-The manifest distinguishes `download_sha256` (compressed bytes) from `db_sha256` (decompressed SQLite bytes). A client must verify both. Do not overwrite an immutable release asset; publish a new version and update the stable channel pointer instead.
+The manifest distinguishes `download_sha256` (compressed bytes) from `db_sha256` (decompressed SQLite bytes). A client must verify both. Schema 3 adds `food_translations` for Spanish and Dutch food/category names and reports `food_translation_count`; clients must support schema 3 before consuming this release. Do not overwrite an immutable release asset; publish a new version and update the stable channel pointer instead.
 
 ## Build a release package
 

@@ -26,8 +26,8 @@ LICENSE_ID = "CC-BY-4.0"
 LICENSE_URL = "https://creativecommons.org/licenses/by/4.0/"
 PUBLISHER = "Max Rubner-Institut"
 DOI = "10.25826/Data20251217-134202-0"
-SUPPORTED_LOCALES = ("de", "en", "fr", "it", "ja")
-TRANSLATED_LOCALES = ("fr", "it", "ja")
+SUPPORTED_LOCALES = ("de", "en", "fr", "it", "ja", "es", "nl")
+TRANSLATED_LOCALES = ("fr", "it", "ja", "es", "nl")
 FOOD_CODE_RE = re.compile(r"^[A-Z][A-Z0-9]{6}$")
 COMPONENT_CODE_RE = re.compile(r"^[A-Z0-9:]+$")
 
@@ -1081,11 +1081,19 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
                 review_status TEXT NOT NULL CHECK (review_status IN ('approved', 'candidate_only')),
                 PRIMARY KEY (barcode, language_code, alias)
             );
+            CREATE TABLE food_translations (
+                barcode TEXT NOT NULL REFERENCES products(barcode),
+                language_code TEXT NOT NULL CHECK (language_code IN ('es', 'nl')),
+                name TEXT NOT NULL,
+                category_name TEXT NOT NULL,
+                PRIMARY KEY (barcode, language_code)
+            );
+            CREATE INDEX food_translations_language_name_idx ON food_translations(language_code, name);
             CREATE TABLE food_default_portions (
                 barcode TEXT PRIMARY KEY REFERENCES products(barcode),
                 mass_grams REAL NOT NULL CHECK (mass_grams > 0),
                 label_de TEXT NOT NULL, label_en TEXT NOT NULL, label_fr TEXT NOT NULL,
-                label_it TEXT NOT NULL, label_ja TEXT NOT NULL,
+                label_it TEXT NOT NULL, label_ja TEXT NOT NULL, label_es TEXT NOT NULL, label_nl TEXT NOT NULL,
                 provenance_kind TEXT NOT NULL CHECK (provenance_kind IN ('source-backed', 'train-libre-estimate')),
                 provenance_method TEXT NOT NULL,
                 provenance_note TEXT NOT NULL
@@ -1139,6 +1147,7 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
         products = []
         source_meta = []
         aliases_to_insert = []
+        translations_to_insert = []
         portions_to_insert = []
         all_nutrients = []
         for food in records:
@@ -1153,6 +1162,8 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
                 "fr": "Non classé",
                 "it": "Non classificato",
                 "ja": "未分類",
+                "es": "Sin clasificar",
+                "nl": "Niet ingedeeld",
             }
             names = {
                 "de": food["name_de"],
@@ -1207,6 +1218,10 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
                 )
             )
             source_meta.append((product_id, "BLS", code, version, LICENSE_ID, DOI, food["note"]))
+            translations_to_insert.extend(
+                (product_id, locale, names[locale], category_names[locale])
+                for locale in (("es", "nl") if all(names.get(x) for x in ("es", "nl")) else ())
+            )
             aliases_to_insert.extend(
                 (product_id, alias["language_code"], alias["value"], normalize_alias(alias["value"]), alias["kind"], alias["method"], alias["match_scope"], alias["review_status"])
                 for alias in overlay.get("aliases", [])
@@ -1231,7 +1246,8 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
         db.executemany("INSERT INTO products VALUES (" + ",".join("?" for _ in range(29)) + ")", products)
         db.executemany("INSERT INTO food_source_metadata VALUES (?, ?, ?, ?, ?, ?, ?)", source_meta)
         db.executemany("INSERT INTO food_aliases VALUES (?, ?, ?, ?, ?, ?, ?, ?)", aliases_to_insert)
-        db.executemany("INSERT INTO food_default_portions VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", portions_to_insert)
+        db.executemany("INSERT INTO food_translations VALUES (?, ?, ?, ?)", translations_to_insert)
+        db.executemany("INSERT INTO food_default_portions VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", portions_to_insert)
         db.executemany(
             "INSERT INTO legacy_food_mappings VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
             [
@@ -1278,7 +1294,7 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
             "source_license": LICENSE_ID,
             "curated_alias_owner": "Train Libre",
             "curated_alias_count": str(len(aliases_to_insert)),
-            "schema_version": "2",
+            "schema_version": "3",
             "tool_version": TOOL_VERSION,
             "source_manifest_sha256": hashlib.sha256(json_bytes(source_manifest)).hexdigest(),
             "build_mode": "preview" if preview else "release-candidate",
@@ -1300,6 +1316,7 @@ def build_app(version: str, output: Path, *, preview: bool, force: bool) -> Path
             "products": actual_products,
             "categories": db.execute("SELECT COUNT(*) FROM categories").fetchone()[0],
             "nutrient_facts": actual_nutrients,
+            "food_translations": db.execute("SELECT COUNT(*) FROM food_translations").fetchone()[0],
             "legacy_mappings": db.execute("SELECT COUNT(*) FROM legacy_food_mappings").fetchone()[0],
         }
     except Exception:

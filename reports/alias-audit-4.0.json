@@ -7,7 +7,9 @@
       "en": 153,
       "fr": 12,
       "it": 12,
-      "ja": 12
+      "ja": 12,
+      "es": 0,
+      "nl": 0
     },
     "by_review_status": {
       "approved": 4,
@@ -33,6 +35,14 @@
       "ja": {
         "approved": 0,
         "candidate_only": 12
+      },
+      "es": {
+        "approved": 0,
+        "candidate_only": 0
+      },
+      "nl": {
+        "approved": 0,
+        "candidate_only": 0
       }
     },
     "by_match_scope": {

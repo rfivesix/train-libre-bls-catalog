@@ -12,6 +12,14 @@
     "ja": {
       "value": "全脂乳（脂肪分3.5%、低温殺菌）",
       "method": "machine"
+    },
+    "es": {
+      "value": "Leche entera, 3,5 % de grasa, fresca, pasteurizada",
+      "method": "human"
+    },
+    "nl": {
+      "value": "Volle melk, 3,5 % vet, vers, gepasteuriseerd",
+      "method": "human"
     }
   },
   "aliases": [
@@ -40,7 +48,9 @@
       "en": "1 glass (200 ml)",
       "fr": "1 verre (200 ml)",
       "it": "1 bicchiere (200 ml)",
-      "ja": "コップ1杯（200 ml）"
+      "ja": "コップ1杯（200 ml）",
+      "es": "1 vaso (200 ml)",
+      "nl": "1 glas (200 ml)"
     },
     "provenance": {
       "kind": "train-libre-estimate",

@@ -12,6 +12,14 @@
     "ja": {
       "value": "バナナ（生）",
       "method": "machine"
+    },
+    "es": {
+      "value": "plátano, crudo",
+      "method": "human"
+    },
+    "nl": {
+      "value": "banaan, rauw",
+      "method": "human"
     }
   },
   "aliases": [
@@ -72,7 +80,9 @@
       "en": "1 medium banana",
       "fr": "1 banane moyenne",
       "it": "1 banana media",
-      "ja": "中サイズのバナナ1本"
+      "ja": "中サイズのバナナ1本",
+      "es": "1 plátano mediano",
+      "nl": "1 middelgrote banaan"
     },
     "provenance": {
       "kind": "train-libre-estimate",
